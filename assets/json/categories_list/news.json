@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Euronews en Español",
-    "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
-    "url": "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CNN International Europe",
     "path_name": "f807027c8c54035826d99c6be31e74b8",
     "url": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
@@ -1143,6 +1134,15 @@
     }
   },
   {
+    "name": "Thanthi TV",
+    "path_name": "f821111c29c5f3a338361471d9931d47",
+    "url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Asianet News Tamil",
     "path_name": "efb9f3e9968cb3ed93db2ea06ceac1dd",
     "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
@@ -1164,6 +1164,15 @@
     "name": "iNEWS",
     "path_name": "c38217ab979c3cc5145d71c88720b220",
     "url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "AlGhadeer",
+    "path_name": "d063b5bc6972e928fdddde880045ccd8",
+    "url": "https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1683,6 +1692,24 @@
     }
   },
   {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WPVI-TV News",
+    "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
+    "url": "https://api.abcotvs.com/v3/wpvi/m3u8/url?id=531099&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -1713,6 +1740,15 @@
     "name": "CBC News (XUMO)",
     "path_name": "cd6c7563f95871409f4dabf8e29a3ba4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "OAN Encore",
+    "path_name": "658f21cff54e1284be9609028ffed0c6",
+    "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

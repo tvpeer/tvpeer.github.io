@@ -207,15 +207,6 @@
     }
   },
   {
-    "name": "TVRI Sport HD",
-    "path_name": "285e7eb931528c79ada2370d1cc8676c",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "DD Sports",
     "path_name": "a7321dfa1a9e1eeb966a4be1cc4bc847",
     "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
@@ -390,6 +381,15 @@
     "name": "San Marino RTV Sport",
     "path_name": "f6d9fa85971fab07955639d318b704bf",
     "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Sports TV",
+    "path_name": "d5e482129a9a421f7efaa81d8837b6cd",
+    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -639,6 +639,15 @@
     }
   },
   {
+    "name": "TVS Boxing",
+    "path_name": "3abeb025590120321aaecc074795d073",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "TVS Classic Sports",
     "path_name": "ee4769d822385415c79e1da36ca77a87",
     "url": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8",
@@ -714,6 +723,15 @@
     "name": "Captital OTB Betting",
     "path_name": "bb8b4370de69a86ca858eb205f883983",
     "url": "https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "MavTV",
+    "path_name": "91532782f64a219700cfd41083876ef3",
+    "url": "https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
