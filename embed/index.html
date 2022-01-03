@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>tvpeer.github.io</title>
+      <link rel="shortcut icon" href="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg" type="image/x-icon" />
+      <link rel="apple-touch-icon" href="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg">
+      <script src="//cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script> <script src="//cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
+      <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/video.js/7.6.0/alt/video-js-cdn.min.css" integrity="sha512-DQ/dZnR6SHvFfRHTI8Pukg3BFUkZEbR8cOeNi9tUYrNT2B4NB0kUb+gNb9TVHt6cBlK+LlUH27LAh6NGEzGUBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <script src="//cdnjs.cloudflare.com/ajax/libs/video.js/7.6.0/video.min.js" integrity="sha512-703IxS8B6MI/9Q8Y34Cllai9YEk1zU4sIkoMBLwBf41c1pi5xYVH+NZRJcnMef+MeyeKoNLW6h3vlNtxnw8T2w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-G6KSXS2FDY"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         
+         gtag('config', 'G-G6KSXS2FDY');
+      </script>
+      <style>     body{
+         background-color:black;
+         }
+         #video{
+         position: absolute;
+         top: 0px;
+         right: 0px;
+         bottom: 0px;
+         left: 0px;
+         margin: auto;
+         max-height: 100%;
+         max-width: 100%;
+         } 
+      </style>
+   </head>
+   <body>
+      <video id="video" style="width: 100%; height: 100%;" class="video-js vjs-default-skin" poster="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg" controls autoplay></video>
+      <script src="/assets/js/config.js"></script> 
+   </body>
+</html>

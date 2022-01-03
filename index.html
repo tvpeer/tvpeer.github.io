@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top" lang="en-US">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <link rel="preconnect" href="//maxcdn.bootstrapcdn.com">
+      <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+      <link rel="dns-prefetch" href="//fonts.googleapis.com">
+      <link rel="dns-prefetch" href="//tvpeer.github.io">
+      <link rel='stylesheet' href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' crossorigin="anonymous">
+      <link rel="stylesheet" href="//tvpeer.github.io/assets/css/main.css">
+      <meta name="description" content="P2P IPTV.">
+      <title>TVPEER | P2P IPTV</title>
+      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+      <link rel="canonical" href="//tvpeer.github.io" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content="TVPEER | P2P IPTV" />
+      <meta property="og:description" content="Peer to Peer IPTV" />
+      <meta property="og:url" content="//tvpeer.github.io" />
+      <meta property="og:site_name" content="TVPEER | P2P IPTV" />
+      <meta property="article:section" content="home" />
+      <meta property="og:updated_time" content="2021-11-01T14:03:26+00:00" />
+      <meta property="og:image" content="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg" />
+      <meta property="og:image:secure_url" content="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg" />
+      <meta property="og:image:width" content="750" />
+      <meta property="og:image:height" content="500" />
+      <meta property="og:image:alt" content="TVPEER | P2P IPTV" />
+      <meta property="og:image:type" content="image/jpeg" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="TVPEER | P2P IPTV" />
+      <meta name="twitter:description" content="P2P IPTV" />
+      <meta name="twitter:image" content="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg" />
+      <style>.main-header .title{text-align:center}.container{padding:0 15px;margin:0 auto}@media (min-width: 576px){.container{max-width:540px}}@media (min-width: 768px){.container{max-width:720px}}@media (min-width: 992px){.container{max-width:960px}}@media (min-width: 1200px){.container{max-width:1140px}}#main-view *,::after,::before{box-sizing:border-box}#main-view .wrapper{display:flex;flex-wrap:wrap}#main-view .wrapper .column-1,#main-view .wrapper .column-2{width:100%}@media (min-width: 768px){#main-view .wrapper .column-1{flex:0 0 66.666667%;max-width:66.666667%;padding-right:30px}#main-view .wrapper .column-2{flex:0 0 33.333333%;max-width:33.333333%}}#video{width:100%}.embed-responsive{position:relative;display:block;width:100%;padding:0;overflow:hidden}#main-view .embed-responsive::before{display:block;content:""}#main-view .embed-responsive .embed-responsive-item{position:absolute;top:0;bottom:0;left:0;width:100%;height:100%;border:0}#main-view .embed-responsive-16by9::before{padding-top:56.25%}#main-view #level{margin-top:2px;width:auto;float:right}#graph{max-width:100%;overflow:hidden;margin:3em auto;border:1px solid #eee}#chart_container{position:relative;margin:3em auto;padding-left:20px;max-width:100%}#y_axis{position:absolute;top:0;width:40px;left:-20px}#y_axis > svg{overflow:visible}#legend{position:absolute;top:20px;left:40px;z-index:1}#legend-totals{position:absolute;bottom:20px;left:40px;z-index:1}#main-view .hide{display:none}
+      </style>
+      <script async src="//cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script>
+      <script async src="//tvpeer.github.io/assets/js/graph.js"></script>
+      <script>
+         const URL_P2P_MEDIA_LOADER_HLSJS =
+             "//cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js";
+      </script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+      <script async src="//cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.js"></script>
+      <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.css" />
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-G6KSXS2FDY"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         
+         gtag('config', 'G-G6KSXS2FDY');
+      </script>
+   </head>
+   <body>
+      <br>
+      <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+         <div class="navbar-brand">
+            <a class="navbar-item" href="//tvpeer.github.io">
+            <img src="//tvpeer.github.io/assets/image/icon/tvpeer_logo.svg" width="112" height="28">
+            </a>
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            </a>
+         </div>
+         <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+               <a class="navbar-item" href="//tvpeer.github.io">
+               Home
+               </a>
+               <a class="navbar-item" href="//tvpeer.github.io/doc/">
+               Documentation
+               </a>
+               <div class="navbar-item has-dropdown is-hoverable">
+                  <a class="navbar-link">
+                  IPTV
+                  </a>
+                  <div class="navbar-dropdown">
+                     <a class="navbar-item" href="//tvpeer.github.io/iptv/country/">
+                     Country List
+                     </a>
+                     <a class="navbar-item" href="//tvpeer.github.io/iptv/categories/">
+                     By Categories
+                     </a>
+                     <a class="navbar-item" href="//tvpeer.github.io/iptv/channel/">
+                     By Channel
+                     </a>
+                     <a class="navbar-item" href="//tvpeer.github.io/iptv/costum-url/">
+                     Costum URL
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </nav>
+      <div class="container is-fluid">
+         <!--
+            CONTENT HERE
+            -->
+         <div class="columns lazy">
+            <div class="column">
+               <header class="main-header">
+                  <h1 class="title">How does it work</h1>
+                  <div class="content is-medium">
+                     <strong>
+                        <p><a href="//tvpeer.github.io/">tvpeer.github.io</a> uses peer to peer technology to stream IPTV media sources, minimizing delays on IPTV media sources due to their sharing of resources on the same media. You can see how it works by clicking on the video below, and creating a new peer.</p>
+                     </strong>
+                  </div>
+                  <hr />
+               </header>
+               <div id="main-view">
+                  <div id="error-webrtc-data-channels" class="hide">
+                     WebRTC Data Channels API is not supported by your browser. P2P disabled.<br />
+                     Read more at
+                     <a href="//iswebrtcreadyyet.com/legacy.html" target="_blank">Is WebRTC ready yet?</a>.
+                     <hr />
+                  </div>
+                  <div id="error-hls-js" class="hide">
+                     Your browser doesn't support hls.js engine. P2P disabled.<br />
+                     Read more at
+                     <a href="//en.wikipedia.org/wiki/Media_Source_Extensions" target="_blank"
+                        >Media Source Extensions</a
+                        >.
+                     <hr />
+                  </div>
+                  <div id="error-shakaplayer" class="hide">
+                     Your browser doesn't support Shaka Player engine. P2P disabled.<br />
+                     Read more at
+                     <a href="//en.wikipedia.org/wiki/Media_Source_Extensions" target="_blank"
+                        >Media Source Extensions</a
+                        >.
+                     <hr />
+                  </div>
+                  <div class="wrapper">
+                     <div class="column-1">
+                        <div id="video_container"></div>
+                        <div id="chart_container">
+                           <div id="legend"></div>
+                           <div id="legend-totals"></div>
+                           <div id="y_axis"></div>
+                           <div id="chart"></div>
+                        </div>
+                     </div>
+                     <div class="column-2">
+                        <div id="graph"></div>
+                        <h3>Trackers:</h3>
+                        <div id="announce"></div>
+                        <hr>
+                        <a href="//tvpeer.github.io" class="button is-primary is-large is-fullwidth" target="_blank" style="color:black">Create New Peer</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <header class="main-header">
+            <h1 class="title">Browse IPTV</h1>
+            <hr>
+         </header>
+         <div class="columns is-desktop">
+            <div class="column">      
+               <a href="http://tvpeer.github.io/iptv/country/" class="button is-primary is-large is-fullwidth" style="color:black">By Country</a>
+            </div>
+            <div class="column">      
+               <a href="http://tvpeer.github.io/iptv/categories/" class="button is-primary is-large is-fullwidth" style="color:black">By Categories</a>
+            </div>
+            <div class="column">      
+               <a href="http://tvpeer.github.io/iptv/channel/" class="button is-primary is-large is-fullwidth" style="color:black">By Channel Name</a>
+            </div>
+            <div class="column">      
+               <a href="http://tvpeer.github.io/iptv/costum-url/" class="button is-primary is-large is-fullwidth" style="color:black">Costum URls</a>
+            </div>
+         </div>
+         <!--
+            END CONTENT HERE
+            -->
+      </div>
+      <footer class="footer is-fixed-bottom">
+         <div class="content has-text-centered">
+            <strong>
+               <p>
+                  tvpeer.github.io
+               </p>
+            </strong>
+         </div>
+      </footer>
+      <script src="/assets/js/demo_player.js"></script>
+      <script>
+         document.addEventListener("DOMContentLoaded",()=>{const e=Array.prototype.slice.call(document.querySelectorAll(".navbar-burger"),0);e.length>0&&e.forEach(e=>{e.addEventListener("click",()=>{const t=e.dataset.target,a=document.getElementById(t);e.classList.toggle("is-active"),a.classList.toggle("is-active")})})});
+      </script>
+   </body>
+</html>
