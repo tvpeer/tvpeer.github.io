@@ -1,23 +1,5 @@
 [
   {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBSN Los Angeles CA",
     "path_name": "120e5eeb3805308c40c90af78f5f5474",
     "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -1053,15 +1035,6 @@
     }
   },
   {
-    "name": "Real News Kerala",
-    "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Time TV",
     "path_name": "f722d04ac7d9c4fef3be1cc8dcb297b5",
     "url": "https://cloudflare-cdn301.ottpro.in/live/timetv/playlist.m3u8",
@@ -1164,15 +1137,6 @@
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Thanthi TV",
-    "path_name": "f821111c29c5f3a338361471d9931d47",
-    "url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1299,15 +1263,6 @@
     "name": "TSN Tele Sondrio News",
     "path_name": "c1039a7c3f03e10e4207890b5743456c",
     "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "TV7 News",
-    "path_name": "6fc60f031c4b5067cc206ab6d3a79419",
-    "url": "http://217.61.26.46:8080/hls/news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1665,6 +1620,15 @@
     }
   },
   {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TGRT Haber",
     "path_name": "b82f4709898448ff34331b73459d0bad",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
@@ -1728,18 +1692,18 @@
     }
   },
   {
-    "name": "WLS TV News",
-    "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
-    "url": "https://api.abcotvs.com/v3/wls/m3u8/url?id=567113&key=vuemix",
+    "name": "Redseat The First",
+    "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
+    "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "Redseat The First",
-    "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
-    "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

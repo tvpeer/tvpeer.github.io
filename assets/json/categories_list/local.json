@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Rede CNT (Curitiba)",
+    "path_name": "b4662f3ad289b560564ebaad0be82a2b",
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Rede CNT (São Paulo)",
     "path_name": "98d8e66351ab55fdb893e09404b32a62",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
@@ -93,6 +102,15 @@
     "name": "TV Interlagos",
     "path_name": "83a23431a9db5d994fc27bdac37970d4",
     "url": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV UniSantos",
+    "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
+    "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -432,6 +450,15 @@
     }
   },
   {
+    "name": "Elion Canal Digital (Chillan)",
+    "path_name": "1bc3940c65e017205cfe20a5794cedfa",
+    "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Estación TV (Chillán)",
     "path_name": "c3d06dc3c13e4689c1fa65825ac1536d",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
@@ -462,15 +489,6 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "LTV (Renaico)",
-    "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
-    "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -612,6 +630,15 @@
     }
   },
   {
+    "name": "Ziza TV (Chiguayante)",
+    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
+    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
@@ -633,6 +660,15 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -999,54 +1035,9 @@
     }
   },
   {
-    "name": "TVRI Gorontalo",
-    "path_name": "e4ded4dcd3484e037478fe3a5a002708",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Jambi",
-    "path_name": "e2c7c68896dcd0bda477beea509955dd",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Kalimantan Barat",
-    "path_name": "055bc7bc100bb244df5b093a84753a0f",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Kalimantan Selatan",
     "path_name": "0b05af1c8058adfbfa50232a66aec311",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Kalimantan Tengah",
-    "path_name": "b2d6907600ac4a83f7c047a6244b991e",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Kalimantan Timur",
-    "path_name": "fb7260bffd5156930ade2499ac026207",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1089,33 +1080,6 @@
     }
   },
   {
-    "name": "TVRI Papua",
-    "path_name": "ae41197bb44aa0b860c73d8c611974ca",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Riau",
-    "path_name": "0553048d1adc435c63fb4f447a14841b",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Sulawesi Barat",
-    "path_name": "5dba6baaf2bdc208f5dcbd031f0e61c8",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Sulawesi Selatan",
     "path_name": "2387715f55d7abab95290d2d3069883a",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8",
@@ -1125,36 +1089,9 @@
     }
   },
   {
-    "name": "TVRI Sulawesi Tengah",
-    "path_name": "de8d81faf7b02d435b6af227c4ea5a89",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Sulawesi Tenggara",
     "path_name": "1f1fc03eb6ad64d330f712fc97825a6c",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Sulawesi Utara",
-    "path_name": "0a74756a24f8accdc9c04be8045badec",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Sumatera Barat",
-    "path_name": "541f59c33e162044e0bad508bc4f33a9",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1191,15 +1128,6 @@
     "name": "TVRI Jawa Timur",
     "path_name": "ef7fa88398b52590c56fdbb2920dc5e0",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI World",
-    "path_name": "858fd8e01c3f7a47b5ae4a3d404c079f",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1530,6 +1458,15 @@
     }
   },
   {
+    "name": "Kachorro (Super TV | Amazonas)",
+    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
+    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://mediastreamm.com:3194/live/proyectatvlive.m3u8",
@@ -1569,15 +1506,6 @@
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Bella Abanquina TV (Apurimac)",
-    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
-    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1749,15 +1677,6 @@
     "name": "OK TeVe (Yurimaguas)",
     "path_name": "13852856127ecf9cbcbc3455478bdb4d",
     "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Oasis RTV (Trujillo)",
-    "path_name": "c1e586de24db4e0d42c50a70938717f9",
-    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1953,15 +1872,6 @@
     }
   },
   {
-    "name": "Diario Hechicera (Tumbes)",
-    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
-    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2052,6 +1962,15 @@
     }
   },
   {
+    "name": "Primavera 15 Radiotelevisión (Moquegua)",
+    "path_name": "232c1b378a773506b3584703aa567ca9",
+    "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
@@ -2070,18 +1989,18 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "name": "Región TV (Callao)",
+    "path_name": "da4454567c8a0a234a89f94e655be1f4",
+    "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Región TV (Callao)",
-    "path_name": "da4454567c8a0a234a89f94e655be1f4",
-    "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
+    "name": "RN Televisión (Yurimaguas)",
+    "path_name": "c3a9aef0b0ccd9bd6b1af7fb478425cf",
+    "url": "https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2109,15 +2028,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2370,6 +2280,15 @@
     "name": "ОТВ (Одинцово)",
     "path_name": "99405b97c1973b91465c7891ebdccbd0",
     "url": "http://185.18.4.16/live/3m/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ТВР24 (Сергиев Посад)",
+    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
+    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3687,24 +3606,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {

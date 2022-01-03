@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Cultura Online",
-    "path_name": "fe5749fa2b7415d47f14f32f2ceba561",
-    "url": "https://v2.tustreaming.cl/culturaonline/index.m3u8",
-    "categories": {
-      "name": "Culture",
-      "slug": "culture"
-    }
-  },
-  {
     "name": "Cultura 24",
     "path_name": "92c45de5e4d473511e0bd0079edaa94c",
     "url": "https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8",
@@ -66,6 +57,15 @@
     "name": "The Bob Ross Channel",
     "path_name": "2972395cedbabd964dd9dc12686c9b98",
     "url": "https://bobross-xumous-ingest.cinedigm.com/master.m3u8",
+    "categories": {
+      "name": "Culture",
+      "slug": "culture"
+    }
+  },
+  {
+    "name": "Fox Soul",
+    "path_name": "70ff803c71d0f347b6c2957933ca5920",
+    "url": "http://fox-foxsoul-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Culture",
       "slug": "culture"
