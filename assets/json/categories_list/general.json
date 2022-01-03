@@ -1,14 +1,5 @@
 [
   {
-    "name": "TV BRICS English",
-    "path_name": "55acd22b2f3edf6872e94a43db527a8b",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "NTV Europe",
     "path_name": "4f7f0fadb3a322423edd702d8292d1b6",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8",
@@ -183,6 +174,15 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ORF 1",
+    "path_name": "4e699a45782c05b969fb41fab13dec1e",
+    "url": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -477,6 +477,15 @@
     }
   },
   {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "MKK Web TV",
     "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
     "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
@@ -594,15 +603,6 @@
     }
   },
   {
-    "name": "TV BRICS Portuguese",
-    "path_name": "9590801d96eec46c25414c97d033376b",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Perú Channel",
     "path_name": "d5dc1f720a95902aa155206f09ed8f86",
     "url": "https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8",
@@ -714,15 +714,6 @@
     "name": "Boss Brothers TV",
     "path_name": "3a7f7fe4a8f8c4440cecad60d1a97acd",
     "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TV BRICS Chinese",
-    "path_name": "d26fe2376236a1d11ea1c600c85e208d",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1287,15 +1278,6 @@
     }
   },
   {
-    "name": "TV Palmeras",
-    "path_name": "ce8b1308fc4add4557a60169a6ce2642",
-    "url": "https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "UCI",
     "path_name": "a3881d4bf85941dc591f3b39c30274b8",
     "url": "https://mediastreamm.com:3449/live/mlecaroslive.m3u8",
@@ -1371,15 +1353,6 @@
     "name": "Ajyal TV",
     "path_name": "3d6635da4ad3983076dffc58715b7713",
     "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Radio Clube TV",
-    "path_name": "e36aa35bbcc59aa96b71a7a77d8f3add",
-    "url": "https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

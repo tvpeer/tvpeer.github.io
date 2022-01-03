@@ -1,5 +1,23 @@
 [
   {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CBSN Los Angeles CA",
     "path_name": "120e5eeb3805308c40c90af78f5f5474",
     "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -1188,6 +1206,15 @@
     }
   },
   {
+    "name": "AlGhadeer",
+    "path_name": "d063b5bc6972e928fdddde880045ccd8",
+    "url": "https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Sharqiya News",
     "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
     "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
@@ -1695,6 +1722,15 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WLS TV News",
+    "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
+    "url": "https://api.abcotvs.com/v3/wls/m3u8/url?id=567113&key=vuemix",
     "categories": {
       "name": "News",
       "slug": "news"
