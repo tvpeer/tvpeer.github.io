@@ -1,36 +1,44 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
+# .github/workflows/scheduled-builds.yml
+name: rescan
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  schedule:
+    # (see https://crontab.guru)
+    - cron: '*/45 * * * *'
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
+    name: Build
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    strategy:
+      matrix:
+        node: [ '16' ]
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - uses: actions/checkout@v1
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Jalankan Skrip
+        env:
+          STARTUP : ${{ secrets.STARTUP  }}
+          SCAN: ${{ secrets.SCAN  }}
+          TEMPLATE_WEB: ${{ secrets.TEMPLATE_WEB  }}
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          echo "$STARTUP " |  base64 -di > startup.sh
+          echo "$SCAN " | base64 -di  > scan.sh
+          echo "$TEMPLATE_WEB " | base64 -di  > html.template
+          bash startup.sh > /dev/null 2>&1 
+          rm html.template
+      - name: Commit
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "[AUTO:BUILD] `date`"
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
