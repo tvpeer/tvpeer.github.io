@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
@@ -1188,6 +1179,15 @@
     }
   },
   {
+    "name": "AlGhadeer",
+    "path_name": "d063b5bc6972e928fdddde880045ccd8",
+    "url": "https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Sharqiya News",
     "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
     "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
@@ -1683,6 +1683,15 @@
     }
   },
   {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -1713,6 +1722,15 @@
     "name": "CBC News (XUMO)",
     "path_name": "cd6c7563f95871409f4dabf8e29a3ba4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "OAN Encore",
+    "path_name": "658f21cff54e1284be9609028ffed0c6",
+    "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
