@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "TV Mon",
-    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
-    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Cidade de Petrópolis",
     "path_name": "97f192a17020f1875979df3ec60fe210",
     "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
@@ -480,6 +471,15 @@
     "name": "LTV (Renaico)",
     "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
     "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "La Granja TV",
+    "path_name": "6ee3a194c8c2e399155be9dc53660aab",
+    "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1854,6 +1854,15 @@
     }
   },
   {
+    "name": "TV Sistemas Cuzco (Cuzco)",
+    "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
+    "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVenLinea (Cuzco)",
     "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
     "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
@@ -2016,6 +2025,15 @@
     }
   },
   {
+    "name": "Radio TV Charles (Bambamarca)",
+    "path_name": "4e810dfa084e4785e7f9e7a88cf1bde2",
+    "url": "https://media2.cdnlayer.biz:8081/8032/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
@@ -2046,15 +2064,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Región TV (Callao)",
-    "path_name": "da4454567c8a0a234a89f94e655be1f4",
-    "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
