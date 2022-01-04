@@ -254,7 +254,16 @@
   {
     "name": "J Sports 2",
     "path_name": "adc578b516d4fcc00480def837921009",
-    "url": "http://50.7.74.29:8080/hls/j00041/index.m3u8",
+    "url": "http://50.7.74.29:8080/hlsok/j00041/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "J Sports 3",
+    "path_name": "3f14d56a26f3817bc76b5759bb9c7357",
+    "url": "http://50.7.74.29:8080/hls/j00040/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -309,6 +318,15 @@
     "name": "Oman Sports TV",
     "path_name": "1720471e2b365e97f2e49eb44b211e8d",
     "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Best Cable Sports Perú",
+    "path_name": "f1e65315cb89e2cf9925b79245b8ecea",
+    "url": "https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -489,6 +507,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -714,6 +741,15 @@
     "name": "Hard Knocks",
     "path_name": "cdf3cbecfcf6affce3b41ebd8d29fb64",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Captital OTB Betting",
+    "path_name": "bb8b4370de69a86ca858eb205f883983",
+    "url": "https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
