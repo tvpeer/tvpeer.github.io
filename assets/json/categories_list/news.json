@@ -1,5 +1,23 @@
 [
   {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CBSN Los Angeles CA",
     "path_name": "120e5eeb3805308c40c90af78f5f5474",
     "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -1179,6 +1197,15 @@
     }
   },
   {
+    "name": "AlGhadeer",
+    "path_name": "d063b5bc6972e928fdddde880045ccd8",
+    "url": "https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Sharqiya News",
     "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
     "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
@@ -1449,6 +1476,15 @@
     }
   },
   {
+    "name": "AMX Noticias",
+    "path_name": "5f08d5d71749978c720fe9ea5d5c0ce0",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Identidad TV",
     "path_name": "b5c2cd855c58adc81a084a4ef6a4031b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
@@ -1602,15 +1638,6 @@
     }
   },
   {
-    "name": "TGRT Haber",
-    "path_name": "b82f4709898448ff34331b73459d0bad",
-    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "24 Канал",
     "path_name": "89c198164962efd4b2bd47c0799d8c17",
     "url": "http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8",
@@ -1686,6 +1713,15 @@
     "name": "CBC News (XUMO)",
     "path_name": "cd6c7563f95871409f4dabf8e29a3ba4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "OAN Encore",
+    "path_name": "658f21cff54e1284be9609028ffed0c6",
+    "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
