@@ -36,6 +36,15 @@
     }
   },
   {
+    "name": "Ciudad TV Resistencia (Chaco)",
+    "path_name": "ae13211e238dbe907fa833cb506fa46e",
+    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenord Corrientes",
     "path_name": "9d49de079f499fc31f02f55416f28f0a",
     "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
@@ -1260,6 +1269,15 @@
     }
   },
   {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://50.7.74.29:8080/hls/j00012/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "http://50.7.74.29:8080/hlsok/j00030/index.m3u8",
@@ -1557,9 +1575,27 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Bella Abanquina TV (Apurimac)",
+    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
+    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1578,6 +1614,24 @@
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1935,6 +1989,15 @@
     }
   },
   {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
@@ -1962,18 +2025,18 @@
     }
   },
   {
-    "name": "Televisión Tarapoto",
-    "path_name": "d1f7a0f591846e83766997eaac5be0d5",
-    "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
+    "name": "Televisión Tarapoto",
+    "path_name": "d1f7a0f591846e83766997eaac5be0d5",
+    "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2028,6 +2091,15 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2223,6 +2295,15 @@
     }
   },
   {
+    "name": "Юрган",
+    "path_name": "90788ea6813624b98ddedb52ef474a10",
+    "url": "http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "МТВ (Волгоград)",
     "path_name": "5743f86434a62aeb45f219a0dad24567",
     "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
@@ -2280,6 +2361,15 @@
     "name": "Sahel TV",
     "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
     "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV33 Detroit Live (WHPR)",
+    "path_name": "05a51f5ca162ea5930a69e77d740a3f5",
+    "url": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
