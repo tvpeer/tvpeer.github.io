@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -495,24 +486,6 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "MCM Top",
-    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
-    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -765,6 +738,15 @@
     }
   },
   {
+    "name": "KurdMax Music",
+    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
+    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -966,6 +948,15 @@
     "name": "Salto Brasa Music",
     "path_name": "b8fdce3e7e4904f49f14dd2c5fdffa11",
     "url": "https://salto-streams.nl/hls/sotv1_high.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio Xtrema",
+    "path_name": "c19fcfdf8c8d9ffdb716e691d1a6aebd",
+    "url": "https://tv.portalexpress.es:3090/stream/play.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1242,15 +1233,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8",
@@ -1413,9 +1395,27 @@
     }
   },
   {
+    "name": "The Retro Channel",
+    "path_name": "f12aa797054038d0b72cc9f267980241",
+    "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Vevo 80s",
     "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio U TV",
+    "path_name": "cbcb52855245b403334c2deffb93aaef",
+    "url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
