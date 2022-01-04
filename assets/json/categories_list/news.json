@@ -1,23 +1,5 @@
 [
   {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBSN Los Angeles CA",
     "path_name": "120e5eeb3805308c40c90af78f5f5474",
     "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -309,6 +291,15 @@
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Արմնյուզ",
+    "path_name": "85a96b30a73b196ca197c47086242ae1",
+    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1188,6 +1179,15 @@
     }
   },
   {
+    "name": "AlGhadeer",
+    "path_name": "d063b5bc6972e928fdddde880045ccd8",
+    "url": "https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Sharqiya News",
     "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
     "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
@@ -1683,15 +1683,6 @@
     }
   },
   {
-    "name": "WPVI-TV News",
-    "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
-    "url": "https://api.abcotvs.com/v3/wpvi/m3u8/url?id=531099&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -1848,6 +1839,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
