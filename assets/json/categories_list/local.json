@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "TV UniSantos",
-    "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
-    "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Pantanal MS",
     "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
     "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
@@ -210,24 +201,6 @@
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Poços",
-    "path_name": "e549542d48320a6373e4e35cccc944de",
-    "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -813,15 +786,6 @@
     "name": "Canal 25 TV (Barbastro)",
     "path_name": "4b75cee7c1659979426795ad31a572cb",
     "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Málaga RTV",
-    "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
-    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1944,6 +1908,15 @@
     }
   },
   {
+    "name": "Diario Hechicera (Tumbes)",
+    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
+    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2118,6 +2091,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2583,15 +2565,6 @@
     }
   },
   {
-    "name": "ABC 16 Wilkes Barre PA (WNEP)",
-    "path_name": "f775543c1c3481ffa42a5261cc0e0c53",
-    "url": "https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NBC 36 Charlotte NC (WCNC-TV)",
     "path_name": "0dfafeeecbb7eac6611cf9ea17630aaf",
     "url": "https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8",
@@ -2736,15 +2709,6 @@
     }
   },
   {
-    "name": "CBS 9 Washington DC (WUSA)",
-    "path_name": "47a50858dc907b8f83c0b2167eeb9ce4",
-    "url": "https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CBS 13 Macon GA (WMAZ-TV)",
     "path_name": "8dcfdbca15dba58a5e44d337d5be90e2",
     "url": "https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8",
@@ -2883,15 +2847,6 @@
     "name": "CBS THV11 Little Rock AR (KTHV)",
     "path_name": "a849af5eaa5cb4c10437b71b81053e78",
     "url": "https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS 10 Tampa FL (WTSP)",
-    "path_name": "44bd301d16826fe1631ef6a67fd133bc",
-    "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
