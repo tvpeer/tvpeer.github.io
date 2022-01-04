@@ -1,14 +1,5 @@
 [
   {
-    "name": "TVU Universidad Nacional de La Plata",
-    "path_name": "6caa7c52b9760959f5f27cc589692051",
-    "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
     "name": "Santa Cecilia TV",
     "path_name": "adff590caf5ceccf7609027bf8e0f8db",
     "url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
@@ -21,6 +12,15 @@
     "name": "Rede Minas",
     "path_name": "a1af0ae972103b556319a7ba3ec79ba0",
     "url": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "TV UFG",
+    "path_name": "459e34df56bec538148eb0ae1bb5c6e2",
+    "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
@@ -45,18 +45,18 @@
     }
   },
   {
-    "name": "KITE Victers (Kerala)",
-    "path_name": "fa77a772b7e7fcf172adbdd7c1375f11",
-    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "name": "EducaTV",
+    "path_name": "5a8587b62f400a0c50d9f2de42121270",
+    "url": "https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
     }
   },
   {
-    "name": "NHK E",
-    "path_name": "5e788fe7584ffb3a9220158ebe5d4b92",
-    "url": "http://50.7.74.29:8080/hls/j00034/index.m3u8",
+    "name": "KITE Victers (Kerala)",
+    "path_name": "fa77a772b7e7fcf172adbdd7c1375f11",
+    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
@@ -84,15 +84,6 @@
     "name": "Beach TV CSULB",
     "path_name": "6cc4769ac0e524806683beaa2b36041e",
     "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "Cloudflare TV",
-    "path_name": "f5afb1a3c27bbc8a586733d349dbeb4e",
-    "url": "https://cloudflare.tv/hls/live.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
