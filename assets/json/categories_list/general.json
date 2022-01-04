@@ -1,14 +1,5 @@
 [
   {
-    "name": "TV BRICS English",
-    "path_name": "55acd22b2f3edf6872e94a43db527a8b",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Al Wousta TV",
     "path_name": "82c6bbf94bc14437fe85e511df4e303a",
     "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
@@ -93,6 +84,15 @@
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -504,15 +504,6 @@
     }
   },
   {
-    "name": "COM Brasil",
-    "path_name": "4b01a3bfe211f1305f923edea8fe6abb",
-    "url": "https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Diário do Sertão",
     "path_name": "fe591e582ec425bad1ddab35392ef48b",
     "url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
@@ -579,15 +570,6 @@
     "name": "Rede TV! SP",
     "path_name": "2b4c0bfc592241b0790a9ae8a7977358",
     "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TV BRICS Portuguese",
-    "path_name": "9590801d96eec46c25414c97d033376b",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -711,15 +693,6 @@
     }
   },
   {
-    "name": "TV BRICS Chinese",
-    "path_name": "d26fe2376236a1d11ea1c600c85e208d",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH04/index.m3u8",
@@ -813,15 +786,6 @@
     "name": "À Punt",
     "path_name": "667f275875299e34ccd97838433710af",
     "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RTVC (Radio Televisión Canaria)",
-    "path_name": "8ff56555fd40c9da45c36c738e8b72ed",
-    "url": "https://rtvc-live1-rm.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1053,6 +1017,15 @@
     }
   },
   {
+    "name": "BS-TBS",
+    "path_name": "579e17f9b945937947fdf7ba98f53a63",
+    "url": "http://50.7.74.29:8080/hls/j00051/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "NHK BS1",
     "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
     "url": "http://50.7.74.29:8080/hls/j00037/index.m3u8",
@@ -1200,6 +1173,15 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1413,6 +1395,15 @@
     }
   },
   {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
@@ -1422,9 +1413,27 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 2",
+    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
+    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1443,6 +1452,15 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1524,15 +1542,6 @@
     "name": "5 канал",
     "path_name": "aa9e7cf6dc6ee4353193c70220fafd92",
     "url": "https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TV BRICS Russian",
-    "path_name": "2543aac2cd3fba91497e95bab6235d52",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
