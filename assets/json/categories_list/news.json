@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "BBC Arabic",
-    "path_name": "644b660903ecf0a05225efa32c771c12",
-    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Al Jazeera Arabic",
     "path_name": "594bc5910c2e2c619ae6a022987a146d",
     "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
@@ -1269,15 +1260,6 @@
     }
   },
   {
-    "name": "BBC Persian",
-    "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
-    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "HispanTV",
     "path_name": "906105ead1dc83d4cf1c928f4af0e168",
     "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
@@ -1497,15 +1479,6 @@
     "name": "Visión Noticias Perú (VNP)",
     "path_name": "ca4f2b767b3bb747e12c8817820d77cc",
     "url": "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RSelvaTV (Tarapoto)",
-    "path_name": "85b787159037d15895c05c9d0f71d311",
-    "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1902,6 +1875,15 @@
     "name": "CBSN",
     "path_name": "0095027b95388b1f5ad7824733e794e1",
     "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
