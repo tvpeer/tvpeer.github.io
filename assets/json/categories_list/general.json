@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Abu Dhabi Drama",
-    "path_name": "d933b3cb9be8d544bafd8c63c44c6acc",
-    "url": "https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Dubai One",
     "path_name": "9261f2c340cc197baff8128bfa3bbf4c",
     "url": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
@@ -117,27 +108,9 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "5-րդ ալիք",
-    "path_name": "c200ff245361563b6b97cc36940ec4ef",
-    "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -192,6 +165,15 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "JonmoBhumi TV",
+    "path_name": "5ca94cbf25377921ac983b128fa79310",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -477,9 +459,9 @@
     }
   },
   {
-    "name": "MKK Web TV",
-    "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
-    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -534,6 +516,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -606,6 +597,15 @@
     "name": "Белсат ТВ",
     "path_name": "a1716543d40122a8ae92ff06467e2b4b",
     "url": "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ОНТ",
+    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
+    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1017,9 +1017,63 @@
     }
   },
   {
-    "name": "BS Fuji TV",
-    "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
-    "url": "http://50.7.74.29:8080/hls/j00049/index.m3u8",
+    "name": "BS Asahi",
+    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
+    "url": "http://50.7.74.29:8080/hls/j00048/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Nippon TV",
+    "path_name": "a5a467c75aa69036482468213dea53b1",
+    "url": "http://50.7.74.29:8080/hlsok/j00047/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS TV Tokyo",
+    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
+    "url": "http://50.7.74.29:8080/hls/j00050/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS-TBS",
+    "path_name": "579e17f9b945937947fdf7ba98f53a63",
+    "url": "http://50.7.74.29:8080/hlsok/j00051/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "NHK BS1",
+    "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
+    "url": "http://50.7.74.29:8080/hls/j00037/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "NHK BSP",
+    "path_name": "eb440ac0425056cd96ab46f2dbb147d4",
+    "url": "http://50.7.74.29:8080/hlsok/j00036/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "NHK G Osaka",
+    "path_name": "bd2f37949c17064337002b68515df864",
+    "url": "http://50.7.74.29:8080/hlsok/j00032/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1029,15 +1083,6 @@
     "name": "NHK G Tokyo",
     "path_name": "d5eeeebcfbdf3b89336d0686cad94759",
     "url": "http://50.7.74.29:8080/hls/j00033/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Kass TV",
-    "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
-    "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1161,6 +1206,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1206,6 +1260,15 @@
     }
   },
   {
+    "name": "Best Cable Perú",
+    "path_name": "9186c79ff0571aadbf1825e19ee0336b",
+    "url": "https://tv.siete.us/bestcable/bestcable/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "NacionalTV",
     "path_name": "aa6c55017db3d1530f1c6a121dcb3b50",
     "url": "https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8",
@@ -1236,15 +1299,6 @@
     "name": "BHTV",
     "path_name": "503046e31301343fdf1ab5b8fe17a520",
     "url": "http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TV Cosmos",
-    "path_name": "bc2aa9411591b5051aff3ecec76407ef",
-    "url": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1368,6 +1422,15 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1389,6 +1452,15 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1485,9 +1557,27 @@
     }
   },
   {
+    "name": "Al Khalij",
+    "path_name": "1ea6c256d75fc0bcfc7485596b7484c0",
+    "url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Al Saudiya",
     "path_name": "0ccc8b9cc0aad21b8db718d6c3b5f5e3",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "WOW TV",
+    "path_name": "dc5ea1b50761502eb23510e8482ea260",
+    "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1566,6 +1656,15 @@
     }
   },
   {
+    "name": "Time Television",
+    "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AXS TV Now",
     "path_name": "5e2737784a2c1fb0c94cecfd576bb961",
     "url": "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
@@ -1611,6 +1710,15 @@
     }
   },
   {
+    "name": "Mad Dog and Merrill",
+    "path_name": "57870ffad06e847d6d067cd337740814",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "MPT PBS Owings Mills MD",
     "path_name": "28e49f7868a60d03f09ab369ae8e3218",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
@@ -1647,15 +1755,6 @@
     }
   },
   {
-    "name": "PBS KET 68.1 Louisville KY (WKMJ-TV)",
-    "path_name": "8dbe3a7a91d93a75c17032c320ab00ef",
-    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Millennium TV USA",
     "path_name": "bbbea8cc47df74468fc7a70a7eec1283",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8",
@@ -1667,16 +1766,7 @@
   {
     "name": "Now This",
     "path_name": "b50e3612693f4d147d08fa5d33f30996",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Now This (XUMO)",
-    "path_name": "070c9ad52739f78c1d34c66513ccb55e",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1686,6 +1776,15 @@
     "name": "Bloomberg Quicktake",
     "path_name": "fbeab9cf71debfa86f235671af702fc6",
     "url": "https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ayeneh TV",
+    "path_name": "c882de3143d06ca705fbc8523287cfc9",
+    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Alegria TV",
-    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
-    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "KpopTV Play",
     "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
     "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
@@ -243,18 +234,9 @@
     }
   },
   {
-    "name": "Azstar TV",
-    "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
-    "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Interradio",
-    "path_name": "b63c2e5d02522dca2cbf56b70ea2fb22",
-    "url": "https://video01.logicahost.com.br/interradiofrutillar/smil:transcoder.smil/playlist.m3u8",
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -495,6 +477,15 @@
     }
   },
   {
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -648,15 +639,6 @@
     }
   },
   {
-    "name": "Real TV",
-    "path_name": "6c092badba12db1580c14080f0bbf6b0",
-    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "9X Jhakaas",
     "path_name": "9037bc264be88742fcb62145db6ea77a",
     "url": "http://14.199.164.20:4001/play/a0mx/index.m3u8",
@@ -741,15 +723,6 @@
     "name": "Dijlah Tarab",
     "path_name": "a39a07c0a4587298b3a1f1e1834edd81",
     "url": "https://ghaasiflu.online/tarab/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -972,9 +945,27 @@
     }
   },
   {
+    "name": "RumbaMix TV",
+    "path_name": "fb799fcf243a61aa76886be740d24485",
+    "url": "https://tvdatta.com:3344/live/rumbamixlive.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "CVM TV Digital",
     "path_name": "a3456c64a3a570aa1b0bc7e95ed1179e",
     "url": "https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Turbo Mix Radio TV",
+    "path_name": "b45b6abb3fd3aaf601db87ac152e3617",
+    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1008,18 +999,18 @@
     }
   },
   {
-    "name": "SanjuaneraTV",
-    "path_name": "513b38a59cd943e492b9b2a07cb78367",
-    "url": "https://live.obslivestream.com/sanjuaneramux/playlist.m3u8",
+    "name": "Stereo TV (Peru)",
+    "path_name": "858be35aec06202a74007b5e71a3ffaa",
+    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
     }
   },
   {
-    "name": "Stereo TV (Peru)",
-    "path_name": "858be35aec06202a74007b5e71a3ffaa",
-    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
+    "name": "Cable Netword Belleza Andina TV",
+    "path_name": "87cffd4d59b0d7759db49d8aa9213a40",
+    "url": "https://tv.siete.us/bellezaandina/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1092,6 +1083,15 @@
     "name": "Rock TV",
     "path_name": "8e466aa200e9cf23b5509429fb100bc9",
     "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Kiss TV",
+    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1314,15 +1314,6 @@
     }
   },
   {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
@@ -1344,15 +1335,6 @@
     "name": "MCN6 Music Channel",
     "path_name": "146b4ab0a7117133a37e55f541b4b9d1",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Pop",
-    "path_name": "8a64fa9a7efb3af957418a41d06f6540",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
