@@ -479,7 +479,7 @@
   {
     "name": "Somoy News TV",
     "path_name": "9bbf35f7529a9ab40bf25a1624a3798b",
-    "url": "https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -750,6 +750,15 @@
     "name": "101TV Malaga",
     "path_name": "930cee95729458c790dd69049205a25a",
     "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "24 Horas",
+    "path_name": "8f5451fd5e36b836aa3c2b45c937a027",
+    "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1287,6 +1296,15 @@
     }
   },
   {
+    "name": "TV7 News",
+    "path_name": "6fc60f031c4b5067cc206ab6d3a79419",
+    "url": "http://217.61.26.46:8080/hls/news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Tele Sondrio News",
     "path_name": "b7ff20bd2e0a004d41968c23f9da67a7",
     "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8",
@@ -1467,6 +1485,15 @@
     }
   },
   {
+    "name": "AMX Noticias",
+    "path_name": "5f08d5d71749978c720fe9ea5d5c0ce0",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Identidad TV",
     "path_name": "b5c2cd855c58adc81a084a4ef6a4031b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
@@ -1485,9 +1512,27 @@
     }
   },
   {
+    "name": "RTV Total (Yurimaguas)",
+    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Visión Noticias Perú (VNP)",
     "path_name": "ca4f2b767b3bb747e12c8817820d77cc",
     "url": "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RSelvaTV (Tarapoto)",
+    "path_name": "85b787159037d15895c05c9d0f71d311",
+    "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1620,6 +1665,15 @@
     }
   },
   {
+    "name": "TGRT Haber",
+    "path_name": "b82f4709898448ff34331b73459d0bad",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "24 Канал",
     "path_name": "89c198164962efd4b2bd47c0799d8c17",
     "url": "http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8",
@@ -1686,6 +1740,15 @@
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBC News",
+    "path_name": "6f1bb7f82e90b0a0f833c7ae873a1d49",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1775,7 +1838,7 @@
   {
     "name": "RT America",
     "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
-    "url": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
+    "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1866,6 +1929,15 @@
     "name": "CBSN",
     "path_name": "0095027b95388b1f5ad7824733e794e1",
     "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
