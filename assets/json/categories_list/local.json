@@ -738,15 +738,6 @@
     }
   },
   {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Cultural",
     "path_name": "6250449e8dae36b23db6418c5dc5f840",
     "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
@@ -1485,6 +1476,15 @@
     }
   },
   {
+    "name": "Siris TV",
+    "path_name": "22f23b1234e9dfd797a5c5e3425eda4e",
+    "url": "https://videostream.siris.nl/hls/playoutweb/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "RTV Purmerend",
     "path_name": "a7f849ceb41b7c0bd4f858f171ad94c0",
     "url": "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8",
@@ -1641,15 +1641,6 @@
     "name": "Caribe Televisión (Otuzco)",
     "path_name": "ae563479c749b0ffa54aa1c009027e03",
     "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2520,15 +2511,6 @@
     }
   },
   {
-    "name": "ABC 16 Wilkes Barre PA (WNEP)",
-    "path_name": "f775543c1c3481ffa42a5261cc0e0c53",
-    "url": "https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NBC 36 Charlotte NC (WCNC-TV)",
     "path_name": "0dfafeeecbb7eac6611cf9ea17630aaf",
     "url": "https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8",
@@ -2631,15 +2613,6 @@
     "name": "ABC 8 Davenport IA (WQAD)",
     "path_name": "7f4d303dda2dc913e4c892c35a6c35ce",
     "url": "https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 207 Bangor Portland ME (WLBZ)",
-    "path_name": "22519b4a51c3f9748ec1dc25bee40617",
-    "url": "https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2835,15 +2808,6 @@
     }
   },
   {
-    "name": "CBS 8 San Diego CA (KFMB-TV)",
-    "path_name": "42a3b277d62068ee3aa377fa1880a972",
-    "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Nothing Scripted",
     "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
     "url": "https://30a-tv.com/NothingScripted.m3u8",
@@ -2955,15 +2919,6 @@
     "name": "CBS 11 Houston TX (KHOU)",
     "path_name": "9e6cd4a3d97f9b42ed4225230b531638",
     "url": "https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 10 Sacramento CA (KXTV)",
-    "path_name": "46a0e80a25b6ab654f23e3f7b051bd3f",
-    "url": "https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3186,15 +3141,6 @@
     }
   },
   {
-    "name": "3 Studios Cleveland OH (WKYC)",
-    "path_name": "8ebba9be2520381bf6d116d0eeb5610b",
-    "url": "https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC 24 Memphis TN (WATN-TV)",
     "path_name": "965b0164612fb2317bbe49340dd1c69f",
     "url": "https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8",
@@ -3207,15 +3153,6 @@
     "name": "NBC 9 Denver CO (KUSA)",
     "path_name": "f8132457828fb40879f6f18f74be58bd",
     "url": "https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 11 Alive Atlanta GA (WXIA-TV)",
-    "path_name": "2041a7f8646843093fcfa81e6b31fa5b",
-    "url": "https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3303,24 +3240,6 @@
     }
   },
   {
-    "name": "ABC News Live 2",
-    "path_name": "a4d570c6424db97e25c320411fa41a2d",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News Live 3",
-    "path_name": "27537d46203cf69aeaeba698c5307ac6",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC News Live 4",
     "path_name": "237339519e079f2f6842c80fe081168a",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
@@ -3330,45 +3249,9 @@
     }
   },
   {
-    "name": "ABC News Live 5",
-    "path_name": "121de5c7c92bb49256188a05007badcc",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC News Live 6",
     "path_name": "c2b7d27feac288f022f79c7ee86e1bac",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News Live 7",
-    "path_name": "e045d92cc8d809b87e4e071e10714f0e",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News Live 8",
-    "path_name": "769d9d2ca240f51f507d86ae94cef944",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News Live 9",
-    "path_name": "ad16e9e7e11dacd97197f6935b961762",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3561,6 +3444,24 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
     }
   },
   {
