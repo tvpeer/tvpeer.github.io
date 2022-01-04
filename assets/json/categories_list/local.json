@@ -108,6 +108,15 @@
     }
   },
   {
+    "name": "TV UniSantos",
+    "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
+    "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Pantanal MS",
     "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
     "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
@@ -201,6 +210,15 @@
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Poços",
+    "path_name": "e549542d48320a6373e4e35cccc944de",
+    "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -540,15 +558,6 @@
     }
   },
   {
-    "name": "TV Quellón",
-    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Quinta Región",
     "path_name": "dc9303cf3728554ff78e4b9eed262818",
     "url": "https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/playlist.m3u8",
@@ -750,6 +759,15 @@
     "name": "TVG Evento 1",
     "path_name": "3de97eb0c2c97c812d25c106232d4192",
     "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVG Infantil",
+    "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
+    "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -972,9 +990,27 @@
     }
   },
   {
+    "name": "TVRI Bali",
+    "path_name": "cdc07431d0fe682d5650e50d2bcef19e",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Bangka Belitung",
     "path_name": "5a54f5ec41ad457b0f5c58026f79bb6a",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Bengkulu",
+    "path_name": "0c82c4714e5f5fcf30089a33726d4ae0",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -999,6 +1035,33 @@
     }
   },
   {
+    "name": "TVRI Jambi",
+    "path_name": "e2c7c68896dcd0bda477beea509955dd",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Kalimantan Barat",
+    "path_name": "055bc7bc100bb244df5b093a84753a0f",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Kalimantan Selatan",
+    "path_name": "0b05af1c8058adfbfa50232a66aec311",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Kalimantan Tengah",
     "path_name": "b2d6907600ac4a83f7c047a6244b991e",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8",
@@ -1017,9 +1080,63 @@
     }
   },
   {
+    "name": "TVRI Lampung",
+    "path_name": "62ee7b139fe1cf0e4dd5e86234049bd4",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Maluku",
+    "path_name": "cfc0c009a6b5507eb4f70fcdbf1aeaac",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Nusa Tenggara Barat",
+    "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Nusa Tenggara Timur",
     "path_name": "51c8ba7f3b275a9733970d2e420eee0a",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Papua",
+    "path_name": "ae41197bb44aa0b860c73d8c611974ca",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Riau",
+    "path_name": "0553048d1adc435c63fb4f447a14841b",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sulawesi Barat",
+    "path_name": "5dba6baaf2bdc208f5dcbd031f0e61c8",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1035,9 +1152,63 @@
     }
   },
   {
+    "name": "TVRI Sulawesi Tengah",
+    "path_name": "de8d81faf7b02d435b6af227c4ea5a89",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sulawesi Tenggara",
+    "path_name": "1f1fc03eb6ad64d330f712fc97825a6c",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Sulawesi Utara",
     "path_name": "0a74756a24f8accdc9c04be8045badec",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sumatera Barat",
+    "path_name": "541f59c33e162044e0bad508bc4f33a9",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sumatera Selatan",
+    "path_name": "9e32c1afaee26e3da4602a461083409a",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sumatera Utara",
+    "path_name": "97828f09a40489d0b93df2ba1f981ba5",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Jawa Tengah",
+    "path_name": "46893a5164bc751d7e3d4c450baaa5df",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1065,6 +1236,15 @@
     "name": "TVRI Yogyakarta",
     "path_name": "ebf4e67de55f6d060f796d5b62a98423",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Jawa Barat",
+    "path_name": "eb0346701d63694986f4f11fa49154c7",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1458,15 +1638,6 @@
     }
   },
   {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1668,15 +1839,6 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Sistemas Cuzco (Cuzco)",
-    "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
-    "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1902,6 +2064,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Digital 94.1 TV (Juanjui)",
+    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
+    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
