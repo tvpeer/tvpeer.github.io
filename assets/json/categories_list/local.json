@@ -495,6 +495,15 @@
     }
   },
   {
+    "name": "LTV (Renaico)",
+    "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
+    "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "La Granja TV",
     "path_name": "6ee3a194c8c2e399155be9dc53660aab",
     "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
@@ -552,6 +561,15 @@
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Quellón",
+    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -657,15 +675,6 @@
     }
   },
   {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "City TV (Bogotà | Cundinamarca)",
     "path_name": "56723578aa6b96da3fe55f3f6663efae",
     "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
@@ -732,15 +741,6 @@
     "name": "Zaracay TV",
     "path_name": "88a63521263537d9c1bfae7153539a97",
     "url": "https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1089,15 +1089,6 @@
     }
   },
   {
-    "name": "TVRI Maluku",
-    "path_name": "cfc0c009a6b5507eb4f70fcdbf1aeaac",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Nusa Tenggara Barat",
     "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
@@ -1155,24 +1146,6 @@
     "name": "TVRI Sulawesi Tengah",
     "path_name": "de8d81faf7b02d435b6af227c4ea5a89",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Sulawesi Tenggara",
-    "path_name": "1f1fc03eb6ad64d330f712fc97825a6c",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Sulawesi Utara",
-    "path_name": "0a74756a24f8accdc9c04be8045badec",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1638,6 +1611,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1845,6 +1827,15 @@
     }
   },
   {
+    "name": "TV Sistemas Cuzco (Cuzco)",
+    "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
+    "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVenLinea (Cuzco)",
     "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
     "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
@@ -1953,15 +1944,6 @@
     }
   },
   {
-    "name": "Diario Hechicera (Tumbes)",
-    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
-    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2064,15 +2046,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Digital 94.1 TV (Juanjui)",
-    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
-    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2403,15 +2376,6 @@
     }
   },
   {
-    "name": "Юрган",
-    "path_name": "90788ea6813624b98ddedb52ef474a10",
-    "url": "http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "МТВ (Волгоград)",
     "path_name": "5743f86434a62aeb45f219a0dad24567",
     "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
@@ -2469,15 +2433,6 @@
     "name": "Sahel TV",
     "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
     "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV33 Detroit Live (WHPR)",
-    "path_name": "05a51f5ca162ea5930a69e77d740a3f5",
-    "url": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3018,15 +2973,6 @@
     "name": "Fox 15 West Texas Abilene TX (KXVA)",
     "path_name": "fd2c6c652f4e50675bc302852e1e4cee",
     "url": "https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS 2 Spokane WA (KREM)",
-    "path_name": "19c74e71b3fe590c47fd56bdf35d868d",
-    "url": "https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
