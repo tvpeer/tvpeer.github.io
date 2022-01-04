@@ -171,6 +171,15 @@
     }
   },
   {
+    "name": "Rede Vida",
+    "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
+    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
@@ -201,6 +210,15 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -729,15 +747,6 @@
     }
   },
   {
-    "name": "Aliman TV",
-    "path_name": "7f219ff24ea6ad7489d2eb5be6720958",
-    "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nour Mariam",
     "path_name": "194bb6d17575245c9cf0a68c81266112",
     "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
@@ -1062,15 +1071,6 @@
     }
   },
   {
-    "name": "Al Quran Al Kareem TV (Mecca)",
-    "path_name": "3747d19ea86f7d26b423d49f573ed243",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Iqraa Europe Africa",
     "path_name": "948919244f21e8d10709875ccf107c6b",
     "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8",
@@ -1164,15 +1164,6 @@
     "name": "GOOD TV CH10 烤箱讀書會 短版",
     "path_name": "030a9cf26bea23a7455c67deff8ecf66",
     "url": "https://live.streamingfast.net/osmflivech10.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH12 維他命施",
-    "path_name": "155a8e88a63566fdecfd7f366a206ea6",
-    "url": "https://live.streamingfast.net/osmflivech12.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1308,15 +1299,6 @@
     "name": "GOOD TV CH29 經典音樂河",
     "path_name": "2ea2952114dca9d0393cd5584b759953",
     "url": "https://live.streamingfast.net/osmflivech29.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH2 真理台",
-    "path_name": "59ecdf546a1c3f4a1ea350a10b561305",
-    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1587,15 +1569,6 @@
     "name": "Alkerazatv",
     "path_name": "90495f55b9397abdf13a03d19d81ab26",
     "url": "https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "El Maqar",
-    "path_name": "cbde484025c8e228be54c6af2f6ed7eb",
-    "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1944,18 +1917,18 @@
     }
   },
   {
-    "name": "Esperanza TV",
-    "path_name": "f779936bed70364133d1fcdf28afcdff",
-    "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
+    "name": "Juventud Renovada en el Espiritu Santo",
+    "path_name": "5c439fbbd0bb99a934572239bc1d4b15",
+    "url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
     }
   },
   {
-    "name": "Genesis TV",
-    "path_name": "2d63024f54aed55734541e76b52a5f34",
-    "url": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8",
+    "name": "Esperanza TV",
+    "path_name": "f779936bed70364133d1fcdf28afcdff",
+    "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
