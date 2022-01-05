@@ -1611,6 +1611,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1641,6 +1650,15 @@
     "name": "Cajamarca TV",
     "path_name": "7807971ea588e8f5b73ad964ee07d397",
     "url": "https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 43 Sudamericana (Ica)",
+    "path_name": "bc2117428c81fe2513da77b0de044691",
+    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3015,6 +3033,15 @@
     }
   },
   {
+    "name": "ABC 24 Austin TX (KVUE)",
+    "path_name": "d44aa67f45dbc7ca80727ba08b44993a",
+    "url": "https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 19 Columbia SC (WLTX)",
     "path_name": "78ca09bd4746f0912f7a970fb5080df3",
     "url": "https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8",
@@ -3135,6 +3162,15 @@
     "name": "3 Studios Cleveland OH (WKYC)",
     "path_name": "8ebba9be2520381bf6d116d0eeb5610b",
     "url": "https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 24 Memphis TN (WATN-TV)",
+    "path_name": "965b0164612fb2317bbe49340dd1c69f",
+    "url": "https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3498,24 +3534,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
