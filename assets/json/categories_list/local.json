@@ -1638,6 +1638,15 @@
     }
   },
   {
+    "name": "Canal 43 Sudamericana (Ica)",
+    "path_name": "bc2117428c81fe2513da77b0de044691",
+    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
@@ -1650,6 +1659,15 @@
     "name": "Caribe Televisión (Otuzco)",
     "path_name": "ae563479c749b0ffa54aa1c009027e03",
     "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Central TV (Chosica)",
+    "path_name": "f8e30b59953c450328010027510582c2",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1767,15 +1785,6 @@
     "name": "Innova FM (Bagua Grande)",
     "path_name": "6bb261cd341175bba9043fd9496bfabe",
     "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "VamisaTV (Lima)",
-    "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
-    "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1971,6 +1980,15 @@
     }
   },
   {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
@@ -1998,6 +2016,15 @@
     }
   },
   {
+    "name": "Sumac TV (Lima)",
+    "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
+    "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2019,6 +2046,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3543,6 +3579,24 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN Los Angeles CA",
+    "path_name": "120e5eeb3805308c40c90af78f5f5474",
+    "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN Los Angeles CA",
+    "path_name": "120e5eeb3805308c40c90af78f5f5474",
+    "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
     }
   },
   {
