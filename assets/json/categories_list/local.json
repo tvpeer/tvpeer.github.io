@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "TeleJunín",
-    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
-    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -219,6 +210,15 @@
     "name": "TVCI",
     "path_name": "e211900f04bde05db319cff2dc76cab8",
     "url": "http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVE Bahia",
+    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
+    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2052,6 +2052,15 @@
     }
   },
   {
+    "name": "Región TV (Callao)",
+    "path_name": "da4454567c8a0a234a89f94e655be1f4",
+    "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "RN Televisión (Yurimaguas)",
     "path_name": "c3a9aef0b0ccd9bd6b1af7fb478425cf",
     "url": "https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8",
@@ -3651,24 +3660,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
