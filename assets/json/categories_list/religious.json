@@ -180,6 +180,15 @@
     }
   },
   {
+    "name": "Rede Vida",
+    "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
+    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
@@ -219,15 +228,6 @@
     "name": "IIPC TV",
     "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
     "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "QVTV",
-    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
-    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -480,6 +480,33 @@
     "name": "Iglesia Del Camino",
     "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
     "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Choluteca TV",
+    "path_name": "70a1524b6bc50e538fe1307514613a3b",
+    "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Dios Te Ve",
+    "path_name": "5634a93578a42696e1a08b74494f7847",
+    "url": "https://emisoras.hn:8081/diostevetv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Dios Te Ve Infantil",
+    "path_name": "c743196c3c93860e98936e5b9ccaada5",
+    "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1161,15 +1188,6 @@
     }
   },
   {
-    "name": "GOOD TV CH10 烤箱讀書會 短版",
-    "path_name": "030a9cf26bea23a7455c67deff8ecf66",
-    "url": "https://live.streamingfast.net/osmflivech10.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH12 維他命施",
     "path_name": "155a8e88a63566fdecfd7f366a206ea6",
     "url": "https://live.streamingfast.net/osmflivech12.m3u8",
@@ -1227,15 +1245,6 @@
     "name": "GOOD TV CH19 共享觀點",
     "path_name": "73798910887d180476b291fca6d6c08a",
     "url": "https://live.streamingfast.net/osmflivech19.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH1 綜合台",
-    "path_name": "24fc4c7c61df2e8303e64aa7f4e52969",
-    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1314,15 +1323,6 @@
     }
   },
   {
-    "name": "GOOD TV CH2 真理台",
-    "path_name": "59ecdf546a1c3f4a1ea350a10b561305",
-    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH30 天堂敬拜",
     "path_name": "f4a8b74873714d54a33dcf0a5c5da092",
     "url": "https://live.streamingfast.net/osmflivech30.m3u8",
@@ -1353,15 +1353,6 @@
     "name": "GOOD TV CH33 特會系列：研經培靈",
     "path_name": "acce9f013f8fff26ccbd8abea3d16046",
     "url": "https://live.streamingfast.net/osmflivech33.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
-    "path_name": "1b057684ceece812fcca0a42ecb9853c",
-    "url": "https://live.streamingfast.net/osmflivech36.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1476,27 +1467,9 @@
     }
   },
   {
-    "name": "GOOD TV CH9 愛+好醫生 短版",
-    "path_name": "9a1fdc19ee68dc3ea27553d6be70f9a8",
-    "url": "https://live.streamingfast.net/osmflivech9.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH24 劉三講古",
     "path_name": "60ac4fc5c1228874f0ca8041f390349e",
     "url": "https://live.streamingfast.net/osmflivech24.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH25 福氣人生",
-    "path_name": "373e2016496f976f99d15c9dbd30aec5",
-    "url": "https://live.streamingfast.net/osmflivech25.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1767,6 +1740,15 @@
     "name": "Jewish Life TV",
     "path_name": "c289830c6c468cc05e2cf388038bbec6",
     "url": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "QVTV",
+    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
+    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"

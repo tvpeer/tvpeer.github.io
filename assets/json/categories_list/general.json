@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -479,7 +470,7 @@
   {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
-    "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8",
+    "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -488,7 +479,7 @@
   {
     "name": "TV Destak",
     "path_name": "271124c029248c78f5003fcc2f1e3336",
-    "url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
+    "url": "https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1548,9 +1539,27 @@
     }
   },
   {
+    "name": "PBS Seattle-WA (KCTS-TV1)",
+    "path_name": "ce9f42eaf24362f8026b2b2c6bd8df5d",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Peachtree TV Atlanta-GA (WPCH-TV1)",
     "path_name": "3360c56ed324f95ab1c694f9d4748148",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PBS Spokane-WA (KSPS-TV1)",
+    "path_name": "82052ab73e96c7968c328f3e194740c3",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
