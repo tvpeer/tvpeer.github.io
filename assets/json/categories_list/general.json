@@ -99,9 +99,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -111,6 +111,15 @@
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "5-րդ ալիք",
+    "path_name": "c200ff245361563b6b97cc36940ec4ef",
+    "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -264,6 +273,15 @@
     "name": "Azad TV -4 (ATV)",
     "path_name": "032024fb5767d88d4909cea1db9700bc",
     "url": "http://85.132.81.184:8080/atv-4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Naxçıvan TV",
+    "path_name": "6bd10b3f229426255d5b41f245c2539d",
+    "url": "http://streams.livetv.az/azerbaijan/nax/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -441,6 +459,15 @@
     }
   },
   {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Yeeaah!",
     "path_name": "4d827bc5ac94fe56229662a11036635d",
     "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
@@ -452,7 +479,7 @@
   {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
-    "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
+    "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -489,6 +516,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ISTV",
+    "path_name": "4eec9f69d87af30f39ca88b4db85b595",
+    "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -981,6 +1017,15 @@
     }
   },
   {
+    "name": "BS Fuji TV",
+    "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
+    "url": "http://50.7.74.29:8080/hlsok/j00049/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://50.7.74.29:8080/hlsok/j00047/index.m3u8",
@@ -1200,15 +1245,6 @@
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Best Cable Perú",
-    "path_name": "9186c79ff0571aadbf1825e19ee0336b",
-    "url": "https://tv.siete.us/bestcable/bestcable/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1602,6 +1638,15 @@
     }
   },
   {
+    "name": "Peachtree TV Atlanta-GA (WPCH-TV1)",
+    "path_name": "3360c56ed324f95ab1c694f9d4748148",
+    "url": "http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AXS TV Now",
     "path_name": "5e2737784a2c1fb0c94cecfd576bb961",
     "url": "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
@@ -1719,18 +1764,18 @@
     }
   },
   {
-    "name": "Bloomberg Quicktake",
-    "path_name": "fbeab9cf71debfa86f235671af702fc6",
-    "url": "https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8",
+    "name": "Now This (XUMO)",
+    "path_name": "070c9ad52739f78c1d34c66513ccb55e",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Ayeneh TV",
-    "path_name": "c882de3143d06ca705fbc8523287cfc9",
-    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "name": "Bloomberg Quicktake",
+    "path_name": "fbeab9cf71debfa86f235671af702fc6",
+    "url": "https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1749,6 +1794,15 @@
     "name": "PromarTV (Yaracuy)",
     "path_name": "7a4d69951bb33167cd657a9b390e6664",
     "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AIC TV",
+    "path_name": "cc0370e7a2dbc19f4230f33fc803ee52",
+    "url": "http://195.35.85.115:8000/play/a0fr",
     "categories": {
       "name": "General",
       "slug": "general"
