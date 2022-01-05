@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -1260,6 +1251,15 @@
     }
   },
   {
+    "name": "TV Asahi",
+    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
+    "url": "http://50.7.74.29:8080/hls/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://50.7.74.29:8080/hlsok/j00013/index.m3u8",
@@ -1623,15 +1623,6 @@
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "AsiriTV (Lima)",
-    "path_name": "2f106380faf53eca147780035513a4e0",
-    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2358,24 +2349,6 @@
     }
   },
   {
-    "name": "Olelo 54",
-    "path_name": "bd5822e2af1e3aee6439d86f7ce851c4",
-    "url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Olelo 55",
-    "path_name": "d1b2935829f5379e1c84530f184a289d",
-    "url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
@@ -2793,15 +2766,6 @@
     "name": "Lex TV",
     "path_name": "29b5b063aa705cf68d80f73223419990",
     "url": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 13 Norfolk VA (WVEC)",
-    "path_name": "d1ac1d8443c2fba8d1fbf88a985c3502",
-    "url": "https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3552,24 +3516,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Los Angeles CA",
-    "path_name": "120e5eeb3805308c40c90af78f5f5474",
-    "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Los Angeles CA",
-    "path_name": "120e5eeb3805308c40c90af78f5f5474",
-    "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
