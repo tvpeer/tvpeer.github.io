@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "TeleJunín",
+    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
+    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -561,6 +570,15 @@
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Quellón",
+    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1809,15 +1827,6 @@
     }
   },
   {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -1974,15 +1983,6 @@
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2163,6 +2163,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3528,15 +3537,6 @@
     }
   },
   {
-    "name": "Fox Tallahassee FL (WTWC-TV2)",
-    "path_name": "7fe2188be2cbe45273606a4107def90b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NBC Boston MA (WBTS-CD1)",
     "path_name": "eddfc209c3f896afe8ffdad8247c5da4",
     "url": "http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8",
@@ -3558,15 +3558,6 @@
     "name": "NBC Seattle WA (KING-TV1)",
     "path_name": "cdda045d8ff3e99891ce78c90b1abc79",
     "url": "http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC Tallahassee FL (WTWC-TV1)",
-    "path_name": "44d8487f669269ee713309a50bdf6775",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3630,15 +3621,6 @@
     "name": "CBS Seattle WA (KIRO-TV1)",
     "path_name": "3a4b505a4283ce85b25d9270e324689a",
     "url": "http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS Tallahassee FL (WCTV1)",
-    "path_name": "77d8c2b96ee151dd58fa36edadfec20b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
