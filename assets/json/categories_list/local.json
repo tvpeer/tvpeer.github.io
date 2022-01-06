@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -846,6 +837,15 @@
     }
   },
   {
+    "name": "Canal Málaga RTV",
+    "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
+    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Popular TV Melilla",
     "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
     "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
@@ -1377,6 +1377,15 @@
     }
   },
   {
+    "name": "Lansingerland TV",
+    "path_name": "8fa9c12ed765f91ffd141b3601376178",
+    "url": "https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ML5 TV",
     "path_name": "bd4bd7f959692d3f87c4a9640d9f76da",
     "url": "https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
@@ -1542,15 +1551,6 @@
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
