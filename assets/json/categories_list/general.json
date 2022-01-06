@@ -810,15 +810,6 @@
     }
   },
   {
-    "name": "GTV",
-    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
-    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "MNCTV",
     "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
     "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
@@ -1542,6 +1533,15 @@
     "name": "PBS Spokane-WA (KSPS-TV1)",
     "path_name": "82052ab73e96c7968c328f3e194740c3",
     "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AXS TV Now",
+    "path_name": "5e2737784a2c1fb0c94cecfd576bb961",
+    "url": "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
