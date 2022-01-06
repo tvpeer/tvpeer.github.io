@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "Azstar TV",
-    "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
-    "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Interradio",
     "path_name": "b63c2e5d02522dca2cbf56b70ea2fb22",
     "url": "https://video01.logicahost.com.br/interradiofrutillar/smil:transcoder.smil/playlist.m3u8",
@@ -309,6 +300,15 @@
     "name": "Retro Plus 2",
     "path_name": "6a97eb8024801bbefa2d7e8ec3179adf",
     "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Play TV",
+    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -477,6 +477,15 @@
     }
   },
   {
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -576,6 +585,15 @@
     }
   },
   {
+    "name": "Mtunes Plus",
+    "path_name": "4ce8ec115ec18f19baad780e2d5eacce",
+    "url": "http://14.199.164.20:4001/play/a0p2/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "9XM",
     "path_name": "5db316206030ffbaba9b42f60a36a0e3",
     "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
@@ -597,6 +615,15 @@
     "name": "MH1 Music",
     "path_name": "662a0607f113817ade24c4bf4e63d6c4",
     "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
