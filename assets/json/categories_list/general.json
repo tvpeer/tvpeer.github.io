@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -792,15 +783,6 @@
     }
   },
   {
-    "name": "RCTI",
-    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "GTV",
     "path_name": "b6f10dc3b23e4aa70710831a8d918689",
     "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
@@ -1143,6 +1125,15 @@
     }
   },
   {
+    "name": "TV Palmeras",
+    "path_name": "ce8b1308fc4add4557a60169a6ce2642",
+    "url": "https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "UCI",
     "path_name": "a3881d4bf85941dc591f3b39c30274b8",
     "url": "https://mediastreamm.com:3449/live/mlecaroslive.m3u8",
@@ -1296,15 +1287,6 @@
     }
   },
   {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Prima TV",
     "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
     "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
@@ -1326,24 +1308,6 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Târgu Mureș",
-    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
-    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Iași",
-    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
-    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
