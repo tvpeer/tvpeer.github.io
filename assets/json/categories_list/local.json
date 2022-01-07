@@ -1026,6 +1026,15 @@
     }
   },
   {
+    "name": "TVRI Bangka Belitung",
+    "path_name": "5a54f5ec41ad457b0f5c58026f79bb6a",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Bengkulu",
     "path_name": "0c82c4714e5f5fcf30089a33726d4ae0",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8",
@@ -1614,15 +1623,6 @@
     "name": "TV5 Soritor",
     "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
     "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2586,15 +2586,6 @@
     "name": "The Ohio Channel (WOSU-DT3)",
     "path_name": "64d6ae691b5a445f923ee482411a1809",
     "url": "https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 26 Green Bay WI (WGBA)",
-    "path_name": "3f98d5c36b2932a6d320c593c58f8cfe",
-    "url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3705,6 +3696,114 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "PBS 39 Allentown PA (WLVT)",
+    "path_name": "9fc12abaef855bcf8339f76f25b5695f",
+    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS 39 Allentown PA (WLVT)",
+    "path_name": "9fc12abaef855bcf8339f76f25b5695f",
+    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS 39 Extra Philadelphia PA (WPPT)",
+    "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
+    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS 39 Extra Philadelphia PA (WPPT)",
+    "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
+    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Seattle WA (KCTS-TV1)",
+    "path_name": "03929e2fc088a2b3368c5a2babe9707c",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS Seattle WA (KCTS-TV1)",
+    "path_name": "03929e2fc088a2b3368c5a2babe9707c",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Spokane WA (KSPS-TV1)",
+    "path_name": "b919172c9248b29d66dd661ed1c2331e",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS Spokane WA (KSPS-TV1)",
+    "path_name": "b919172c9248b29d66dd661ed1c2331e",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS MPT Baltimore MD (WMPB)",
+    "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS MPT Baltimore MD (WMPB)",
+    "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS KET Louisville KY (WKMJ-TV)",
+    "path_name": "a8d7020e5b8831be753330e04c3c60ca",
+    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS KET Louisville KY (WKMJ-TV)",
+    "path_name": "a8d7020e5b8831be753330e04c3c60ca",
+    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
     }
   },
   {
