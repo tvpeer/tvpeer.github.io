@@ -297,6 +297,15 @@
     }
   },
   {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
@@ -840,6 +849,15 @@
     "name": "BeritaSatu",
     "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
     "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "iNews",
+    "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
+    "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1683,6 +1701,24 @@
     }
   },
   {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KGO-TV News",
+    "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
+    "url": "https://api.abcotvs.com/v3/kgo/m3u8/url?id=530971&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -1857,6 +1893,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
