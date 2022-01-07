@@ -558,15 +558,6 @@
     }
   },
   {
-    "name": "TV Costa (San Antonio)",
-    "path_name": "92937adbdfc4a3d3eac3ea204589ecb7",
-    "url": "https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Elqui (La Serena)",
     "path_name": "00e260a404c599828acc59263185bde9",
     "url": "https://5eff35271151c.streamlock.net:1936/8070/8070/playlist.m3u8",
@@ -2019,6 +2010,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3624,24 +3624,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
