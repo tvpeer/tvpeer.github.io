@@ -1,5 +1,23 @@
 [
   {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CBSN Los Angeles CA",
     "path_name": "120e5eeb3805308c40c90af78f5f5474",
     "url": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -1719,33 +1737,6 @@
     }
   },
   {
-    "name": "KFSN News",
-    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
-    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KTRK TV News",
-    "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
-    "url": "https://api.abcotvs.com/v3/ktrk/m3u8/url?id=514944&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WMTW-TV News Portland ME",
-    "path_name": "40c043c952edad7a3772b40e1be08e81",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -1920,15 +1911,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
