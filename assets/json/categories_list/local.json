@@ -279,6 +279,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -1539,15 +1548,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1722,6 +1722,15 @@
     "name": "Mega TV (Arequipa)",
     "path_name": "bbf31e2bf896418ee84f82f7cc0ac4e6",
     "url": "https://media2.cdnlayer.biz:8081/8008/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "OK TeVe (Yurimaguas)",
+    "path_name": "13852856127ecf9cbcbc3455478bdb4d",
+    "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2190,6 +2199,15 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SGDF24.RU (Свердлов)",
+    "path_name": "b3ca63e2c2a924a81414db6c356e61eb",
+    "url": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
