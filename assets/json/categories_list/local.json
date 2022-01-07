@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -363,6 +354,15 @@
     "name": "CEAC TV (Santiago)",
     "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
     "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Campus TV (Talca)",
+    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3822,24 +3822,6 @@
     "categories": {
       "name": "Education",
       "slug": "education"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
