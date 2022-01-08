@@ -153,6 +153,15 @@
     }
   },
   {
+    "name": "Ciudad TV Resistencia (Chaco)",
+    "path_name": "ae13211e238dbe907fa833cb506fa46e",
+    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenord Corrientes",
     "path_name": "9d49de079f499fc31f02f55416f28f0a",
     "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
@@ -2088,15 +2097,6 @@
     }
   },
   {
-    "name": "Genios TV (Moyobamba)",
-    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
-    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cadena TV Huancayo",
     "path_name": "a3fb071898b65b37ea979490748f8cce",
     "url": "https://tvdatta.com:3262/live/cadenatvlive.m3u8",
@@ -2262,6 +2262,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2667,15 +2676,6 @@
     "name": "Leominster TV Public",
     "path_name": "f7747fe5ba7565c9299a1410f7d64f5b",
     "url": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "The Ohio Channel (WOSU-DT3)",
-    "path_name": "64d6ae691b5a445f923ee482411a1809",
-    "url": "https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
