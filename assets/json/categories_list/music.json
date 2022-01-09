@@ -324,15 +324,6 @@
     }
   },
   {
-    "name": "Canal Son TV",
-    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
-    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Telemúsica TV",
     "path_name": "cee0731d8a2b1370fc3e05c0e2b6bba0",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8",
@@ -471,6 +462,15 @@
     "name": "Activa TV",
     "path_name": "f1cdbef12bb6984066983efa76558402",
     "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Mezzo",
+    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1188,6 +1188,15 @@
     }
   },
   {
+    "name": "Страна FM",
+    "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
+    "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
@@ -1281,15 +1290,6 @@
     "name": "Box Hits",
     "path_name": "831df94f10a11999dfa768d1f4db5442",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "The Box UK",
-    "path_name": "cd193df222036636e3a7c652978bf742",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
     "categories": {
       "name": "Music",
       "slug": "music"
