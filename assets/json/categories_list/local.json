@@ -351,15 +351,6 @@
     }
   },
   {
-    "name": "TVCI",
-    "path_name": "e211900f04bde05db319cff2dc76cab8",
-    "url": "http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -594,6 +585,15 @@
     }
   },
   {
+    "name": "LTV (Renaico)",
+    "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
+    "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "La Granja TV",
     "path_name": "6ee3a194c8c2e399155be9dc53660aab",
     "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
@@ -705,15 +705,6 @@
     "name": "Tele 2 Web (Retiro)",
     "path_name": "1348cfd3347fe8e5b2d82e5b12c1d61f",
     "url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1398,15 +1389,6 @@
     "name": "TV Tokyo",
     "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
     "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://50.7.74.29:8880/hlsok/j00030/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
