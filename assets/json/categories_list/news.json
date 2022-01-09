@@ -1305,6 +1305,15 @@
     }
   },
   {
+    "name": "Fresh News",
+    "path_name": "9f058e23e957f3276a58ebed05b541c4",
+    "url": "http://167.99.65.12:1935/live/myStream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Bayon TV",
     "path_name": "9d3437e9e63527fad6de1ccbe032805b",
     "url": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8",
@@ -1884,6 +1893,15 @@
     "name": "CBSN",
     "path_name": "0095027b95388b1f5ad7824733e794e1",
     "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
