@@ -90,9 +90,9 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -846,6 +846,15 @@
     }
   },
   {
+    "name": "GTV",
+    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
+    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "MNCTV",
     "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
     "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
@@ -1044,51 +1053,6 @@
     }
   },
   {
-    "name": "BS-TBS",
-    "path_name": "579e17f9b945937947fdf7ba98f53a63",
-    "url": "http://50.7.74.29:8880/hls/j00051/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK BS1",
-    "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
-    "url": "http://50.7.74.29:8880/hls/j00037/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK BSP",
-    "path_name": "eb440ac0425056cd96ab46f2dbb147d4",
-    "url": "http://50.7.74.29:8880/hlsok/j00036/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Osaka",
-    "path_name": "bd2f37949c17064337002b68515df864",
-    "url": "http://50.7.74.29:8880/hlsok/j00032/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Tokyo",
-    "path_name": "d5eeeebcfbdf3b89336d0686cad94759",
-    "url": "http://50.7.74.29:8880/hls/j00033/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Kass TV",
     "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
     "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
@@ -1209,6 +1173,15 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
