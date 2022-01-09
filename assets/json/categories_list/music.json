@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -219,6 +210,15 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -486,15 +486,6 @@
     }
   },
   {
-    "name": "MCM Top",
-    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
-    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -533,7 +524,7 @@
   {
     "name": "NG",
     "path_name": "21c8ee28bfbf5e822c7d336770869a93",
-    "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
+    "url": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1089,15 +1080,6 @@
     }
   },
   {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Kiss TV",
     "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
     "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
@@ -1314,15 +1296,6 @@
     }
   },
   {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Box Hits",
     "path_name": "831df94f10a11999dfa768d1f4db5442",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
@@ -1380,15 +1353,6 @@
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Baeble Music",
-    "path_name": "ea2dfbb2664985467ed40b533621afe9",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

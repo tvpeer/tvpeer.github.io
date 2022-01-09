@@ -774,15 +774,6 @@
     }
   },
   {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "City TV (Bogotà | Cundinamarca)",
     "path_name": "56723578aa6b96da3fe55f3f6663efae",
     "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
@@ -957,15 +948,6 @@
     "name": "Popular TV Melilla",
     "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
     "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV7 Colmar",
-    "path_name": "f13735e0a9057e312a128ab6781d86ce",
-    "url": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1386,6 +1368,60 @@
     }
   },
   {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MBS (Mainichi Broadcasting System)",
+    "path_name": "893d214fc242158a86311bb71d4632fc",
+    "url": "http://50.7.74.29:8880/hlsok/j00038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Asahi",
+    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
+    "url": "http://50.7.74.29:8880/hls/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "http://50.7.74.29:8880/hlsok/j00030/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX2",
     "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
     "url": "https://movie.mcas.jp/mcas/mx2_2/master.m3u8",
@@ -1674,15 +1710,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1713,6 +1740,15 @@
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2160,6 +2196,15 @@
     }
   },
   {
+    "name": "Radio Digital 94.1 TV (Juanjui)",
+    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
+    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
@@ -2241,9 +2286,27 @@
     }
   },
   {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2568,15 +2631,6 @@
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BUTV10 (Boston University)",
-    "path_name": "de3b37f41f9d9d6fa221071bf22107d1",
-    "url": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

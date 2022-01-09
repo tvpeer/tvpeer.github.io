@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "TRT World",
+    "path_name": "b5c477eb39adeeb1166dda16b5bb410e",
+    "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
@@ -234,18 +243,18 @@
     }
   },
   {
-    "name": "Informacion Periodística",
-    "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
-    "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
+    "name": "Արմնյուզ",
+    "path_name": "85a96b30a73b196ca197c47086242ae1",
+    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
+    "name": "Informacion Periodística",
+    "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
+    "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1287,15 +1296,6 @@
     }
   },
   {
-    "name": "Fresh News",
-    "path_name": "9f058e23e957f3276a58ebed05b541c4",
-    "url": "http://167.99.65.12:1935/live/myStream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Bayon TV",
     "path_name": "9d3437e9e63527fad6de1ccbe032805b",
     "url": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8",
@@ -1514,7 +1514,7 @@
   {
     "name": "Euronews Português",
     "path_name": "8742bad4dab9ae4c004a9a55fb6b4198",
-    "url": "https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8",
+    "url": "https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1686,6 +1686,15 @@
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBC News",
+    "path_name": "6f1bb7f82e90b0a0f833c7ae873a1d49",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
