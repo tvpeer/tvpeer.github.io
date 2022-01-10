@@ -198,24 +198,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "QVTV",
-    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
-    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
@@ -389,7 +371,7 @@
   {
     "name": "Coptic TV",
     "path_name": "17ad62b9301f9e8bf2480b5eb3ae76c8",
-    "url": "https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
+    "url": "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -489,6 +471,15 @@
     "name": "Dios Te Ve Infantil",
     "path_name": "c743196c3c93860e98936e5b9ccaada5",
     "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Vida TV",
+    "path_name": "e379829fce360c74d3894c865a6f80b8",
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1161,6 +1152,15 @@
     }
   },
   {
+    "name": "華藏衛視",
+    "path_name": "13e41079e0f5ee10a7a956a649170906",
+    "url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "GOOD TV CH10 烤箱讀書會 短版",
     "path_name": "030a9cf26bea23a7455c67deff8ecf66",
     "url": "https://live.streamingfast.net/osmflivech10.m3u8",
@@ -1227,6 +1227,15 @@
     "name": "GOOD TV CH19 共享觀點",
     "path_name": "73798910887d180476b291fca6d6c08a",
     "url": "https://live.streamingfast.net/osmflivech19.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH1 綜合台",
+    "path_name": "24fc4c7c61df2e8303e64aa7f4e52969",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1305,15 +1314,6 @@
     }
   },
   {
-    "name": "GOOD TV CH2 真理台",
-    "path_name": "59ecdf546a1c3f4a1ea350a10b561305",
-    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH30 天堂敬拜",
     "path_name": "f4a8b74873714d54a33dcf0a5c5da092",
     "url": "https://live.streamingfast.net/osmflivech30.m3u8",
@@ -1335,6 +1335,15 @@
     "name": "GOOD TV CH32 特會系列：禱告與轉化",
     "path_name": "62da1638aa4db3555d7a826e761c8e2a",
     "url": "https://live.streamingfast.net/osmflivech32.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH33 特會系列：研經培靈",
+    "path_name": "acce9f013f8fff26ccbd8abea3d16046",
+    "url": "https://live.streamingfast.net/osmflivech33.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1746,6 +1755,15 @@
     }
   },
   {
+    "name": "QVTV",
+    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
+    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Cornerstone TV",
     "path_name": "6e9b121a0cde38819378f2e656157e80",
     "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
@@ -1920,15 +1938,6 @@
     "name": "Esperanza TV",
     "path_name": "f779936bed70364133d1fcdf28afcdff",
     "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Genesis TV",
-    "path_name": "2d63024f54aed55734541e76b52a5f34",
-    "url": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
