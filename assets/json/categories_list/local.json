@@ -333,15 +333,6 @@
     }
   },
   {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -633,15 +624,6 @@
     "name": "Radio América TV",
     "path_name": "c4a914d7b4662c2342f3b85d5575c3b9",
     "url": "https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Santa María Televisión",
-    "path_name": "3367c1feb878d42504c153dd4d570aa3",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2277,15 +2259,6 @@
     }
   },
   {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
@@ -2352,6 +2325,15 @@
     "name": "Millenium 49 TV (Pucallpa)",
     "path_name": "b38029251e5315b6d9234a159b407285",
     "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Tropical Tarapoto",
+    "path_name": "8453201823fc7d219cd99f78e5d804a7",
+    "url": "https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
