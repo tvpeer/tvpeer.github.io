@@ -207,15 +207,6 @@
     }
   },
   {
-    "name": "Alvin Channel TV",
-    "path_name": "af035aef2df699d66b9a68c4742e79ed",
-    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Az TV",
     "path_name": "efb6bec04bc9bec8259daa896591e1a1",
     "url": "http://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8",
@@ -432,6 +423,15 @@
     }
   },
   {
+    "name": "SBT TV Serra Dourada",
+    "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Verdes Campos",
     "path_name": "02989a8ac0d9610a95e91b1885239e4a",
     "url": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
@@ -450,18 +450,18 @@
     }
   },
   {
-    "name": "RedeTV! Tocantins",
-    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
+    "name": "MKK Web TV",
+    "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
+    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "MKK Web TV",
-    "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
-    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -498,6 +498,15 @@
     "name": "TV Diário do Sertão",
     "path_name": "fe591e582ec425bad1ddab35392ef48b",
     "url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV BRICS Portuguese",
+    "path_name": "9590801d96eec46c25414c97d033376b",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -669,6 +678,15 @@
     "name": "Boss Brothers TV",
     "path_name": "3a7f7fe4a8f8c4440cecad60d1a97acd",
     "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV BRICS Chinese",
+    "path_name": "d26fe2376236a1d11ea1c600c85e208d",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -867,6 +885,15 @@
     "name": "Tehelka TV",
     "path_name": "306fc9a1909c045aefbfd0dad2f06de8",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV BRICS English",
+    "path_name": "55acd22b2f3edf6872e94a43db527a8b",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1422,15 +1449,6 @@
     }
   },
   {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Prima TV",
     "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
     "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
@@ -1551,6 +1569,15 @@
     "name": "5 канал",
     "path_name": "aa9e7cf6dc6ee4353193c70220fafd92",
     "url": "https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV BRICS Russian",
+    "path_name": "2543aac2cd3fba91497e95bab6235d52",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
