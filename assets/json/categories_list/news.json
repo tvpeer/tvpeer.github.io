@@ -1683,15 +1683,6 @@
     }
   },
   {
-    "name": "KTRK TV News",
-    "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
-    "url": "https://api.abcotvs.com/v3/ktrk/m3u8/url?id=514944&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -1881,6 +1872,15 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
@@ -1917,15 +1917,6 @@
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -1947,6 +1938,15 @@
     "name": "TeleSUR English",
     "path_name": "8920ca69389bdac1d6edaa0ee6b65c8a",
     "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Arta News",
+    "path_name": "406dac6bf742e6cde5e933f1f0d75382",
+    "url": "https://samiu.gjirafa.com/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/yt1q1x.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
