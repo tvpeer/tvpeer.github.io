@@ -504,15 +504,6 @@
     }
   },
   {
-    "name": "Record News",
-    "path_name": "3feb5980c7836d1e3d87f49734826648",
-    "url": "https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Беларусь 3",
     "path_name": "6ad011330527b86bff7dbd0583ec5bd3",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
@@ -1695,6 +1686,15 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WTVD TV News",
+    "path_name": "a05ec7c32a3dddb46f8253f834cbb333",
+    "url": "https://api.abcotvs.com/v3/wtvd/m3u8/url?id=563661&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
