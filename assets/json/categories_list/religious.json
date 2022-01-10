@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "Canal ISB (Iglesia San Bernardo)",
-    "path_name": "00790056464ac6bae6f28d620093979c",
-    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Radio Uniem",
     "path_name": "9dc09ef2716c26c4b80675cd2c276877",
     "url": "https://5eff35271151c.streamlock.net:1936/8110/8110/playlist.m3u8",
@@ -561,6 +552,33 @@
     "name": "ABNsat",
     "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: Between the two holy shrines",
+    "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The entrance of the holy sanctuary",
+    "path_name": "f5143e093c6e6c236dc827672484d53e",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The window of Al-Kafeel",
+    "path_name": "ce691daa789ab64cd8589b61ef6b7e60",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1152,15 +1170,6 @@
     }
   },
   {
-    "name": "華藏衛視",
-    "path_name": "13e41079e0f5ee10a7a956a649170906",
-    "url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH10 烤箱讀書會 短版",
     "path_name": "030a9cf26bea23a7455c67deff8ecf66",
     "url": "https://live.streamingfast.net/osmflivech10.m3u8",
@@ -1173,15 +1182,6 @@
     "name": "GOOD TV CH12 維他命施",
     "path_name": "155a8e88a63566fdecfd7f366a206ea6",
     "url": "https://live.streamingfast.net/osmflivech12.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH13 健康新煮流 短版",
-    "path_name": "9bbbe5d74a8f8799185753c58d9480d2",
-    "url": "https://live.streamingfast.net/osmflivech13.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1227,15 +1227,6 @@
     "name": "GOOD TV CH19 共享觀點",
     "path_name": "73798910887d180476b291fca6d6c08a",
     "url": "https://live.streamingfast.net/osmflivech19.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH1 綜合台",
-    "path_name": "24fc4c7c61df2e8303e64aa7f4e52969",
-    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1308,6 +1299,15 @@
     "name": "GOOD TV CH29 經典音樂河",
     "path_name": "2ea2952114dca9d0393cd5584b759953",
     "url": "https://live.streamingfast.net/osmflivech29.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH2 真理台",
+    "path_name": "59ecdf546a1c3f4a1ea350a10b561305",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1712,7 +1712,7 @@
   {
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
-    "url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8",
+    "url": "https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
