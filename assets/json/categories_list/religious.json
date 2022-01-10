@@ -171,15 +171,6 @@
     }
   },
   {
-    "name": "Rede Vida",
-    "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
-    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
@@ -210,6 +201,15 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -543,33 +543,6 @@
     "name": "ABNsat",
     "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Alkafeel: Between the two holy shrines",
-    "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
-    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Alkafeel: The entrance of the holy sanctuary",
-    "path_name": "f5143e093c6e6c236dc827672484d53e",
-    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Alkafeel: The window of Al-Kafeel",
-    "path_name": "ce691daa789ab64cd8589b61ef6b7e60",
-    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1722,6 +1695,15 @@
     "name": "Christian Youth Channel (CYC)",
     "path_name": "6a32b1fc5a566c22c643d810877267f3",
     "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TBN Asia",
+    "path_name": "a80cbe0640e879f6ce9c0550953c61c4",
+    "url": "http://210.210.155.35/qwr9ew/s/s39/02.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
