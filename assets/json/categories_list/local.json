@@ -342,6 +342,15 @@
     }
   },
   {
+    "name": "TVE Bahia",
+    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
+    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -1737,6 +1746,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2088,15 +2106,6 @@
     }
   },
   {
-    "name": "Cable Netword TV",
-    "path_name": "767e7a4892a20a1aa9b7837807aead93",
-    "url": "https://tv.siete.us/cntv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
@@ -2235,6 +2244,15 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
