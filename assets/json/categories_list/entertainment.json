@@ -1,14 +1,5 @@
 [
   {
-    "name": "Crossing TV (Crossing Contenidos)",
-    "path_name": "886a83a0c22256aa5378935b504c05eb",
-    "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -48,6 +39,15 @@
     "name": "EnerGeek",
     "path_name": "8e3b264463fc4b4a14733deb2a55dc9b",
     "url": "https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Canal RCN Novelas",
+    "path_name": "002cd85d17f3848b8825c7809555a74b",
+    "url": "http://45.179.140.242:8000/play/a0jf",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -525,6 +525,15 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
