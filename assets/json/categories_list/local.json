@@ -234,6 +234,24 @@
     }
   },
   {
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nova Era TV",
+    "path_name": "97002ce81e35169dff3b16c94d105fbd",
+    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Mon",
     "path_name": "827c459cf6843cd8eec5ef140c100b2e",
     "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
@@ -1065,6 +1083,15 @@
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CHTV (Canal Hondureño de Televisión)",
+    "path_name": "efae4026d57434068ae23bfc90103317",
+    "url": "https://media.streambrothers.com:1936/8158/8158/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2061,6 +2088,15 @@
     }
   },
   {
+    "name": "Diario Hechicera (Tumbes)",
+    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
+    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2208,15 +2244,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
