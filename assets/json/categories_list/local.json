@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -1944,6 +1935,15 @@
     }
   },
   {
+    "name": "Solar Televisión (Abancay)",
+    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
+    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2088,15 +2088,6 @@
     }
   },
   {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NorSelva RTV (Rioja)",
     "path_name": "0987514277d76d1b01b90db8d923abe8",
     "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
@@ -2199,6 +2190,15 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
