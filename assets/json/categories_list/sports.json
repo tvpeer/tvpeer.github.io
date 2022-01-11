@@ -243,42 +243,6 @@
     }
   },
   {
-    "name": "J Sports 1",
-    "path_name": "370638b7d68c31b1139d960e48290718",
-    "url": "http://50.7.74.29:8880/hls/j00042/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "J Sports 2",
-    "path_name": "adc578b516d4fcc00480def837921009",
-    "url": "http://50.7.74.29:8880/hls/j00041/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "J Sports 3",
-    "path_name": "3f14d56a26f3817bc76b5759bb9c7357",
-    "url": "http://50.7.74.29:8880/hls/j00040/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "J Sports 4",
-    "path_name": "4f2d3cc66463e8be9338ec5e780cc180",
-    "url": "http://50.7.74.29:8880/hls/j00039/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Arryadia",
     "path_name": "9bfc64dd397e4253ad8aef2a6d02a349",
     "url": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
@@ -495,6 +459,15 @@
     }
   },
   {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
@@ -597,15 +570,6 @@
     "name": "TVS Women Sports",
     "path_name": "a96518e18dd255e3125d9447216af9bc",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "STIRR Stadium",
-    "path_name": "54e90fd0ed959c5ece9eb3371b82b80b",
-    "url": "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
