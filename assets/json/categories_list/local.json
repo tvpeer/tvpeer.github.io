@@ -180,6 +180,15 @@
     }
   },
   {
+    "name": "Rede CNT (São Paulo)",
+    "path_name": "98d8e66351ab55fdb893e09404b32a62",
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Interlagos",
     "path_name": "83a23431a9db5d994fc27bdac37970d4",
     "url": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
@@ -1728,6 +1737,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1785,6 +1803,15 @@
     "name": "Caribe Televisión (Otuzco)",
     "path_name": "ae563479c749b0ffa54aa1c009027e03",
     "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Central TV (Chosica)",
+    "path_name": "f8e30b59953c450328010027510582c2",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2100,6 +2127,24 @@
     "name": "Primavera 15 Radiotelevisión (Moquegua)",
     "path_name": "232c1b378a773506b3584703aa567ca9",
     "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tropical TV (Puerto Maldonado)",
+    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
+    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
