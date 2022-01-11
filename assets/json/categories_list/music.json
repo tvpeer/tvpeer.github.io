@@ -1233,15 +1233,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Муз-ТВ",
     "path_name": "f1ee13ec2296a569f4e9e11694423627",
     "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
@@ -1335,6 +1326,15 @@
     "name": "Box Hits",
     "path_name": "831df94f10a11999dfa768d1f4db5442",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "The Box UK",
+    "path_name": "cd193df222036636e3a7c652978bf742",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
     "categories": {
       "name": "Music",
       "slug": "music"
