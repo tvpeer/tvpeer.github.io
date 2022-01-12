@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -138,6 +129,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -219,15 +219,6 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Az TV",
-    "path_name": "efb6bec04bc9bec8259daa896591e1a1",
-    "url": "http://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -471,6 +462,15 @@
     "name": "MKK Web TV",
     "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
     "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1575,6 +1575,15 @@
     }
   },
   {
+    "name": "WOW TV",
+    "path_name": "dc5ea1b50761502eb23510e8482ea260",
+    "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Syria TV",
     "path_name": "1a67757ef1bd124f8a09e681f6ea45b3",
     "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8",
@@ -1713,15 +1722,6 @@
     "name": "TVS Television Network",
     "path_name": "104e65b16979ce9e724aca20314edaf5",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Millennium TV USA",
-    "path_name": "bbbea8cc47df74468fc7a70a7eec1283",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
