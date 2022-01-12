@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -495,6 +486,15 @@
     }
   },
   {
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -533,7 +533,7 @@
   {
     "name": "NG",
     "path_name": "21c8ee28bfbf5e822c7d336770869a93",
-    "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
+    "url": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -642,15 +642,6 @@
     "name": "Public Music",
     "path_name": "844c60da5656272f414cb50ec450925c",
     "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Real TV",
-    "path_name": "6c092badba12db1580c14080f0bbf6b0",
-    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1044,15 +1035,6 @@
     }
   },
   {
-    "name": "Top Latino TV",
-    "path_name": "9975d13dc3902ccfc77d53c9675c50df",
-    "url": "https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Visión TV Musica",
     "path_name": "3302dc2e106d23ad007eed27b4748281",
     "url": "https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8",
@@ -1224,9 +1206,9 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "name": "Муз-ТВ",
+    "path_name": "f1ee13ec2296a569f4e9e11694423627",
+    "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1389,15 +1371,6 @@
     "name": "TVS Music Network",
     "path_name": "a54f2f258d6934682d58f220d6932f53",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "The Retro Channel",
-    "path_name": "f12aa797054038d0b72cc9f267980241",
-    "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
