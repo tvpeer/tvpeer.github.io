@@ -72,6 +72,24 @@
     }
   },
   {
+    "name": "PBS Tallahassee FL (WFSU-TV1)",
+    "path_name": "f3a86118486963f91dbf380b6ef10a54",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Tallahassee FL (WFSU-TV1)",
+    "path_name": "f3a86118486963f91dbf380b6ef10a54",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PBS MPT Baltimore MD (WMPB)",
     "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
@@ -225,6 +243,15 @@
     }
   },
   {
+    "name": "TV Nova Onda",
+    "path_name": "8832cb35646548f8da02e4ea80ca0a4c",
+    "url": "https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 25 Jundiaí",
     "path_name": "63d12f4a270b9fe9a947a90f2347a451",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -306,15 +333,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -327,15 +345,6 @@
     "name": "TV Sol Comunidade",
     "path_name": "15d51beac02d1ff1ebf4d579a607137c",
     "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1596,15 +1605,6 @@
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Regio90 TV",
-    "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
-    "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2979,15 +2979,6 @@
     }
   },
   {
-    "name": "CT-N Court Feed",
-    "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
-    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CT-N Live Stream 2",
     "path_name": "911c9ad223ea611f454647ba059ad622",
     "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
@@ -3366,15 +3357,6 @@
     }
   },
   {
-    "name": "CT-N TV Conneticut",
-    "path_name": "a2aaef4c0288dcfd70d776027ee235a3",
-    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CBS 2 Greensboro NC (WFMY)",
     "path_name": "a94e89c2220f068aa1103a0860289767",
     "url": "https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8",
@@ -3654,6 +3636,15 @@
     }
   },
   {
+    "name": "ABC Tallahassee FL (WTXL-TV1)",
+    "path_name": "7c173938c26af7f3ec9a9afb232cae86",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "WGN Chicago IL (WGN-TV1)",
     "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8",
@@ -3666,6 +3657,15 @@
     "name": "23 ABC Bakersfield CA (KERO)",
     "path_name": "e7abacd964e7d0423bf94d21a5f0f2b6",
     "url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "The Florida Channel Tallahassee FL (WFSU-TV2)",
+    "path_name": "f687ef49d727b9f1e0b7bdef43d3cf7a",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-FL.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
