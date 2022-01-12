@@ -18,9 +18,9 @@
     }
   },
   {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -486,24 +486,6 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "MCM Top",
-    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
-    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -705,6 +687,15 @@
     "name": "Kalaignar Murasu",
     "path_name": "4c9055fc25648890e6a56f1ce51131a8",
     "url": "http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Sana Plus",
+    "path_name": "bf4717a206396ee4798a2c83527a0df1",
+    "url": "http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -927,6 +918,24 @@
     }
   },
   {
+    "name": "JENZ",
+    "path_name": "f4aa71527fe986064db807d565aaf071",
+    "url": "https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "XITE (BE)",
+    "path_name": "7a9bfd4261bf46ded3ea1eefa44e4e0a",
+    "url": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "GO-RTV",
     "path_name": "1d11b702ba497e1070cced490dad70cd",
     "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
@@ -1071,6 +1080,15 @@
     }
   },
   {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kiss TV",
     "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
     "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
@@ -1200,15 +1218,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

@@ -1485,6 +1485,15 @@
     }
   },
   {
+    "name": "Omroep Centraal TV",
+    "path_name": "04799935f932e880938546ea203b0137",
+    "url": "https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Feel Good TV",
     "path_name": "583bf58d00175d8dcfabbe45a60d4c53",
     "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
@@ -1521,9 +1530,27 @@
     }
   },
   {
+    "name": "Omroep Tilburg TV",
+    "path_name": "ff6d8783ac40a891558447792ab7e727",
+    "url": "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Samen1 TV",
     "path_name": "55b0abc46bf655bd8d3cddc521199aeb",
     "url": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio8 TV",
+    "path_name": "b37d2bd66453ee6c900b45f46fa731c6",
+    "url": "https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1551,6 +1578,15 @@
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio90 TV",
+    "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
+    "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1587,6 +1623,24 @@
     "name": "LOE TV",
     "path_name": "b169d9dd263586b141e303c964acb63c",
     "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Omroep P&M TV",
+    "path_name": "6293b66f13e16fc08c48bfba235f5ec8",
+    "url": "https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RTV Connect TV",
+    "path_name": "b40de220a63657099f317faadbab70da",
+    "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1722,15 +1776,6 @@
     "name": "Cajamarca TV",
     "path_name": "7807971ea588e8f5b73ad964ee07d397",
     "url": "https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal 43 Sudamericana (Ica)",
-    "path_name": "bc2117428c81fe2513da77b0de044691",
-    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1881,6 +1926,15 @@
     }
   },
   {
+    "name": "Solar Televisión (Abancay)",
+    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
+    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -1893,6 +1947,15 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1971,6 +2034,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
@@ -1992,15 +2064,6 @@
     "name": "Cadena TV Huancayo",
     "path_name": "a3fb071898b65b37ea979490748f8cce",
     "url": "https://tvdatta.com:3262/live/cadenatvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "La Ribereña (Pucallpa)",
-    "path_name": "a20156fddec12f98e695ca9163b6454a",
-    "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2208,6 +2271,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2862,24 +2934,6 @@
     }
   },
   {
-    "name": "CT-N Court Feed",
-    "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
-    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CT-N Live Stream 2",
-    "path_name": "911c9ad223ea611f454647ba059ad622",
-    "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TSTV",
     "path_name": "8a872cb88b321447457f7b272b1a1d7b",
     "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
@@ -3243,15 +3297,6 @@
     "name": "Beach TV Key West & Florida Keys",
     "path_name": "c19547c9bc08900408a4fc6cccf6dfe8",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CT-N TV Conneticut",
-    "path_name": "a2aaef4c0288dcfd70d776027ee235a3",
-    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
