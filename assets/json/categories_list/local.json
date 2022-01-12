@@ -351,15 +351,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Montreal Greek TV",
     "path_name": "a15892114864e1f2bd226d6cb845f475",
     "url": "http://94.130.180.175:8081/live/greektv/playlist.m3u8",
@@ -759,6 +750,15 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3795,24 +3795,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
