@@ -270,6 +270,15 @@
     }
   },
   {
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nova Era TV",
     "path_name": "97002ce81e35169dff3b16c94d105fbd",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
@@ -927,6 +936,15 @@
     }
   },
   {
+    "name": "tvG2",
+    "path_name": "467b3314774de8741109c336336293a8",
+    "url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVG Evento 5",
     "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
     "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
@@ -957,6 +975,15 @@
     "name": "Canal Málaga RTV",
     "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Popular TV Melilla",
+    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
+    "url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1053,6 +1080,15 @@
     }
   },
   {
+    "name": "Channel 9",
+    "path_name": "998f454cb1378a5e9527a1a4af87205f",
+    "url": "https://e-e.cyou:8222/channel9/channel9/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Epirus TV1",
     "path_name": "b595a00706b243c81ed0e8ba19bd8fbd",
     "url": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8",
@@ -1116,9 +1152,36 @@
     }
   },
   {
+    "name": "TVRI Aceh",
+    "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Aceh",
+    "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Bali",
     "path_name": "cdc07431d0fe682d5650e50d2bcef19e",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Bali",
+    "path_name": "cdc07431d0fe682d5650e50d2bcef19e",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1134,9 +1197,27 @@
     }
   },
   {
+    "name": "TVRI Bangka Belitung",
+    "path_name": "5a54f5ec41ad457b0f5c58026f79bb6a",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Bengkulu",
     "path_name": "0c82c4714e5f5fcf30089a33726d4ae0",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Bengkulu",
+    "path_name": "0c82c4714e5f5fcf30089a33726d4ae0",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1152,9 +1233,27 @@
     }
   },
   {
+    "name": "TVRI DKI Jakarta",
+    "path_name": "31078ffdcb359039286e551f2e227b3b",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Gorontalo",
     "path_name": "e4ded4dcd3484e037478fe3a5a002708",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Gorontalo",
+    "path_name": "e4ded4dcd3484e037478fe3a5a002708",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1170,9 +1269,27 @@
     }
   },
   {
+    "name": "TVRI Jambi",
+    "path_name": "e2c7c68896dcd0bda477beea509955dd",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Kalimantan Barat",
     "path_name": "055bc7bc100bb244df5b093a84753a0f",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Kalimantan Barat",
+    "path_name": "055bc7bc100bb244df5b093a84753a0f",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1188,9 +1305,27 @@
     }
   },
   {
+    "name": "TVRI Kalimantan Selatan",
+    "path_name": "0b05af1c8058adfbfa50232a66aec311",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Kalimantan Tengah",
     "path_name": "b2d6907600ac4a83f7c047a6244b991e",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Kalimantan Tengah",
+    "path_name": "b2d6907600ac4a83f7c047a6244b991e",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1206,9 +1341,27 @@
     }
   },
   {
+    "name": "TVRI Kalimantan Timur",
+    "path_name": "fb7260bffd5156930ade2499ac026207",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Lampung",
     "path_name": "62ee7b139fe1cf0e4dd5e86234049bd4",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Lampung",
+    "path_name": "62ee7b139fe1cf0e4dd5e86234049bd4",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1224,9 +1377,27 @@
     }
   },
   {
+    "name": "TVRI Maluku",
+    "path_name": "cfc0c009a6b5507eb4f70fcdbf1aeaac",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Nusa Tenggara Barat",
     "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Nusa Tenggara Barat",
+    "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1242,9 +1413,27 @@
     }
   },
   {
+    "name": "TVRI Nusa Tenggara Timur",
+    "path_name": "51c8ba7f3b275a9733970d2e420eee0a",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Papua",
     "path_name": "ae41197bb44aa0b860c73d8c611974ca",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Papua",
+    "path_name": "ae41197bb44aa0b860c73d8c611974ca",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1260,9 +1449,27 @@
     }
   },
   {
+    "name": "TVRI Riau",
+    "path_name": "0553048d1adc435c63fb4f447a14841b",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Sulawesi Barat",
     "path_name": "5dba6baaf2bdc208f5dcbd031f0e61c8",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sulawesi Barat",
+    "path_name": "5dba6baaf2bdc208f5dcbd031f0e61c8",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1278,9 +1485,27 @@
     }
   },
   {
+    "name": "TVRI Sulawesi Selatan",
+    "path_name": "2387715f55d7abab95290d2d3069883a",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Sulawesi Tengah",
     "path_name": "de8d81faf7b02d435b6af227c4ea5a89",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sulawesi Tengah",
+    "path_name": "de8d81faf7b02d435b6af227c4ea5a89",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1296,9 +1521,27 @@
     }
   },
   {
+    "name": "TVRI Sulawesi Tenggara",
+    "path_name": "1f1fc03eb6ad64d330f712fc97825a6c",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Sulawesi Utara",
     "path_name": "0a74756a24f8accdc9c04be8045badec",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sulawesi Utara",
+    "path_name": "0a74756a24f8accdc9c04be8045badec",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1314,9 +1557,27 @@
     }
   },
   {
+    "name": "TVRI Sumatera Barat",
+    "path_name": "541f59c33e162044e0bad508bc4f33a9",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Sumatera Selatan",
     "path_name": "9e32c1afaee26e3da4602a461083409a",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Sumatera Selatan",
+    "path_name": "9e32c1afaee26e3da4602a461083409a",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1332,9 +1593,27 @@
     }
   },
   {
+    "name": "TVRI Sumatera Utara",
+    "path_name": "97828f09a40489d0b93df2ba1f981ba5",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Jawa Tengah",
     "path_name": "46893a5164bc751d7e3d4c450baaa5df",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Jawa Tengah",
+    "path_name": "46893a5164bc751d7e3d4c450baaa5df",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1350,9 +1629,27 @@
     }
   },
   {
+    "name": "TVRI Jawa Timur",
+    "path_name": "ef7fa88398b52590c56fdbb2920dc5e0",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI World",
     "path_name": "858fd8e01c3f7a47b5ae4a3d404c079f",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI World",
+    "path_name": "858fd8e01c3f7a47b5ae4a3d404c079f",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1368,9 +1665,27 @@
     }
   },
   {
+    "name": "TVRI Yogyakarta",
+    "path_name": "ebf4e67de55f6d060f796d5b62a98423",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Jawa Barat",
     "path_name": "eb0346701d63694986f4f11fa49154c7",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Jawa Barat",
+    "path_name": "eb0346701d63694986f4f11fa49154c7",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1395,9 +1710,27 @@
     }
   },
   {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MBS (Mainichi Broadcasting System)",
     "path_name": "893d214fc242158a86311bb71d4632fc",
     "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MBS (Mainichi Broadcasting System)",
+    "path_name": "893d214fc242158a86311bb71d4632fc",
+    "url": "http://50.7.74.29:8880/hlsok/j00038/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1413,9 +1746,27 @@
     }
   },
   {
+    "name": "TV Asahi",
+    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
+    "url": "http://50.7.74.29:8880/hlsok/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1431,6 +1782,15 @@
     }
   },
   {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://50.7.74.29:8880/hlsok/j00012/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "http://50.7.74.29:8880/hls/j00030/index.m3u8",
@@ -1440,9 +1800,54 @@
     }
   },
   {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "http://50.7.74.29:8880/hlsok/j00030/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "https://movie.mcas.jp/mcas/mx_live_2/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX2",
     "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
     "url": "https://movie.mcas.jp/mcas/mx2_2/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX2",
+    "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
+    "url": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1470,6 +1875,15 @@
     "name": "SET Televisión Canal 26.1",
     "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
     "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.2",
+    "path_name": "6ac22eaa8921afc2fce942415159eae8",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1605,6 +2019,15 @@
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio90 TV",
+    "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
+    "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1809,15 +2232,6 @@
     }
   },
   {
-    "name": "Caribe Televisión (Otuzco)",
-    "path_name": "ae563479c749b0ffa54aa1c009027e03",
-    "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
@@ -1893,6 +2307,15 @@
     "name": "OK TeVe (Yurimaguas)",
     "path_name": "13852856127ecf9cbcbc3455478bdb4d",
     "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2025,6 +2448,15 @@
     }
   },
   {
+    "name": "Canal E (Evelyn) (Nororiente)",
+    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
+    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
@@ -2091,6 +2523,15 @@
     "name": "Cadena TV Huancayo",
     "path_name": "a3fb071898b65b37ea979490748f8cce",
     "url": "https://tvdatta.com:3262/live/cadenatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Huacho Perú TV",
+    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
+    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2205,6 +2646,15 @@
     }
   },
   {
+    "name": "Sistema 1 (Huaraz)",
+    "path_name": "9fe3e4d1a40906b4218be7ba9cc47525",
+    "url": "https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Sol Stereo TV (Casma)",
     "path_name": "5b1011c240c409ae2b7cadb7d1767d0c",
     "url": "https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8",
@@ -2286,6 +2736,15 @@
     }
   },
   {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
@@ -2340,6 +2799,15 @@
     }
   },
   {
+    "name": "Евразия (Орск)",
+    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SGDF24.RU (Свердлов)",
     "path_name": "b3ca63e2c2a924a81414db6c356e61eb",
     "url": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8",
@@ -2378,7 +2846,25 @@
   {
     "name": "Univer TV",
     "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
     "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Астрахань 24",
+    "path_name": "e705ff4b0119d43e684738aa2722d104",
+    "url": "http://83.234.104.142/astrakhan24hd/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2574,6 +3060,15 @@
     }
   },
   {
+    "name": "Channel S",
+    "path_name": "18bc60166fd2a1bc4a3dcbacd65de01a",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV33 Detroit Live (WHPR)",
     "path_name": "05a51f5ca162ea5930a69e77d740a3f5",
     "url": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8",
@@ -2676,6 +3171,15 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://cheddar-news12ny-1.plex.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "News 12 New York",
+    "path_name": "d0dc5c2494787ff8661d41c0752319e8",
+    "url": "https://lnc-news12.tubi.video/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2934,9 +3438,27 @@
     }
   },
   {
+    "name": "Beach TV Panama City",
+    "path_name": "87b86842cd293981a1e4aaaab833a4ff",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Miami City TV",
     "path_name": "265d8963be1e5231592b2cf17ada42e1",
     "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CT-N Court Feed",
+    "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
+    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2991,6 +3513,15 @@
     "name": "Beach TV Myrtle Beach & The Grand Strand",
     "path_name": "6d9027c3166882f191e896fb2e8c651d",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Beach TV Myrtle Beach & The Grand Strand",
+    "path_name": "6d9027c3166882f191e896fb2e8c651d",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3321,6 +3852,15 @@
     }
   },
   {
+    "name": "CT-N TV Conneticut",
+    "path_name": "a2aaef4c0288dcfd70d776027ee235a3",
+    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 2 Greensboro NC (WFMY)",
     "path_name": "a94e89c2220f068aa1103a0860289767",
     "url": "https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8",
@@ -3351,6 +3891,15 @@
     "name": "Beach TV Florida & Alabama",
     "path_name": "bdcd8d0963100833f9fc418911efd32d",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Beach TV Florida & Alabama",
+    "path_name": "bdcd8d0963100833f9fc418911efd32d",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3582,6 +4131,24 @@
     }
   },
   {
+    "name": "ABC Detroit MI (WXYZ-TV1)",
+    "path_name": "7b9d48d675b5d264061546c0e13c08ae",
+    "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC Spokane WA (KXLY-TV1)",
+    "path_name": "cf5aed53e75194ac35c073f261bb5fe2",
+    "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC Spokane WA (KXLY-TV1)",
     "path_name": "cf5aed53e75194ac35c073f261bb5fe2",
     "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8",
@@ -3630,6 +4197,15 @@
     "name": "The CW New York NY (WPIX1)",
     "path_name": "eb30b2d6215bec32fe650f9766f3953a",
     "url": "http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "The CW Tallahassee FL (WTLF1)",
+    "path_name": "3be007bcd8e942249e031caa2780ff80",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3744,6 +4320,15 @@
     }
   },
   {
+    "name": "CBS 3 Omaha NE (KMTV-TV)",
+    "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
+    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS Buffalo NY (WIVB-TV1)",
     "path_name": "cf6e3979f49dfeb959ac06711f039112",
     "url": "http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8",
@@ -3777,6 +4362,33 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "WPIX 11",
+    "path_name": "d519869ad2cf56e1c46621299d0f240e",
+    "url": "http://71.187.29.220:8000/play/a08o/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN New York NY",
+    "path_name": "9531bb489c528ed151b9ca12bb42b549",
+    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN New York NY",
+    "path_name": "9531bb489c528ed151b9ca12bb42b549",
+    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
     }
   },
   {

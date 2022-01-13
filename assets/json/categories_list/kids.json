@@ -1,5 +1,23 @@
 [
   {
+    "name": "PBS Kids Eastern/Central",
+    "path_name": "44a84e35b291b29ba6b0e50af99473a5",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Kids Eastern/Central",
+    "path_name": "44a84e35b291b29ba6b0e50af99473a5",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
     "name": "Majid TV",
     "path_name": "e287ac20ec3e6da3eb738fd3c1e0a442",
     "url": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8",
@@ -36,9 +54,18 @@
     }
   },
   {
-    "name": "Armenia Տուն Թունիկ",
-    "path_name": "99e9dea087b01f314b5e2e54ef72de37",
-    "url": "http://ott-cdn.ucom.am/s46/index.m3u8",
+    "name": "ATV ԽաղԱլիք",
+    "path_name": "aac785af5c7aedd176111080e63e244e",
+    "url": "http://ott-cdn.ucom.am/s74/index.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "炫动卡通",
+    "path_name": "4579c179f12b94c681830f5180772a81",
+    "url": "http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8",
     "categories": {
       "name": "Kids",
       "slug": "kids"
@@ -57,6 +84,15 @@
     "name": "Koogi TV",
     "path_name": "67b2b4e61e6acdfd1dbf1f94107461d7",
     "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Gulli",
+    "path_name": "8058c85fe331e630bc6b38d1fa2f1c36",
+    "url": "http://flusonic-4.platinum-tv.com/Gulli/mono.m3u8?token=test",
     "categories": {
       "name": "Kids",
       "slug": "kids"
@@ -144,6 +180,15 @@
     }
   },
   {
+    "name": "Карусель",
+    "path_name": "13d354f64067a4e3e3515a7a8a2fc484",
+    "url": "http://91.185.3.218:4000/play/604",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
     "name": "JimJam Россия",
     "path_name": "54db92f2f3e94369d750634a3fb0d136",
     "url": "http://188.40.68.167/russia/jimjam/playlist.m3u8",
@@ -165,6 +210,15 @@
     "name": "Мультиландия",
     "path_name": "e4c2d662643a79424fc0d1049a7f113e",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Канал Disney",
+    "path_name": "f3188f6cc7ecec2428716c8e85b5c988",
+    "url": "http://188.40.68.167/russia/disney/playlist.m3u8",
     "categories": {
       "name": "Kids",
       "slug": "kids"
@@ -216,6 +270,60 @@
     }
   },
   {
+    "name": "Duck TV",
+    "path_name": "0c33d1005393e4447b3f42809c3aae96",
+    "url": "https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Duck TV",
+    "path_name": "0c33d1005393e4447b3f42809c3aae96",
+    "url": "https://mmm-ducktv-4-dk.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Duck TV",
+    "path_name": "0c33d1005393e4447b3f42809c3aae96",
+    "url": "https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Duck TV",
+    "path_name": "0c33d1005393e4447b3f42809c3aae96",
+    "url": "https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Duck TV",
+    "path_name": "0c33d1005393e4447b3f42809c3aae96",
+    "url": "https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Spacetoon",
+    "path_name": "244a8f74a1c9bf8fe0ec7b47d689ace5",
+    "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
     "name": "TRT Çocuk",
     "path_name": "b53ebf9066e7fdb230faf2253fe728ee",
     "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
@@ -252,18 +360,18 @@
     }
   },
   {
-    "name": "HappyKids",
-    "path_name": "4895d3a10550fed2d8469d9b11ac36a1",
-    "url": "https://happykids-roku.amagi.tv/playlist.m3u8",
+    "name": "Pluto TV Nick",
+    "path_name": "01d10eb84267fcdc3bc8a141c86ec51e",
+    "url": "https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8",
     "categories": {
       "name": "Kids",
       "slug": "kids"
     }
   },
   {
-    "name": "HappyKids Junior",
-    "path_name": "433b2e95d8f57efc79a7425202714da5",
-    "url": "https://happykidsjunior-vizio.amagi.tv/playlist.m3u8",
+    "name": "HappyKids",
+    "path_name": "4895d3a10550fed2d8469d9b11ac36a1",
+    "url": "https://happykids-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Kids",
       "slug": "kids"
@@ -369,6 +477,33 @@
     }
   },
   {
+    "name": "Brat TV",
+    "path_name": "32cb6fd9338a73d01da65c71bb807098",
+    "url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Brat TV",
+    "path_name": "32cb6fd9338a73d01da65c71bb807098",
+    "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Toon Goggles",
+    "path_name": "9f90f416de6ea1817c58b1b38e5508b7",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
     "name": "Bumblebee TV Country Boy Kids Video",
     "path_name": "af76be8c227f37e4de97ef71c51508e4",
     "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8",
@@ -432,6 +567,15 @@
     }
   },
   {
+    "name": "LEGO Channels",
+    "path_name": "b44bb8be679fc090d0d3176596e1b2e9",
+    "url": "https://legochannel-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
     "name": "Lego Channel",
     "path_name": "93835ca1a84c8d86861ac57fd113517c",
     "url": "https://legochannel-roku.amagi.tv/playlist.m3u8",
@@ -444,6 +588,15 @@
     "name": "KidsClick",
     "path_name": "a8411cc424aec3090a1fc7e817648977",
     "url": "https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8",
+    "categories": {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  },
+  {
+    "name": "Nickelodeon Australia",
+    "path_name": "cecdc3080105cf250dfb1cc1fa34cd18",
+    "url": "http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8",
     "categories": {
       "name": "Kids",
       "slug": "kids"

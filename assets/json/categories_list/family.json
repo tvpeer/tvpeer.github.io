@@ -74,7 +74,25 @@
   {
     "name": "JOJ Family",
     "path_name": "3c37a917f3d47fc1b7f5f8eb1e3db5ea",
+    "url": "https://nn.geo.joj.sk/hls/family-360.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "JOJ Family",
+    "path_name": "3c37a917f3d47fc1b7f5f8eb1e3db5ea",
     "url": "https://nn.geo.joj.sk/hls/family-540.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "JOJ Family",
+    "path_name": "3c37a917f3d47fc1b7f5f8eb1e3db5ea",
+    "url": "https://nn.geo.joj.sk/live/hls/family-540.m3u8",
     "categories": {
       "name": "Family",
       "slug": "family"
@@ -108,6 +126,15 @@
     }
   },
   {
+    "name": "Dove Channel",
+    "path_name": "150ed16ddc59e8967908613bfe653c49",
+    "url": "https://dovenow-roku-ingest.cinedigm.com/master.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
     "name": "The Pet Collective",
     "path_name": "f471c0deedc1d7b9e4aacfd5a193bdbe",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8",
@@ -117,9 +144,36 @@
     }
   },
   {
+    "name": "The Pet Collective",
+    "path_name": "f471c0deedc1d7b9e4aacfd5a193bdbe",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "The Pet Collective",
+    "path_name": "f471c0deedc1d7b9e4aacfd5a193bdbe",
+    "url": "https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
     "name": "Ion Plus",
     "path_name": "21e03ac51ffec2ecd1640376fc1b9d40",
     "url": "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "Ion Plus",
+    "path_name": "21e03ac51ffec2ecd1640376fc1b9d40",
+    "url": "https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Family",
       "slug": "family"
@@ -156,6 +210,24 @@
     "name": "FilmRise Family",
     "path_name": "6f3ec35dad087e0efbb6bcb78097f226",
     "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "FilmRise Family",
+    "path_name": "6f3ec35dad087e0efbb6bcb78097f226",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "FilmRise Family",
+    "path_name": "6f3ec35dad087e0efbb6bcb78097f226",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8",
     "categories": {
       "name": "Family",
       "slug": "family"
