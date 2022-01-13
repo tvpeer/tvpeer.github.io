@@ -1685,6 +1685,15 @@
   {
     "name": "Kansai TV",
     "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
     "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
     "categories": {
       "name": "Local",
@@ -2151,15 +2160,6 @@
     }
   },
   {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2208,6 +2208,15 @@
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Caribe Televisión (Otuzco)",
+    "path_name": "ae563479c749b0ffa54aa1c009027e03",
+    "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2757,6 +2766,15 @@
     "name": "92 News UK",
     "path_name": "4c8eea3f98da7c95cf4cf2d2c42aa4a9",
     "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Евразия (Орск)",
+    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
+    "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
