@@ -171,15 +171,6 @@
     }
   },
   {
-    "name": "Ciudad TV Resistencia (Chaco)",
-    "path_name": "ae13211e238dbe907fa833cb506fa46e",
-    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenord Corrientes",
     "path_name": "9d49de079f499fc31f02f55416f28f0a",
     "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
@@ -660,6 +651,15 @@
     "name": "TV Costa (San Antonio)",
     "path_name": "92937adbdfc4a3d3eac3ea204589ecb7",
     "url": "https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Elqui (La Serena)",
+    "path_name": "00e260a404c599828acc59263185bde9",
+    "url": "https://5eff35271151c.streamlock.net:1936/8070/8070/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2466,6 +2466,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
@@ -2541,6 +2550,15 @@
     "name": "NorSelva RTV (Rioja)",
     "path_name": "0987514277d76d1b01b90db8d923abe8",
     "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2820,6 +2838,15 @@
     "name": "Univer TV",
     "path_name": "366856882fb400d8ab5329c49d06509f",
     "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
