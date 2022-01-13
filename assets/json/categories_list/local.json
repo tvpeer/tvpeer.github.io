@@ -360,15 +360,6 @@
     }
   },
   {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -2277,6 +2268,15 @@
     }
   },
   {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2493,15 +2493,6 @@
     }
   },
   {
-    "name": "Ribereña TV (Bellavista)",
-    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
-    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "La Ribereña (Pucallpa)",
     "path_name": "a20156fddec12f98e695ca9163b6454a",
     "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
@@ -2658,15 +2649,6 @@
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Televisión Tarapoto",
-    "path_name": "d1f7a0f591846e83766997eaac5be0d5",
-    "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
