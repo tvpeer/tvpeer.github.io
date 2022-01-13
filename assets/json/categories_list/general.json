@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -183,6 +192,15 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ORF 1",
+    "path_name": "4e699a45782c05b969fb41fab13dec1e",
+    "url": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -525,15 +543,6 @@
     "name": "MKK Web TV",
     "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
     "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Yeeaah!",
-    "path_name": "4d827bc5ac94fe56229662a11036635d",
-    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -972,27 +981,9 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "GTV",
-    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
-    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
