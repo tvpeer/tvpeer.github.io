@@ -378,15 +378,6 @@
     }
   },
   {
-    "name": "Dreamz TV",
-    "path_name": "cd9f109bf0712fbdf6c40c1d0348eb19",
-    "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Fakt Marathi",
     "path_name": "399f3ebe1a6fe26e3832a3f6a4936f6b",
     "url": "http://14.199.164.20:4001/play/a0q8/index.m3u8",
@@ -1344,6 +1335,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
