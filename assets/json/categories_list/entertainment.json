@@ -1,26 +1,8 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "LatinoKids",
-    "path_name": "7ee700f35053a16485eeccb313c1a7fe",
-    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -182,7 +164,7 @@
   {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
-    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
+    "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -191,7 +173,7 @@
   {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
-    "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -353,7 +335,7 @@
   {
     "name": "Mazhavil Manorama",
     "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0pa/index.m3u8",
+    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -362,7 +344,7 @@
   {
     "name": "Mazhavil Manorama",
     "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
+    "url": "http://14.199.164.20:4001/play/a0pa/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -612,6 +594,15 @@
     }
   },
   {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Ю",
     "path_name": "bd652dc820fb36c497d8ccf9e6161559",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8",
@@ -767,7 +758,7 @@
   {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
-    "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
+    "url": "https://thegateway.app/YouToo/YTamerica/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -776,7 +767,7 @@
   {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
-    "url": "https://thegateway.app/YouToo/YTamerica/playlist.m3u8",
+    "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -930,6 +921,15 @@
     "name": "Fido TV",
     "path_name": "b9be0031886d2075db656af4297007f1",
     "url": "https://fidotv-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "eScapes (XUMO)",
+    "path_name": "e159a02037cae184a2a9ad046489b964",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1325,7 +1325,7 @@
   {
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+    "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1334,7 +1334,7 @@
   {
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"

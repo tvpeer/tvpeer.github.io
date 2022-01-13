@@ -108,6 +108,15 @@
     }
   },
   {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -120,6 +129,24 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -192,15 +219,6 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Alvin Channel TV",
-    "path_name": "af035aef2df699d66b9a68c4742e79ed",
-    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -531,6 +549,15 @@
     }
   },
   {
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -597,6 +624,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -777,6 +813,33 @@
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1145,15 +1208,6 @@
   {
     "name": "BS Asahi",
     "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
-    "url": "http://50.7.74.29:8880/hls/j00048/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Asahi",
-    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
     "url": "http://50.7.74.29:8880/hlsok/j00048/index.m3u8",
     "categories": {
       "name": "General",
@@ -1199,25 +1253,7 @@
   {
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://50.7.74.29:8880/hlsok/j00005/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://50.7.74.29:8880/hlsok/j00047/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS TV Tokyo",
-    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
-    "url": "http://50.7.74.29:8880/hls/j00050/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1712,7 +1748,7 @@
   {
     "name": "Porto Canal",
     "path_name": "308386aa56a9609629984201d03ad365",
-    "url": "https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8",
+    "url": "https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1721,7 +1757,7 @@
   {
     "name": "Porto Canal",
     "path_name": "308386aa56a9609629984201d03ad365",
-    "url": "https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8",
+    "url": "https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1838,7 +1874,7 @@
   {
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
-    "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1847,7 +1883,7 @@
   {
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8",
+    "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
