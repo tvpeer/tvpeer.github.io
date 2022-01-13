@@ -1667,15 +1667,6 @@
   {
     "name": "Kansai TV",
     "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
     "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
     "categories": {
       "name": "Local",
@@ -1857,6 +1848,15 @@
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2073,6 +2073,15 @@
     "name": "Imagen Televisión (Rioja)",
     "path_name": "3d2203fd154dfce2a7588e51179b0717",
     "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "DMJ (Cuzco)",
+    "path_name": "8dac651380b06c3e429ebe055ca13085",
+    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2298,15 +2307,6 @@
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Wtv (Bambamarca)",
-    "path_name": "1a5f706456d7f94c868d80a4f2c8b0b5",
-    "url": "https://tv.siete.us/wtv/wtv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
