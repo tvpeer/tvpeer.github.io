@@ -2178,9 +2178,9 @@
     }
   },
   {
-    "name": "Auténtica Televisión",
-    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
-    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+    "name": "AsiriTV (Lima)",
+    "path_name": "2f106380faf53eca147780035513a4e0",
+    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2235,6 +2235,15 @@
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "DeltaTV (Pacayzapa | San Martín)",
+    "path_name": "50dfd89f806cb41d9e6517c0fce43954",
+    "url": "https://media2.cdnlayer.biz:8081/8038/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2547,15 +2556,6 @@
     }
   },
   {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NorSelva RTV (Rioja)",
     "path_name": "0987514277d76d1b01b90db8d923abe8",
     "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
@@ -2676,15 +2676,6 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
