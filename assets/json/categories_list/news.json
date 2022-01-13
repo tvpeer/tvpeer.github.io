@@ -1035,36 +1035,9 @@
     }
   },
   {
-    "name": "CGTN",
-    "path_name": "c860ff939f1cf588a65d3e6fe5918479",
-    "url": "http://live.cgtn.com/500/prog_index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CGTN",
-    "path_name": "c860ff939f1cf588a65d3e6fe5918479",
-    "url": "http://live.cgtn.com/1000/prog_index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1713,6 +1686,15 @@
     "name": "Press TV English",
     "path_name": "4db0637170b90138292f8c415eb56585",
     "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Press TV French",
+    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
+    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2442,6 +2424,15 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WLS TV News",
+    "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
+    "url": "https://api.abcotvs.com/v3/wls/m3u8/url?id=567113&key=vuemix",
     "categories": {
       "name": "News",
       "slug": "news"
