@@ -135,6 +135,15 @@
     }
   },
   {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
@@ -450,9 +459,27 @@
     }
   },
   {
+    "name": "Bahrain Lawal",
+    "path_name": "7bd19a967761e47c1f4187ee6b81ce6a",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Bahrain TV",
     "path_name": "601c8f40d4d3504224e3de6f144e5086",
     "url": "http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bahrain TV",
+    "path_name": "601c8f40d4d3504224e3de6f144e5086",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -507,15 +534,6 @@
     "name": "TV Aberta",
     "path_name": "c6977ec66c32ee17e8c754bbec864638",
     "url": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RedeTV! Tocantins",
-    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1830,6 +1848,15 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Iași",
+    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
+    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
