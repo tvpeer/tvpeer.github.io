@@ -99,18 +99,18 @@
     }
   },
   {
-    "name": "Առաջին ալիք",
-    "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
-    "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "name": "Առաջին ալիք",
+    "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
+    "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -201,6 +201,15 @@
     "name": "Xəzər TV",
     "path_name": "9376d8752652afdc7ea838e61540c794",
     "url": "http://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ARB",
+    "path_name": "7cc438d3b52d3fb3e8dddce4294d77af",
+    "url": "https://europe2.livetv.az/azerbaijan/arb/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -750,6 +759,24 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
