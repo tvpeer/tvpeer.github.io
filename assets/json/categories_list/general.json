@@ -783,24 +783,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
@@ -840,6 +822,15 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TDI Colombia",
+    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
+    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2019,6 +2010,15 @@
     "name": "Time Television",
     "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
