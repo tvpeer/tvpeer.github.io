@@ -83,7 +83,7 @@
   {
     "name": "RT Documentary Russian",
     "path_name": "0ac9769d67982e5df220818bf28432df",
-    "url": "https://hls.rt.com/hls/rtdru.m3u8",
+    "url": "https://rtmp.api.rt.com/hls/rtdru.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -92,7 +92,7 @@
   {
     "name": "RT Documentary Russian",
     "path_name": "0ac9769d67982e5df220818bf28432df",
-    "url": "https://rtmp.api.rt.com/hls/rtdru.m3u8",
+    "url": "https://hls.rt.com/hls/rtdru.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -111,15 +111,6 @@
     "name": "National Geographic",
     "path_name": "4de5aecb66579ae8724254f5c0bb2fcb",
     "url": "https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
-    "name": "National Geographic Abu Dhabi",
-    "path_name": "1c6858dec0207228f8c85d3768feede1",
-    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -200,6 +191,15 @@
   {
     "name": "Law & Crime",
     "path_name": "ac531564040737f21abc2d4fcd1fb609",
+    "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
+    "name": "Law & Crime",
+    "path_name": "ac531564040737f21abc2d4fcd1fb609",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
     "categories": {
       "name": "Documentary",
@@ -219,15 +219,6 @@
     "name": "Law & Crime",
     "path_name": "ac531564040737f21abc2d4fcd1fb609",
     "url": "https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
-    "name": "Law & Crime",
-    "path_name": "ac531564040737f21abc2d4fcd1fb609",
-    "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"

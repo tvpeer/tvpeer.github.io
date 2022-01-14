@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
@@ -90,9 +99,18 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "5-րդ ալիք",
+    "path_name": "c200ff245361563b6b97cc36940ec4ef",
+    "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -612,6 +630,15 @@
     }
   },
   {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ISTV",
     "path_name": "4eec9f69d87af30f39ca88b4db85b595",
     "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
@@ -768,6 +795,24 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -954,15 +999,6 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1010,7 +1046,7 @@
   {
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1019,7 +1055,7 @@
   {
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1163,6 +1199,15 @@
   {
     "name": "BS Asahi",
     "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
+    "url": "http://50.7.74.29:8880/hls/j00048/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Asahi",
+    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
     "url": "http://50.7.74.29:8880/hlsok/j00048/index.m3u8",
     "categories": {
       "name": "General",
@@ -1200,6 +1245,15 @@
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://50.7.74.29:8880/hlsok/j00047/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS TV Tokyo",
+    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
+    "url": "http://50.7.74.29:8880/hls/j00050/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1496,7 +1550,7 @@
   {
     "name": "TVM",
     "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1505,7 +1559,7 @@
   {
     "name": "TVM",
     "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1605,6 +1659,15 @@
     "name": "Palestine Satellite Channel",
     "path_name": "381621adaa18f975b07838f53e87e37d",
     "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

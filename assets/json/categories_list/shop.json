@@ -182,7 +182,7 @@
   {
     "name": "Shop LC",
     "path_name": "4a56cd412d3bb4c0f699a826ccf540be",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
@@ -191,7 +191,7 @@
   {
     "name": "Shop LC",
     "path_name": "4a56cd412d3bb4c0f699a826ccf540be",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
     "categories": {
       "name": "Shop",
       "slug": "shop"
@@ -264,6 +264,15 @@
     "name": "QVC UK",
     "path_name": "28eb3e400ce30226bc92ef4fa756f0cb",
     "url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8",
+    "categories": {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  },
+  {
+    "name": "QVC UK +1",
+    "path_name": "7e411b469638fa61680ac95e51d39f05",
+    "url": "https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
