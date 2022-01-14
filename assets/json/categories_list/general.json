@@ -540,15 +540,6 @@
     }
   },
   {
-    "name": "Yeeaah!",
-    "path_name": "4d827bc5ac94fe56229662a11036635d",
-    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -786,6 +777,24 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1368,6 +1377,15 @@
     }
   },
   {
+    "name": "Al Jadeed",
+    "path_name": "ee124ebfbd277b9edc7ce78a13590d8f",
+    "url": "http://93.184.1.247/Aljadeed/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Assadissa",
     "path_name": "da5c090176fda892f8d3aa165c10036b",
     "url": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
@@ -1434,15 +1452,6 @@
     "name": "Al Maghribia",
     "path_name": "49cc9ac7b6c1ecbed5bf9b09af377d3a",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Tamazight",
-    "path_name": "5bb3088419f2381293ebeba6d330dc97",
-    "url": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1731,15 +1740,6 @@
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
