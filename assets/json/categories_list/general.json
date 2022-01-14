@@ -792,24 +792,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
@@ -1341,6 +1323,15 @@
     }
   },
   {
+    "name": "UTV",
+    "path_name": "5927dd335560a8b92ceaf0fe69dfaaa9",
+    "url": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
@@ -1371,15 +1362,6 @@
     "name": "Future TV",
     "path_name": "447806b3ff207d93ddb61799959e84dc",
     "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Jadeed",
-    "path_name": "ee124ebfbd277b9edc7ce78a13590d8f",
-    "url": "http://93.184.1.247/Aljadeed/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1755,18 +1737,18 @@
     }
   },
   {
-    "name": "A7TV",
-    "path_name": "a7c18ec317249c3a1a6164d2075f4531",
-    "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
+    "name": "A7TV",
+    "path_name": "a7c18ec317249c3a1a6164d2075f4531",
+    "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2316,6 +2298,15 @@
     "name": "LaRed TV",
     "path_name": "f777082a01def810416b96601a700a87",
     "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

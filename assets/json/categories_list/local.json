@@ -873,15 +873,6 @@
     }
   },
   {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Cultural",
     "path_name": "6250449e8dae36b23db6418c5dc5f840",
     "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
@@ -2019,15 +2010,6 @@
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://mediastreamm.com:3194/live/proyectatvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Imagen Televisión (Rioja)",
-    "path_name": "3d2203fd154dfce2a7588e51179b0717",
-    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3384,6 +3366,15 @@
     }
   },
   {
+    "name": "Tempe 11 AZ",
+    "path_name": "b1be980b1b9ba8d8dcd75cce671d89bf",
+    "url": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 12 West Palm Beach FL (WPEC)",
     "path_name": "aeaac0bd182c03fba3a49e2df231bfa0",
     "url": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8",
@@ -4128,24 +4119,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {
