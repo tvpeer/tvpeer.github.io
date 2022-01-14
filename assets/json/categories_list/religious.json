@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -1152,6 +1143,15 @@
     }
   },
   {
+    "name": "Sobrenatural TV",
+    "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
+    "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV Maná 1",
     "path_name": "b1c29e00c999d9509e7d3819def131a6",
     "url": "http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8",
@@ -1776,6 +1776,24 @@
     "name": "Eman Channel",
     "path_name": "67d91a75d0c78963b1be3a5a49b51d45",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Ahlulbayt TV",
+    "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
+    "url": "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Ahlulbayt TV",
+    "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
+    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
