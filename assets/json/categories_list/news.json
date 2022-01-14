@@ -1028,6 +1028,15 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1296,6 +1305,15 @@
     }
   },
   {
+    "name": "Pratidin Time",
+    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
+    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8",
@@ -1326,6 +1344,15 @@
     "name": "Nethra TV",
     "path_name": "532d46f0dce755d1a4b6409a1cfeb5d8",
     "url": "https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FASTWAY NEWS",
+    "path_name": "f075257efea0c72aba476522b1cd03f7",
+    "url": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2388,15 +2415,6 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WLS TV News",
-    "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
-    "url": "https://api.abcotvs.com/v3/wls/m3u8/url?id=567113&key=vuemix",
     "categories": {
       "name": "News",
       "slug": "news"
