@@ -72,9 +72,9 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "name": "Նոր Հայաստան",
+    "path_name": "bc7a615c82558a146ae038313eb9ac09",
+    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -84,6 +84,15 @@
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -102,15 +111,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -165,6 +165,15 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ORF 1",
+    "path_name": "4e699a45782c05b969fb41fab13dec1e",
+    "url": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -336,15 +345,6 @@
     "name": "Az Star TV",
     "path_name": "4641579d4c09a3e1044ffae1651ca977",
     "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Az Star TV",
-    "path_name": "4641579d4c09a3e1044ffae1651ca977",
-    "url": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -606,6 +606,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1460,15 +1469,6 @@
   {
     "name": "Tamazight",
     "path_name": "5bb3088419f2381293ebeba6d330dc97",
-    "url": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Tamazight",
-    "path_name": "5bb3088419f2381293ebeba6d330dc97",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
     "categories": {
       "name": "General",
@@ -1749,15 +1749,6 @@
     "name": "Al Rayyan",
     "path_name": "2a1fbe76aab852808351018dc4d2317a",
     "url": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Cluj",
-    "path_name": "32880509a5851fbc22000e7fe19041f8",
-    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
