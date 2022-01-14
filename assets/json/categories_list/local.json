@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "TVunisat",
+    "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
+    "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
@@ -363,15 +372,6 @@
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -630,9 +630,27 @@
     }
   },
   {
+    "name": "TV Costa (San Antonio)",
+    "path_name": "92937adbdfc4a3d3eac3ea204589ecb7",
+    "url": "https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Elqui (La Serena)",
     "path_name": "00e260a404c599828acc59263185bde9",
     "url": "https://5eff35271151c.streamlock.net:1936/8070/8070/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osorno",
+    "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
+    "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1782,6 +1800,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2466,15 +2493,6 @@
     }
   },
   {
-    "name": "Radio TV Charles (Bambamarca)",
-    "path_name": "4e810dfa084e4785e7f9e7a88cf1bde2",
-    "url": "https://media2.cdnlayer.biz:8081/8032/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
@@ -2505,15 +2523,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2559,6 +2568,15 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3009,33 +3027,6 @@
     "name": "BUTV10 (Boston University)",
     "path_name": "de3b37f41f9d9d6fa221071bf22107d1",
     "url": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Leominster TV Educational",
-    "path_name": "e50960fe12c31b2e8312de879a296476",
-    "url": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Leominster TV Government",
-    "path_name": "1857ba8e3d3e8c16903cc616a8f1b133",
-    "url": "http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Leominster TV Public",
-    "path_name": "f7747fe5ba7565c9299a1410f7d64f5b",
-    "url": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
