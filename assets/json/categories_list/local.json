@@ -171,15 +171,6 @@
     }
   },
   {
-    "name": "Ciudad TV Resistencia (Chaco)",
-    "path_name": "ae13211e238dbe907fa833cb506fa46e",
-    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "RTV ZE",
     "path_name": "1d3e88dc093b0edf844fa0738461e9c0",
     "url": "https://stream.rtvze.ba/123.m3u8",
@@ -939,6 +930,15 @@
     "name": "M95 Televisión Marbella",
     "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
     "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 25 TV (Barbastro)",
+    "path_name": "4b75cee7c1659979426795ad31a572cb",
+    "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2457,6 +2457,15 @@
     }
   },
   {
+    "name": "KeBuena (Barranca)",
+    "path_name": "6cb7100c5b064807b625c48eea2785db",
+    "url": "https://inliveserver.com:1936/18016/18016/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ribereña TV (Bellavista)",
     "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
     "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
@@ -2604,15 +2613,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
