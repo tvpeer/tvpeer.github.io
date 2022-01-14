@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -495,15 +504,6 @@
     }
   },
   {
-    "name": "Slagr TV",
-    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
-    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Óčko Expres",
     "path_name": "a83820a7baed73340508edbb5eb5906e",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
@@ -606,15 +606,6 @@
     "name": "Activa TV",
     "path_name": "f1cdbef12bb6984066983efa76558402",
     "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -840,6 +831,15 @@
     "name": "A NEWSDONs TV- SWAG SADDA VAKRAA",
     "path_name": "9f3741e98276f285a332cf195c9482a0",
     "url": "http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Relax TV",
+    "path_name": "0ae04150fad0720c728707f7b79d2f66",
+    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1686,15 +1686,6 @@
     "name": "Vevo 80s",
     "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio U TV",
-    "path_name": "cbcb52855245b403334c2deffb93aaef",
-    "url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
