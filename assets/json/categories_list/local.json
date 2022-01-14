@@ -2088,15 +2088,6 @@
     }
   },
   {
-    "name": "Auténtica Televisión",
-    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
-    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 43 Sudamericana (Ica)",
     "path_name": "bc2117428c81fe2513da77b0de044691",
     "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
@@ -4044,6 +4035,15 @@
     "name": "ABC Spokane WA (KXLY-TV1)",
     "path_name": "cf5aed53e75194ac35c073f261bb5fe2",
     "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC Tallahassee FL (WTXL-TV1)",
+    "path_name": "7c173938c26af7f3ec9a9afb232cae86",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
