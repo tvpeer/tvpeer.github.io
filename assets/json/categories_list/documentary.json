@@ -117,6 +117,15 @@
     }
   },
   {
+    "name": "National Geographic Abu Dhabi",
+    "path_name": "1c6858dec0207228f8c85d3768feede1",
+    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
     "name": "History East",
     "path_name": "23843d59a8920efe186b24e208e862ad",
     "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
@@ -147,15 +156,6 @@
     "name": "Docurama",
     "path_name": "cf11051971a8295843685be46b51f2d2",
     "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
-    "name": "Docurama",
-    "path_name": "cf11051971a8295843685be46b51f2d2",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -200,7 +200,7 @@
   {
     "name": "Law & Crime",
     "path_name": "ac531564040737f21abc2d4fcd1fb609",
-    "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -227,7 +227,7 @@
   {
     "name": "Law & Crime",
     "path_name": "ac531564040737f21abc2d4fcd1fb609",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
+    "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -246,6 +246,15 @@
     "name": "Reelz",
     "path_name": "920e256afbc01a4d0784e5eb7d1a16d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
+    "name": "Reelz Channel (XUMO)",
+    "path_name": "33138da025ba17e6889a272e9a7bb424",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"

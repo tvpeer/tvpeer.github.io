@@ -243,6 +243,15 @@
     }
   },
   {
+    "name": "QVTV",
+    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
+    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
@@ -264,6 +273,15 @@
     "name": "EWTN Canada",
     "path_name": "24c6855ecf519d7a49e49bf120ca7641",
     "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "EMCI TV",
+    "path_name": "ca6eb9536f6f96bbebdbfe666b4d06f2",
+    "url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -873,15 +891,6 @@
     }
   },
   {
-    "name": "Aliman TV",
-    "path_name": "7f219ff24ea6ad7489d2eb5be6720958",
-    "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nour Mariam",
     "path_name": "194bb6d17575245c9cf0a68c81266112",
     "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
@@ -984,15 +993,6 @@
     "name": "Hosanna Vision",
     "path_name": "239552b56fcd887230456197f49b9eac",
     "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "La Luz TV",
-    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1395,15 +1395,6 @@
     }
   },
   {
-    "name": "華藏衛視",
-    "path_name": "13e41079e0f5ee10a7a956a649170906",
-    "url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH10 烤箱讀書會 短版",
     "path_name": "030a9cf26bea23a7455c67deff8ecf66",
     "url": "https://live.streamingfast.net/osmflivech10.m3u8",
@@ -1434,6 +1425,15 @@
     "name": "GOOD TV CH14 真情部落格",
     "path_name": "02beea04141724cc1b999cb4149bc30f",
     "url": "https://live.streamingfast.net/osmflivech14.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH15 真情之夜",
+    "path_name": "a1b84d0817b72246e3f285fba55ca379",
+    "url": "https://live.streamingfast.net/osmflivech15.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1494,9 +1494,9 @@
     }
   },
   {
-    "name": "GOOD TV CH22 職場新視野",
-    "path_name": "9642e0561be9f8f50167facb7e417dce",
-    "url": "https://live.streamingfast.net/osmflivech22.m3u8",
+    "name": "GOOD TV CH23 空中主日學 生活",
+    "path_name": "ace07ac7d2074affb00f61038bfad490",
+    "url": "https://live.streamingfast.net/osmflivech23.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1533,6 +1533,15 @@
     "name": "GOOD TV CH29 經典音樂河",
     "path_name": "2ea2952114dca9d0393cd5584b759953",
     "url": "https://live.streamingfast.net/osmflivech29.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH2 真理台",
+    "path_name": "59ecdf546a1c3f4a1ea350a10b561305",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1973,6 +1982,15 @@
   {
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
+    "url": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "CTN",
+    "path_name": "9615982e9a8056106f05c7feb6871ff9",
     "url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
@@ -1983,15 +2001,6 @@
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
     "url": "https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "CTN",
-    "path_name": "9615982e9a8056106f05c7feb6871ff9",
-    "url": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2028,15 +2037,6 @@
     "name": "Jewish Life TV",
     "path_name": "c289830c6c468cc05e2cf388038bbec6",
     "url": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "QVTV",
-    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
-    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2099,15 +2099,6 @@
   {
     "name": "JBS",
     "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "JBS",
-    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
     "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
@@ -2118,6 +2109,15 @@
     "name": "JBS",
     "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
     "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2234,7 +2234,7 @@
   {
     "name": "Aliento Vision",
     "path_name": "b8440f3cd354a766453c5a61067d529b",
-    "url": "http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
+    "url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2243,7 +2243,7 @@
   {
     "name": "Aliento Vision",
     "path_name": "b8440f3cd354a766453c5a61067d529b",
-    "url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
+    "url": "http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"

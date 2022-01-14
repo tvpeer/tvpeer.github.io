@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "Food Food",
-    "path_name": "1d333ec29d8266051bb97334bfcb65f4",
-    "url": "http://14.199.164.20:4001/play/a0qx/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
@@ -567,15 +558,6 @@
     }
   },
   {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Ю",
     "path_name": "bd652dc820fb36c497d8ccf9e6161559",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8",
@@ -624,6 +606,15 @@
     "name": "Домашний",
     "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Домашний",
+    "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
+    "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -731,7 +722,7 @@
   {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
-    "url": "https://thegateway.app/YouToo/YTamerica/playlist.m3u8",
+    "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -740,7 +731,7 @@
   {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
-    "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
+    "url": "https://thegateway.app/YouToo/YTamerica/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1062,6 +1053,15 @@
     }
   },
   {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Cable Hits",
     "path_name": "14567a5592f48c23f4a3f43f572640d1",
     "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
@@ -1235,6 +1235,15 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1290,6 +1299,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
