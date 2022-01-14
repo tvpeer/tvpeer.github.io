@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -57,15 +66,6 @@
     "name": "City Music TV",
     "path_name": "58c88d09ec8bdd42fda5b3d6d3036b14",
     "url": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio PROS",
-    "path_name": "fbb4ccaf63e303dbc3a46e8e49c3957e",
-    "url": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -612,15 +612,6 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MCM Top",
     "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
     "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
@@ -786,6 +777,15 @@
     "name": "Mastiii",
     "path_name": "3fac57820a93ad6421d3dd933c9f70a7",
     "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MH1 Music",
+    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
+    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1053,6 +1053,15 @@
     }
   },
   {
+    "name": "Arabica TV",
+    "path_name": "9e7f2ace170a0c92a794ddb242efb21f",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Sky Folk TV",
     "path_name": "d3342fd5ceee37f72c16b60a915f17c8",
     "url": "https://eu.live.skyfolk.mk/live.m3u8",
@@ -1134,6 +1143,15 @@
     }
   },
   {
+    "name": "Metropolitana del Cuzco (CCTVRadio)",
+    "path_name": "5c24d91b60b7824519530788b04979d1",
+    "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "CVM TV Digital",
     "path_name": "a3456c64a3a570aa1b0bc7e95ed1179e",
     "url": "https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8",
@@ -1170,9 +1188,27 @@
     }
   },
   {
+    "name": "TV Peruanísima",
+    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
+    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "SanjuaneraTV",
     "path_name": "513b38a59cd943e492b9b2a07cb78367",
     "url": "https://live.obslivestream.com/sanjuaneramux/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Stereo TV (Peru)",
+    "path_name": "858be35aec06202a74007b5e71a3ffaa",
+    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
