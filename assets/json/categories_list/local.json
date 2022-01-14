@@ -207,15 +207,6 @@
     }
   },
   {
-    "name": "CTV Canal 38 Digital (Viacha)",
-    "path_name": "e66675c20a9f8c7feab5518a9c951ecf",
-    "url": "https://media2.cdnlayer.biz:8081/8026/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -372,6 +363,15 @@
     "name": "TV Sol Comunidade",
     "path_name": "15d51beac02d1ff1ebf4d579a607137c",
     "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVE Bahia",
+    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
+    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2340,15 +2340,6 @@
     }
   },
   {
-    "name": "Diario Hechicera (Tumbes)",
-    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
-    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2550,6 +2541,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
