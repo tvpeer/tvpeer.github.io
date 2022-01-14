@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -612,6 +603,15 @@
     }
   },
   {
+    "name": "Mezzo",
+    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MCM Top",
     "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
     "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
@@ -777,6 +777,15 @@
     "name": "Mastiii",
     "path_name": "3fac57820a93ad6421d3dd933c9f70a7",
     "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MH1 Music",
+    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
+    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1038,6 +1047,15 @@
     "name": "Nojoum TV",
     "path_name": "afa66d2ec899c2fb49fd1f6c07b74ce1",
     "url": "https://nojoumhls.wns.live/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Arabica TV",
+    "path_name": "9e7f2ace170a0c92a794ddb242efb21f",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1389,15 +1407,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
