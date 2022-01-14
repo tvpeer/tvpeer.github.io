@@ -846,15 +846,6 @@
     }
   },
   {
-    "name": "TDI Colombia",
-    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
-    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Teleislas",
     "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
     "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
@@ -1452,6 +1443,15 @@
     "name": "Al Maghribia",
     "path_name": "49cc9ac7b6c1ecbed5bf9b09af377d3a",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Tamazight",
+    "path_name": "5bb3088419f2381293ebeba6d330dc97",
+    "url": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
