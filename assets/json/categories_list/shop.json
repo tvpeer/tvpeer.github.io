@@ -182,7 +182,7 @@
   {
     "name": "Shop LC",
     "path_name": "4a56cd412d3bb4c0f699a826ccf540be",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
     "categories": {
       "name": "Shop",
       "slug": "shop"
@@ -191,7 +191,7 @@
   {
     "name": "Shop LC",
     "path_name": "4a56cd412d3bb4c0f699a826ccf540be",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
@@ -282,15 +282,6 @@
     "name": "QVC UK Beauty",
     "path_name": "5cffe4cd1361b4e534d19260a281ac6b",
     "url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8",
-    "categories": {
-      "name": "Shop",
-      "slug": "shop"
-    }
-  },
-  {
-    "name": "QVC UK Extra",
-    "path_name": "1f515743db3fd923d37dac64ed6192e5",
-    "url": "https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"

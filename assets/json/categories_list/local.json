@@ -1649,34 +1649,7 @@
   {
     "name": "Kansai TV",
     "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
     "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://50.7.74.29:8880/hls/j00014/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1695,15 +1668,6 @@
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2025,6 +1989,15 @@
     }
   },
   {
+    "name": "Imagen Televisión (Rioja)",
+    "path_name": "3d2203fd154dfce2a7588e51179b0717",
+    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -2268,6 +2241,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://mediastreamm.com:3126/live/tele2000live.m3u8",
@@ -2415,15 +2397,6 @@
     "name": "Mega TV (Tarapoto)",
     "path_name": "3db89f213ac5f98893fa16a5af49835b",
     "url": "https://tv.portalexpress.es:3870/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2592,6 +2565,15 @@
     }
   },
   {
+    "name": "Vía Televisión (Tarapoto)",
+    "path_name": "ec1b161376ad772acf1a3915e9235b9f",
+    "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "RadioTV Oriente (Yurimaguas)",
     "path_name": "dfc31299044edc2b74806c71c30fc1cb",
     "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
@@ -2613,6 +2595,15 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MitosTV (Mitos de la Selva | Pucallpa)",
+    "path_name": "a6c0333501d9711ef41184342257183a",
+    "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4205,7 +4196,7 @@
   {
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
-    "url": "https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8",
+    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4214,7 +4205,7 @@
   {
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
-    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "url": "https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
