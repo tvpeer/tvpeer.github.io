@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "Rede RC",
-    "path_name": "35a07d3c322b19fc85e988e66dde301c",
-    "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVunisat",
     "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
     "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
@@ -2439,15 +2430,6 @@
     }
   },
   {
-    "name": "Mega TV (Jaen)",
-    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
-    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Mega TV (Tarapoto)",
     "path_name": "3db89f213ac5f98893fa16a5af49835b",
     "url": "https://tv.portalexpress.es:3870/hybrid/play.m3u8",
@@ -2604,6 +2586,15 @@
     "name": "Universitaria TV (Chanchamayo)",
     "path_name": "f33338a5f62e3a11997f99458109b5be",
     "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4317,6 +4308,24 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
     }
   },
   {
