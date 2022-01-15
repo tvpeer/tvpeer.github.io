@@ -1793,15 +1793,6 @@
   {
     "name": "HispanTV",
     "path_name": "906105ead1dc83d4cf1c928f4af0e168",
-    "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HispanTV",
-    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
     "url": "https://live1.presstv.ir/live/hispan.m3u8",
     "categories": {
       "name": "News",
@@ -2109,15 +2100,6 @@
     "name": "Visión Noticias Perú (VNP)",
     "path_name": "ca4f2b767b3bb747e12c8817820d77cc",
     "url": "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RSelvaTV (Tarapoto)",
-    "path_name": "85b787159037d15895c05c9d0f71d311",
-    "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2442,6 +2424,15 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
