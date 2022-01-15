@@ -1665,6 +1665,15 @@
     }
   },
   {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MBS (Mainichi Broadcasting System)",
     "path_name": "893d214fc242158a86311bb71d4632fc",
     "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8",
@@ -1694,7 +1703,25 @@
   {
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2610,15 +2637,6 @@
     }
   },
   {
-    "name": "Vía Televisión (Tarapoto)",
-    "path_name": "ec1b161376ad772acf1a3915e9235b9f",
-    "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "RadioTV Oriente (Yurimaguas)",
     "path_name": "dfc31299044edc2b74806c71c30fc1cb",
     "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
@@ -2631,15 +2649,6 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4032,6 +4041,15 @@
     }
   },
   {
+    "name": "ABC Seattle WA (KOMO-TV1)",
+    "path_name": "3b439ca564b25ba775993b9f2c374776",
+    "url": "http://encodercdn1.frontline.ca/yavin/output/ABC_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC Spokane WA (KXLY-TV1)",
     "path_name": "cf5aed53e75194ac35c073f261bb5fe2",
     "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane/playlist.m3u8",
@@ -4104,6 +4122,24 @@
     }
   },
   {
+    "name": "FOX Rochester NY (WUHF-DT1)",
+    "path_name": "708c9dee8cffec50b06532e833265347",
+    "url": "http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FOX Spokane WA (KAYU-TV1)",
+    "path_name": "eba1951526b94085d8825963bb296940",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Fox Boston MA (WFXT1)",
     "path_name": "202203b64fd0e41fde436c89fbf571bf",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8",
@@ -4167,6 +4203,15 @@
     }
   },
   {
+    "name": "NBC Spokane WA (KHQ-TV1)",
+    "path_name": "f86f4e1d3d96d0771ab56c2893668c89",
+    "url": "http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "NBC Tallahassee FL (WTWC-TV1)",
     "path_name": "44d8487f669269ee713309a50bdf6775",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8",
@@ -4205,7 +4250,7 @@
   {
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
-    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "url": "https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4214,7 +4259,7 @@
   {
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
-    "url": "https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8",
+    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4263,24 +4308,6 @@
     "categories": {
       "name": "Local",
       "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
     }
   },
   {

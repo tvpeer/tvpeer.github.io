@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "EnlaceTV",
     "path_name": "e231841275cebf3383e6f13504010200",
     "url": "https://v4.tustreaming.cl/enlacebpbtv/index.m3u8",
@@ -252,15 +243,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
@@ -282,6 +264,15 @@
     "name": "EWTN Canada",
     "path_name": "24c6855ecf519d7a49e49bf120ca7641",
     "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "EMCI TV",
+    "path_name": "ca6eb9536f6f96bbebdbfe666b4d06f2",
+    "url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1224,6 +1215,15 @@
     }
   },
   {
+    "name": "Alfa Omega TV",
+    "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
+    "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Каббала ТВ",
     "path_name": "26f40e88bf3a7de131d32cd4023ed696",
     "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
@@ -1413,15 +1413,6 @@
     }
   },
   {
-    "name": "GOOD TV CH10 烤箱讀書會 短版",
-    "path_name": "030a9cf26bea23a7455c67deff8ecf66",
-    "url": "https://live.streamingfast.net/osmflivech10.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH12 維他命施",
     "path_name": "155a8e88a63566fdecfd7f366a206ea6",
     "url": "https://live.streamingfast.net/osmflivech12.m3u8",
@@ -1485,6 +1476,15 @@
     }
   },
   {
+    "name": "GOOD TV CH1 綜合台",
+    "path_name": "24fc4c7c61df2e8303e64aa7f4e52969",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "GOOD TV CH20 恩典時分",
     "path_name": "9b6f2b15cea2dbf17b898a11b0e19f72",
     "url": "https://live.streamingfast.net/osmflivech20.m3u8",
@@ -1506,15 +1506,6 @@
     "name": "GOOD TV CH22 職場新視野",
     "path_name": "9642e0561be9f8f50167facb7e417dce",
     "url": "https://live.streamingfast.net/osmflivech22.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH23 空中主日學 生活",
-    "path_name": "ace07ac7d2074affb00f61038bfad490",
-    "url": "https://live.streamingfast.net/osmflivech23.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1584,24 +1575,6 @@
     }
   },
   {
-    "name": "GOOD TV CH33 特會系列：研經培靈",
-    "path_name": "acce9f013f8fff26ccbd8abea3d16046",
-    "url": "https://live.streamingfast.net/osmflivech33.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
-    "path_name": "1b057684ceece812fcca0a42ecb9853c",
-    "url": "https://live.streamingfast.net/osmflivech36.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH37 特會系列：以色列專題",
     "path_name": "48b41982014773eae1239f61dad352c9",
     "url": "https://live.streamingfast.net/osmflivech37.m3u8",
@@ -1647,6 +1620,15 @@
     }
   },
   {
+    "name": "GOOD TV CH44 烤箱讀書會",
+    "path_name": "157651626a752b1f13c2da7ff3c482ff",
+    "url": "https://live.streamingfast.net/osmflivech44.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "GOOD TV CH45 卡通",
     "path_name": "c1830684654fc07806b37bf55642fb1f",
     "url": "https://live.streamingfast.net/osmflivech45.m3u8",
@@ -1686,15 +1668,6 @@
     "name": "GOOD TV CH7 禱告大軍 信息",
     "path_name": "a35d62e4e15047c0c6cb550a351f68a5",
     "url": "https://live.streamingfast.net/osmflivech7.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "GOOD TV CH8 幸福學堂 短版",
-    "path_name": "0b3e88c177f4f078c7e8ef3d4f7e0ab7",
-    "url": "https://live.streamingfast.net/osmflivech8.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1784,7 +1757,7 @@
   {
     "name": "Ahlulbayt TV",
     "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
-    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
+    "url": "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1793,7 +1766,7 @@
   {
     "name": "Ahlulbayt TV",
     "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
-    "url": "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
+    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2000,7 +1973,7 @@
   {
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
-    "url": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8",
+    "url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2018,7 +1991,7 @@
   {
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
-    "url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8",
+    "url": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2135,7 +2108,7 @@
   {
     "name": "JBS",
     "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
+    "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2144,7 +2117,7 @@
   {
     "name": "JBS",
     "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
-    "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2271,15 +2244,6 @@
     "name": "Aliento Vision",
     "path_name": "b8440f3cd354a766453c5a61067d529b",
     "url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Juventud Renovada en el Espiritu Santo",
-    "path_name": "5c439fbbd0bb99a934572239bc1d4b15",
-    "url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
