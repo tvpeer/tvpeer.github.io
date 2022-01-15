@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -317,15 +308,6 @@
   {
     "name": "Az Star TV",
     "path_name": "4641579d4c09a3e1044ffae1651ca977",
-    "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Az Star TV",
-    "path_name": "4641579d4c09a3e1044ffae1651ca977",
     "url": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8",
     "categories": {
       "name": "General",
@@ -486,24 +468,6 @@
     }
   },
   {
-    "name": "TV Aberta",
-    "path_name": "c6977ec66c32ee17e8c754bbec864638",
-    "url": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RedeTV! Tocantins",
-    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Guará",
     "path_name": "493f3f239af0744a0c302aca46a0d053",
     "url": "https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8",
@@ -588,15 +552,6 @@
     "name": "TV BRICS Portuguese",
     "path_name": "9590801d96eec46c25414c97d033376b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Catve FM",
-    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
-    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1812,6 +1767,15 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Târgu Mureș",
+    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
+    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
