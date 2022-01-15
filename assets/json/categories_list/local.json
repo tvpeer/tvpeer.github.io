@@ -351,6 +351,15 @@
     }
   },
   {
+    "name": "TVE Bahia",
+    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
+    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -1026,15 +1035,6 @@
     }
   },
   {
-    "name": "Epirus TV1",
-    "path_name": "b595a00706b243c81ed0e8ba19bd8fbd",
-    "url": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
@@ -1629,9 +1629,81 @@
     }
   },
   {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MBS (Mainichi Broadcasting System)",
+    "path_name": "893d214fc242158a86311bb71d4632fc",
+    "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Asahi",
+    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
+    "url": "http://50.7.74.29:8880/hls/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Asahi",
     "path_name": "69e4d92d4992ff06a8039cf515ab4584",
     "url": "http://50.7.74.29:8880/hlsok/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://50.7.74.29:8880/hlsok/j00012/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2001,15 +2073,6 @@
     "name": "AsiriTV (Lima)",
     "path_name": "2f106380faf53eca147780035513a4e0",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Auténtica Televisión",
-    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
-    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2439,6 +2502,15 @@
     }
   },
   {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
@@ -2478,6 +2550,15 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

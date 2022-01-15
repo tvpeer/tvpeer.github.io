@@ -1793,6 +1793,15 @@
   {
     "name": "HispanTV",
     "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
     "url": "https://live1.presstv.ir/live/hispan.m3u8",
     "categories": {
       "name": "News",
@@ -2106,6 +2115,15 @@
     }
   },
   {
+    "name": "RSelvaTV (Tarapoto)",
+    "path_name": "85b787159037d15895c05c9d0f71d311",
+    "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV Noticias 7.3",
     "path_name": "0f2390c6b8fb66536d745e85f3d3845d",
     "url": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8",
@@ -2279,6 +2297,15 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2424,15 +2451,6 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KFSN News",
-    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
-    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
