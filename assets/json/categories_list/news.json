@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -2448,9 +2439,9 @@
     }
   },
   {
-    "name": "WPVI-TV News",
-    "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
-    "url": "https://api.abcotvs.com/v3/wpvi/m3u8/url?id=531099&key=yuemix",
+    "name": "KGO-TV News",
+    "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
+    "url": "https://api.abcotvs.com/v3/kgo/m3u8/url?id=530971&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2919,6 +2910,15 @@
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "NewsNet",
+    "path_name": "7a253089b326b7b740e22d81ed8f596c",
+    "url": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
