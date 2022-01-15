@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -360,9 +351,27 @@
     }
   },
   {
+    "name": "Dreamz TV",
+    "path_name": "cd9f109bf0712fbdf6c40c1d0348eb19",
+    "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Imayam",
     "path_name": "29078ed7f854168ed01ae598f41191fe",
     "url": "https://idvd.multitvsolution.com/idvo/imayamtv.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Sana TV",
+    "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
+    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -507,6 +516,15 @@
     "name": "YourTime TV",
     "path_name": "86e6a3fa13e819561264ac54588c6020",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Disney Channel Japan",
+    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
+    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
