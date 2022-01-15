@@ -1,8 +1,26 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "LatinoKids",
+    "path_name": "7ee700f35053a16485eeccb313c1a7fe",
+    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -378,15 +396,6 @@
     }
   },
   {
-    "name": "Sana TV",
-    "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
-    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Aathavan TV",
     "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
     "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
@@ -624,15 +633,6 @@
     "name": "Домашний",
     "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Magna Vision",
-    "path_name": "260b7f345202936f6b31e08a925b1d20",
-    "url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1235,15 +1235,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1290,6 +1281,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
