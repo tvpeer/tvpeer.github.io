@@ -1971,6 +1971,15 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
@@ -2037,15 +2046,6 @@
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Caribe Televisión (Otuzco)",
-    "path_name": "ae563479c749b0ffa54aa1c009027e03",
-    "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4101,6 +4101,24 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "path_name": "a9422c0649bf1fff809167519ec041ea",
+    "url": "https://api.abcotvs.com/v3/wabc/m3u8/url?id=503123&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
     }
   },
   {
