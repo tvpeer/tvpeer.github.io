@@ -1037,15 +1037,6 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -2421,6 +2412,15 @@
     }
   },
   {
+    "name": "WLS TV News",
+    "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
+    "url": "https://api.abcotvs.com/v3/wls/m3u8/url?id=567113&key=vuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -2757,15 +2757,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
