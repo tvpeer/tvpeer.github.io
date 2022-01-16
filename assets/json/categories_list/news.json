@@ -2421,6 +2421,15 @@
     }
   },
   {
+    "name": "KGO-TV News",
+    "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
+    "url": "https://api.abcotvs.com/v3/kgo/m3u8/url?id=530971&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -2442,15 +2451,6 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
