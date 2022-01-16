@@ -227,7 +227,7 @@
   {
     "name": "Euronews English",
     "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
-    "url": "https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8",
+    "url": "https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -236,7 +236,7 @@
   {
     "name": "Euronews English",
     "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
-    "url": "https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8",
+    "url": "https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -290,7 +290,7 @@
   {
     "name": "France 24 Arabic",
     "path_name": "e73d6ce4a98cea33b7b2ab4596cfc41f",
-    "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+    "url": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -299,7 +299,7 @@
   {
     "name": "France 24 Arabic",
     "path_name": "e73d6ce4a98cea33b7b2ab4596cfc41f",
-    "url": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8",
+    "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -380,6 +380,15 @@
   {
     "name": "BBC Arabic",
     "path_name": "644b660903ecf0a05225efa32c771c12",
+    "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "BBC Arabic",
+    "path_name": "644b660903ecf0a05225efa32c771c12",
     "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
     "categories": {
       "name": "News",
@@ -390,15 +399,6 @@
     "name": "BBC Arabic",
     "path_name": "644b660903ecf0a05225efa32c771c12",
     "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BBC Arabic",
-    "path_name": "644b660903ecf0a05225efa32c771c12",
-    "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -470,7 +470,7 @@
   {
     "name": "Canal 26",
     "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -479,7 +479,7 @@
   {
     "name": "Canal 26",
     "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -657,15 +657,6 @@
     }
   },
   {
-    "name": "ATN News",
-    "path_name": "c374e701683b6246460601756174b864",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Channel 24",
     "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
@@ -821,7 +812,7 @@
   {
     "name": "CTV News",
     "path_name": "26a31b404deb4eac3db19306ec7ce277",
-    "url": "http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/CTV_News/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -830,7 +821,7 @@
   {
     "name": "CTV News",
     "path_name": "26a31b404deb4eac3db19306ec7ce277",
-    "url": "http://encodercdn1.frontline.ca/bespin/output/CTV_News/playlist.m3u8",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1136,7 +1127,7 @@
   {
     "name": "France 24 Español",
     "path_name": "e5d20bb74d29e20c93803cd0c0fc980a",
-    "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+    "url": "http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1145,16 +1136,7 @@
   {
     "name": "France 24 Español",
     "path_name": "e5d20bb74d29e20c93803cd0c0fc980a",
-    "url": "http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "France 24 Français",
-    "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
-    "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+    "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1164,6 +1146,15 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "France 24 Français",
+    "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
+    "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2007,9 +1998,9 @@
     }
   },
   {
-    "name": "Publika TV",
-    "path_name": "11f04fac75d3cbc8e831420c74482c7a",
-    "url": "https://livebeta.publika.md/LIVE/P/1500.m3u8",
+    "name": "M24 TV",
+    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
+    "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2019,6 +2010,15 @@
     "name": "Publika TV",
     "path_name": "11f04fac75d3cbc8e831420c74482c7a",
     "url": "http://livebeta.publika.md/LIVE/P/6810.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Publika TV",
+    "path_name": "11f04fac75d3cbc8e831420c74482c7a",
+    "url": "https://livebeta.publika.md/LIVE/P/1500.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2046,6 +2046,15 @@
     "name": "ATV+ Noticias",
     "path_name": "de28d5d4c43ae3d22df01089ab9e2696",
     "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTV Total (Yurimaguas)",
+    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2243,6 +2252,15 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2315,7 +2333,7 @@
   {
     "name": "24 Канал",
     "path_name": "89c198164962efd4b2bd47c0799d8c17",
-    "url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+    "url": "http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2324,7 +2342,7 @@
   {
     "name": "24 Канал",
     "path_name": "89c198164962efd4b2bd47c0799d8c17",
-    "url": "http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8",
+    "url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2342,7 +2360,7 @@
   {
     "name": "Arise News",
     "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
-    "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
+    "url": "https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2351,7 +2369,7 @@
   {
     "name": "Arise News",
     "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
-    "url": "https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8",
+    "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2388,15 +2406,6 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KGO-TV News",
-    "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
-    "url": "https://api.abcotvs.com/v3/kgo/m3u8/url?id=530971&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2504,6 +2513,15 @@
   {
     "name": "Newsmax",
     "path_name": "0d80516a937de6d784937fe1ee282165",
+    "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Newsmax",
+    "path_name": "0d80516a937de6d784937fe1ee282165",
     "url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2523,15 +2541,6 @@
     "name": "Newsmax",
     "path_name": "0d80516a937de6d784937fe1ee282165",
     "url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Newsmax",
-    "path_name": "0d80516a937de6d784937fe1ee282165",
-    "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2585,7 +2594,7 @@
   {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
-    "url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
+    "url": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2594,7 +2603,7 @@
   {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
-    "url": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8",
+    "url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2745,6 +2754,15 @@
     }
   },
   {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2774,7 +2792,7 @@
   {
     "name": "RT America",
     "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
-    "url": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
+    "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2783,7 +2801,7 @@
   {
     "name": "RT America",
     "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
-    "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
+    "url": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2856,6 +2874,33 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

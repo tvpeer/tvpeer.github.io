@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -39,15 +30,6 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Gaan Bangla",
-    "path_name": "f0bafbb598d2d1444359c0863fd687b3",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -84,15 +66,6 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Alegria TV",
-    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
-    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -252,6 +225,15 @@
     }
   },
   {
+    "name": "Stingray Ambience",
+    "path_name": "d4f5f6473535359a2a4bcbf34733d4ab",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Stingray Classic Rock",
     "path_name": "90d51d9c599fa874c16297276e4940d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
@@ -309,6 +291,15 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -506,7 +497,7 @@
   {
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -515,7 +506,7 @@
   {
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
-    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -552,6 +543,15 @@
     "name": "Radio Weser TV Bremen",
     "path_name": "21d79f10ec18e3d631f3ec8c7a6ff419",
     "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Hits 360 TV",
+    "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
+    "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1485,15 +1485,6 @@
     }
   },
   {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "V2BEAT",
     "path_name": "170dbb73651fd04590a00da30331e5ac",
     "url": "https://de1se01.v2beat.live/playlist.m3u8",
@@ -1523,7 +1514,7 @@
   {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1532,7 +1523,7 @@
   {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1584,6 +1575,15 @@
     }
   },
   {
+    "name": "Vevo Pop",
+    "path_name": "8a64fa9a7efb3af957418a41d06f6540",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
@@ -1596,15 +1596,6 @@
     "name": "Loop 80s East",
     "path_name": "047bd024519159c8b7a012c70ef76dcd",
     "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Baeble Music",
-    "path_name": "ea2dfbb2664985467ed40b533621afe9",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1632,6 +1623,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo 80s",
+    "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
