@@ -2295,15 +2295,6 @@
     }
   },
   {
-    "name": "Cable Netword TV",
-    "path_name": "767e7a4892a20a1aa9b7837807aead93",
-    "url": "https://tv.siete.us/cntv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
@@ -2316,15 +2307,6 @@
     "name": "Mega TV (Tarapoto)",
     "path_name": "3db89f213ac5f98893fa16a5af49835b",
     "url": "https://tv.portalexpress.es:3870/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2379,15 +2361,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Digital 94.1 TV (Juanjui)",
-    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
-    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2457,15 +2430,6 @@
     }
   },
   {
-    "name": "Uranio TV (Yurimaguas)",
-    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
-    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -2478,15 +2442,6 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "RadioTV Oriente (Yurimaguas)",
-    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
-    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3072,6 +3027,15 @@
     "name": "ABC 11 Louisville KY (WHAS)",
     "path_name": "08f742fe8626ba80e071df985624246f",
     "url": "https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio y Televisión Martí",
+    "path_name": "69c13c3c8f8fbddf8a39c6bda15e0df1",
+    "url": "https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
