@@ -279,6 +279,15 @@
     }
   },
   {
+    "name": "EMCI TV",
+    "path_name": "ca6eb9536f6f96bbebdbfe666b4d06f2",
+    "url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Canal ISB (Iglesia San Bernardo)",
     "path_name": "00790056464ac6bae6f28d620093979c",
     "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
@@ -516,6 +525,15 @@
     "name": "Taevas TV7",
     "path_name": "97ea1bcbb5608bbaa3270a5e62eb8805",
     "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -990,15 +1008,6 @@
     }
   },
   {
-    "name": "Nazarenas TV",
-    "path_name": "1d4509993bcf493f8541094425387827",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
@@ -1181,7 +1190,7 @@
   {
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
-    "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8",
+    "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1190,7 +1199,7 @@
   {
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
-    "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
+    "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1386,6 +1395,15 @@
     }
   },
   {
+    "name": "華藏衛視",
+    "path_name": "13e41079e0f5ee10a7a956a649170906",
+    "url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "GOOD TV CH10 烤箱讀書會 短版",
     "path_name": "030a9cf26bea23a7455c67deff8ecf66",
     "url": "https://live.streamingfast.net/osmflivech10.m3u8",
@@ -1575,15 +1593,6 @@
     }
   },
   {
-    "name": "GOOD TV CH33 特會系列：研經培靈",
-    "path_name": "acce9f013f8fff26ccbd8abea3d16046",
-    "url": "https://live.streamingfast.net/osmflivech33.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
     "path_name": "1b057684ceece812fcca0a42ecb9853c",
     "url": "https://live.streamingfast.net/osmflivech36.m3u8",
@@ -1692,15 +1701,6 @@
     }
   },
   {
-    "name": "GOOD TV CH8 幸福學堂 短版",
-    "path_name": "0b3e88c177f4f078c7e8ef3d4f7e0ab7",
-    "url": "https://live.streamingfast.net/osmflivech8.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH9 愛+好醫生 短版",
     "path_name": "9a1fdc19ee68dc3ea27553d6be70f9a8",
     "url": "https://live.streamingfast.net/osmflivech9.m3u8",
@@ -1713,6 +1713,15 @@
     "name": "GOOD TV CH24 劉三講古",
     "path_name": "60ac4fc5c1228874f0ca8041f390349e",
     "url": "https://live.streamingfast.net/osmflivech24.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH25 福氣人生",
+    "path_name": "373e2016496f976f99d15c9dbd30aec5",
+    "url": "https://live.streamingfast.net/osmflivech25.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2280,15 +2289,6 @@
     "name": "Esperanza TV",
     "path_name": "f779936bed70364133d1fcdf28afcdff",
     "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Genesis TV",
-    "path_name": "2d63024f54aed55734541e76b52a5f34",
-    "url": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"

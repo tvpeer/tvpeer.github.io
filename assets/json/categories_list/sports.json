@@ -873,15 +873,6 @@
     }
   },
   {
-    "name": "Nitro Circus",
-    "path_name": "e67b220bbcb1b5e3f01a975498a56db5",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Fuel TV",
     "path_name": "9f0381e0118c0530b9ae02d6a543e5ed",
     "url": "http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8",
@@ -1037,6 +1028,15 @@
   {
     "name": "Stadium",
     "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Stadium",
+    "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
     "url": "https://stadium.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -1047,15 +1047,6 @@
     "name": "Stadium",
     "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
     "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Stadium",
-    "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -1164,15 +1155,6 @@
     "name": "Captital OTB Betting",
     "path_name": "bb8b4370de69a86ca858eb205f883983",
     "url": "https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "MavTV",
-    "path_name": "91532782f64a219700cfd41083876ef3",
-    "url": "https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"

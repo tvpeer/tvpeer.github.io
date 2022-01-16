@@ -11,7 +11,7 @@
   {
     "name": "Bloomberg TV Europe",
     "path_name": "67d22181e08e92efb6516e1240dc81bf",
-    "url": "https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8",
+    "url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"
@@ -20,7 +20,7 @@
   {
     "name": "Bloomberg TV Europe",
     "path_name": "67d22181e08e92efb6516e1240dc81bf",
-    "url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8",
+    "url": "https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"
@@ -66,6 +66,15 @@
     "name": "Bloomberg TV Australia",
     "path_name": "dcfe981042f513cab2bed20603aaabac",
     "url": "https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8",
+    "categories": {
+      "name": "Business",
+      "slug": "business"
+    }
+  },
+  {
+    "name": "Tevex",
+    "path_name": "fff61bbbe1f4680bab89c5549fd56079",
+    "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"
@@ -147,6 +156,15 @@
     "name": "Bloomberg TV US",
     "path_name": "b754e71f21717396149aa049b1458533",
     "url": "https://bloomberg-bloomberg-1-dk.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Business",
+      "slug": "business"
+    }
+  },
+  {
+    "name": "Bloomberg TV US",
+    "path_name": "b754e71f21717396149aa049b1458533",
+    "url": "https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"
@@ -254,15 +272,6 @@
   {
     "name": "Bloomberg TV US",
     "path_name": "b754e71f21717396149aa049b1458533",
-    "url": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8",
-    "categories": {
-      "name": "Business",
-      "slug": "business"
-    }
-  },
-  {
-    "name": "Bloomberg TV US",
-    "path_name": "b754e71f21717396149aa049b1458533",
     "url": "https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8",
     "categories": {
       "name": "Business",
@@ -281,7 +290,7 @@
   {
     "name": "Bloomberg TV US",
     "path_name": "b754e71f21717396149aa049b1458533",
-    "url": "https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+    "url": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"
@@ -426,15 +435,6 @@
     "name": "Bloomberg TV+ UHD",
     "path_name": "09dce248fdfbd0ddb7396994afdda6fc",
     "url": "https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Business",
-      "slug": "business"
-    }
-  },
-  {
-    "name": "Ameritrade",
-    "path_name": "4dd3d93fdddde851d416018dfc5dff59",
-    "url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"

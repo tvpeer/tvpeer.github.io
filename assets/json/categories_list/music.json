@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "Stingray Ambience",
-    "path_name": "d4f5f6473535359a2a4bcbf34733d4ab",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Stingray Classic Rock",
     "path_name": "90d51d9c599fa874c16297276e4940d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
@@ -533,7 +524,7 @@
   {
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
-    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -542,7 +533,7 @@
   {
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -705,15 +696,6 @@
     "name": "Baraza TV",
     "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
     "url": "https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Desi Channel",
-    "path_name": "2a80d7c4e843d9467a9ef72436741db6",
-    "url": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1413,9 +1395,9 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "name": "Муз-ТВ",
+    "path_name": "f1ee13ec2296a569f4e9e11694423627",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1425,15 +1407,6 @@
     "name": "Муз-ТВ",
     "path_name": "f1ee13ec2296a569f4e9e11694423627",
     "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Муз-ТВ",
-    "path_name": "f1ee13ec2296a569f4e9e11694423627",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1550,7 +1523,7 @@
   {
     "name": "Box Hits",
     "path_name": "831df94f10a11999dfa768d1f4db5442",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1559,7 +1532,7 @@
   {
     "name": "Box Hits",
     "path_name": "831df94f10a11999dfa768d1f4db5442",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1677,15 +1650,6 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo 80s",
-    "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
