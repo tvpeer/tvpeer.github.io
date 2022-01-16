@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "TV Mon",
-    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
-    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Cidade de Petrópolis",
     "path_name": "97f192a17020f1875979df3ec60fe210",
     "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
@@ -1809,15 +1800,6 @@
     }
   },
   {
-    "name": "Capital 21",
-    "path_name": "215e6497f27da10873ae6bb2135643df",
-    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "SET Televisión Canal 26.1",
     "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
     "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
@@ -2457,6 +2439,15 @@
     }
   },
   {
+    "name": "Radio TV Charles (Bambamarca)",
+    "path_name": "4e810dfa084e4785e7f9e7a88cf1bde2",
+    "url": "https://media2.cdnlayer.biz:8081/8032/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
@@ -2595,6 +2586,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
