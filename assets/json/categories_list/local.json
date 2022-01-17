@@ -261,6 +261,24 @@
     }
   },
   {
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nova Era TV",
     "path_name": "97002ce81e35169dff3b16c94d105fbd",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
@@ -486,6 +504,24 @@
     }
   },
   {
+    "name": "Canal 74 (San Antonio)",
+    "path_name": "a812e3eb0f5640680dbaf33e02354de9",
+    "url": "https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal SCÑ (San Carlos Ñuble)",
+    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
+    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal TUTV (Quillota)",
     "path_name": "1df1987e2c26f1e7ba86ebbdc4c571a1",
     "url": "https://paneltv.net:3978/hybrid/play.m3u8",
@@ -561,15 +597,6 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "LTV (Renaico)",
-    "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
-    "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2025,6 +2052,15 @@
     }
   },
   {
+    "name": "Kachorro (Super TV | Amazonas)",
+    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
+    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://mediastreamm.com:3194/live/proyectatvlive.m3u8",
@@ -2070,6 +2106,15 @@
     }
   },
   {
+    "name": "Bella Abanquina TV (Apurimac)",
+    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
+    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SoriTV (Picota)",
     "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
     "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
@@ -2100,6 +2145,15 @@
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATM Televisión (Apurimac)",
+    "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
+    "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3261,6 +3315,15 @@
     "name": "CBS 19 Tyler TX (KYTX)",
     "path_name": "fe93425a67e2b72267b432edcd1202bc",
     "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FOX 13 Memphis TN (WHBQ-TV)",
+    "path_name": "616c6f9213dded3a01da13c322fb1fb5",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
