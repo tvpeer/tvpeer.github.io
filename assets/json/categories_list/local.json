@@ -558,6 +558,15 @@
     }
   },
   {
+    "name": "EKIZ TV (Rancagua)",
+    "path_name": "1206f17acdfcfa925d8dd53e081c7695",
+    "url": "https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Elion Canal Digital (Chillan)",
     "path_name": "1bc3940c65e017205cfe20a5794cedfa",
     "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
@@ -822,6 +831,15 @@
     "name": "NicoyaTV",
     "path_name": "cd98ef212cd017453e3770de9005ca6c",
     "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Visión Radio Televisión",
+    "path_name": "69613a38a459d64d2039a6e253e4ccee",
+    "url": "https://stmv.panel.mivideo.pro/vision/vision/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1836,15 +1854,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ZuidWest TV",
     "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
     "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
@@ -2064,15 +2073,6 @@
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SoriTV (Picota)",
-    "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
-    "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2577,15 +2577,6 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
