@@ -450,24 +450,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Aysén TV",
-    "path_name": "1e735fa078c54dc1860e19fca9c0092d",
-    "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Buin Somos Todos",
     "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
     "url": "https://bst.buin.cl/0.m3u8",
@@ -534,15 +516,6 @@
     "name": "Canal TUTV (Quillota)",
     "path_name": "1df1987e2c26f1e7ba86ebbdc4c571a1",
     "url": "https://paneltv.net:3978/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Click TV (Coronel)",
-    "path_name": "9554e47a7857e21bdbb85989291956e6",
-    "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -732,33 +705,6 @@
     "name": "Tele 2 Web (Retiro)",
     "path_name": "1348cfd3347fe8e5b2d82e5b12c1d61f",
     "url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
-    "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
-    "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ziza TV (Chiguayante)",
-    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
-    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2079,15 +2025,6 @@
     }
   },
   {
-    "name": "Kachorro (Super TV | Amazonas)",
-    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
-    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://mediastreamm.com:3194/live/proyectatvlive.m3u8",
@@ -2145,6 +2082,15 @@
     "name": "SoriTV (Picota)",
     "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
     "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2226,15 +2172,6 @@
     "name": "Caribe Televisión (Otuzco)",
     "path_name": "ae563479c749b0ffa54aa1c009027e03",
     "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2367,6 +2304,15 @@
     }
   },
   {
+    "name": "TPTO TV (Tarapoto)",
+    "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
+    "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
@@ -2487,15 +2433,6 @@
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ribereña TV (Bellavista)",
-    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
-    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -1074,6 +1065,15 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1890,6 +1890,15 @@
     }
   },
   {
+    "name": "국악방송",
+    "path_name": "fd59b85a66a9f8eb0d2232373396f31e",
+    "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Sabah",
     "path_name": "506cca4a8b2b0167f11e7d4ff0dad75a",
     "url": "https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8",
@@ -1974,6 +1983,15 @@
     "name": "Libya Al Hadath",
     "path_name": "6c37441af1e13b8d1b2db65718746f1f",
     "url": "https://master.starmena-cloud.com/hls/hd.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Libya Al Ahrar TV",
+    "path_name": "9d5d40314f888baa524d7f3282801c30",
+    "url": "https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2412,15 +2430,6 @@
     }
   },
   {
-    "name": "WPVI-TV News",
-    "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
-    "url": "https://api.abcotvs.com/v3/wpvi/m3u8/url?id=531099&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Redseat The First",
     "path_name": "8ecfc0d50d1e5804ab963a833954d2fa",
     "url": "https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8",
@@ -2763,6 +2772,15 @@
     }
   },
   {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2892,15 +2910,6 @@
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "NewsNet",
-    "path_name": "7a253089b326b7b740e22d81ed8f596c",
-    "url": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
