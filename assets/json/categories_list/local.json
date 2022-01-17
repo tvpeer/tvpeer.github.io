@@ -369,6 +369,15 @@
     }
   },
   {
+    "name": "TVE Bahia",
+    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
+    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -810,15 +819,6 @@
     }
   },
   {
-    "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
-    "path_name": "1eba2d69dcc77f6786a11543260ae375",
-    "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Visión Radio Televisión",
     "path_name": "69613a38a459d64d2039a6e253e4ccee",
     "url": "https://stmv.panel.mivideo.pro/vision/vision/playlist.m3u8",
@@ -1002,6 +1002,15 @@
     "name": "viàMoselleTV",
     "path_name": "e8096997229835589d7cf35260083ce9",
     "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "viàOccitanie",
+    "path_name": "6caa2dd79f53c00143cc4e43a7b91a9b",
+    "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2250,15 +2259,6 @@
     }
   },
   {
-    "name": "Oasis RTV (Trujillo)",
-    "path_name": "c1e586de24db4e0d42c50a70938717f9",
-    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2568,15 +2568,6 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
