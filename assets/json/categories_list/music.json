@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -48,6 +39,15 @@
     "name": "Gaan Bangla",
     "path_name": "f0bafbb598d2d1444359c0863fd687b3",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "City Music TV",
+    "path_name": "58c88d09ec8bdd42fda5b3d6d3036b14",
+    "url": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -855,6 +855,24 @@
     }
   },
   {
+    "name": "Kalai Isai",
+    "path_name": "48f26c9c13dd06b783e018c82fdca1d6",
+    "url": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Sachin Music",
+    "path_name": "fe69b332c08579933725d248f7b58c5e",
+    "url": "http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "7S Music",
     "path_name": "a4400ba9f62834e84b272ff92a43da68",
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
@@ -1404,9 +1422,9 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "name": "Муз-ТВ",
+    "path_name": "f1ee13ec2296a569f4e9e11694423627",
+    "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1541,15 +1559,6 @@
   {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "The Box UK",
-    "path_name": "cd193df222036636e3a7c652978bf742",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/",
     "categories": {
       "name": "Music",
@@ -1623,6 +1632,15 @@
     "name": "Loop 80s East",
     "path_name": "047bd024519159c8b7a012c70ef76dcd",
     "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Baeble Music",
+    "path_name": "ea2dfbb2664985467ed40b533621afe9",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

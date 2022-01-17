@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "QVTV",
-    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
-    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
@@ -291,6 +282,15 @@
     "name": "EWTN Canada",
     "path_name": "24c6855ecf519d7a49e49bf120ca7641",
     "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "EMCI TV",
+    "path_name": "ca6eb9536f6f96bbebdbfe666b4d06f2",
+    "url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -471,15 +471,6 @@
     "name": "The Kingdom Sat",
     "path_name": "ac58ed653f3d9c306a67018d61051689",
     "url": "https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Al Hayat TV",
-    "path_name": "e361cb5edda427d6ac65314425cf56e3",
-    "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1656,6 +1647,15 @@
     }
   },
   {
+    "name": "GOOD TV CH41 幸福學堂",
+    "path_name": "284ca8af0e65bdb29935aaa81d62f9ae",
+    "url": "https://live.streamingfast.net/osmflivech41.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "GOOD TV CH44 烤箱讀書會",
     "path_name": "157651626a752b1f13c2da7ff3c482ff",
     "url": "https://live.streamingfast.net/osmflivech44.m3u8",
@@ -2052,6 +2052,15 @@
     }
   },
   {
+    "name": "TBN Asia",
+    "path_name": "a80cbe0640e879f6ce9c0550953c61c4",
+    "url": "http://210.210.155.35/qwr9ew/s/s39/02.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
@@ -2073,6 +2082,15 @@
     "name": "Jewish Life TV",
     "path_name": "c289830c6c468cc05e2cf388038bbec6",
     "url": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "QVTV",
+    "path_name": "4557201ad47a40c133bab8c8b786e5a7",
+    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2289,6 +2307,15 @@
     "name": "Esperanza TV",
     "path_name": "f779936bed70364133d1fcdf28afcdff",
     "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Genesis TV",
+    "path_name": "2d63024f54aed55734541e76b52a5f34",
+    "url": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
