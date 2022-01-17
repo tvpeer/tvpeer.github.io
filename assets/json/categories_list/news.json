@@ -1080,15 +1080,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -1632,6 +1623,15 @@
     "name": "Al Sharqiya News",
     "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
     "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Rafidain",
+    "path_name": "cf8924302dda5b48f2ab4c5be6735c96",
+    "url": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2270,15 +2270,6 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2424,24 +2415,6 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KTRK TV News",
-    "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
-    "url": "https://api.abcotvs.com/v3/ktrk/m3u8/url?id=514944&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KGO-TV News",
-    "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
-    "url": "https://api.abcotvs.com/v3/kgo/m3u8/url?id=530971&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2973,15 +2946,6 @@
     "name": "CBSN",
     "path_name": "0095027b95388b1f5ad7824733e794e1",
     "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
