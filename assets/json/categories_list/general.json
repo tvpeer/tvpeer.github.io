@@ -792,15 +792,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -1164,6 +1155,15 @@
     "name": "Al Mamlaka TV",
     "path_name": "bf1597c75db3d09466590adf67aa1208",
     "url": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Roya TV",
+    "path_name": "d1913da40a94354804946a4afc4a92ea",
+    "url": "https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
