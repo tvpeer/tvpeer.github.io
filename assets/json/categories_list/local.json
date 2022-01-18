@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "TeleJunín",
+    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
+    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telefe",
     "path_name": "b6a3e1a806fdd12176121ecf03f7a1bf",
     "url": "http://170.83.242.153:8000/play/a00b",
@@ -606,6 +615,15 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "LTV (Renaico)",
+    "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
+    "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1884,15 +1902,6 @@
     "name": "Canal de Las Estrellas",
     "path_name": "f7d1603f11fb84c21b940740803e5f55",
     "url": "http://170.83.242.153:8000/play/a012",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
