@@ -126,6 +126,15 @@
     }
   },
   {
+    "name": "AVC HD (Monte Caseros | Corrientes)",
+    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
+    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Catacama TV",
     "path_name": "5a8c557720d6aee66533457e328a7b6d",
     "url": "https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8",
@@ -2538,15 +2547,6 @@
     }
   },
   {
-    "name": "Mega TV (Jaen)",
-    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
-    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Mega TV (Tarapoto)",
     "path_name": "3db89f213ac5f98893fa16a5af49835b",
     "url": "https://tv.portalexpress.es:3870/hybrid/play.m3u8",
@@ -2730,6 +2730,24 @@
     "name": "RadioTV Oriente (Yurimaguas)",
     "path_name": "dfc31299044edc2b74806c71c30fc1cb",
     "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
