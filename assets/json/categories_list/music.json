@@ -9,9 +9,27 @@
     }
   },
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Claro Sin Limites",
+    "path_name": "9b9b06944dda3c6a4d1428fd3cebef7f",
+    "url": "http://170.83.242.153:8000/play/a01k",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -459,6 +477,15 @@
     }
   },
   {
+    "name": "88 Stereo",
+    "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
+    "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Video Tour Channel",
     "path_name": "ebc4cfe2abccb62e5e1bd5b5f09af6da",
     "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
@@ -480,6 +507,15 @@
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "VM Latino",
+    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1532,6 +1568,15 @@
   {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "The Box UK",
+    "path_name": "cd193df222036636e3a7c652978bf742",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/",
     "categories": {
       "name": "Music",
@@ -1641,15 +1686,6 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "STIRR Stingray Pop Adult",
-    "path_name": "5bd20e05680182e0baa90e0373812ec7",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
