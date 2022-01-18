@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Claro Sin Limites",
     "path_name": "9b9b06944dda3c6a4d1428fd3cebef7f",
     "url": "http://170.83.242.153:8000/play/a01k",
@@ -1152,6 +1143,15 @@
     }
   },
   {
+    "name": "Conecta TV",
+    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
+    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -1512,6 +1512,15 @@
     }
   },
   {
+    "name": "Mosaïque FM",
+    "path_name": "044109ec0f439a4409b25730dfab93fe",
+    "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "M2",
     "path_name": "f71033f9d8c141e98e5a25bc97e1c1a6",
     "url": "http://live.m2.tv/hls3/stream.m3u8",
@@ -1776,24 +1785,6 @@
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://vidaprimo-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "La Mega Mundial",
-    "path_name": "2da93640d38072f339fa2acb950d7453",
-    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "La Mega Mundial",
-    "path_name": "2da93640d38072f339fa2acb950d7453",
-    "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
