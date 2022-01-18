@@ -72,24 +72,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -102,24 +84,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -495,15 +459,6 @@
     }
   },
   {
-    "name": "RedeTV! Tocantins",
-    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Guará",
     "path_name": "493f3f239af0744a0c302aca46a0d053",
     "url": "https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8",
@@ -597,6 +552,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -777,15 +741,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1035,15 +990,6 @@
     }
   },
   {
-    "name": "Trans TV",
-    "path_name": "2b332593d6c5d88558ea2f13ef01e9ff",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
@@ -1218,15 +1164,6 @@
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://50.7.74.29:8880/hlsok/j00005/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://50.7.74.29:8880/hlsok/j00047/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1548,9 +1485,9 @@
     }
   },
   {
-    "name": "MBC",
-    "path_name": "d11fa117fb730e077192de81a07db08c",
-    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
+    "name": "TVM Internacional",
+    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1560,6 +1497,15 @@
     "name": "TVM",
     "path_name": "afd856551a771d9e971aff7c943f3559",
     "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "Prime Canada TV",
-    "path_name": "0174b660c77642fde8a645a8c147f202",
-    "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
@@ -585,6 +576,15 @@
     }
   },
   {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Ю",
     "path_name": "bd652dc820fb36c497d8ccf9e6161559",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8",
@@ -885,15 +885,6 @@
     "name": "We TV All Weddings",
     "path_name": "2920643315f0f172a92d71df7d8fe78d",
     "url": "https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Showtime at the Apollo",
-    "path_name": "1562ccc498170564aa5e31d516cd2a6a",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1245,6 +1236,15 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
