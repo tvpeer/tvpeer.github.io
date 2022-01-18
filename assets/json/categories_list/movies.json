@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Claro Cinema",
     "path_name": "3ee9a61a7890acc87a13f1834ff639f2",
     "url": "http://170.83.242.153:8000/play/a00d",
@@ -93,6 +84,15 @@
     "name": "Retro Plus 3",
     "path_name": "980109982ba442e1f2944f0785547682",
     "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "CCTV-6电影",
+    "path_name": "986be71f475808cb386ce1449c29e653",
+    "url": "http://112.25.48.68/live/program/live/cctv6hd/4000000/mnf.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -1035,6 +1035,15 @@
     }
   },
   {
+    "name": "Crackle",
+    "path_name": "ae8c9f5903dc0f1b600b46c647b1fdc7",
+    "url": "https://crackle-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Cine Romantico (XUMO)",
     "path_name": "f3d46d813ce62649b234cb3debb15ac7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8",
@@ -1047,15 +1056,6 @@
     "name": "Top Cine",
     "path_name": "bdd2df64a55a81d56b988e78af3c5226",
     "url": "https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "MyTime movie network Mexico",
-    "path_name": "0874855eeedb88a44f030b24a31c7cc2",
-    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
