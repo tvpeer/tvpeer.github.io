@@ -252,6 +252,15 @@
     }
   },
   {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -327,15 +336,6 @@
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -804,24 +804,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
-    "path_name": "043d28d19d441647b261182ec39f08df",
-    "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2124,6 +2106,15 @@
     }
   },
   {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV5 Soritor",
     "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
     "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
@@ -2667,6 +2658,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
