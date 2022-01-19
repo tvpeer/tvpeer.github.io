@@ -828,6 +828,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1935,6 +1944,15 @@
     }
   },
   {
+    "name": "Lansingerland TV",
+    "path_name": "8fa9c12ed765f91ffd141b3601376178",
+    "url": "https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ML5 TV",
     "path_name": "bd4bd7f959692d3f87c4a9640d9f76da",
     "url": "https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
@@ -1992,6 +2010,15 @@
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio90 TV",
+    "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
+    "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2208,6 +2235,15 @@
     "name": "DeltaTV (Pacayzapa | San Martín)",
     "path_name": "50dfd89f806cb41d9e6517c0fce43954",
     "url": "https://media2.cdnlayer.biz:8081/8038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Gold Valley TV (Casma)",
+    "path_name": "70c87e193b51f06f2209e148c2a45a6f",
+    "url": "https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2487,6 +2523,15 @@
     "name": "Planeta TV Bagua",
     "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
     "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Imperial Televisión (Huancayo)",
+    "path_name": "006da3caac02d5d08fa0e5b092855ab0",
+    "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3270,15 +3315,6 @@
     "name": "CBS 19 Tyler TX (KYTX)",
     "path_name": "fe93425a67e2b72267b432edcd1202bc",
     "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "FOX 13 Memphis TN (WHBQ-TV)",
-    "path_name": "616c6f9213dded3a01da13c322fb1fb5",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
