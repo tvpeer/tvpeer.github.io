@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -183,6 +192,15 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ORF 1",
+    "path_name": "4e699a45782c05b969fb41fab13dec1e",
+    "url": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -378,6 +396,24 @@
     }
   },
   {
+    "name": "Bijoy TV",
+    "path_name": "ee96336f5a8b05581840f206aa2eb8e0",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Sangshad TV",
+    "path_name": "7ffe5966e41b9f92369ecce643ca3fdb",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8",
@@ -390,15 +426,6 @@
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "SATV",
-    "path_name": "d81912dfc106c935a646b6840f4ac276",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -612,15 +639,6 @@
     }
   },
   {
-    "name": "Rede Brasil",
-    "path_name": "c4d497ed1989b194dec2231d8e9be567",
-    "url": "https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Metropole",
     "path_name": "92ca0fab71afbc1be6b251467a82df91",
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
@@ -702,15 +720,6 @@
     }
   },
   {
-    "name": "CanBangla TV",
-    "path_name": "aa68730c085a631700805bb998db5eef",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "DesheBideshe TV",
     "path_name": "4e498c2c2821169e06ff02a075b0dc49",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8",
@@ -777,24 +786,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1803,6 +1794,15 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
