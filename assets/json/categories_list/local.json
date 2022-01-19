@@ -207,6 +207,15 @@
     }
   },
   {
+    "name": "Rede CNT (Curitiba)",
+    "path_name": "b4662f3ad289b560564ebaad0be82a2b",
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Rede CNT (São Paulo)",
     "path_name": "98d8e66351ab55fdb893e09404b32a62",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
@@ -855,6 +864,15 @@
     }
   },
   {
+    "name": "TV Girona",
+    "path_name": "080367b5b1350504c030597028e7450b",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVG Cultural",
     "path_name": "6250449e8dae36b23db6418c5dc5f840",
     "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
@@ -867,6 +885,15 @@
     "name": "TVG Evento 1",
     "path_name": "3de97eb0c2c97c812d25c106232d4192",
     "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVG Infantil",
+    "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
+    "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
