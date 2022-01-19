@@ -198,15 +198,6 @@
     }
   },
   {
-    "name": "BTV Chittagong",
-    "path_name": "ccdb0399ec3f5c5fbdc6ad3f28701cec",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -651,15 +642,6 @@
     "name": "Santa María Televisión",
     "path_name": "3367c1feb878d42504c153dd4d570aa3",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Costa (San Antonio)",
-    "path_name": "92937adbdfc4a3d3eac3ea204589ecb7",
-    "url": "https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2187,6 +2169,15 @@
     }
   },
   {
+    "name": "Cajamarca TV",
+    "path_name": "7807971ea588e8f5b73ad964ee07d397",
+    "url": "https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
@@ -2448,6 +2439,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
@@ -2700,6 +2700,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2892,6 +2901,15 @@
     "name": "ОТВ (Одинцово)",
     "path_name": "99405b97c1973b91465c7891ebdccbd0",
     "url": "http://185.18.4.16/live/3m/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ТВР24 (Сергиев Посад)",
+    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
+    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
