@@ -882,15 +882,6 @@
     }
   },
   {
-    "name": "TVG Infantil",
-    "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
-    "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Musigal",
     "path_name": "47381098b0e4668b02f78e948c4363c8",
     "url": "https://musigal-crtvg.flumotion.com/playlist.m3u8",
@@ -2295,6 +2286,15 @@
     }
   },
   {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://mediastreamm.com:3126/live/tele2000live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2343,6 +2343,15 @@
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "X TV (Chachapoyas)",
+    "path_name": "c3e6108307eda0d136b5578d57804d62",
+    "url": "https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2547,6 +2556,15 @@
     }
   },
   {
+    "name": "Vía Televisión (Tarapoto)",
+    "path_name": "ec1b161376ad772acf1a3915e9235b9f",
+    "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "RadioTV Oriente (Yurimaguas)",
     "path_name": "dfc31299044edc2b74806c71c30fc1cb",
     "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
@@ -2622,6 +2640,15 @@
     "name": "SGDF24.RU (Свердлов)",
     "path_name": "b3ca63e2c2a924a81414db6c356e61eb",
     "url": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
