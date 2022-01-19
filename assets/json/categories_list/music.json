@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -48,6 +39,15 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Gaan Bangla",
+    "path_name": "f0bafbb598d2d1444359c0863fd687b3",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -612,6 +612,15 @@
     }
   },
   {
+    "name": "Radio105 full",
+    "path_name": "d6b5bea8ea2599cdb3b6345f27187130",
+    "url": "https://cloudflare.streamgato.us:3901/live/radio105live.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Nogoum FM TV",
     "path_name": "1ce920a2fedd4d7a1d15a31ef5393ff5",
     "url": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8",
@@ -639,9 +648,9 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -849,6 +858,15 @@
     "name": "Relax TV",
     "path_name": "0ae04150fad0720c728707f7b79d2f66",
     "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Kalai Isai",
+    "path_name": "48f26c9c13dd06b783e018c82fdca1d6",
+    "url": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
