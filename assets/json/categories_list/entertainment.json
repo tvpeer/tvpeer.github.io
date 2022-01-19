@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -56,15 +65,6 @@
   {
     "name": "CCTV-3综艺",
     "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
     "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -75,15 +75,6 @@
     "name": "Canal RCN Novelas",
     "path_name": "002cd85d17f3848b8825c7809555a74b",
     "url": "http://45.179.140.242:8000/play/a0jf",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "UNO PLAY",
-    "path_name": "59c4f4c6efa2399574540a59532ceb4c",
-    "url": "https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -210,6 +201,15 @@
     "name": "Dum TV Kannada",
     "path_name": "38ae0061dc5e25bb385297fee91fa11d",
     "url": "http://14.199.164.20:4001/play/a0sq/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Public TV",
+    "path_name": "229f2044b52c189551ecfe66f0296ce9",
+    "url": "http://14.199.164.20:4001/play/a0ld/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "AFN TV",
-    "path_name": "08f85bac1a51a38b23d4f56a99d82330",
-    "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
@@ -534,15 +525,6 @@
     "name": "YourTime TV",
     "path_name": "86e6a3fa13e819561264ac54588c6020",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Disney Channel Japan",
-    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
-    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1074,15 +1056,6 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
