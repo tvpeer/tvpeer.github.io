@@ -1,8 +1,26 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "LatinoKids",
+    "path_name": "7ee700f35053a16485eeccb313c1a7fe",
+    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -335,15 +353,6 @@
   {
     "name": "Mazhavil Manorama",
     "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Mazhavil Manorama",
-    "path_name": "06556c4af215ad4d71128543908d5518",
     "url": "http://14.199.164.20:4001/play/a0pa/index.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -480,6 +489,15 @@
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ITC TV",
+    "path_name": "6ef3f2563d169987779b98c45dab360b",
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1092,15 +1110,6 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
