@@ -81,9 +81,27 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -102,6 +120,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -288,15 +315,6 @@
     }
   },
   {
-    "name": "Space TV",
-    "path_name": "907c0a6a25c04d59128d948d9a733c4b",
-    "url": "http://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Kəpəz TV",
     "path_name": "20082913f71c516ee3ddc764203aca00",
     "url": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
@@ -360,15 +378,6 @@
     }
   },
   {
-    "name": "Nexus TV",
-    "path_name": "2001755923d1fac95e3f3d5b5f862fcb",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Bijoy TV",
     "path_name": "ee96336f5a8b05581840f206aa2eb8e0",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8",
@@ -399,15 +408,6 @@
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "SATV",
-    "path_name": "d81912dfc106c935a646b6840f4ac276",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -783,15 +783,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -921,6 +912,15 @@
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Elsharq TV",
+    "path_name": "e443aebe6eb4923eb7ae657fcd0ddd7b",
+    "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1919,15 +1919,6 @@
   {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8",
     "categories": {
       "name": "General",
@@ -2073,6 +2064,15 @@
     "name": "Time Television",
     "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
