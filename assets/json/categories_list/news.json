@@ -1584,15 +1584,6 @@
     }
   },
   {
-    "name": "Polimer News",
-    "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
-    "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Asianet News Tamil",
     "path_name": "efb9f3e9968cb3ed93db2ea06ceac1dd",
     "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
@@ -2270,6 +2261,15 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2910,6 +2910,15 @@
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "NewsNet",
+    "path_name": "7a253089b326b7b740e22d81ed8f596c",
+    "url": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
