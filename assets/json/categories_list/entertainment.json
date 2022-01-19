@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "LatinoKids",
-    "path_name": "7ee700f35053a16485eeccb313c1a7fe",
-    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -219,6 +210,15 @@
     "name": "Dum TV Kannada",
     "path_name": "38ae0061dc5e25bb385297fee91fa11d",
     "url": "http://14.199.164.20:4001/play/a0sq/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Public TV",
+    "path_name": "229f2044b52c189551ecfe66f0296ce9",
+    "url": "http://14.199.164.20:4001/play/a0ld/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1254,15 +1254,6 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
