@@ -1071,15 +1071,6 @@
     }
   },
   {
-    "name": "Epirus TV1",
-    "path_name": "b595a00706b243c81ed0e8ba19bd8fbd",
-    "url": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
@@ -1881,6 +1872,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nicavisión Canal 12",
     "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
     "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
@@ -2091,15 +2091,6 @@
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2340,6 +2331,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://mediastreamm.com:3126/live/tele2000live.m3u8",
@@ -2478,15 +2478,6 @@
     "name": "Millenium 109 FM (Lamas)",
     "path_name": "c1cc00facd910de1896c73705c6ac6da",
     "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PiuraTV",
-    "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
-    "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2658,6 +2649,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
