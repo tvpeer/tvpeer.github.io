@@ -54,24 +54,6 @@
     }
   },
   {
-    "name": "PBS Spokane WA (KSPS-TV1)",
-    "path_name": "b919172c9248b29d66dd661ed1c2331e",
-    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Spokane WA (KSPS-TV1)",
-    "path_name": "b919172c9248b29d66dd661ed1c2331e",
-    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PBS Tallahassee FL (WFSU-TV1)",
     "path_name": "f3a86118486963f91dbf380b6ef10a54",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
@@ -381,15 +363,6 @@
     "name": "TV Sol Comunidade",
     "path_name": "15d51beac02d1ff1ebf4d579a607137c",
     "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2718,6 +2691,15 @@
     }
   },
   {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
@@ -3600,15 +3582,6 @@
     }
   },
   {
-    "name": "Glendale 11 AZ",
-    "path_name": "30ef1df6ad2a5f67ea333e4673726d2a",
-    "url": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NBC 5 Seattle WA (KING)",
     "path_name": "1fd9911a388e73914f3e559ba062a3f7",
     "url": "https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8",
@@ -3864,15 +3837,6 @@
     "name": "NBC 6 College Station TX (KAGS)",
     "path_name": "3ad0baf84328058afe896314603eecbb",
     "url": "https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "HTV 1 Houston Television",
-    "path_name": "8b057930c82532c47a20ae09f991895b",
-    "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
