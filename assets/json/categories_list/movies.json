@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ATV Ֆիլմզոն",
+    "path_name": "daa60ca759b05ec4bb74a650d4705527",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -711,6 +720,15 @@
     }
   },
   {
+    "name": "Hallmark Movies & More",
+    "path_name": "1b4731d7c002aa92e066c07882aaa53d",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Horrify",
     "path_name": "7d1e299f1ae65aad8277a0a03e6afc6f",
     "url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
@@ -1002,6 +1020,15 @@
     "name": "MyTime movie network",
     "path_name": "4c6fcb46a6b0d7909054e989238b017a",
     "url": "https://mytime-roku-ingest.cinedigm.com/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "MyTime movie network",
+    "path_name": "4c6fcb46a6b0d7909054e989238b017a",
+    "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
