@@ -198,15 +198,6 @@
     }
   },
   {
-    "name": "BTV Chittagong",
-    "path_name": "ccdb0399ec3f5c5fbdc6ad3f28701cec",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -786,6 +777,15 @@
     "name": "City TV (Bogotà | Cundinamarca)",
     "path_name": "56723578aa6b96da3fe55f3f6663efae",
     "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2052,15 +2052,6 @@
     }
   },
   {
-    "name": "Imagen Televisión (Rioja)",
-    "path_name": "3d2203fd154dfce2a7588e51179b0717",
-    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -2325,15 +2316,6 @@
     "name": "La Ribereña (Pucallpa)",
     "path_name": "a20156fddec12f98e695ca9163b6454a",
     "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Cable Netword TV",
-    "path_name": "767e7a4892a20a1aa9b7837807aead93",
-    "url": "https://tv.siete.us/cntv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2964,15 +2946,6 @@
     "name": "Fox 61 Hartford CT (WTIC-TV)",
     "path_name": "c361438e636e5d849b38488073aaf9a7",
     "url": "https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 7 Detroit MI (WXYZ-TV)",
-    "path_name": "227784b3d2b80cf763abd788bec550dd",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
