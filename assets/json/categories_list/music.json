@@ -648,15 +648,6 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TMA",
     "path_name": "45331b07c71001234a40134745294911",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -1458,15 +1449,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Муз-ТВ",
     "path_name": "f1ee13ec2296a569f4e9e11694423627",
     "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
@@ -1665,6 +1647,15 @@
     }
   },
   {
+    "name": "Vevo Hip Hop",
+    "path_name": "b8b481ce3ee75deda9327c0fb327e658",
+    "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
@@ -1695,6 +1686,15 @@
     "name": "Baeble Music",
     "path_name": "ea2dfbb2664985467ed40b533621afe9",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Bluegrass Music 4U",
+    "path_name": "82589cceff8905cc7487d354c41f55ce",
+    "url": "https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1740,6 +1740,15 @@
     "name": "VH1",
     "path_name": "d52229c62adf5293eb6b484439d130b7",
     "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio Ritmo",
+    "path_name": "7e5e8ac29053f4f2fa7970b6d8f85c05",
+    "url": "https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
