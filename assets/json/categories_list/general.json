@@ -81,27 +81,9 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -210,15 +192,6 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Alvin Channel TV",
-    "path_name": "af035aef2df699d66b9a68c4742e79ed",
-    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1008,6 +981,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1020,15 +1002,6 @@
     "name": "GTV",
     "path_name": "b6f10dc3b23e4aa70710831a8d918689",
     "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "MNCTV",
-    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1566,15 +1539,6 @@
     }
   },
   {
-    "name": "MBC",
-    "path_name": "d11fa117fb730e077192de81a07db08c",
-    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVM Internacional",
     "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
     "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
@@ -1947,6 +1911,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
