@@ -486,6 +486,15 @@
     }
   },
   {
+    "name": "Campus TV (Talca)",
+    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 2 (San Antonio)",
     "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
     "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
@@ -639,9 +648,27 @@
     }
   },
   {
+    "name": "Puncón TV",
+    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Radio América TV",
     "path_name": "c4a914d7b4662c2342f3b85d5575c3b9",
     "url": "https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Santa María Televisión",
+    "path_name": "3367c1feb878d42504c153dd4d570aa3",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -675,6 +702,15 @@
     }
   },
   {
+    "name": "TV Quellón",
+    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Quinta Región",
     "path_name": "dc9303cf3728554ff78e4b9eed262818",
     "url": "https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/playlist.m3u8",
@@ -687,6 +723,15 @@
     "name": "TV8 (Concepción)",
     "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
     "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVO (San Vicente)",
+    "path_name": "9231f1e45816538f117972ce36b9a1a6",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2106,15 +2151,6 @@
     }
   },
   {
-    "name": "CreoTV (Cajamarca)",
-    "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
-    "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Caribe Televisión (Otuzco)",
     "path_name": "ae563479c749b0ffa54aa1c009027e03",
     "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
@@ -2226,15 +2262,6 @@
     "name": "TVenLinea (Cuzco)",
     "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
     "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tele2000 (Ayacucho)",
-    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
-    "url": "https://mediastreamm.com:3126/live/tele2000live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2442,6 +2469,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
