@@ -441,6 +441,15 @@
     }
   },
   {
+    "name": "Atacama TV (Copiapó)",
+    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -768,6 +777,15 @@
     "name": "City TV (Bogotà | Cundinamarca)",
     "path_name": "56723578aa6b96da3fe55f3f6663efae",
     "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Suram TV",
+    "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
+    "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1326,6 +1344,15 @@
     "name": "TVRI Nusa Tenggara Barat",
     "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Nusa Tenggara Barat",
+    "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1929,15 +1956,6 @@
     "name": "Omroep Hulst TV",
     "path_name": "d54dc61da73530a96b0337c3e401c472",
     "url": "https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Aalsmeer TV",
-    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
-    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
