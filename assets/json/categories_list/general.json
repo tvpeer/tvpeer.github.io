@@ -72,24 +72,6 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -102,15 +84,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Amga TV",
-    "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
-    "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -675,6 +648,15 @@
     }
   },
   {
+    "name": "CanBangla TV",
+    "path_name": "aa68730c085a631700805bb998db5eef",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "DesheBideshe TV",
     "path_name": "4e498c2c2821169e06ff02a075b0dc49",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8",
@@ -741,24 +723,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -975,6 +939,15 @@
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "GTV",
+    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
+    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1818,9 +1791,27 @@
     }
   },
   {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Iași",
+    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
+    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1910,6 +1901,15 @@
   {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8",
     "categories": {
       "name": "General",
@@ -1965,6 +1965,15 @@
     "name": "Al Saudiya",
     "path_name": "0ccc8b9cc0aad21b8db718d6c3b5f5e3",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "WOW TV",
+    "path_name": "dc5ea1b50761502eb23510e8482ea260",
+    "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2145,15 +2154,6 @@
     "name": "TVS Television Network",
     "path_name": "104e65b16979ce9e724aca20314edaf5",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Court TV Mystery (WTXL-TV4)",
-    "path_name": "f9211d5929c5584061939e8165d9cb3f",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

@@ -450,6 +450,33 @@
     }
   },
   {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
@@ -975,15 +1002,6 @@
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2243,6 +2261,15 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2567,15 +2594,6 @@
   {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
-    "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "OAN",
-    "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8",
     "categories": {
       "name": "News",
@@ -2693,6 +2711,15 @@
   {
     "name": "Newsy",
     "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
+    "url": "https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Newsy",
+    "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
     "url": "https://newsy-newsy-1.vizio.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2730,6 +2757,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2856,6 +2892,24 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
