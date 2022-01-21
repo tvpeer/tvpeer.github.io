@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "TeleJunín",
-    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
-    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -498,6 +489,15 @@
     "name": "CEAC TV (Santiago)",
     "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
     "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Campus TV (Talca)",
+    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1899,15 +1899,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Nicavisión Canal 12",
     "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
     "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
@@ -2109,6 +2100,15 @@
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://mediastreamm.com:3194/live/proyectatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Imagen Televisión (Rioja)",
+    "path_name": "3d2203fd154dfce2a7588e51179b0717",
+    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
