@@ -2178,15 +2178,6 @@
     }
   },
   {
-    "name": "TV5 Soritor",
-    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
-    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
@@ -2253,6 +2244,15 @@
     "name": "DeltaTV (Pacayzapa | San Martín)",
     "path_name": "50dfd89f806cb41d9e6517c0fce43954",
     "url": "https://media2.cdnlayer.biz:8081/8038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FuegoTV (Lima)",
+    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
+    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2448,15 +2448,6 @@
     }
   },
   {
-    "name": "X TV (Chachapoyas)",
-    "path_name": "c3e6108307eda0d136b5578d57804d62",
-    "url": "https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ClipsTV (Ica)",
     "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
     "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
@@ -2628,15 +2619,6 @@
     }
   },
   {
-    "name": "Sol Stereo TV (Casma)",
-    "path_name": "5b1011c240c409ae2b7cadb7d1767d0c",
-    "url": "https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
@@ -2694,15 +2676,6 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "RadioTV Oriente (Yurimaguas)",
-    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
-    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
