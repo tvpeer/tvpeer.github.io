@@ -828,6 +828,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1881,15 +1890,6 @@
     }
   },
   {
-    "name": "Nicavisión Canal 12",
-    "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
-    "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ZuidWest TV",
     "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
     "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
@@ -2133,27 +2133,9 @@
     }
   },
   {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV5 Soritor",
     "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
     "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2190,6 +2172,15 @@
     "name": "Cajamarca TV",
     "path_name": "7807971ea588e8f5b73ad964ee07d397",
     "url": "https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 43 Sudamericana (Ica)",
+    "path_name": "bc2117428c81fe2513da77b0de044691",
+    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2277,6 +2268,15 @@
     }
   },
   {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2334,6 +2334,15 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

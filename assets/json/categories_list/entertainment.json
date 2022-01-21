@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -335,6 +326,15 @@
   {
     "name": "Mazhavil Manorama",
     "path_name": "06556c4af215ad4d71128543908d5518",
+    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Mazhavil Manorama",
+    "path_name": "06556c4af215ad4d71128543908d5518",
     "url": "http://14.199.164.20:4001/play/a0pa/index.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -525,15 +525,6 @@
     "name": "YourTime TV",
     "path_name": "86e6a3fa13e819561264ac54588c6020",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Disney Channel Japan",
-    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
-    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -873,15 +864,6 @@
     }
   },
   {
-    "name": "Young Hollywood",
-    "path_name": "2d071c592394806c832d2a782b9be364",
-    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "We TV All Weddings",
     "path_name": "2920643315f0f172a92d71df7d8fe78d",
     "url": "https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8",
@@ -1062,15 +1044,6 @@
     }
   },
   {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Cable Hits",
     "path_name": "14567a5592f48c23f4a3f43f572640d1",
     "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
@@ -1224,6 +1197,15 @@
     }
   },
   {
+    "name": "Buzzr",
+    "path_name": "0f1618ed8ba5987131bb44e9d1ec0d8b",
+    "url": "https://buzzrota-web.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-roku.amagi.tv/playlist.m3u8",
@@ -1236,15 +1218,6 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
