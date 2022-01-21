@@ -72,36 +72,9 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -216,15 +189,6 @@
     }
   },
   {
-    "name": "Xəzər TV",
-    "path_name": "9376d8752652afdc7ea838e61540c794",
-    "url": "http://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Muğan TV",
     "path_name": "f9b74f18048b2cbb70f49cd45485775e",
     "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
@@ -282,15 +246,6 @@
     "name": "Azad TV -4 (ATV)",
     "path_name": "032024fb5767d88d4909cea1db9700bc",
     "url": "http://85.132.81.184:8080/atv-4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Space TV",
-    "path_name": "907c0a6a25c04d59128d948d9a733c4b",
-    "url": "http://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1215,6 +1170,15 @@
     }
   },
   {
+    "name": "BS Asahi",
+    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
+    "url": "http://50.7.74.29:8880/hlsok/j00048/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "BS Fuji TV",
     "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
     "url": "http://50.7.74.29:8880/hls/j00049/index.m3u8",
@@ -1575,6 +1539,15 @@
     }
   },
   {
+    "name": "MBC",
+    "path_name": "d11fa117fb730e077192de81a07db08c",
+    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVM Internacional",
     "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
     "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
@@ -1821,15 +1794,6 @@
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2388,6 +2352,15 @@
     "name": "Digi TV (WFTY-DT6)",
     "path_name": "30c83e5e99d494ee1033e846c38db6dc",
     "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ayeneh TV",
+    "path_name": "c882de3143d06ca705fbc8523287cfc9",
+    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
