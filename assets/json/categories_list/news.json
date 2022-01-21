@@ -380,6 +380,15 @@
   {
     "name": "BBC Arabic",
     "path_name": "644b660903ecf0a05225efa32c771c12",
+    "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "BBC Arabic",
+    "path_name": "644b660903ecf0a05225efa32c771c12",
     "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
     "categories": {
       "name": "News",
@@ -432,45 +441,9 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2270,15 +2243,6 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2657,15 +2621,6 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://lnc-black-news.tubi.video/index.m3u8",
     "categories": {
       "name": "News",
@@ -2775,15 +2730,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

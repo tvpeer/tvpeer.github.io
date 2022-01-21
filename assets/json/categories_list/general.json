@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -111,15 +102,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -630,6 +612,15 @@
     }
   },
   {
+    "name": "Rede TV! SP",
+    "path_name": "2b4c0bfc592241b0790a9ae8a7977358",
+    "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Perú Channel",
     "path_name": "d5dc1f720a95902aa155206f09ed8f86",
     "url": "https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8",
@@ -990,15 +981,6 @@
     }
   },
   {
-    "name": "GTV",
-    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
-    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "MNCTV",
     "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
     "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
@@ -1191,6 +1173,15 @@
     "name": "BS Fuji TV",
     "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
     "url": "http://50.7.74.29:8880/hls/j00049/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Fuji TV",
+    "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
+    "url": "http://50.7.74.29:8880/hlsok/j00049/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2187,9 +2178,9 @@
     }
   },
   {
-    "name": "Now This",
-    "path_name": "b50e3612693f4d147d08fa5d33f30996",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8",
+    "name": "Now This (XUMO)",
+    "path_name": "070c9ad52739f78c1d34c66513ccb55e",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
