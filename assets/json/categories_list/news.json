@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -992,7 +983,25 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://stream4.jlntv.cn/cctv13/sd/live.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1200,15 +1209,6 @@
     "name": "BeritaSatu",
     "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
     "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "iNews",
-    "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
-    "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1452,15 +1452,6 @@
     "name": "Mangalam",
     "path_name": "fa87a0f5649c52683c1b81f0332e7e44",
     "url": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Time Vision News",
-    "path_name": "5468f643e57b49c29583122bfee35a7b",
-    "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2243,15 +2234,6 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2739,6 +2721,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
