@@ -2297,15 +2297,6 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2927,7 +2918,25 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2997,6 +3006,15 @@
     }
   },
   {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -3017,15 +3035,6 @@
   {
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-samsung-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -3036,6 +3045,15 @@
     "name": "TeleSUR English",
     "path_name": "8920ca69389bdac1d6edaa0ee6b65c8a",
     "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Arta News",
+    "path_name": "406dac6bf742e6cde5e933f1f0d75382",
+    "url": "https://samiu.gjirafa.com/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/yt1q1x.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
