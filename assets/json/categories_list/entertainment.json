@@ -1,17 +1,17 @@
 [
   {
-    "name": "Crossing TV (Crossing Contenidos)",
-    "path_name": "886a83a0c22256aa5378935b504c05eb",
-    "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
     }
   },
   {
-    "name": "LatinoKids",
-    "path_name": "7ee700f35053a16485eeccb313c1a7fe",
-    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
+    "name": "Crossing TV (Crossing Contenidos)",
+    "path_name": "886a83a0c22256aa5378935b504c05eb",
+    "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "Food Food",
-    "path_name": "1d333ec29d8266051bb97334bfcb65f4",
-    "url": "http://14.199.164.20:4001/play/a0qx/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
@@ -252,6 +243,15 @@
     }
   },
   {
+    "name": "KCV",
+    "path_name": "c6cda3130df97582258d7b4ed9403ae9",
+    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Jaihind TV",
     "path_name": "e2cf38e627f942c1c23e38c76fbdb7c2",
     "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
@@ -300,15 +300,6 @@
     "name": "One TV",
     "path_name": "a353656426bd22f03a23dcd5edc6fad4",
     "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Mazhavil Manorama",
-    "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -543,6 +534,15 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -840,15 +840,6 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Young Hollywood",
-    "path_name": "2d071c592394806c832d2a782b9be364",
-    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1263,15 +1254,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
