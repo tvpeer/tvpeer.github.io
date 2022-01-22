@@ -99,9 +99,9 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -720,6 +720,24 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
@@ -909,15 +927,6 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1002,6 +1011,15 @@
     "name": "TV BRICS English",
     "path_name": "55acd22b2f3edf6872e94a43db527a8b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Al Sharqiya",
+    "path_name": "17b1a2ce6a7b7a661930bdf7e376b1a7",
+    "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2010,6 +2028,15 @@
     "name": "Time Television",
     "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
