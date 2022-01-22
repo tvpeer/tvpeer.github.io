@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -729,6 +720,15 @@
     }
   },
   {
+    "name": "TVO (San Vicente)",
+    "path_name": "9231f1e45816538f117972ce36b9a1a6",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele 2 Web (Retiro)",
     "path_name": "1348cfd3347fe8e5b2d82e5b12c1d61f",
     "url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
@@ -813,6 +813,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2322,6 +2331,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://mediastreamm.com:3126/live/tele2000live.m3u8",
@@ -2622,15 +2640,6 @@
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vía Altomayo",
-    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
-    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3330,6 +3339,15 @@
     }
   },
   {
+    "name": "Beach TV Panama City",
+    "path_name": "87b86842cd293981a1e4aaaab833a4ff",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Miami City TV",
     "path_name": "265d8963be1e5231592b2cf17ada42e1",
     "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
@@ -3396,6 +3414,15 @@
     "name": "Beach TV Myrtle Beach & The Grand Strand",
     "path_name": "6d9027c3166882f191e896fb2e8c651d",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Beach TV Myrtle Beach & The Grand Strand",
+    "path_name": "6d9027c3166882f191e896fb2e8c651d",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3540,6 +3567,15 @@
     "name": "CBS 46 Atlanta GA (WGCL-TV)",
     "path_name": "8cab5d30a0c19048e85108ce923a47e9",
     "url": "https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Bowie TV",
+    "path_name": "9ab0814455ca18667d0013508a29f8ed",
+    "url": "https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
