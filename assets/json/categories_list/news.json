@@ -2630,6 +2630,15 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2757,15 +2766,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2955,6 +2955,15 @@
     "name": "CBSN",
     "path_name": "0095027b95388b1f5ad7824733e794e1",
     "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
