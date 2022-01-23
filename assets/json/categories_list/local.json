@@ -999,15 +999,6 @@
     }
   },
   {
-    "name": "Alsace 20",
-    "path_name": "4245fb6dfaf53cdcdeff74b19b82f6e7",
-    "url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TébéSud",
     "path_name": "43f233f688f6029e539455cac93b1e8d",
     "url": "https://edge-live-ger1.ovstream.com/hls/10/source.m3u8",
@@ -2466,6 +2457,15 @@
     }
   },
   {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Millenium 109 FM (Lamas)",
     "path_name": "c1cc00facd910de1896c73705c6ac6da",
     "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
@@ -2829,6 +2829,15 @@
     "name": "ОТВ (Одинцово)",
     "path_name": "99405b97c1973b91465c7891ebdccbd0",
     "url": "http://185.18.4.16/live/3m/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ТВР24 (Сергиев Посад)",
+    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
+    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
