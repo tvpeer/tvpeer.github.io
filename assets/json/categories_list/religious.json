@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -363,6 +354,15 @@
     "name": "Gracia TV",
     "path_name": "3b3f8f2ecd0dbf879402a7228aadbdc1",
     "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Restaurando Vidas Internacional",
+    "path_name": "2bb5ce70e4399b88cbfa7d86e136e40e",
+    "url": "http://v4.tustreaming.cl/restaurandovidastv/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -579,6 +579,15 @@
     "name": "Dios Te Ve Infantil",
     "path_name": "c743196c3c93860e98936e5b9ccaada5",
     "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Vida TV",
+    "path_name": "e379829fce360c74d3894c865a6f80b8",
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
