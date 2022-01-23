@@ -387,15 +387,6 @@
     }
   },
   {
-    "name": "TVE Bahia",
-    "path_name": "a54500c8e2fa06eadc61fdcfa4a23c80",
-    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -786,6 +777,15 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4242,6 +4242,15 @@
     "name": "CBS Seattle WA (KIRO-TV1)",
     "path_name": "3a4b505a4283ce85b25d9270e324689a",
     "url": "http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "WPIX 11",
+    "path_name": "d519869ad2cf56e1c46621299d0f240e",
+    "url": "http://71.187.29.220:8000/play/a08o/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
