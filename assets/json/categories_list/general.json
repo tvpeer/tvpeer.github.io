@@ -189,6 +189,15 @@
     }
   },
   {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Muğan TV",
     "path_name": "f9b74f18048b2cbb70f49cd45485775e",
     "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
@@ -720,15 +729,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -930,15 +930,6 @@
     "name": "TV5 Monde Europe",
     "path_name": "bab0dc643b3aef6855141102a58d7423",
     "url": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/master.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1782,27 +1773,9 @@
     }
   },
   {
-    "name": "TVR International",
-    "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
-    "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1830,15 +1803,6 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Târgu Mureș",
-    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
-    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2001,6 +1965,15 @@
     "name": "WOW TV",
     "path_name": "dc5ea1b50761502eb23510e8482ea260",
     "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Syria TV",
+    "path_name": "1a67757ef1bd124f8a09e681f6ea45b3",
+    "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
