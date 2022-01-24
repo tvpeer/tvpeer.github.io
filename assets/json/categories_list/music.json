@@ -18,24 +18,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -621,9 +603,9 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1071,6 +1053,15 @@
     }
   },
   {
+    "name": "RumbaMix TV",
+    "path_name": "fb799fcf243a61aa76886be740d24485",
+    "url": "https://tvdatta.com:3344/live/rumbamixlive.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "CVM TV Digital",
     "path_name": "a3456c64a3a570aa1b0bc7e95ed1179e",
     "url": "https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8",
@@ -1101,6 +1092,15 @@
     "name": "Best Cable Más Cumbia",
     "path_name": "0024a0cf86c533e014225f37519bee73",
     "url": "https://tv.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "TV Peruanísima",
+    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
+    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1308,6 +1308,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
