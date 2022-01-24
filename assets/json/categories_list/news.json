@@ -1028,15 +1028,6 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1674,6 +1665,15 @@
     }
   },
   {
+    "name": "Press TV English",
+    "path_name": "4db0637170b90138292f8c415eb56585",
+    "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Press TV French",
     "path_name": "1197b73f0e21acaabccc11ad488f61b9",
     "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
@@ -1749,6 +1749,15 @@
     "name": "HispanTV",
     "path_name": "906105ead1dc83d4cf1c928f4af0e168",
     "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live1.presstv.ir/live/hispan.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2037,6 +2046,15 @@
     "name": "ATV+ Noticias",
     "path_name": "de28d5d4c43ae3d22df01089ab9e2696",
     "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTV Total (Yurimaguas)",
+    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2702,6 +2720,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2856,15 +2883,6 @@
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "NewsNet",
-    "path_name": "7a253089b326b7b740e22d81ed8f596c",
-    "url": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
