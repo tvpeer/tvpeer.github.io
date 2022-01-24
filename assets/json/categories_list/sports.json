@@ -254,15 +254,6 @@
   {
     "name": "CCTV-5体育",
     "path_name": "57dcf6eed74ef9a72068e41c158dc0b5",
-    "url": "http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "CCTV-5体育",
-    "path_name": "57dcf6eed74ef9a72068e41c158dc0b5",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8",
     "categories": {
       "name": "Sports",
@@ -336,6 +327,15 @@
     "name": "Persiana Varzesh",
     "path_name": "3e59e35579d9f4cb2b9728373fdd7857",
     "url": "http://51.210.199.16/hls/stream.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "New Japan Pro Wrestling World",
+    "path_name": "82305c2f2eb5b429df20934de8dd6619",
+    "url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -750,6 +750,15 @@
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
