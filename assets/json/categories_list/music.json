@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -597,6 +588,15 @@
     "name": "Hits 360 TV",
     "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
     "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio105 full",
+    "path_name": "d6b5bea8ea2599cdb3b6345f27187130",
+    "url": "https://cloudflare.streamgato.us:3901/live/radio105live.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1242,15 +1242,6 @@
     }
   },
   {
-    "name": "Muzzik AMVA 2020",
-    "path_name": "56eb3285711470314cc411865b5646e1",
-    "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Muzzik Cafe&Club Serbia",
     "path_name": "9cd3fc435b75bbcdcbd90e4c14c78f8a",
     "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
@@ -1260,54 +1251,9 @@
     }
   },
   {
-    "name": "Muzzik HipHop Serbia",
-    "path_name": "76eff5f3ebf93643704ded73bdc197a4",
-    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Jeka Serbia",
-    "path_name": "420831baac9bcbac3d3c66a5751c3329",
-    "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Mediteraneo Serbia",
-    "path_name": "265e05f4c19db4c1f00295d781abb9c8",
-    "url": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik OKK Serbia",
-    "path_name": "1d42a67fcab9395c47e204c504fcc48c",
-    "url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Muzzik Replay Serbia",
     "path_name": "10cfa7141509b579b7dc65e4c1937119",
     "url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Rock&Roll Serbia",
-    "path_name": "934e2c18bed258b9f04cd471f80a81d2",
-    "url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
