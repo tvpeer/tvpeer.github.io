@@ -1064,15 +1064,6 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1890,6 +1881,15 @@
     }
   },
   {
+    "name": "Fresh News",
+    "path_name": "9f058e23e957f3276a58ebed05b541c4",
+    "url": "http://167.99.65.12:1935/live/myStream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Bayon TV",
     "path_name": "9d3437e9e63527fad6de1ccbe032805b",
     "url": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8",
@@ -2271,6 +2271,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2955,15 +2964,6 @@
     "name": "CBSN",
     "path_name": "0095027b95388b1f5ad7824733e794e1",
     "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
