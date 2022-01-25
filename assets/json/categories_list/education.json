@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Futura",
-    "path_name": "eddacf6b2a05d975f8badd56cb8f7697",
-    "url": "https://tv.unisc.br/hls/test.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
     "name": "TVE RS",
     "path_name": "33869e6c382d99437cd85ae17d779fec",
     "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
@@ -129,6 +120,15 @@
     "name": "Beach TV CSULB",
     "path_name": "6cc4769ac0e524806683beaa2b36041e",
     "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "Cloudflare TV",
+    "path_name": "f5afb1a3c27bbc8a586733d349dbeb4e",
+    "url": "https://cloudflare.tv/hls/live.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
