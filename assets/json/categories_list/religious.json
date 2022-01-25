@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
@@ -1026,6 +1017,24 @@
     }
   },
   {
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "La Luz TV",
+    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
@@ -1308,24 +1317,6 @@
     "name": "Iqraa",
     "path_name": "aab0c11264721a27e083822f57980d39",
     "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Makkah TV",
-    "path_name": "72d6a6341c40bfe95dc4a226ed51e8df",
-    "url": "http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Makkah TV",
-    "path_name": "72d6a6341c40bfe95dc4a226ed51e8df",
-    "url": "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
