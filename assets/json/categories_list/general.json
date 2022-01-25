@@ -90,9 +90,9 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -174,15 +174,6 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ORF 1",
-    "path_name": "4e699a45782c05b969fb41fab13dec1e",
-    "url": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -756,24 +747,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
@@ -966,6 +939,15 @@
     "name": "TV5 Monde Europe",
     "path_name": "bab0dc643b3aef6855141102a58d7423",
     "url": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/master.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1344,24 +1326,6 @@
     "name": "Kass TV",
     "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
     "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "GBS TV",
-    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
-    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "K24",
-    "path_name": "a1a718b053aff16b11155fdcf639f27b",
-    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1928,15 +1892,6 @@
   {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8",
     "categories": {
       "name": "General",
@@ -2172,6 +2127,15 @@
     "name": "TVS Television Network",
     "path_name": "104e65b16979ce9e724aca20314edaf5",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Court TV Mystery (WTXL-TV4)",
+    "path_name": "f9211d5929c5584061939e8165d9cb3f",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
