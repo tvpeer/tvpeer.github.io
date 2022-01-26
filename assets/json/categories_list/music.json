@@ -531,6 +531,15 @@
     }
   },
   {
+    "name": "Slagr TV",
+    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
+    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Óčko Expres",
     "path_name": "a83820a7baed73340508edbb5eb5906e",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
@@ -1080,9 +1089,27 @@
     }
   },
   {
+    "name": "GO-RTV",
+    "path_name": "1d11b702ba497e1070cced490dad70cd",
+    "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Salto Brasa Music",
     "path_name": "b8fdce3e7e4904f49f14dd2c5fdffa11",
     "url": "https://salto-streams.nl/hls/sotv1_high.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "RumbaMix TV",
+    "path_name": "fb799fcf243a61aa76886be740d24485",
+    "url": "https://tvdatta.com:3344/live/rumbamixlive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
