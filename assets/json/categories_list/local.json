@@ -846,15 +846,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2151,15 +2142,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2547,6 +2529,15 @@
     }
   },
   {
+    "name": "Cadena TV Huancayo",
+    "path_name": "a3fb071898b65b37ea979490748f8cce",
+    "url": "https://tvdatta.com:3262/live/cadenatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
@@ -2691,6 +2682,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2712,15 +2712,6 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2766,6 +2757,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3780,6 +3780,15 @@
     }
   },
   {
+    "name": "Fox 43 Harrisburg PA (WPMT)",
+    "path_name": "8c547e174650dacd631e570d49596dc5",
+    "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "NBC 6 Waco TX (KCEN)",
     "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
     "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
@@ -4404,24 +4413,6 @@
     "name": "ABC News New York NY (WABC-TV)",
     "path_name": "a9422c0649bf1fff809167519ec041ea",
     "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CBSN New York NY",
-    "path_name": "9531bb489c528ed151b9ca12bb42b549",
-    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN New York NY",
-    "path_name": "9531bb489c528ed151b9ca12bb42b549",
-    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
