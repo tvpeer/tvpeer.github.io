@@ -1134,15 +1134,6 @@
     }
   },
   {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Irida TV",
     "path_name": "e8b7b311b65a8b763f857a25298018f9",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
@@ -1917,6 +1908,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2280,6 +2280,15 @@
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "DeltaTV (Pacayzapa | San Martín)",
+    "path_name": "50dfd89f806cb41d9e6517c0fce43954",
+    "url": "https://media2.cdnlayer.biz:8081/8038/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4431,24 +4440,6 @@
     "name": "ABC News New York NY (WABC-TV)",
     "path_name": "a9422c0649bf1fff809167519ec041ea",
     "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
