@@ -1890,24 +1890,6 @@
     }
   },
   {
-    "name": "Al Manar",
-    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
-    "url": "https://manar.live/iptv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Manar",
-    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
-    "url": "https://manar.live/x.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Nabaa TV",
     "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
     "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
@@ -2214,15 +2196,6 @@
     }
   },
   {
-    "name": "Россия 24 (Чита)",
-    "path_name": "f4283efe09ff6020524aaec49e1379fd",
-    "url": "https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8",
@@ -2460,6 +2433,15 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2927,7 +2909,7 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -3018,15 +3000,6 @@
     "name": "TeleSUR English",
     "path_name": "8920ca69389bdac1d6edaa0ee6b65c8a",
     "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Arta News",
-    "path_name": "406dac6bf742e6cde5e933f1f0d75382",
-    "url": "https://samiu.gjirafa.com/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/yt1q1x.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
