@@ -18,18 +18,18 @@
     }
   },
   {
-    "name": "CBSN New York NY",
-    "path_name": "9531bb489c528ed151b9ca12bb42b549",
-    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "name": "CBSN Dallas Ft Worth TX",
+    "path_name": "2cf281c9a3e1271663a21c15646c5570",
+    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "CBSN New York NY",
-    "path_name": "9531bb489c528ed151b9ca12bb42b549",
-    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "name": "CBSN Dallas Ft Worth TX",
+    "path_name": "2cf281c9a3e1271663a21c15646c5570",
+    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -84,6 +84,15 @@
     "name": "France 24 English",
     "path_name": "dacf901742cd302094ec308290eb9759",
     "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera English",
+    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
+    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -405,18 +414,18 @@
     }
   },
   {
-    "name": "News 24",
-    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
-    "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "name": "ABC News",
+    "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
+    "url": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
+    "name": "News 24",
+    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
+    "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2252,6 +2261,15 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2790,6 +2808,15 @@
     }
   },
   {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2907,6 +2934,33 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2973,15 +3027,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
