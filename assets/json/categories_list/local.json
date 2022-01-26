@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "AVC HD (Monte Caseros | Corrientes)",
+    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
+    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Catacama TV",
     "path_name": "5a8c557720d6aee66533457e328a7b6d",
     "url": "https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8",
@@ -255,6 +264,15 @@
     "name": "TV Nova Onda",
     "path_name": "8832cb35646548f8da02e4ea80ca0a4c",
     "url": "https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -660,6 +678,15 @@
     "name": "Radio América TV",
     "path_name": "c4a914d7b4662c2342f3b85d5575c3b9",
     "url": "https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Santa María Televisión",
+    "path_name": "3367c1feb878d42504c153dd4d570aa3",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2214,6 +2241,15 @@
     }
   },
   {
+    "name": "Cajamarca TV",
+    "path_name": "7807971ea588e8f5b73ad964ee07d397",
+    "url": "https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
@@ -3123,6 +3159,15 @@
     }
   },
   {
+    "name": "The Ohio Channel (WOSU-DT3)",
+    "path_name": "64d6ae691b5a445f923ee482411a1809",
+    "url": "https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "NBC 26 Green Bay WI (WGBA)",
     "path_name": "3f98d5c36b2932a6d320c593c58f8cfe",
     "url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
@@ -3729,15 +3774,6 @@
     "name": "CBS 5 Ft Smith AR (KFSM-TV)",
     "path_name": "266e3d6b3673ffec301d66d608c2fbde",
     "url": "https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Fox 43 Harrisburg PA (WPMT)",
-    "path_name": "8c547e174650dacd631e570d49596dc5",
-    "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4386,42 +4422,6 @@
     "name": "CBSN New York NY",
     "path_name": "9531bb489c528ed151b9ca12bb42b549",
     "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CBSN Boston MA",
-    "path_name": "022413a15605724bb89bb2b4b7541032",
-    "url": "https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Boston MA",
-    "path_name": "022413a15605724bb89bb2b4b7541032",
-    "url": "https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
