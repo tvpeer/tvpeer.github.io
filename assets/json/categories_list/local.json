@@ -1107,6 +1107,24 @@
     }
   },
   {
+    "name": "Irida TV",
+    "path_name": "e8b7b311b65a8b763f857a25298018f9",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PLP",
+    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
@@ -2511,15 +2529,6 @@
     }
   },
   {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Omega TV (Yurimaguas)",
     "path_name": "c2f6cc3fa07943f4b90a517553e3bc1a",
     "url": "https://7.innovatestream.pe:19360/omega/omega.m3u8",
@@ -2583,15 +2592,6 @@
     }
   },
   {
-    "name": "Región TV (Callao)",
-    "path_name": "da4454567c8a0a234a89f94e655be1f4",
-    "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "RN Televisión (Yurimaguas)",
     "path_name": "c3a9aef0b0ccd9bd6b1af7fb478425cf",
     "url": "https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8",
@@ -2628,6 +2628,15 @@
     }
   },
   {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
@@ -2658,6 +2667,15 @@
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Vía Altomayo",
+    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
+    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
