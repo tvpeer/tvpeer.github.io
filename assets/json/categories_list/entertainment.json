@@ -1,8 +1,26 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "LatinoKids",
     "path_name": "7ee700f35053a16485eeccb313c1a7fe",
     "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "TangoTV",
+    "path_name": "ed738b9d12d0d208cd8b4e5ecbc376c0",
+    "url": "https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -594,15 +612,6 @@
     }
   },
   {
-    "name": "MST3K",
-    "path_name": "28e3d917d8b96352dd274c7cb3267851",
-    "url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
     "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
@@ -1182,15 +1191,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
