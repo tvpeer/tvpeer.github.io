@@ -270,6 +270,15 @@
     }
   },
   {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -675,15 +684,6 @@
     }
   },
   {
-    "name": "Santa María Televisión",
-    "path_name": "3367c1feb878d42504c153dd4d570aa3",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Costa (San Antonio)",
     "path_name": "92937adbdfc4a3d3eac3ea204589ecb7",
     "url": "https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/playlist.m3u8",
@@ -831,15 +831,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2520,6 +2511,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
@@ -2574,15 +2574,6 @@
     }
   },
   {
-    "name": "Omega TV (Yurimaguas)",
-    "path_name": "c2f6cc3fa07943f4b90a517553e3bc1a",
-    "url": "https://7.innovatestream.pe:19360/omega/omega.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2595,6 +2586,15 @@
     "name": "Planeta TV Bagua",
     "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
     "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio TV Charles (Bambamarca)",
+    "path_name": "4e810dfa084e4785e7f9e7a88cf1bde2",
+    "url": "https://media2.cdnlayer.biz:8081/8032/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2631,6 +2631,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Digital 94.1 TV (Juanjui)",
+    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
+    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2946,6 +2955,15 @@
     "name": "ОТВ (Одинцово)",
     "path_name": "99405b97c1973b91465c7891ebdccbd0",
     "url": "http://185.18.4.16/live/3m/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ТВР24 (Сергиев Посад)",
+    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
+    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4422,6 +4440,42 @@
     "name": "ABC News New York NY (WABC-TV)",
     "path_name": "a9422c0649bf1fff809167519ec041ea",
     "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBSN New York NY",
+    "path_name": "9531bb489c528ed151b9ca12bb42b549",
+    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN New York NY",
+    "path_name": "9531bb489c528ed151b9ca12bb42b549",
+    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBSN Dallas Ft Worth TX",
+    "path_name": "2cf281c9a3e1271663a21c15646c5570",
+    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN Dallas Ft Worth TX",
+    "path_name": "2cf281c9a3e1271663a21c15646c5570",
+    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
