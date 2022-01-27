@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -534,6 +525,15 @@
     "name": "Óčko Gold",
     "path_name": "421217be063b8f4f5e6a5a8a4ec17696",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Slagr TV",
+    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
+    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1370,15 +1370,6 @@
   {
     "name": "Муз-ТВ",
     "path_name": "f1ee13ec2296a569f4e9e11694423627",
-    "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Муз-ТВ",
-    "path_name": "f1ee13ec2296a569f4e9e11694423627",
     "url": "https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8",
     "categories": {
       "name": "Music",
@@ -1398,15 +1389,6 @@
     "name": "Музыка Первого",
     "path_name": "90b93eca5a87c2228287890a8ac28d3f",
     "url": "http://91.185.3.218:4000/play/608",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "A2i Music",
-    "path_name": "002dc005abda9e85d85000b263350925",
-    "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
