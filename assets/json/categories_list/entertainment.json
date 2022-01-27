@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "LatinoKids",
     "path_name": "7ee700f35053a16485eeccb313c1a7fe",
     "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
@@ -57,6 +48,15 @@
     "name": "EnerGeek",
     "path_name": "8e3b264463fc4b4a14733deb2a55dc9b",
     "url": "https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "CCTV-3综艺",
+    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
+    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -435,15 +435,6 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
