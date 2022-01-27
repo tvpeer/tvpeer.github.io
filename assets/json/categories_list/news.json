@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -1458,9 +1449,54 @@
     }
   },
   {
+    "name": "Manorama News",
+    "path_name": "6ec2e845eba17ccd3d31760f3ded152a",
+    "url": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Time Vision News",
     "path_name": "5468f643e57b49c29583122bfee35a7b",
     "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Reporter TV",
+    "path_name": "cdbf44e8a6ae363410287101d1a04006",
+    "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Kairali News",
+    "path_name": "deaf11a677075fb2ec5268016f401a7f",
+    "url": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Media One",
+    "path_name": "231e2e59c91fc8401b35de06ff4ad1c9",
+    "url": "http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Mathrubhumi News",
+    "path_name": "fbe61930d9ee1a396bcce2dba0b651c1",
+    "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2163,15 +2199,6 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
