@@ -1089,6 +1089,15 @@
     }
   },
   {
+    "name": "Epirus TV1",
+    "path_name": "b595a00706b243c81ed0e8ba19bd8fbd",
+    "url": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
@@ -3564,6 +3573,15 @@
     }
   },
   {
+    "name": "Tempe 11 AZ",
+    "path_name": "b1be980b1b9ba8d8dcd75cce671d89bf",
+    "url": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 12 West Palm Beach FL (WPEC)",
     "path_name": "aeaac0bd182c03fba3a49e2df231bfa0",
     "url": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8",
@@ -4368,6 +4386,24 @@
     "name": "ABC News New York NY (WABC-TV)",
     "path_name": "a9422c0649bf1fff809167519ec041ea",
     "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBSN New York NY",
+    "path_name": "9531bb489c528ed151b9ca12bb42b549",
+    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN New York NY",
+    "path_name": "9531bb489c528ed151b9ca12bb42b549",
+    "url": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
