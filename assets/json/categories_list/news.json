@@ -18,24 +18,6 @@
     }
   },
   {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBSN Sacramento",
     "path_name": "c89b7d50da964b31e09abd9c5935367e",
     "url": "https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8",
@@ -630,6 +612,15 @@
     }
   },
   {
+    "name": "Channel T1",
+    "path_name": "9a508f051a628243eb88e4662f6b87c0",
+    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Channel 24",
     "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
@@ -1020,6 +1011,15 @@
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://stream4.jlntv.cn/cctv13/sd/live.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1908,33 +1908,6 @@
     }
   },
   {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TV Seventeen",
     "path_name": "8d8b3518de00572a4a110ed680d519d4",
     "url": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8",
@@ -2037,6 +2010,15 @@
     "name": "ATV+ Noticias",
     "path_name": "de28d5d4c43ae3d22df01089ab9e2696",
     "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTV Total (Yurimaguas)",
+    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2331,15 +2313,6 @@
     }
   },
   {
-    "name": "BBC News HD",
-    "path_name": "809da825465ef017b485fcbb80e9ab28",
-    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RT UK",
     "path_name": "7b2d5954128f5348a1a2b80bbb3cbe04",
     "url": "https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8",
@@ -2621,15 +2594,6 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2763,15 +2727,6 @@
     }
   },
   {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2880,24 +2835,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2937,15 +2874,6 @@
     "name": "MSNBC",
     "path_name": "c238e75431b20155fc0579b8548a40f8",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CBSN",
-    "path_name": "0095027b95388b1f5ad7824733e794e1",
-    "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

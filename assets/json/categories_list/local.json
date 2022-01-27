@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Catacama TV",
     "path_name": "5a8c557720d6aee66533457e328a7b6d",
     "url": "https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8",
@@ -453,6 +444,15 @@
     "name": "Antofagasta TV (ATV)",
     "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Atacama TV (Copiapó)",
+    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -813,6 +813,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2187,15 +2196,6 @@
     }
   },
   {
-    "name": "AsiriTV (Lima)",
-    "path_name": "2f106380faf53eca147780035513a4e0",
-    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
@@ -2214,6 +2214,15 @@
     }
   },
   {
+    "name": "Canal 43 Sudamericana (Ica)",
+    "path_name": "bc2117428c81fe2513da77b0de044691",
+    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
@@ -2226,15 +2235,6 @@
     "name": "Caribe Televisión (Otuzco)",
     "path_name": "ae563479c749b0ffa54aa1c009027e03",
     "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2352,6 +2352,15 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2583,15 +2592,6 @@
     }
   },
   {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2649,6 +2649,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2721,6 +2730,15 @@
     "name": "SGDF24.RU (Свердлов)",
     "path_name": "b3ca63e2c2a924a81414db6c356e61eb",
     "url": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4341,24 +4359,6 @@
     "name": "ABC News New York NY (WABC-TV)",
     "path_name": "a9422c0649bf1fff809167519ec041ea",
     "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Dallas Ft Worth TX",
-    "path_name": "2cf281c9a3e1271663a21c15646c5570",
-    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
