@@ -1001,7 +1001,7 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
+    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1010,7 +1010,7 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
+    "url": "http://stream4.jlntv.cn/cctv13/sd/live.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1029,6 +1029,15 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTU",
+    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
+    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2711,6 +2720,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2937,15 +2955,6 @@
     "name": "TeleSUR English",
     "path_name": "8920ca69389bdac1d6edaa0ee6b65c8a",
     "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Arta News",
-    "path_name": "406dac6bf742e6cde5e933f1f0d75382",
-    "url": "https://samiu.gjirafa.com/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/yt1q1x.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
