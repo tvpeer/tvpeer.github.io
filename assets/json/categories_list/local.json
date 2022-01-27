@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -822,15 +813,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2601,6 +2583,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2631,6 +2622,15 @@
     "name": "Universitaria TV (Chanchamayo)",
     "path_name": "f33338a5f62e3a11997f99458109b5be",
     "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2721,15 +2721,6 @@
     "name": "SGDF24.RU (Свердлов)",
     "path_name": "b3ca63e2c2a924a81414db6c356e61eb",
     "url": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4350,6 +4341,24 @@
     "name": "ABC News New York NY (WABC-TV)",
     "path_name": "a9422c0649bf1fff809167519ec041ea",
     "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBSN Dallas Ft Worth TX",
+    "path_name": "2cf281c9a3e1271663a21c15646c5570",
+    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN Dallas Ft Worth TX",
+    "path_name": "2cf281c9a3e1271663a21c15646c5570",
+    "url": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

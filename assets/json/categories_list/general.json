@@ -81,9 +81,18 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -102,6 +111,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -468,6 +486,15 @@
     }
   },
   {
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -534,15 +561,6 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TV Thathi",
-    "path_name": "cad818bb7d44cc73723bc19637d99456",
-    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -750,15 +768,6 @@
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1809,6 +1818,15 @@
     }
   },
   {
+    "name": "TVR Târgu Mureș",
+    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
+    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Красная линия",
     "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
     "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
@@ -1893,15 +1911,6 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
