@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -423,6 +414,15 @@
     }
   },
   {
+    "name": "Play TV",
+    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Amordiscos",
     "path_name": "e98b02583fde7caad29261e222c1d81c",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
@@ -588,6 +588,15 @@
     "name": "Radio Weser TV Bremen",
     "path_name": "21d79f10ec18e3d631f3ec8c7a6ff419",
     "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Hits 360 TV",
+    "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
+    "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -795,6 +804,15 @@
     "name": "Kalai Isai",
     "path_name": "48f26c9c13dd06b783e018c82fdca1d6",
     "url": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Tunes 6",
+    "path_name": "05bcdf31718a8b8e660faa0614b4c3c2",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1335,15 +1353,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
