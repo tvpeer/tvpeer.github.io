@@ -819,15 +819,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1692,114 +1683,6 @@
     }
   },
   {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://50.7.74.29:8880/hlsok/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://50.7.74.29:8880/hls/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://50.7.74.29:8880/hlsok/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://50.7.74.29:8880/hlsok/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://50.7.74.29:8880/hls/j00030/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://50.7.74.29:8880/hlsok/j00030/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1893,15 +1776,6 @@
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Nicavisión Canal 12",
-    "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
-    "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2595,6 +2469,15 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
