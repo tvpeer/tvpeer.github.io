@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "LatinoKids",
-    "path_name": "7ee700f35053a16485eeccb313c1a7fe",
-    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -65,6 +56,15 @@
   {
     "name": "CCTV-3综艺",
     "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
+    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "CCTV-3综艺",
+    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
     "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -75,6 +75,15 @@
     "name": "Canal RCN Novelas",
     "path_name": "002cd85d17f3848b8825c7809555a74b",
     "url": "http://45.179.140.242:8000/play/a0jf",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "UNO PLAY",
+    "path_name": "59c4f4c6efa2399574540a59532ceb4c",
+    "url": "https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -228,15 +237,6 @@
     "name": "NCV",
     "path_name": "e0d226fba3f7f4f579cfe61ccdd72161",
     "url": "http://103.146.174.60:1935/NCV/ncvstream/master.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "One TV",
-    "path_name": "a353656426bd22f03a23dcd5edc6fad4",
-    "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1191,6 +1191,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
