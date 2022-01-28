@@ -27,15 +27,6 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "ATV Կինոման",
     "path_name": "5dceef43f92994d939241c5cf491829d",
     "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
@@ -93,15 +84,6 @@
     "name": "TELE CINE ACTION",
     "path_name": "47506c06278231dab333e190c677050f",
     "url": "http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "NETV Toronto",
-    "path_name": "60415bbeae96d9c655c57887890c384e",
-    "url": "https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -579,6 +561,15 @@
     "name": "Gravitas Movies",
     "path_name": "2993303ea0b6ec4a610dc7a4505b5253",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Gravitas Movies",
+    "path_name": "2993303ea0b6ec4a610dc7a4505b5253",
+    "url": "https://gravitas-movies.vizio.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
