@@ -216,15 +216,6 @@
     }
   },
   {
-    "name": "TV Gideoes",
-    "path_name": "b2ac60535762415997a56e7397111adf",
-    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV Pai Eterno",
     "path_name": "d35712fb77a9ee74b5df628cf6c77c7c",
     "url": "https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8",
@@ -426,6 +417,15 @@
     "name": "TV Universal (Ecuador)",
     "path_name": "2cd073f308e79e474109fd3578298291",
     "url": "https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TBN Baltia",
+    "path_name": "fcfd729696486e590a7a53883470fee1",
+    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1008,6 +1008,15 @@
     }
   },
   {
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://mediastreamm.com:3149/live/jn19tvlive.m3u8",
@@ -1209,6 +1218,15 @@
     "name": "TV MANA (ESP)",
     "path_name": "691954cea4d263bf851dab912ce0ab9b",
     "url": "http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná Córdoba",
+    "path_name": "a9cf169e7b580470304f536fc8352837",
+    "url": "http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
