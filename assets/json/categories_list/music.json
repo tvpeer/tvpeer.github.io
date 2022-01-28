@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -1389,6 +1398,15 @@
     "name": "Музыка Первого",
     "path_name": "90b93eca5a87c2228287890a8ac28d3f",
     "url": "http://91.185.3.218:4000/play/608",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "A2i Music",
+    "path_name": "002dc005abda9e85d85000b263350925",
+    "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
