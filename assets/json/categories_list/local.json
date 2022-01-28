@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -747,6 +738,15 @@
     }
   },
   {
+    "name": "Visión Plus TV (Melipilla)",
+    "path_name": "99578787b40e46b93204a7af20607d90",
+    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
@@ -792,18 +792,18 @@
     }
   },
   {
-    "name": "City TV (Bogotà | Cundinamarca)",
-    "path_name": "56723578aa6b96da3fe55f3f6663efae",
-    "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
+    "name": "Suram TV",
+    "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
+    "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Suram TV",
-    "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
-    "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2529,9 +2529,27 @@
     }
   },
   {
+    "name": "Ribereña TV (Bellavista)",
+    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
+    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "La Ribereña (Pucallpa)",
     "path_name": "a20156fddec12f98e695ca9163b6454a",
     "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PiuraTV",
+    "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
+    "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2628,15 +2646,6 @@
     }
   },
   {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
@@ -2646,9 +2655,9 @@
     }
   },
   {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://mediastreamm.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2658,6 +2667,15 @@
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Vía Altomayo",
+    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
+    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
