@@ -747,15 +747,6 @@
     }
   },
   {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
@@ -1101,15 +1092,6 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1926,6 +1908,15 @@
     }
   },
   {
+    "name": "Feel Good TV",
+    "path_name": "583bf58d00175d8dcfabbe45a60d4c53",
+    "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ideaal TV",
     "path_name": "4b3f94e51d0362ed8b188b17ccceb861",
     "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
@@ -1992,15 +1983,6 @@
     "name": "Omroep Hulst TV",
     "path_name": "d54dc61da73530a96b0337c3e401c472",
     "url": "https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Aalsmeer TV",
-    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
-    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2349,15 +2331,6 @@
     }
   },
   {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2556,15 +2529,6 @@
     }
   },
   {
-    "name": "Tropical TV (Puerto Maldonado)",
-    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
-    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
@@ -2676,15 +2640,6 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3018,6 +2973,15 @@
     "name": "Olelo 55",
     "path_name": "d1b2935829f5379e1c84530f184a289d",
     "url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS News Miami",
+    "path_name": "5d6e9d25514ad6d2d13e2e75e732fbd0",
+    "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4347,8 +4311,80 @@
     }
   },
   {
-    "name": "CBSN Sacramento",
-    "path_name": "c89b7d50da964b31e09abd9c5935367e",
+    "name": "CBS News Los Angeles",
+    "path_name": "73a6ce3ef8090c617c87fe6ee465e64a",
+    "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS News Los Angeles",
+    "path_name": "73a6ce3ef8090c617c87fe6ee465e64a",
+    "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBS News New York",
+    "path_name": "363bf81b3d79d531d96ae5a80578bc21",
+    "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS News New York",
+    "path_name": "363bf81b3d79d531d96ae5a80578bc21",
+    "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBSN Boston",
+    "path_name": "6763bc4ae69bd479fd162f37625008d1",
+    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN Boston",
+    "path_name": "6763bc4ae69bd479fd162f37625008d1",
+    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBS News Dallas Ft Worth",
+    "path_name": "a5776f3a97cd8192e898905d0b81d3e3",
+    "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS News Dallas Ft Worth",
+    "path_name": "a5776f3a97cd8192e898905d0b81d3e3",
+    "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBS News Sacramento",
+    "path_name": "1f8c5e4a5d5662363410a9d9ccee03e8",
     "url": "https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8",
     "categories": {
       "name": "Local",
@@ -4356,8 +4392,8 @@
     }
   },
   {
-    "name": "CBSN Sacramento",
-    "path_name": "c89b7d50da964b31e09abd9c5935367e",
+    "name": "CBS News Sacramento",
+    "path_name": "1f8c5e4a5d5662363410a9d9ccee03e8",
     "url": "https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8",
     "categories": {
       "name": "News",
@@ -4365,8 +4401,8 @@
     }
   },
   {
-    "name": "CBSN Baltimore",
-    "path_name": "0e543eea336aec11754193915ee0a578",
+    "name": "CBS News Baltimore",
+    "path_name": "bfb147ce9c1469bf8251d29b75a2d613",
     "url": "https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8",
     "categories": {
       "name": "Local",
@@ -4374,8 +4410,8 @@
     }
   },
   {
-    "name": "CBSN Baltimore",
-    "path_name": "0e543eea336aec11754193915ee0a578",
+    "name": "CBS News Baltimore",
+    "path_name": "bfb147ce9c1469bf8251d29b75a2d613",
     "url": "https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8",
     "categories": {
       "name": "News",
