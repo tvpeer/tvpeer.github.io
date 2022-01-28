@@ -1890,6 +1890,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2145,6 +2154,15 @@
     "name": "SoriTV (Picota)",
     "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
     "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2907,6 +2925,15 @@
     }
   },
   {
+    "name": "ТВР24 (Сергиев Посад)",
+    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
+    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Эхо TV (Рязань)",
     "path_name": "a22fe26511300393f0465ebf1207e449",
     "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
@@ -2955,15 +2982,6 @@
     "name": "TV Губерния (Воронеж)",
     "path_name": "cbdad481a9b341506ae2bd580be771d3",
     "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ветта 24 (Пермь)",
-    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

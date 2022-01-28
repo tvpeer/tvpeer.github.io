@@ -9,9 +9,9 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -585,6 +585,15 @@
     }
   },
   {
+    "name": "Hits 360 TV",
+    "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
+    "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Radio105 full",
     "path_name": "d6b5bea8ea2599cdb3b6345f27187130",
     "url": "https://cloudflare.streamgato.us:3901/live/radio105live.m3u8",
@@ -864,15 +873,6 @@
     }
   },
   {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -1143,15 +1143,6 @@
     }
   },
   {
-    "name": "TV Peruanísima",
-    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
-    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "SanjuaneraTV",
     "path_name": "513b38a59cd943e492b9b2a07cb78367",
     "url": "https://live.obslivestream.com/sanjuaneramux/playlist.m3u8",
@@ -1344,6 +1335,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1557,15 +1557,6 @@
     }
   },
   {
-    "name": "Vevo Pop Europe",
-    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
-    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
@@ -1614,15 +1605,6 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "STIRR Stingray Today's Latin Pop",
-    "path_name": "efc1221d30fa719ad57e2431a9501941",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
