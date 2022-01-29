@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "LatinoKids",
     "path_name": "7ee700f35053a16485eeccb313c1a7fe",
     "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
@@ -216,6 +207,15 @@
     }
   },
   {
+    "name": "Dream TV",
+    "path_name": "064fd792d6bf34e291db553c07714d1e",
+    "url": "https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Kairali We",
     "path_name": "786d70ba6e441a1e004e2b9d0dd11f3c",
     "url": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
@@ -300,6 +300,15 @@
     "name": "Captain TV",
     "path_name": "face335600ccc660cb27875dfee1bfe3",
     "url": "http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "MK TV",
+    "path_name": "730e8fbc130a3d2f00bd5628d850f71c",
+    "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1119,15 +1128,6 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
