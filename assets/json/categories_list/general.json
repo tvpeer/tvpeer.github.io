@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -138,15 +129,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1602,6 +1584,15 @@
     }
   },
   {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
@@ -1731,6 +1722,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
