@@ -783,15 +783,6 @@
     }
   },
   {
-    "name": "Canal Metropolitano de Noticias",
-    "path_name": "b45baff8932a73548106c899846d94dd",
-    "url": "http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBN Rio",
     "path_name": "9f534c91e76a8fd7b58e389252d5967f",
     "url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
@@ -1128,15 +1119,6 @@
     "name": "7 Noticias",
     "path_name": "e49283834312db0285e47ab0eeeb8bf1",
     "url": "https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "101TV Malaga",
-    "path_name": "930cee95729458c790dd69049205a25a",
-    "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1791,6 +1773,15 @@
     }
   },
   {
+    "name": "TSN Tele Sondrio News",
+    "path_name": "c1039a7c3f03e10e4207890b5743456c",
+    "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV7 News",
     "path_name": "6fc60f031c4b5067cc206ab6d3a79419",
     "url": "http://217.61.26.46:8080/hls/news.m3u8",
@@ -1899,15 +1890,6 @@
     }
   },
   {
-    "name": "Al Sabah",
-    "path_name": "506cca4a8b2b0167f11e7d4ff0dad75a",
-    "url": "https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Al Mayadeen",
     "path_name": "73309cdb1fc91272f42e98b1720f102d",
     "url": "https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8",
@@ -2009,6 +1991,15 @@
   {
     "name": "M24 TV",
     "path_name": "5b8239b824c3ec4f91aba55d9191788c",
+    "url": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "M24 TV",
+    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
     "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2055,6 +2046,15 @@
     "name": "ATV+ Noticias",
     "path_name": "de28d5d4c43ae3d22df01089ab9e2696",
     "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTV Total (Yurimaguas)",
+    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2657,6 +2657,15 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2919,15 +2928,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
