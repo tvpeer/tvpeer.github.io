@@ -63,6 +63,15 @@
     }
   },
   {
+    "name": "MBC 2",
+    "path_name": "a45c4b52c52a29f765146e4a7ef9b235",
+    "url": "http://93.184.1.247/MBC2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Dubai One",
     "path_name": "9261f2c340cc197baff8128bfa3bbf4c",
     "url": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
@@ -84,6 +93,24 @@
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -117,9 +144,9 @@
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -372,15 +399,6 @@
     "name": "SATV",
     "path_name": "d81912dfc106c935a646b6840f4ac276",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain Lawal",
-    "path_name": "7bd19a967761e47c1f4187ee6b81ce6a",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1730,15 +1748,6 @@
   {
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
-    "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Звезда",
-    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8",
     "categories": {
       "name": "General",
@@ -1998,15 +2007,6 @@
     }
   },
   {
-    "name": "Now This (XUMO)",
-    "path_name": "070c9ad52739f78c1d34c66513ccb55e",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Peachtree TV Atlanta GA (WPCH-TV1)",
     "path_name": "862cca5e34e53958369a69b380796e1a",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8",
@@ -2136,6 +2136,15 @@
     "name": "Digi TV (WFTY-DT6)",
     "path_name": "30c83e5e99d494ee1033e846c38db6dc",
     "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ayeneh TV",
+    "path_name": "c882de3143d06ca705fbc8523287cfc9",
+    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
