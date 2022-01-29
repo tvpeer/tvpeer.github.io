@@ -126,15 +126,6 @@
     }
   },
   {
-    "name": "TRT World",
-    "path_name": "b5c477eb39adeeb1166dda16b5bb410e",
-    "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "France 24 English",
     "path_name": "dacf901742cd302094ec308290eb9759",
     "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
@@ -378,6 +369,15 @@
     }
   },
   {
+    "name": "Sky News Arabia (Portrait)",
+    "path_name": "2eebb8fb49a8f9d081cfe181b750ceba",
+    "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "BBC Arabic",
     "path_name": "644b660903ecf0a05225efa32c771c12",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
@@ -462,6 +462,15 @@
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Արմնյուզ",
+    "path_name": "85a96b30a73b196ca197c47086242ae1",
+    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -894,15 +903,6 @@
     "name": "Global News Montreal",
     "path_name": "81ca085c4ee913e9e9422b86e9f233bf",
     "url": "https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Global News Calgary",
-    "path_name": "abd51290b5938d9c1596cd66a9c66568",
-    "url": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2901,15 +2901,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
