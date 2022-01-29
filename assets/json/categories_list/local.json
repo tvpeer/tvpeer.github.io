@@ -2061,15 +2061,6 @@
     }
   },
   {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2217,6 +2208,15 @@
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TPTO TV (Tarapoto)",
+    "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
+    "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2388,6 +2388,15 @@
     "name": "Millenium 109 FM (Lamas)",
     "path_name": "c1cc00facd910de1896c73705c6ac6da",
     "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Omega TV (Yurimaguas)",
+    "path_name": "c2f6cc3fa07943f4b90a517553e3bc1a",
+    "url": "https://7.innovatestream.pe:19360/omega/omega.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
