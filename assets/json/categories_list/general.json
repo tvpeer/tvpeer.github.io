@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -174,15 +165,6 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ORF 1",
-    "path_name": "4e699a45782c05b969fb41fab13dec1e",
-    "url": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -441,6 +423,15 @@
     }
   },
   {
+    "name": "SBT Rede Massa",
+    "path_name": "1b66afe2a94a5000abbc12e2604434a7",
+    "url": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "SBT TV Serra Dourada",
     "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
     "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
@@ -453,6 +444,15 @@
     "name": "TV Verdes Campos",
     "path_name": "02989a8ac0d9610a95e91b1885239e4a",
     "url": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Aberta",
+    "path_name": "c6977ec66c32ee17e8c754bbec864638",
+    "url": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -732,6 +732,15 @@
     "name": "Boss Brothers TV",
     "path_name": "3a7f7fe4a8f8c4440cecad60d1a97acd",
     "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RTNC 1",
+    "path_name": "8de70c6cdb48a33fa1e02cb3bb2a211b",
+    "url": "https://cdn.strimie.eu:3431/live/rtnc1live.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1359,15 +1368,6 @@
     }
   },
   {
-    "name": "MBC",
-    "path_name": "d11fa117fb730e077192de81a07db08c",
-    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Oman TV",
     "path_name": "1aeeefceb7a3ba8e2b9d0fd9c5c30450",
     "url": "https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8",
@@ -1785,6 +1785,15 @@
     "name": "Al Saudiya",
     "path_name": "0ccc8b9cc0aad21b8db718d6c3b5f5e3",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "WOW TV",
+    "path_name": "dc5ea1b50761502eb23510e8482ea260",
+    "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
