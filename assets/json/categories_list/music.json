@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -1512,6 +1503,24 @@
     }
   },
   {
+    "name": "The Box UK",
+    "path_name": "cd193df222036636e3a7c652978bf742",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "The Box UK",
+    "path_name": "cd193df222036636e3a7c652978bf742",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "California Music Channel",
     "path_name": "3417052a98864245a57c970aba033db9",
     "url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8",
@@ -1713,6 +1722,15 @@
     "name": "Vallenato Internacional",
     "path_name": "97448385f171d4a3aa36aae4d0bf5562",
     "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Sonideros TV",
+    "path_name": "ba59b3325f267a62eb950b34bf486f65",
+    "url": "https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
