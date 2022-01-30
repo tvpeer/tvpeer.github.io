@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -588,6 +579,15 @@
     "name": "Hits 360 TV",
     "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
     "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio105 full",
+    "path_name": "d6b5bea8ea2599cdb3b6345f27187130",
+    "url": "https://cloudflare.streamgato.us:3901/live/radio105live.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1206,6 +1206,15 @@
     }
   },
   {
+    "name": "Stereo TV (Peru)",
+    "path_name": "858be35aec06202a74007b5e71a3ffaa",
+    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Cable Netword Cumbia TV",
     "path_name": "c8eff9966d522b40c428a7106d91561d",
     "url": "https://tv.siete.us/cumbiatv/index.m3u8",
@@ -1398,6 +1407,15 @@
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Муз-ТВ",
+    "path_name": "f1ee13ec2296a569f4e9e11694423627",
+    "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
