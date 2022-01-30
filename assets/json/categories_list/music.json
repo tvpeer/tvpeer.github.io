@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Alegria TV",
-    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
-    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "KpopTV Play",
     "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
     "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
@@ -309,6 +300,15 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -624,6 +624,15 @@
     "name": "Activa TV",
     "path_name": "f1cdbef12bb6984066983efa76558402",
     "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Mezzo",
+    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1287,60 +1296,6 @@
     }
   },
   {
-    "name": "Muzzik AMVA 2020",
-    "path_name": "56eb3285711470314cc411865b5646e1",
-    "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Cafe&Club Serbia",
-    "path_name": "9cd3fc435b75bbcdcbd90e4c14c78f8a",
-    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik HipHop Serbia",
-    "path_name": "76eff5f3ebf93643704ded73bdc197a4",
-    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Jeka Serbia",
-    "path_name": "420831baac9bcbac3d3c66a5751c3329",
-    "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Mediteraneo Serbia",
-    "path_name": "265e05f4c19db4c1f00295d781abb9c8",
-    "url": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik OKK Serbia",
-    "path_name": "1d42a67fcab9395c47e204c504fcc48c",
-    "url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Muzzik Replay Serbia",
     "path_name": "10cfa7141509b579b7dc65e4c1937119",
     "url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8",
@@ -1398,15 +1353,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1515,15 +1461,6 @@
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
