@@ -2079,6 +2079,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2250,6 +2259,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://mediastreamm.com:3126/live/tele2000live.m3u8",
@@ -2361,15 +2379,6 @@
     "name": "La Ribereña (Pucallpa)",
     "path_name": "a20156fddec12f98e695ca9163b6454a",
     "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2592,9 +2601,27 @@
     }
   },
   {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Телеканал 86 (Сургут)",
     "path_name": "902f3675cd784429cc4353b9291d5838",
     "url": "https://sitv.ru/hls/s86.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Сургут 24",
+    "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
+    "url": "https://video1.in-news.ru/c24/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
