@@ -243,9 +243,9 @@
     }
   },
   {
-    "name": "KCV",
-    "path_name": "c6cda3130df97582258d7b4ed9403ae9",
-    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+    "name": "Jaihind TV",
+    "path_name": "e2cf38e627f942c1c23e38c76fbdb7c2",
+    "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -336,15 +336,6 @@
     "name": "Amrita TV",
     "path_name": "7f9e62eeb0cd20f1263b54dd8443ef47",
     "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Dreamz TV",
-    "path_name": "cd9f109bf0712fbdf6c40c1d0348eb19",
-    "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1206,6 +1197,15 @@
     }
   },
   {
+    "name": "Buzzr",
+    "path_name": "0f1618ed8ba5987131bb44e9d1ec0d8b",
+    "url": "https://buzzrota-web.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-roku.amagi.tv/playlist.m3u8",
@@ -1290,15 +1290,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
