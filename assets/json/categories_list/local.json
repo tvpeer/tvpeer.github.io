@@ -171,6 +171,15 @@
     }
   },
   {
+    "name": "TV Maná Argentina",
+    "path_name": "f3c511bf389496c9933f94b5f1510250",
+    "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -831,6 +840,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2097,15 +2115,6 @@
     }
   },
   {
-    "name": "Caribe Televisión (Otuzco)",
-    "path_name": "ae563479c749b0ffa54aa1c009027e03",
-    "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
@@ -2136,6 +2145,33 @@
     "name": "FuegoTV (Lima)",
     "path_name": "b41736b00b8ff176a47667ab2c95d66f",
     "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Gold Valley TV (Casma)",
+    "path_name": "70c87e193b51f06f2209e148c2a45a6f",
+    "url": "https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "LimaLive",
+    "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
+    "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "LotPlus TV (Chiclayo)",
+    "path_name": "beff3819b0742473ba961e0da8ed661e",
+    "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2244,15 +2280,6 @@
     "name": "MaticesTV (Cañete)",
     "path_name": "4f92fc1064173135e23bf5674307f43e",
     "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Nororiente)",
-    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
-    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2376,6 +2403,15 @@
     }
   },
   {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
@@ -2442,15 +2478,6 @@
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Televisión Tarapoto",
-    "path_name": "d1f7a0f591846e83766997eaac5be0d5",
-    "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2568,15 +2595,6 @@
     "name": "Телеканал 86 (Сургут)",
     "path_name": "902f3675cd784429cc4353b9291d5838",
     "url": "https://sitv.ru/hls/s86.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Сургут 24",
-    "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
-    "url": "https://video1.in-news.ru/c24/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
