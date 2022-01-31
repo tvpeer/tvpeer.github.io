@@ -432,15 +432,6 @@
     }
   },
   {
-    "name": "Витебск",
-    "path_name": "6148d80862552c8db6318d33d3e00562",
-    "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Montreal Greek TV",
     "path_name": "a15892114864e1f2bd226d6cb845f475",
     "url": "http://94.130.180.175:8081/live/greektv/playlist.m3u8",
@@ -2448,6 +2439,15 @@
     }
   },
   {
+    "name": "Omega TV (Yurimaguas)",
+    "path_name": "c2f6cc3fa07943f4b90a517553e3bc1a",
+    "url": "https://7.innovatestream.pe:19360/omega/omega.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2514,6 +2514,15 @@
     "name": "RN Televisión (Yurimaguas)",
     "path_name": "c3a9aef0b0ccd9bd6b1af7fb478425cf",
     "url": "https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Sistema 1 (Huaraz)",
+    "path_name": "9fe3e4d1a40906b4218be7ba9cc47525",
+    "url": "https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
