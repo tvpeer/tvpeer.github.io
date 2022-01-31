@@ -2070,15 +2070,6 @@
     }
   },
   {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV5 Soritor",
     "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
     "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
@@ -2154,6 +2145,15 @@
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Controversia TV (Moyobamba)",
+    "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
+    "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2487,6 +2487,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Región TV (Callao)",
+    "path_name": "da4454567c8a0a234a89f94e655be1f4",
+    "url": "https://mediastreamm.com:3757/live/regiontvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4314,15 +4323,6 @@
     "name": "CBS Seattle WA (KIRO-TV1)",
     "path_name": "3a4b505a4283ce85b25d9270e324689a",
     "url": "http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS Tallahassee FL (WCTV1)",
-    "path_name": "77d8c2b96ee151dd58fa36edadfec20b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

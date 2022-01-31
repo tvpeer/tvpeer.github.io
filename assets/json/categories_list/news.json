@@ -351,15 +351,6 @@
     }
   },
   {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -471,6 +462,15 @@
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Արմնյուզ",
+    "path_name": "85a96b30a73b196ca197c47086242ae1",
+    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1065,15 +1065,6 @@
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2115,6 +2106,15 @@
     }
   },
   {
+    "name": "RSelvaTV (Tarapoto)",
+    "path_name": "85b787159037d15895c05c9d0f71d311",
+    "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV Noticias 7.3",
     "path_name": "0f2390c6b8fb66536d745e85f3d3845d",
     "url": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8",
@@ -2964,6 +2964,24 @@
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
