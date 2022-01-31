@@ -819,6 +819,15 @@
     }
   },
   {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "City TV (Bogotà | Cundinamarca)",
     "path_name": "56723578aa6b96da3fe55f3f6663efae",
     "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
@@ -828,9 +837,27 @@
     }
   },
   {
+    "name": "Suram TV",
+    "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
+    "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
+    "path_name": "1eba2d69dcc77f6786a11543260ae375",
+    "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1998,6 +2025,15 @@
     }
   },
   {
+    "name": "Imagen Televisión (Rioja)",
+    "path_name": "3d2203fd154dfce2a7588e51179b0717",
+    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -2169,15 +2205,6 @@
     }
   },
   {
-    "name": "Mega TV (Arequipa)",
-    "path_name": "bbf31e2bf896418ee84f82f7cc0ac4e6",
-    "url": "https://media2.cdnlayer.biz:8081/8008/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "OK TeVe (Yurimaguas)",
     "path_name": "13852856127ecf9cbcbc3455478bdb4d",
     "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
@@ -2307,6 +2334,15 @@
     "name": "Canal E (Evelyn) (Altomayo)",
     "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
     "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal E (Evelyn) (Nororiente)",
+    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
+    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2466,15 +2502,6 @@
     }
   },
   {
-    "name": "Radio Digital 94.1 TV (Juanjui)",
-    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
-    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Red de Comunicación Regional (RCR)",
     "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
@@ -2523,15 +2550,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2955,15 +2973,6 @@
     "name": "CBS News Miami",
     "path_name": "5d6e9d25514ad6d2d13e2e75e732fbd0",
     "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC4 WRC-TV Washington News",
-    "path_name": "816ca829e6c4dcce6039c9e9a5d04a9d",
-    "url": "https://wrclive-f.akamaihd.net/i/DC_STREAM1@22925/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
