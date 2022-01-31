@@ -1836,15 +1836,6 @@
     }
   },
   {
-    "name": "ZuidWest TV",
-    "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
-    "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Omroep Centraal TV",
     "path_name": "04799935f932e880938546ea203b0137",
     "url": "https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
@@ -2046,6 +2037,15 @@
     "name": "Radio Pachatusan (Cuzco)",
     "path_name": "34ecbdc896750ea603e866b389f0945f",
     "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SoriTV (Picota)",
+    "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
+    "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2421,6 +2421,15 @@
     }
   },
   {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Millenium 109 FM (Lamas)",
     "path_name": "c1cc00facd910de1896c73705c6ac6da",
     "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
@@ -2532,15 +2541,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
