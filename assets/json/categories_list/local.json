@@ -2088,15 +2088,6 @@
     }
   },
   {
-    "name": "ATM Televisión (Apurimac)",
-    "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
-    "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "AsiriTV (Lima)",
     "path_name": "2f106380faf53eca147780035513a4e0",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
@@ -2145,15 +2136,6 @@
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "DeltaTV (Pacayzapa | San Martín)",
-    "path_name": "50dfd89f806cb41d9e6517c0fce43954",
-    "url": "https://media2.cdnlayer.biz:8081/8038/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2493,15 +2475,6 @@
     }
   },
   {
-    "name": "Tropical TV (Puerto Maldonado)",
-    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
-    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Red de Comunicación Regional (RCR)",
     "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
@@ -2550,15 +2523,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4386,6 +4350,15 @@
     "name": "CBS Tallahassee FL (WCTV1)",
     "path_name": "77d8c2b96ee151dd58fa36edadfec20b",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "WPIX 11",
+    "path_name": "d519869ad2cf56e1c46621299d0f240e",
+    "url": "http://71.187.29.220:8000/play/a08o/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
