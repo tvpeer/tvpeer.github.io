@@ -360,15 +360,6 @@
     }
   },
   {
-    "name": "TV Cidade Canal 9",
-    "path_name": "635f211a99a5c1410c36ba58189bd6d0",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
@@ -774,6 +765,15 @@
     }
   },
   {
+    "name": "Tele 2 Web (Retiro)",
+    "path_name": "1348cfd3347fe8e5b2d82e5b12c1d61f",
+    "url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
     "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
     "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
@@ -849,15 +849,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2205,6 +2196,15 @@
     }
   },
   {
+    "name": "Huanta TV",
+    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
+    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
@@ -2439,6 +2439,15 @@
     }
   },
   {
+    "name": "La Ribereña (Pucallpa)",
+    "path_name": "a20156fddec12f98e695ca9163b6454a",
+    "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
@@ -2559,6 +2568,15 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
