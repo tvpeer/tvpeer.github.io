@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
@@ -102,6 +93,15 @@
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -477,15 +477,6 @@
     }
   },
   {
-    "name": "Yeeaah!",
-    "path_name": "4d827bc5ac94fe56229662a11036635d",
-    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -543,15 +534,6 @@
     "name": "TV BRICS Portuguese",
     "path_name": "9590801d96eec46c25414c97d033376b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Catve FM",
-    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
-    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1602,9 +1584,27 @@
     }
   },
   {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1638,6 +1638,15 @@
     }
   },
   {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
@@ -1650,6 +1659,15 @@
     "name": "TVR Târgu Mureș",
     "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
     "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Iași",
+    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
+    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
