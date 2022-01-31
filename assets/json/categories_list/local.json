@@ -38,6 +38,24 @@
   {
     "name": "PBS Seattle WA (KCTS-TV1)",
     "path_name": "03929e2fc088a2b3368c5a2babe9707c",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Seattle WA (KCTS-TV1)",
+    "path_name": "03929e2fc088a2b3368c5a2babe9707c",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS Seattle WA (KCTS-TV1)",
+    "path_name": "03929e2fc088a2b3368c5a2babe9707c",
     "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8",
     "categories": {
       "name": "Education",
@@ -48,6 +66,24 @@
     "name": "PBS Seattle WA (KCTS-TV1)",
     "path_name": "03929e2fc088a2b3368c5a2babe9707c",
     "url": "http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS Spokane WA (KSPS-TV1)",
+    "path_name": "b919172c9248b29d66dd661ed1c2331e",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Spokane WA (KSPS-TV1)",
+    "path_name": "b919172c9248b29d66dd661ed1c2331e",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -264,6 +300,15 @@
     "name": "TV Nova Onda",
     "path_name": "8832cb35646548f8da02e4ea80ca0a4c",
     "url": "https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -831,15 +876,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2385,9 +2421,9 @@
     }
   },
   {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
+    "name": "PiuraTV",
+    "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
+    "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2469,15 +2505,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3935,7 +3962,25 @@
   {
     "name": "ABC Detroit MI (WXYZ-TV1)",
     "path_name": "7b9d48d675b5d264061546c0e13c08ae",
+    "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC Detroit MI (WXYZ-TV1)",
+    "path_name": "7b9d48d675b5d264061546c0e13c08ae",
     "url": "http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC Seattle WA (KOMO-TV1)",
+    "path_name": "3b439ca564b25ba775993b9f2c374776",
+    "url": "http://encodercdn1.frontline.ca/yavin/output/ABC_Seattle/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3980,6 +4025,15 @@
   {
     "name": "WGN Chicago IL (WGN-TV1)",
     "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/WGN/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "WGN Chicago IL (WGN-TV1)",
+    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -4014,6 +4068,15 @@
     }
   },
   {
+    "name": "The CW Tallahassee FL (WTLF1)",
+    "path_name": "3be007bcd8e942249e031caa2780ff80",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "FOX Rochester NY (WUHF-DT1)",
     "path_name": "708c9dee8cffec50b06532e833265347",
     "url": "http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8",
@@ -4025,7 +4088,25 @@
   {
     "name": "FOX Spokane WA (KAYU-TV1)",
     "path_name": "eba1951526b94085d8825963bb296940",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FOX Spokane WA (KAYU-TV1)",
+    "path_name": "eba1951526b94085d8825963bb296940",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Fox Boston MA (WFXT1)",
+    "path_name": "202203b64fd0e41fde436c89fbf571bf",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4052,6 +4133,15 @@
   {
     "name": "Fox Seattle WA (KCPQ1)",
     "path_name": "24af58e9d1741801292842830433d0d4",
+    "url": "http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Fox Seattle WA (KCPQ1)",
+    "path_name": "24af58e9d1741801292842830433d0d4",
     "url": "http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -4062,6 +4152,15 @@
     "name": "Fox Tallahassee FL (WTWC-TV2)",
     "path_name": "7fe2188be2cbe45273606a4107def90b",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC Boston MA (WBTS-CD1)",
+    "path_name": "eddfc209c3f896afe8ffdad8247c5da4",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4088,7 +4187,25 @@
   {
     "name": "NBC Seattle WA (KING-TV1)",
     "path_name": "cdda045d8ff3e99891ce78c90b1abc79",
+    "url": "http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC Seattle WA (KING-TV1)",
+    "path_name": "cdda045d8ff3e99891ce78c90b1abc79",
     "url": "http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC Spokane WA (KHQ-TV1)",
+    "path_name": "f86f4e1d3d96d0771ab56c2893668c89",
+    "url": "http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4169,7 +4286,25 @@
   {
     "name": "CBS Detroit MI (WWJ-TV1)",
     "path_name": "654b0dd1fe8da442e945aecd79b6bea3",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS Detroit MI (WWJ-TV1)",
+    "path_name": "654b0dd1fe8da442e945aecd79b6bea3",
     "url": "http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS Seattle WA (KIRO-TV1)",
+    "path_name": "3a4b505a4283ce85b25d9270e324689a",
+    "url": "http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
