@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "Ciudad TV Resistencia (Chaco)",
-    "path_name": "ae13211e238dbe907fa833cb506fa46e",
-    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenord Corrientes",
     "path_name": "9d49de079f499fc31f02f55416f28f0a",
     "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
@@ -426,6 +417,15 @@
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Витебск",
+    "path_name": "6148d80862552c8db6318d33d3e00562",
+    "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -831,6 +831,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2361,6 +2370,15 @@
     "name": "Primavera 15 Radiotelevisión (Moquegua)",
     "path_name": "232c1b378a773506b3584703aa567ca9",
     "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
