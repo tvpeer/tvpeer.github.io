@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -327,6 +318,15 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1269,33 +1269,6 @@
     }
   },
   {
-    "name": "Muzzik AMVA 2020",
-    "path_name": "56eb3285711470314cc411865b5646e1",
-    "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik Cafe&Club Serbia",
-    "path_name": "9cd3fc435b75bbcdcbd90e4c14c78f8a",
-    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Muzzik HipHop Serbia",
-    "path_name": "76eff5f3ebf93643704ded73bdc197a4",
-    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Muzzik Jeka Serbia",
     "path_name": "420831baac9bcbac3d3c66a5751c3329",
     "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
@@ -1380,15 +1353,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1503,15 +1467,6 @@
     }
   },
   {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "V2BEAT",
     "path_name": "170dbb73651fd04590a00da30331e5ac",
     "url": "https://de1se01.v2beat.live/playlist.m3u8",
@@ -1596,6 +1551,15 @@
     "name": "MCN6 Music Channel",
     "path_name": "146b4ab0a7117133a37e55f541b4b9d1",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop",
+    "path_name": "8a64fa9a7efb3af957418a41d06f6540",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1758,15 +1722,6 @@
     "name": "Italianissimo",
     "path_name": "fb4c0ccb2d9978b17e4a3f097462ca9a",
     "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Oxigeno TV",
-    "path_name": "bc394b320f6e004045921bec0ae0b56f",
-    "url": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
