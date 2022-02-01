@@ -81,9 +81,18 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -117,9 +126,9 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -471,6 +480,15 @@
     "name": "MKK Web TV",
     "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
     "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1647,27 +1665,9 @@
     }
   },
   {
-    "name": "Мир",
-    "path_name": "579ae29d20979b9bf2d927153abbdaeb",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
     "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "РЕН ТВ",
-    "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1701,15 +1701,6 @@
     }
   },
   {
-    "name": "Россия 1 HD",
-    "path_name": "97f1b3904aa8eb4828ca100ea523593f",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
@@ -1721,7 +1712,7 @@
   {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1731,15 +1722,6 @@
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Звезда",
-    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
