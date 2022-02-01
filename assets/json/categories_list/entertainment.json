@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "ITC TV",
-    "path_name": "6ef3f2563d169987779b98c45dab360b",
-    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "ITN",
     "path_name": "879dfe5a3f44a5bc5cda70c5639b1242",
     "url": "http://51.210.199.31/hls/stream.m3u8",
@@ -567,9 +558,18 @@
     }
   },
   {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
+    "name": "Ю",
+    "path_name": "bd652dc820fb36c497d8ccf9e6161559",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Че",
+    "path_name": "7b4c8f0ff81d9616a173fd8ad9dc0496",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -579,6 +579,15 @@
     "name": ".black Russia",
     "path_name": "b03c6000d921e97f318dee4a5db1bac6",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "VIP Premiere Russia",
+    "path_name": "f7877aade0d689dc53b4b5c99d436292",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -597,6 +606,15 @@
     "name": "Домашний",
     "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
     "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Домашний",
+    "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -822,15 +840,6 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Young Hollywood",
-    "path_name": "2d071c592394806c832d2a782b9be364",
-    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1191,15 +1200,6 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
