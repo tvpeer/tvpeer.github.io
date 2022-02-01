@@ -477,15 +477,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -1074,6 +1065,15 @@
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2270,6 +2270,15 @@
   {
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8",
     "categories": {
       "name": "News",
@@ -2361,15 +2370,6 @@
     "name": "CNN International UK",
     "path_name": "3ffe27f0ff8cfb4f0bd08da76741f398",
     "url": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Arise News",
-    "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
-    "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
