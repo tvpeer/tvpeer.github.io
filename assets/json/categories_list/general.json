@@ -135,6 +135,15 @@
     }
   },
   {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
@@ -237,42 +246,6 @@
     "name": "Qəbələ TV",
     "path_name": "6cbf35caf377b0826f457f21bfdb058e",
     "url": "https://qebele.tv/live/stream/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Azad TV (ATV)",
-    "path_name": "009d50bde648f4b467c3e0c708be25cd",
-    "url": "http://85.132.81.184:8080/atv/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Azad TV (ATV)",
-    "path_name": "009d50bde648f4b467c3e0c708be25cd",
-    "url": "http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Azad TV -2 (ATV)",
-    "path_name": "bc08052bc9c249d59257a07ab1890dcf",
-    "url": "http://85.132.81.184:8080/atv-2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Azad TV -4 (ATV)",
-    "path_name": "032024fb5767d88d4909cea1db9700bc",
-    "url": "http://85.132.81.184:8080/atv-4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -981,15 +954,6 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1368,6 +1332,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1602,6 +1575,15 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1647,6 +1629,15 @@
     }
   },
   {
+    "name": "TVR Târgu Mureș",
+    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
+    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Красная линия",
     "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
     "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
@@ -1665,27 +1656,9 @@
     }
   },
   {
-    "name": "Мир",
-    "path_name": "579ae29d20979b9bf2d927153abbdaeb",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
     "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "РЕН ТВ",
-    "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1719,15 +1692,6 @@
     }
   },
   {
-    "name": "Россия 1 HD",
-    "path_name": "97f1b3904aa8eb4828ca100ea523593f",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
@@ -1737,36 +1701,9 @@
     }
   },
   {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Звезда",
-    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
