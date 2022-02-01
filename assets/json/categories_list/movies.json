@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Armenia Հայ Կինո",
     "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
     "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
@@ -36,9 +27,9 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "name": "ATV Ֆիլմզոն",
+    "path_name": "daa60ca759b05ec4bb74a650d4705527",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -306,6 +297,15 @@
     }
   },
   {
+    "name": "Nee Cinema",
+    "path_name": "a43ce43326a02aaff3d6cb6c8a8a7ebd",
+    "url": "https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Yupp Thirai",
     "path_name": "2d0c00f1c13d3038d89b217e49296d83",
     "url": "http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8",
@@ -480,6 +480,15 @@
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Golden Latinoamérica",
+    "path_name": "c29ecc388b6a129e067a1c6641ef59cb",
+    "url": "https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
