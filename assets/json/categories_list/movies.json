@@ -18,9 +18,18 @@
     }
   },
   {
-    "name": "ATV Կինոման",
-    "path_name": "5dceef43f92994d939241c5cf491829d",
-    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Armenia Հայ Կինո",
+    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
+    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -84,6 +93,15 @@
     "name": "Retro Plus 3",
     "path_name": "980109982ba442e1f2944f0785547682",
     "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "CCTV-6电影",
+    "path_name": "986be71f475808cb386ce1449c29e653",
+    "url": "http://112.25.48.68/live/program/live/cctv6hd/4000000/mnf.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -504,15 +522,6 @@
     }
   },
   {
-    "name": "Amedia Hit",
-    "path_name": "8295ae2c9964eede50012d4d1de2fb42",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "TV1000 Russia",
     "path_name": "3164fb43d6722d7c8b7474b78534e94a",
     "url": "https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8",
@@ -543,15 +552,6 @@
     "name": "Феникс Кино",
     "path_name": "2815d0e3187553beb7a9540541930cc7",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "VIP Megahit Russia",
-    "path_name": "e5afb64a2b0e94d5e787476f4f5d1574",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -741,15 +741,6 @@
     "name": "TVS Drive In Movie",
     "path_name": "8d64d964fd745cbf3641aae28f61d8b1",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Xumo Free Movies",
-    "path_name": "01f6a641f18e10a2a2c1f81c4e60b904",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"

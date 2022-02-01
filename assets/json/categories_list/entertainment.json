@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "Prime Canada TV",
-    "path_name": "0174b660c77642fde8a645a8c147f202",
-    "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
@@ -288,6 +279,15 @@
     }
   },
   {
+    "name": "NCV",
+    "path_name": "e0d226fba3f7f4f579cfe61ccdd72161",
+    "url": "http://103.146.174.60:1935/NCV/ncvstream/master.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Swantham",
     "path_name": "c9a8060f8cc55cb952c1437bf93c4de1",
     "url": "http://cdn1.logicwebs.in:1935/SWANTHAM/live/playlist.m3u8",
@@ -300,15 +300,6 @@
     "name": "One TV",
     "path_name": "a353656426bd22f03a23dcd5edc6fad4",
     "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Mazhavil Manorama",
-    "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -540,6 +531,15 @@
     }
   },
   {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Ю",
     "path_name": "bd652dc820fb36c497d8ccf9e6161559",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8",
@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "VIP Premiere Russia",
-    "path_name": "f7877aade0d689dc53b4b5c99d436292",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": ".red Russia",
     "path_name": "5fe1c70a32708e01cbe559c4f5058307",
     "url": "https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8",
@@ -588,15 +579,6 @@
     "name": "Домашний",
     "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
     "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Домашний",
-    "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
-    "url": "https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -828,6 +810,15 @@
     }
   },
   {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "We TV All Weddings",
     "path_name": "2920643315f0f172a92d71df7d8fe78d",
     "url": "https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8",
@@ -921,15 +912,6 @@
     "name": "TMZ",
     "path_name": "8110add785fa7edf64d4fb5010e2fa29",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "TMZ",
-    "path_name": "8110add785fa7edf64d4fb5010e2fa29",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1190,15 +1172,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-circle/CDN/master.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1236,6 +1209,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
