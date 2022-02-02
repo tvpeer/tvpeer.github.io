@@ -495,33 +495,6 @@
     }
   },
   {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
@@ -1082,6 +1055,15 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1101,6 +1083,15 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTU",
+    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
+    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1236,6 +1227,15 @@
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ERT News",
+    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
+    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1425,15 +1425,6 @@
     "name": "Jan TV",
     "path_name": "156b8cc97a620ff1b10289f2f5ea434f",
     "url": "http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Global Punjab",
-    "path_name": "6a8d55004fe194da2a7281bb9c31e5fe",
-    "url": "https://media.streambrothers.com:1936/8522/8522/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1929,24 +1920,6 @@
     "name": "Al Mayadeen",
     "path_name": "73309cdb1fc91272f42e98b1720f102d",
     "url": "https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Manar",
-    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
-    "url": "https://manar.live/iptv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Manar",
-    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
-    "url": "https://manar.live/x.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2693,6 +2666,15 @@
   {
     "name": "InfoWars",
     "path_name": "94808be79537610f4ad039ba0c84f944",
+    "url": "http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "InfoWars",
+    "path_name": "94808be79537610f4ad039ba0c84f944",
     "url": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2784,15 +2766,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
