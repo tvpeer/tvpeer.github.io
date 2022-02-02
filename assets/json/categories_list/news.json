@@ -477,15 +477,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -1082,15 +1073,6 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1245,6 +1227,15 @@
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ERT News",
+    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
+    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1443,15 +1434,6 @@
     "name": "Global Punjab",
     "path_name": "6a8d55004fe194da2a7281bb9c31e5fe",
     "url": "https://media.streambrothers.com:1936/8522/8522/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Asianet News Kannada",
-    "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
-    "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2702,15 +2684,6 @@
   {
     "name": "InfoWars",
     "path_name": "94808be79537610f4ad039ba0c84f944",
-    "url": "http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "InfoWars",
-    "path_name": "94808be79537610f4ad039ba0c84f944",
     "url": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2934,24 +2907,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -3009,6 +2964,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
