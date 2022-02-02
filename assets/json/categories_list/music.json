@@ -9,9 +9,27 @@
     }
   },
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -288,15 +306,6 @@
     }
   },
   {
-    "name": "Stingray Naturescape",
-    "path_name": "2ed2149b5bf4d6765d0a5f33b19d8f8b",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Stingray Soul Storm",
     "path_name": "5e5ae8aedabb1df376ea81928b0dcbea",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
@@ -309,15 +318,6 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -630,18 +630,9 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1143,6 +1134,15 @@
     }
   },
   {
+    "name": "GO-RTV",
+    "path_name": "1d11b702ba497e1070cced490dad70cd",
+    "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Salto Brasa Music",
     "path_name": "b8fdce3e7e4904f49f14dd2c5fdffa11",
     "url": "https://salto-streams.nl/hls/sotv1_high.m3u8",
@@ -1359,6 +1359,15 @@
     }
   },
   {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Муз-ТВ",
     "path_name": "f1ee13ec2296a569f4e9e11694423627",
     "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
@@ -1452,6 +1461,15 @@
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1614,6 +1632,15 @@
     "name": "Vevo 80s",
     "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio U TV",
+    "path_name": "cbcb52855245b403334c2deffb93aaef",
+    "url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

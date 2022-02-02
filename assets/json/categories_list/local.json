@@ -495,15 +495,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Buin Somos Todos",
     "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
     "url": "https://bst.buin.cl/0.m3u8",
@@ -786,6 +777,15 @@
     "name": "TV Senado",
     "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVO Tocopilla",
+    "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
+    "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2088,6 +2088,15 @@
     }
   },
   {
+    "name": "Central TV (Chosica)",
+    "path_name": "f8e30b59953c450328010027510582c2",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
@@ -2196,15 +2205,6 @@
     }
   },
   {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2235,6 +2235,15 @@
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2514,15 +2523,6 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4098,6 +4098,15 @@
     "name": "NBC Buffalo NY (WGRZ1)",
     "path_name": "4f9b44b7238e637a58044a76b3056789",
     "url": "http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC New York (WNBC-DT1)",
+    "path_name": "571a5bcacbbfc367d87a12b0160d2c6c",
+    "url": "http://38.91.57.12:2082/nbc/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
