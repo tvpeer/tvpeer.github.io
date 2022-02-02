@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "MovieFe",
-    "path_name": "9cfafff8c63f1da26163443b483bc67e",
-    "url": "https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Cinema+",
     "path_name": "9ab5ec09bb7a2ab1816dee79f9db06fe",
     "url": "https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8",
@@ -183,6 +174,15 @@
     "name": "B4U Hitz",
     "path_name": "f3a6cffcac34a41d16549cd713c4e802",
     "url": "http://14.199.164.20:4001/play/a0wh/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Star Cinema",
+    "path_name": "d6fb916bd542fcda121b6fd21541545c",
+    "url": "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -612,6 +612,15 @@
     }
   },
   {
+    "name": "Gravitas Movies",
+    "path_name": "2993303ea0b6ec4a610dc7a4505b5253",
+    "url": "https://gravitas-movies.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "STIRR Gravitas Movies",
     "path_name": "81206f077d3b53684f2d6f8241d65100",
     "url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
@@ -741,6 +750,15 @@
     "name": "FilmRise Free Movies",
     "path_name": "fe5a95236b26c7c826c64b591d054148",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "FilmRise Free Movies",
+    "path_name": "fe5a95236b26c7c826c64b591d054148",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
