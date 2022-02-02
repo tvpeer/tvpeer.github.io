@@ -828,18 +828,18 @@
     }
   },
   {
-    "name": "City TV (Bogotà | Cundinamarca)",
-    "path_name": "56723578aa6b96da3fe55f3f6663efae",
-    "url": "https://tna5.bozztv.com/LiveCH06/index.m3u8",
+    "name": "Suram TV",
+    "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
+    "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Suram TV",
-    "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
-    "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2397,6 +2397,15 @@
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4104,6 +4113,15 @@
     }
   },
   {
+    "name": "Fox Boston MA (WFXT1)",
+    "path_name": "202203b64fd0e41fde436c89fbf571bf",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Fox Buffalo NY (WUTV1)",
     "path_name": "1548636142ab2543475817480d582e4c",
     "url": "http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8",
@@ -4134,6 +4152,15 @@
     "name": "Fox Tallahassee FL (WTWC-TV2)",
     "path_name": "7fe2188be2cbe45273606a4107def90b",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC Boston MA (WBTS-CD1)",
+    "path_name": "eddfc209c3f896afe8ffdad8247c5da4",
+    "url": "http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
