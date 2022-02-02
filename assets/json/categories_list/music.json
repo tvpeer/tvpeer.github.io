@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -477,6 +468,15 @@
     }
   },
   {
+    "name": "VM Latino",
+    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Reload",
     "path_name": "eae022d2b36455d57347c272b2c59509",
     "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
@@ -606,15 +606,6 @@
     "name": "Activa TV",
     "path_name": "f1cdbef12bb6984066983efa76558402",
     "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1251,6 +1242,105 @@
     }
   },
   {
+    "name": "Muzzik AMVA 2020",
+    "path_name": "56eb3285711470314cc411865b5646e1",
+    "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Cafe&Club Serbia",
+    "path_name": "9cd3fc435b75bbcdcbd90e4c14c78f8a",
+    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik HipHop Serbia",
+    "path_name": "76eff5f3ebf93643704ded73bdc197a4",
+    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Jeka Serbia",
+    "path_name": "420831baac9bcbac3d3c66a5751c3329",
+    "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Mediteraneo Serbia",
+    "path_name": "265e05f4c19db4c1f00295d781abb9c8",
+    "url": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik OKK Serbia",
+    "path_name": "1d42a67fcab9395c47e204c504fcc48c",
+    "url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Replay Serbia",
+    "path_name": "10cfa7141509b579b7dc65e4c1937119",
+    "url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Rock&Roll Serbia",
+    "path_name": "934e2c18bed258b9f04cd471f80a81d2",
+    "url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Saculatac Serbia",
+    "path_name": "083ab6525788e7a993b8632ba2524ee5",
+    "url": "https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik TV Serbia",
+    "path_name": "0f5380afa27e19bc4e785cfb64073271",
+    "url": "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Worldwide Serbia",
+    "path_name": "cebb95b407e2c527ae2a9f8c413d6586",
+    "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Новое радио",
     "path_name": "0f7d0e26b49dcf44439e6994145e71db",
     "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
@@ -1263,6 +1353,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Муз-ТВ",
+    "path_name": "f1ee13ec2296a569f4e9e11694423627",
+    "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
