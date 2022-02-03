@@ -108,24 +108,6 @@
     }
   },
   {
-    "name": "PBS Tallahassee FL (WFSU-TV1)",
-    "path_name": "f3a86118486963f91dbf380b6ef10a54",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Tallahassee FL (WFSU-TV1)",
-    "path_name": "f3a86118486963f91dbf380b6ef10a54",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PBS MPT Baltimore MD (WMPB)",
     "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
@@ -426,15 +408,6 @@
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Витебск",
-    "path_name": "6148d80862552c8db6318d33d3e00562",
-    "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -912,6 +885,15 @@
     "name": "Zaracay TV",
     "path_name": "88a63521263537d9c1bfae7153539a97",
     "url": "https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Girona",
+    "path_name": "080367b5b1350504c030597028e7450b",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2016,15 +1998,6 @@
     }
   },
   {
-    "name": "Kachorro (Super TV | Amazonas)",
-    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
-    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://servilive.com:3194/live/proyectatvlive.m3u8",
@@ -2070,18 +2043,18 @@
     }
   },
   {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "name": "Bella Abanquina TV (Apurimac)",
+    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
+    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "TV5 Soritor",
-    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
-    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2601,6 +2574,15 @@
     }
   },
   {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Universitaria TV (Chanchamayo)",
     "path_name": "f33338a5f62e3a11997f99458109b5be",
     "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
@@ -2613,15 +2595,6 @@
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vía Altomayo",
-    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
-    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4095,15 +4068,6 @@
     }
   },
   {
-    "name": "ABC Tallahassee FL (WTXL-TV1)",
-    "path_name": "7c173938c26af7f3ec9a9afb232cae86",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "WGN Chicago IL (WGN-TV1)",
     "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/WGN/playlist.m3u8",
@@ -4131,27 +4095,9 @@
     }
   },
   {
-    "name": "The Florida Channel Tallahassee FL (WFSU-TV2)",
-    "path_name": "f687ef49d727b9f1e0b7bdef43d3cf7a",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-FL.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "The CW New York NY (WPIX1)",
     "path_name": "eb30b2d6215bec32fe650f9766f3953a",
     "url": "http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "The CW Tallahassee FL (WTLF1)",
-    "path_name": "3be007bcd8e942249e031caa2780ff80",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4230,15 +4176,6 @@
     }
   },
   {
-    "name": "Fox Tallahassee FL (WTWC-TV2)",
-    "path_name": "7fe2188be2cbe45273606a4107def90b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NBC Boston MA (WBTS-CD1)",
     "path_name": "eddfc209c3f896afe8ffdad8247c5da4",
     "url": "http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8",
@@ -4305,15 +4242,6 @@
     "name": "NBC Spokane WA (KHQ-TV1)",
     "path_name": "f86f4e1d3d96d0771ab56c2893668c89",
     "url": "http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC Tallahassee FL (WTWC-TV1)",
-    "path_name": "44d8487f669269ee713309a50bdf6775",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4404,15 +4332,6 @@
     "name": "CBS Seattle WA (KIRO-TV1)",
     "path_name": "3a4b505a4283ce85b25d9270e324689a",
     "url": "http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS Tallahassee FL (WCTV1)",
-    "path_name": "77d8c2b96ee151dd58fa36edadfec20b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
