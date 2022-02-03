@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Նոր Հայաստան",
+    "path_name": "bc7a615c82558a146ae038313eb9ac09",
+    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
@@ -291,15 +300,6 @@
     "name": "İnterAz",
     "path_name": "aab9362434e4b8314b943b555d1ad4e4",
     "url": "http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Boishakhi TV",
-    "path_name": "eff641dd37d7af69e90b4ff8501ee3cf",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -749,15 +749,6 @@
   {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
     "categories": {
       "name": "General",
@@ -768,6 +759,15 @@
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1128,6 +1128,15 @@
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1503,6 +1512,15 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1542,6 +1560,15 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Iași",
+    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
+    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1740,6 +1767,24 @@
     "name": "Time Television",
     "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Today All Day",
+    "path_name": "9c2c08849b508d1023c2774a2f9981d7",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

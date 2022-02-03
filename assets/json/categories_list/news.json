@@ -684,15 +684,6 @@
     }
   },
   {
-    "name": "ATN News",
-    "path_name": "c374e701683b6246460601756174b864",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Channel T1",
     "path_name": "9a508f051a628243eb88e4662f6b87c0",
     "url": "http://irbtv.net/channelt1/1080/index.m3u8",
@@ -1082,15 +1073,6 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1245,6 +1227,15 @@
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ERT News",
+    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
+    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2502,6 +2493,15 @@
     }
   },
   {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -2961,24 +2961,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -3018,6 +3000,15 @@
     "name": "MSNBC",
     "path_name": "c238e75431b20155fc0579b8548a40f8",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
