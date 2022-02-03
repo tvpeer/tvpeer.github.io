@@ -1073,15 +1073,6 @@
   {
     "name": "CCTV-13新闻",
     "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
     "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
     "categories": {
       "name": "News",
@@ -1101,15 +1092,6 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RTU",
-    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
-    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1236,15 +1218,6 @@
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ERT News",
-    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
-    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1593,6 +1566,15 @@
     }
   },
   {
+    "name": "Malabar News",
+    "path_name": "7f30cbd06c44fef808e328537d581b55",
+    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1695,15 +1677,6 @@
     "name": "Rudaw TV",
     "path_name": "af67ca63fcc4441a11ba46e7376a6ca2",
     "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KurdSat News",
-    "path_name": "75792d7aba7698f41b6da77c43663113",
-    "url": "https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1938,6 +1911,24 @@
     "name": "Al Mayadeen",
     "path_name": "73309cdb1fc91272f42e98b1720f102d",
     "url": "https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Manar",
+    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
+    "url": "https://manar.live/iptv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Manar",
+    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
+    "url": "https://manar.live/x.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
