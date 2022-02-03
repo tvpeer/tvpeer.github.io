@@ -693,15 +693,6 @@
     }
   },
   {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio América TV",
     "path_name": "c4a914d7b4662c2342f3b85d5575c3b9",
     "url": "https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8",
@@ -849,6 +840,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1920,6 +1920,15 @@
     "name": "Omroep Hulst TV",
     "path_name": "d54dc61da73530a96b0337c3e401c472",
     "url": "https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
