@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -300,6 +309,15 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -621,15 +639,6 @@
     }
   },
   {
-    "name": "MCM Top",
-    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
-    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
@@ -927,15 +936,6 @@
     }
   },
   {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -1179,9 +1179,54 @@
     }
   },
   {
+    "name": "Best Cable Music",
+    "path_name": "49cdede317e9ae8ddd307ed832da2bee",
+    "url": "https://ca.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Best Cable Más Cumbia",
+    "path_name": "0024a0cf86c533e014225f37519bee73",
+    "url": "https://ca.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TV Peruanísima",
     "path_name": "fc5e1818c358ce82661e54c77e16ad49",
     "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Galáctica TV (Peru)",
+    "path_name": "d45e99b61541a3a01c9008e5626c60b5",
+    "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Cable Netword Belleza Andina TV",
+    "path_name": "87cffd4d59b0d7759db49d8aa9213a40",
+    "url": "https://ca.inka.net.pe/bellezaandina/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Cable Netword Cumbia TV",
+    "path_name": "c8eff9966d522b40c428a7106d91561d",
+    "url": "https://ca.inka.net.pe/cumbiatv/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1209,6 +1254,15 @@
     "name": "Visión TV Musica",
     "path_name": "3302dc2e106d23ad007eed27b4748281",
     "url": "https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Hatun TV",
+    "path_name": "e1292bbb152a8196029ca45cd1d2f3c0",
+    "url": "https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1359,15 +1413,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Муз-ТВ",
     "path_name": "f1ee13ec2296a569f4e9e11694423627",
     "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
@@ -1467,15 +1512,6 @@
     }
   },
   {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "V2BEAT",
     "path_name": "170dbb73651fd04590a00da30331e5ac",
     "url": "https://de1se01.v2beat.live/playlist.m3u8",
@@ -1566,15 +1602,6 @@
     }
   },
   {
-    "name": "Vevo Pop",
-    "path_name": "8a64fa9a7efb3af957418a41d06f6540",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
@@ -1623,15 +1650,6 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "STIRR Stingray Pop Adult",
-    "path_name": "5bd20e05680182e0baa90e0373812ec7",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

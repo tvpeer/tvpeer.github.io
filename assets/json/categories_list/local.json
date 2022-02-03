@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -813,6 +804,15 @@
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ñuble RTV (Chillán)",
+    "path_name": "047c61c110127cf131cc81ed3b540fa7",
+    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2034,6 +2034,24 @@
     }
   },
   {
+    "name": "Proyecta Televisión (Huacho)",
+    "path_name": "398ff620923591855eada0d93fd3ab7a",
+    "url": "https://servilive.com:3194/live/proyectatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Imagen Televisión (Rioja)",
+    "path_name": "3d2203fd154dfce2a7588e51179b0717",
+    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -2055,15 +2073,6 @@
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2109,6 +2118,15 @@
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Cajamarca TV",
+    "path_name": "7807971ea588e8f5b73ad964ee07d397",
+    "url": "https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2196,15 +2214,6 @@
     }
   },
   {
-    "name": "Mega TV (Arequipa)",
-    "path_name": "bbf31e2bf896418ee84f82f7cc0ac4e6",
-    "url": "https://media2.cdnlayer.biz:8081/8008/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "OK TeVe (Yurimaguas)",
     "path_name": "13852856127ecf9cbcbc3455478bdb4d",
     "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
@@ -2235,6 +2244,15 @@
     "name": "Planeta TV Moyobamba",
     "path_name": "0190f822207db79a4f8cac902a761e77",
     "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "QT Televisión (Cuzco)",
+    "path_name": "b5816595f3baa79a58dcb58854f37021",
+    "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2295,6 +2313,15 @@
     }
   },
   {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2304,9 +2331,27 @@
     }
   },
   {
+    "name": "Wtv (Bambamarca)",
+    "path_name": "1a5f706456d7f94c868d80a4f2c8b0b5",
+    "url": "https://ca.inka.net.pe/wtv/wtv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MaticesTV (Cañete)",
     "path_name": "4f92fc1064173135e23bf5674307f43e",
     "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Antares Televisión",
+    "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2412,6 +2457,15 @@
     }
   },
   {
+    "name": "Cable Netword TV",
+    "path_name": "767e7a4892a20a1aa9b7837807aead93",
+    "url": "https://ca.inka.net.pe/cntv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Millenium 109 FM (Lamas)",
     "path_name": "c1cc00facd910de1896c73705c6ac6da",
     "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
@@ -2457,27 +2511,9 @@
     }
   },
   {
-    "name": "Top FM TV (Atalaya)",
-    "path_name": "f7c8508f25c18c80c20d88a25943e219",
-    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Digital 94.1 TV (Juanjui)",
-    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
-    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2541,6 +2577,15 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
