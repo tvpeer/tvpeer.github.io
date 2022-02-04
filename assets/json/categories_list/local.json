@@ -882,15 +882,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
@@ -1827,6 +1818,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2541,15 +2541,6 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vía Televisión (Tarapoto)",
-    "path_name": "ec1b161376ad772acf1a3915e9235b9f",
-    "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
