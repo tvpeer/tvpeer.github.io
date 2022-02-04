@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
@@ -804,6 +795,24 @@
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1695,6 +1704,15 @@
     "name": "IBN TV",
     "path_name": "e0627a066656ead08dc8f8c9ac12edb3",
     "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "CNL Европа",
+    "path_name": "1665f5a280e7347e114d3f9a355dbf45",
+    "url": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
