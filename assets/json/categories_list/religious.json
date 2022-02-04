@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Rede Brasil de Comunicação",
-    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
-    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -228,6 +219,15 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -864,15 +864,6 @@
     }
   },
   {
-    "name": "Aliman TV",
-    "path_name": "7f219ff24ea6ad7489d2eb5be6720958",
-    "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nour Mariam",
     "path_name": "194bb6d17575245c9cf0a68c81266112",
     "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
@@ -921,15 +912,6 @@
     "name": "María Visión Mexico",
     "path_name": "230a3059e7c8c39c12ad0d21f8141a28",
     "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV Maná Moçambique",
-    "path_name": "0f75c73a60b235b4e871068b4ff48b34",
-    "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1056,15 +1038,6 @@
     "name": "TV MANA (FR)",
     "path_name": "0d209a99d3d68557157fe660f0b5b4c9",
     "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA MAPUTO",
-    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
-    "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1722,15 +1695,6 @@
     "name": "IBN TV",
     "path_name": "e0627a066656ead08dc8f8c9ac12edb3",
     "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "CNL Европа",
-    "path_name": "1665f5a280e7347e114d3f9a355dbf45",
-    "url": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
