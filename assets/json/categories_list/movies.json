@@ -180,15 +180,6 @@
     }
   },
   {
-    "name": "Star Cinema",
-    "path_name": "d6fb916bd542fcda121b6fd21541545c",
-    "url": "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Manoranjan Grand",
     "path_name": "71ae74d71ccb1fda52bbda283787d8d9",
     "url": "http://14.199.164.20:4001/play/a0m2/index.m3u8",
@@ -234,6 +225,15 @@
     }
   },
   {
+    "name": "B4U Plus",
+    "path_name": "898d1b6b255ab3399df6fb6c9da353b1",
+    "url": "http://14.199.164.20:4001/play/a0wi/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Dhinchaak",
     "path_name": "fb15df45b0ad7b2baec869f8ceee62c1",
     "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
@@ -273,6 +273,15 @@
     "name": "Bflix Movies",
     "path_name": "d1efd58a71e7b5274ad0e68c2565e460",
     "url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "KCV Movies",
+    "path_name": "e07988886cb4b443a36608478cc2b406",
+    "url": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -579,15 +588,6 @@
     "name": "Gravitas Movies",
     "path_name": "2993303ea0b6ec4a610dc7a4505b5253",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Gravitas Movies",
-    "path_name": "2993303ea0b6ec4a610dc7a4505b5253",
-    "url": "https://gravitas-movies.vizio.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
