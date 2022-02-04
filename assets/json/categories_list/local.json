@@ -864,15 +864,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2214,6 +2205,15 @@
     }
   },
   {
+    "name": "ATM Televisión (Apurimac)",
+    "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
+    "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "AsiriTV (Lima)",
     "path_name": "2f106380faf53eca147780035513a4e0",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
@@ -2421,15 +2421,6 @@
     }
   },
   {
-    "name": "Unitel (Huancayo)",
-    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
-    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2523,6 +2514,15 @@
     "name": "CNC (Cajamarca)",
     "path_name": "f79ac0f0ce7a5cc9bff936da999c649c",
     "url": "https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2829,6 +2829,15 @@
     "name": "Сургут 24",
     "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
     "url": "https://video1.in-news.ru/c24/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Луч (Пуровск)",
+    "path_name": "4b042e4f552ce47530077b18c641fa8b",
+    "url": "https://live.trk-luch.ru/hls/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
