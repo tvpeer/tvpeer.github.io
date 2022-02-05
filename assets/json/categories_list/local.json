@@ -855,15 +855,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1971,15 +1962,6 @@
     }
   },
   {
-    "name": "Lansingerland TV",
-    "path_name": "8fa9c12ed765f91ffd141b3601376178",
-    "url": "https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ML5 TV",
     "path_name": "bd4bd7f959692d3f87c4a9640d9f76da",
     "url": "https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
@@ -2028,6 +2010,15 @@
     "name": "Omroep Hulst TV",
     "path_name": "d54dc61da73530a96b0337c3e401c472",
     "url": "https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2289,6 +2280,15 @@
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Mega TV (Arequipa)",
+    "path_name": "bbf31e2bf896418ee84f82f7cc0ac4e6",
+    "url": "https://media2.cdnlayer.biz:8081/8008/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3342,15 +3342,6 @@
     "name": "Beach TV Panama City",
     "path_name": "87b86842cd293981a1e4aaaab833a4ff",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Miami City TV",
-    "path_name": "265d8963be1e5231592b2cf17ada42e1",
-    "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
