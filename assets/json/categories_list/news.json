@@ -981,15 +981,6 @@
     }
   },
   {
-    "name": "RTU",
-    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
-    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -2412,6 +2403,15 @@
     }
   },
   {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -2864,7 +2864,25 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2928,6 +2946,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
