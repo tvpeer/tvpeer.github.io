@@ -981,6 +981,15 @@
     }
   },
   {
+    "name": "RTU",
+    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
+    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1110,6 +1119,15 @@
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ERT News",
+    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
+    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1674,6 +1692,15 @@
     }
   },
   {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live1.presstv.ir/live/hispan.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TSN Tele Sondrio News",
     "path_name": "c1039a7c3f03e10e4207890b5743456c",
     "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
@@ -2081,15 +2108,6 @@
   {
     "name": "Euronews Português",
     "path_name": "8742bad4dab9ae4c004a9a55fb6b4198",
-    "url": "https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews Português",
-    "path_name": "8742bad4dab9ae4c004a9a55fb6b4198",
     "url": "https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2208,15 +2226,6 @@
     "name": "Halab Today TV",
     "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
     "url": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "TGRT Haber",
-    "path_name": "b82f4709898448ff34331b73459d0bad",
-    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2829,6 +2838,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
