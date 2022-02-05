@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -891,15 +900,6 @@
     }
   },
   {
-    "name": "Isai Aruvi",
-    "path_name": "3e6130fbb07e00cbc53d61de34575cf6",
-    "url": "http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Peppers",
     "path_name": "c93391fd9c55d6866576fb3a53a066e1",
     "url": "http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8",
@@ -1503,6 +1503,24 @@
     }
   },
   {
+    "name": "Box Hits",
+    "path_name": "831df94f10a11999dfa768d1f4db5442",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Box Hits",
+    "path_name": "831df94f10a11999dfa768d1f4db5442",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
@@ -1614,6 +1632,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Today's Latin Pop",
+    "path_name": "efc1221d30fa719ad57e2431a9501941",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
