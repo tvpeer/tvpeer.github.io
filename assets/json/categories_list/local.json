@@ -189,15 +189,6 @@
     }
   },
   {
-    "name": "Catacama TV",
-    "path_name": "5a8c557720d6aee66533457e328a7b6d",
-    "url": "https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -441,6 +432,15 @@
     }
   },
   {
+    "name": "Jess TV (Lethbridge)",
+    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
+    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
@@ -597,15 +597,6 @@
     "name": "Cloudserver Latam (CSTV)",
     "path_name": "ec45882994cb99c496f3cc28b2a6b9f5",
     "url": "https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Décima TV (Ancud)",
-    "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
-    "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -840,6 +831,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1893,15 +1893,6 @@
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
