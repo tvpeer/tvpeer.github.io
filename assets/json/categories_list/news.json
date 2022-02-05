@@ -981,6 +981,15 @@
     }
   },
   {
+    "name": "RTU",
+    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
+    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1407,6 +1416,15 @@
     "name": "Time Vision News",
     "path_name": "5468f643e57b49c29583122bfee35a7b",
     "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Malabar Vision",
+    "path_name": "58b0c03db5610583b3695b99298bf1b2",
+    "url": "http://cdn1.logicwebs.in:1935/malabar/malabar/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2178,15 +2196,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2712,6 +2721,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
