@@ -801,6 +801,15 @@
     }
   },
   {
+    "name": "CBN Rio",
+    "path_name": "9f534c91e76a8fd7b58e389252d5967f",
+    "url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CBN São Paulo",
     "path_name": "96a89b9552f2cdf42a04599d8bded182",
     "url": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8",
@@ -1110,15 +1119,6 @@
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ERT News",
-    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
-    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1944,15 +1944,6 @@
     }
   },
   {
-    "name": "Medi 1 TV Afrique",
-    "path_name": "b49bca2ba572e6a084b24abe108839be",
-    "url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Medi 1 TV Maghreb",
     "path_name": "b12f137df9610b6faf0af82715ae391f",
     "url": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
@@ -2196,6 +2187,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2397,6 +2397,15 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2919,6 +2928,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
