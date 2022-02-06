@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -162,6 +171,15 @@
     }
   },
   {
+    "name": "Manoranjan Grand",
+    "path_name": "71ae74d71ccb1fda52bbda283787d8d9",
+    "url": "http://14.199.164.20:4001/play/a0m2/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Manoranjan Movies",
     "path_name": "b6caef916633a43db3b0d9b92c95287f",
     "url": "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
@@ -183,6 +201,15 @@
     "name": "Maha Movie",
     "path_name": "cda16e6d47c73cbe29e9893b1bf189ab",
     "url": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Wow Cinema One",
+    "path_name": "0c91e7b1e269428de7e34dd86f5479d3",
+    "url": "http://14.199.164.20:4001/play/a0n3/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -237,6 +264,15 @@
     "name": "Santhora Short Flim",
     "path_name": "9bfd93dd186c343bbbace0078dcc4507",
     "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Studio One Yuva",
+    "path_name": "96731d82e54bc3b1ab42b01363ff4197",
+    "url": "http://14.199.164.20:4001/play/a0sr/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
