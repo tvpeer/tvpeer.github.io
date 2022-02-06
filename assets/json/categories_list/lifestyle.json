@@ -1,14 +1,5 @@
 [
   {
-    "name": "FashionTV Czech&Slovak",
-    "path_name": "c0780d1251e1af9397f03a717eab014a",
-    "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
-    "categories": {
-      "name": "Lifestyle",
-      "slug": "lifestyle"
-    }
-  },
-  {
     "name": "Fashion TV",
     "path_name": "3787d918b506ff5f4eee6455e9aedd37",
     "url": "https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -171,6 +162,15 @@
     }
   },
   {
+    "name": "FashionTV Czech&Slovak",
+    "path_name": "c0780d1251e1af9397f03a717eab014a",
+    "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+    "categories": {
+      "name": "Lifestyle",
+      "slug": "lifestyle"
+    }
+  },
+  {
     "name": "Odessa Fashion",
     "path_name": "bdfabc589841fa276c1a4f8328415fe8",
     "url": "https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8",
@@ -308,6 +308,15 @@
   {
     "name": "Vanity Fair",
     "path_name": "c613b552f8718b486dda159cc6e402bb",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Lifestyle",
+      "slug": "lifestyle"
+    }
+  },
+  {
+    "name": "Vanity Fair",
+    "path_name": "c613b552f8718b486dda159cc6e402bb",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8",
     "categories": {
       "name": "Lifestyle",
@@ -417,15 +426,6 @@
     "name": "Global Fashion Channel",
     "path_name": "02198d76fecbea950f099be388899fd4",
     "url": "https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
-    "categories": {
-      "name": "Lifestyle",
-      "slug": "lifestyle"
-    }
-  },
-  {
-    "name": "Demand Africa",
-    "path_name": "ded64e176264266ca790fed39693f10c",
-    "url": "https://demandafrica-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Lifestyle",
       "slug": "lifestyle"
