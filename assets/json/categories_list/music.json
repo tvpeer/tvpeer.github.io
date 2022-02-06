@@ -378,15 +378,6 @@
     }
   },
   {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Amordiscos",
     "path_name": "e98b02583fde7caad29261e222c1d81c",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
@@ -909,6 +900,15 @@
     }
   },
   {
+    "name": "KurdMax Music",
+    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
+    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -1371,6 +1371,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Муз-ТВ",
+    "path_name": "f1ee13ec2296a569f4e9e11694423627",
+    "url": "http://ott-cdn.ucom.am/s28/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
