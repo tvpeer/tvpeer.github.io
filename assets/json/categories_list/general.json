@@ -765,6 +765,15 @@
     }
   },
   {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
@@ -885,15 +894,6 @@
     "name": "Fox Greece",
     "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
     "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RCTI",
-    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1710,15 +1710,6 @@
     }
   },
   {
-    "name": "TVR Târgu Mureș",
-    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
-    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Красная линия",
     "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
     "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
@@ -1785,6 +1776,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Звезда",
+    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
+    "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
