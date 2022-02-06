@@ -243,6 +243,15 @@
     }
   },
   {
+    "name": "CCTV-5体育",
+    "path_name": "57dcf6eed74ef9a72068e41c158dc0b5",
+    "url": "http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "Alfa Sport",
     "path_name": "4c29d6f3777494b26072ceeb84bbb7bd",
     "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu",
@@ -767,6 +776,15 @@
   {
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -1236,15 +1254,6 @@
     "name": "NBC Golf Channel",
     "path_name": "7cb8071c9cfe7251abfd6b0868ba3b04",
     "url": "http://s1.mysportz.tv:2082/golf/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "NFL Network",
-    "path_name": "89585ddf90b1b9b8c0cfef4395aaaad3",
-    "url": "http://s1.mysportz.tv:2082/nfl/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
