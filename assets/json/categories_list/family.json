@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "СТС",
-    "path_name": "5dfc9f08cf27ab9de70efd7b6383e744",
-    "url": "http://ott-cdn.ucom.am/s52/04.m3u8",
-    "categories": {
-      "name": "Family",
-      "slug": "family"
-    }
-  },
-  {
     "name": "JOJ Family",
     "path_name": "3c37a917f3d47fc1b7f5f8eb1e3db5ea",
     "url": "https://nn.geo.joj.sk/hls/family-360.m3u8",
@@ -126,6 +117,15 @@
     }
   },
   {
+    "name": "Dove Channel",
+    "path_name": "150ed16ddc59e8967908613bfe653c49",
+    "url": "https://dovenow-tcl.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
     "name": "The Pet Collective",
     "path_name": "f471c0deedc1d7b9e4aacfd5a193bdbe",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8",
@@ -174,6 +174,15 @@
     "name": "TVS Family Channel",
     "path_name": "03100e288083acfa7374b002098bc69b",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8",
+    "categories": {
+      "name": "Family",
+      "slug": "family"
+    }
+  },
+  {
+    "name": "Real Families",
+    "path_name": "5b42092c02c44439cf2a2ed6c33515c4",
+    "url": "https://lds-realfamilies-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Family",
       "slug": "family"
