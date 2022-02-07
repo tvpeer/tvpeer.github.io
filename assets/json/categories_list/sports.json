@@ -585,15 +585,6 @@
     }
   },
   {
-    "name": "Sports Tonight",
-    "path_name": "964eb4b26613986c8af25839946c22bc",
-    "url": "http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Tennis Channel (UK)",
     "path_name": "301df4f66df1170eb86044f0425b6665",
     "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
@@ -722,6 +713,15 @@
   {
     "name": "Pac 12 Insider",
     "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
     "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -750,6 +750,15 @@
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
