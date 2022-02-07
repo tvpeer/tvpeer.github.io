@@ -9,24 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -93,6 +75,15 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Alegria TV",
+    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
+    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -243,6 +234,15 @@
     }
   },
   {
+    "name": "Stingray Ambience",
+    "path_name": "d4f5f6473535359a2a4bcbf34733d4ab",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Stingray Classic Rock",
     "path_name": "90d51d9c599fa874c16297276e4940d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
@@ -291,15 +291,6 @@
     "name": "Stingray Soul Storm",
     "path_name": "5e5ae8aedabb1df376ea81928b0dcbea",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Azstar TV",
-    "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
-    "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1389,6 +1380,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

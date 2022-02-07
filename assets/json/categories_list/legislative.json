@@ -63,9 +63,27 @@
     }
   },
   {
+    "name": "TVR Parlemen Badan Legislatif",
+    "path_name": "29196208dbd9487f4c6b1db123a84c44",
+    "url": "http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8",
+    "categories": {
+      "name": "Legislative",
+      "slug": "legislative"
+    }
+  },
+  {
     "name": "TVR Parlemen Komisi II",
     "path_name": "dc1cd2cc1485c8ebb98ebf4f367ccb3a",
     "url": "http://103.18.181.69:1935/golive/livestream2/playlist.m3u8",
+    "categories": {
+      "name": "Legislative",
+      "slug": "legislative"
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi III",
+    "path_name": "69d9ece5d752b4040a6649c80bd1d854",
+    "url": "http://103.18.181.69:1935/golive/livestream3/playlist.m3u8",
     "categories": {
       "name": "Legislative",
       "slug": "legislative"
