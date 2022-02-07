@@ -549,15 +549,6 @@
     }
   },
   {
-    "name": "Disney Channel Japan",
-    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
-    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Funoon",
     "path_name": "487c4846f4977b7881294d94c7621ec1",
     "url": "https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8",
@@ -579,6 +570,15 @@
     "name": "WTV Canal 20",
     "path_name": "557b0a556010accc1193995fef6e0745",
     "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Kantipur TV",
+    "path_name": "e3d857edb7ae9f5026950acfd498ecde",
+    "url": "https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/kantipurtv/hd_1080/chunks.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1227,6 +1227,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
