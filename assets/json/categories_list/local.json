@@ -675,15 +675,6 @@
     }
   },
   {
-    "name": "LTV (Renaico)",
-    "path_name": "0f1e38e56046b98e0dd78dae9dd317a2",
-    "url": "https://medios.sirtel.cl/live/stream/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "La Popular TV (Salamanca)",
     "path_name": "c0b300bed613b9cb63e76f01554086d8",
     "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
@@ -849,15 +840,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1791,15 +1773,6 @@
     }
   },
   {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Tokyo",
     "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
     "url": "http://50.7.74.29:8880/hlsok/j00012/index.m3u8",
@@ -1812,15 +1785,6 @@
     "name": "TV Tokyo",
     "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
     "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://50.7.74.29:8880/hls/j00030/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2160,15 +2124,6 @@
     }
   },
   {
-    "name": "SoriTV (Picota)",
-    "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
-    "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
@@ -2331,6 +2286,15 @@
     }
   },
   {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2376,6 +2340,15 @@
     }
   },
   {
+    "name": "Solar Televisión (Abancay)",
+    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
+    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2388,6 +2361,15 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2493,6 +2475,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
@@ -2565,6 +2556,15 @@
     }
   },
   {
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
@@ -2595,6 +2595,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Digital 94.1 TV (Juanjui)",
+    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
+    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2649,6 +2658,15 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
