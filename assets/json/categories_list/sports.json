@@ -243,6 +243,15 @@
     }
   },
   {
+    "name": "CCTV-5体育",
+    "path_name": "57dcf6eed74ef9a72068e41c158dc0b5",
+    "url": "http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "Alfa Sport",
     "path_name": "4c29d6f3777494b26072ceeb84bbb7bd",
     "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu",
@@ -722,15 +731,6 @@
   {
     "name": "Pac 12 Insider",
     "path_name": "ef09de2acec2ca4754e4758f875b872f",
-    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Pac 12 Insider",
-    "path_name": "ef09de2acec2ca4754e4758f875b872f",
     "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -759,15 +759,6 @@
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "SportsGrid",
-    "path_name": "1708b983071f562ec17fc839c69e87f7",
-    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -1101,6 +1092,15 @@
     "name": "TVS Sports Bureau",
     "path_name": "a6b788c07aa0b3d4162351da664c4579",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "TVS Boxing",
+    "path_name": "3abeb025590120321aaecc074795d073",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
