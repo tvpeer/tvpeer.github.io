@@ -477,6 +477,15 @@
     }
   },
   {
+    "name": "Արմնյուզ",
+    "path_name": "85a96b30a73b196ca197c47086242ae1",
+    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -1485,15 +1494,6 @@
     }
   },
   {
-    "name": "News 7 Tamil",
-    "path_name": "415759a7f05fd8fd5b8ecca0acee20fd",
-    "url": "http://14.199.164.20:4001/play/a0kp/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1695,6 +1695,24 @@
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live1.presstv.ir/live/hispan.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2082,6 +2100,15 @@
     "name": "Dunya News (UK Feed)",
     "path_name": "4ade44f6b24a9520d1c68daf7495de5c",
     "url": "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "STV Noticias",
+    "path_name": "a77b030c28f59f0993b07be3ba94f611",
+    "url": "http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2847,15 +2874,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "MSNBC",
-    "path_name": "c238e75431b20155fc0579b8548a40f8",
-    "url": "http://s1.mysportz.tv:2082/msnbc/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

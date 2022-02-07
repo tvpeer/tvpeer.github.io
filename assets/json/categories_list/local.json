@@ -864,15 +864,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2142,6 +2133,15 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2172,6 +2172,15 @@
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2556,18 +2565,18 @@
     }
   },
   {
-    "name": "PiuraTV",
-    "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
-    "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
+    "name": "Millenium 109 FM (Lamas)",
+    "path_name": "c1cc00facd910de1896c73705c6ac6da",
+    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Radio TV Charles (Bambamarca)",
-    "path_name": "4e810dfa084e4785e7f9e7a88cf1bde2",
-    "url": "https://media2.cdnlayer.biz:8081/8032/index.m3u8",
+    "name": "PiuraTV",
+    "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
+    "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2592,18 +2601,18 @@
     }
   },
   {
-    "name": "Tropical TV (Puerto Maldonado)",
-    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
-    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Radio Digital 94.1 TV (Juanjui)",
-    "path_name": "a1e0762254fdd0010f4fa355167b8ad9",
-    "url": "https://media2.cdnlayer.biz:8081/8018/index.m3u8",
+    "name": "Tropical TV (Puerto Maldonado)",
+    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
+    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
