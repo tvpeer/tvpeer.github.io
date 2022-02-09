@@ -9,27 +9,9 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -93,6 +75,15 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "KpopTV Play",
+    "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
+    "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -405,15 +396,6 @@
     }
   },
   {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Amordiscos",
     "path_name": "e98b02583fde7caad29261e222c1d81c",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
@@ -444,15 +426,6 @@
     "name": "Melody Channel Colombia",
     "path_name": "91ee97bbbfbae1c39d42cf439fced146",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "88 Stereo",
-    "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
-    "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -630,9 +603,9 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -696,6 +669,15 @@
     "name": "Baraza TV",
     "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
     "url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Baraza TV",
+    "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
+    "url": "https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -831,15 +813,6 @@
     "name": "Relax TV",
     "path_name": "0ae04150fad0720c728707f7b79d2f66",
     "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kalai Isai",
-    "path_name": "48f26c9c13dd06b783e018c82fdca1d6",
-    "url": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1305,6 +1278,24 @@
     }
   },
   {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Kiss TV",
+    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1332,9 +1323,81 @@
     }
   },
   {
+    "name": "Muzzik HipHop Serbia",
+    "path_name": "76eff5f3ebf93643704ded73bdc197a4",
+    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Muzzik Jeka Serbia",
     "path_name": "420831baac9bcbac3d3c66a5751c3329",
     "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Mediteraneo Serbia",
+    "path_name": "265e05f4c19db4c1f00295d781abb9c8",
+    "url": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik OKK Serbia",
+    "path_name": "1d42a67fcab9395c47e204c504fcc48c",
+    "url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Replay Serbia",
+    "path_name": "10cfa7141509b579b7dc65e4c1937119",
+    "url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Rock&Roll Serbia",
+    "path_name": "934e2c18bed258b9f04cd471f80a81d2",
+    "url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Saculatac Serbia",
+    "path_name": "083ab6525788e7a993b8632ba2524ee5",
+    "url": "https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik TV Serbia",
+    "path_name": "0f5380afa27e19bc4e785cfb64073271",
+    "url": "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Worldwide Serbia",
+    "path_name": "cebb95b407e2c527ae2a9f8c413d6586",
+    "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1389,15 +1452,6 @@
     "name": "JAWHARA TV",
     "path_name": "d87a31fec11384f62f888abef2b884e9",
     "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Mosaïque FM",
-    "path_name": "044109ec0f439a4409b25730dfab93fe",
-    "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1596,6 +1650,15 @@
     "name": "Vevo 80s",
     "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio U TV",
+    "path_name": "cbcb52855245b403334c2deffb93aaef",
+    "url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
