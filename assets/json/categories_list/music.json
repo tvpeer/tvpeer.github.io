@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -630,6 +621,15 @@
     }
   },
   {
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
@@ -1224,6 +1224,15 @@
     }
   },
   {
+    "name": "Cable Netword Belleza Andina TV",
+    "path_name": "87cffd4d59b0d7759db49d8aa9213a40",
+    "url": "https://ca.inka.net.pe/bellezaandina/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Cable Netword Cumbia TV",
     "path_name": "c8eff9966d522b40c428a7106d91561d",
     "url": "https://ca.inka.net.pe/cumbiatv/index.m3u8",
@@ -1530,6 +1539,24 @@
     }
   },
   {
+    "name": "Box Hits",
+    "path_name": "831df94f10a11999dfa768d1f4db5442",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Box Hits",
+    "path_name": "831df94f10a11999dfa768d1f4db5442",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
@@ -1596,15 +1623,6 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Pop Europe",
-    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
-    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
