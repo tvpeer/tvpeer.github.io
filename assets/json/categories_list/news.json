@@ -918,15 +918,6 @@
     }
   },
   {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Euronews Deutsch",
     "path_name": "1a50817d575fac92674f96192d1f7b3a",
     "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -1377,6 +1368,24 @@
     }
   },
   {
+    "name": "Time Vision News",
+    "path_name": "5468f643e57b49c29583122bfee35a7b",
+    "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Malabar Vision",
+    "path_name": "58b0c03db5610583b3695b99298bf1b2",
+    "url": "http://cdn1.logicwebs.in:1935/malabar/malabar/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Reporter TV",
     "path_name": "cdbf44e8a6ae363410287101d1a04006",
     "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
@@ -1416,6 +1425,15 @@
     "name": "Mathrubhumi News",
     "path_name": "fbe61930d9ee1a396bcce2dba0b651c1",
     "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Malabar News",
+    "path_name": "7f30cbd06c44fef808e328537d581b55",
+    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
