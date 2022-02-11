@@ -47,15 +47,6 @@
   {
     "name": "CCTV-3综艺",
     "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
     "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -279,27 +270,9 @@
     }
   },
   {
-    "name": "Yolo",
-    "path_name": "545c754ba219cced5325dca9e4967cdb",
-    "url": "http://cdn.logicwebs.in/hls/yolo.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "NCV",
     "path_name": "e0d226fba3f7f4f579cfe61ccdd72161",
     "url": "http://103.146.174.60:1935/NCV/ncvstream/master.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Swantham",
-    "path_name": "c9a8060f8cc55cb952c1437bf93c4de1",
-    "url": "http://cdn1.logicwebs.in:1935/SWANTHAM/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -810,6 +783,15 @@
     }
   },
   {
+    "name": "Popstar! TV",
+    "path_name": "f5bcbf4000315aab897a740f34057e44",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -849,6 +831,24 @@
     "name": "Hi-YAH!",
     "path_name": "b956227b325f9fc84e6ad08bbe096075",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
