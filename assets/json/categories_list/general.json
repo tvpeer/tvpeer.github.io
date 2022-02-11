@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -120,15 +111,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -756,15 +738,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -1361,16 +1334,16 @@
   {
     "name": "Al Aoula",
     "path_name": "86970aab153ed26bb40865944dcff3b0",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+    "url": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Al Aoula Laayoune",
-    "path_name": "cedf7845ffcb1d94bca67abdd3830773",
-    "url": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
+    "name": "Al Aoula",
+    "path_name": "86970aab153ed26bb40865944dcff3b0",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1398,15 +1371,6 @@
     "name": "Al Maghribia",
     "path_name": "49cc9ac7b6c1ecbed5bf9b09af377d3a",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Tamazight",
-    "path_name": "5bb3088419f2381293ebeba6d330dc97",
-    "url": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1728,6 +1692,15 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1830,6 +1803,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
