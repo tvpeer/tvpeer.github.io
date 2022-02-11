@@ -468,15 +468,6 @@
     }
   },
   {
-    "name": "Արմնյուզ",
-    "path_name": "85a96b30a73b196ca197c47086242ae1",
-    "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
@@ -669,6 +660,15 @@
     "name": "Channel T1",
     "path_name": "9a508f051a628243eb88e4662f6b87c0",
     "url": "http://irbtv.net/channelt1/1080/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Channel 24",
+    "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -939,15 +939,6 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RTU",
-    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
-    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2160,6 +2151,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2297,7 +2297,25 @@
   {
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
+    "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Fox News Channel",
+    "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Fox News Channel",
+    "path_name": "c6f7222c81ed1311148e92c94aa06796",
+    "url": "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2469,6 +2487,15 @@
     "name": "CBC News",
     "path_name": "6f1bb7f82e90b0a0f833c7ae873a1d49",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBC News (XUMO)",
+    "path_name": "cd6c7563f95871409f4dabf8e29a3ba4",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2855,16 +2882,16 @@
   {
     "name": "MSNBC",
     "path_name": "c238e75431b20155fc0579b8548a40f8",
-    "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "name": "MSNBC",
+    "path_name": "c238e75431b20155fc0579b8548a40f8",
+    "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

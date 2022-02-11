@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "Rede CNT (São Paulo)",
-    "path_name": "98d8e66351ab55fdb893e09404b32a62",
-    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Interlagos",
     "path_name": "83a23431a9db5d994fc27bdac37970d4",
     "url": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
@@ -849,6 +840,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "City TV (Bogotà | Cundinamarca)",
+    "path_name": "56723578aa6b96da3fe55f3f6663efae",
+    "url": "https://tna5.bozztv.com/LiveCH006/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1944,6 +1944,15 @@
     }
   },
   {
+    "name": "Telenica Canal 8 (tn8)",
+    "path_name": "28a663ef039bdaa359abebfec661ab5d",
+    "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nicavisión Canal 12",
     "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
     "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
@@ -2568,6 +2577,15 @@
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Genios TV (Moyobamba)",
+    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
+    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3369,15 +3387,6 @@
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PCC-TV Pinellas County FL",
-    "path_name": "c0d009a70f183a04700e067b20ce13c1",
-    "url": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4284,6 +4293,15 @@
     }
   },
   {
+    "name": "WGN Chicago IL (WGN-TV1)",
+    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
+    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "23 ABC Bakersfield CA (KERO)",
     "path_name": "e7abacd964e7d0423bf94d21a5f0f2b6",
     "url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
@@ -4578,6 +4596,24 @@
     "categories": {
       "name": "Local",
       "slug": "local"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
     }
   },
   {
