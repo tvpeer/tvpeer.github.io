@@ -396,15 +396,6 @@
     }
   },
   {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Amordiscos",
     "path_name": "e98b02583fde7caad29261e222c1d81c",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
@@ -630,15 +621,6 @@
     }
   },
   {
-    "name": "MCM Top",
-    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
-    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
@@ -756,6 +738,15 @@
     }
   },
   {
+    "name": "Mtunes Plus",
+    "path_name": "4ce8ec115ec18f19baad780e2d5eacce",
+    "url": "http://14.199.164.20:4001/play/a0p2/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "9XM",
     "path_name": "5db316206030ffbaba9b42f60a36a0e3",
     "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
@@ -777,6 +768,15 @@
     "name": "MH1 Music",
     "path_name": "662a0607f113817ade24c4bf4e63d6c4",
     "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
