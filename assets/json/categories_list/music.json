@@ -396,6 +396,15 @@
     }
   },
   {
+    "name": "Play TV",
+    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Amordiscos",
     "path_name": "e98b02583fde7caad29261e222c1d81c",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
@@ -810,15 +819,6 @@
     }
   },
   {
-    "name": "Relax TV",
-    "path_name": "0ae04150fad0720c728707f7b79d2f66",
-    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Sachin Music",
     "path_name": "fe69b332c08579933725d248f7b58c5e",
     "url": "http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8",
@@ -1092,6 +1092,15 @@
     "name": "JENZ",
     "path_name": "f4aa71527fe986064db807d565aaf071",
     "url": "https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "XITE (BE)",
+    "path_name": "7a9bfd4261bf46ded3ea1eefa44e4e0a",
+    "url": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1398,15 +1407,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
