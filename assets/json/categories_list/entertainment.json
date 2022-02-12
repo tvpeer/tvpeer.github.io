@@ -99,6 +99,15 @@
     }
   },
   {
+    "name": "TF1",
+    "path_name": "d2db20d20ad6a72ca409787b6fe50285",
+    "url": "http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Dabangg",
     "path_name": "b4cea085b32aba13446bc974858cc5cb",
     "url": "http://14.199.164.20:4001/play/a0nb/index.m3u8",
@@ -387,6 +396,15 @@
     }
   },
   {
+    "name": "Sana TV",
+    "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
+    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Aathavan TV",
     "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
     "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
@@ -540,15 +558,6 @@
     }
   },
   {
-    "name": "Disney Channel Japan",
-    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
-    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Funoon",
     "path_name": "487c4846f4977b7881294d94c7621ec1",
     "url": "https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8",
@@ -576,18 +585,18 @@
     }
   },
   {
-    "name": "Kantipur TV",
-    "path_name": "e3d857edb7ae9f5026950acfd498ecde",
-    "url": "https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/kantipurtv/hd_1080/chunks.m3u8",
+    "name": "Tvfaces Online",
+    "path_name": "13054fb789543e8289a881a4fcddf2a5",
+    "url": "https://tvdatta.com:3211/stream/play.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
     }
   },
   {
-    "name": "Tvfaces Online",
-    "path_name": "13054fb789543e8289a881a4fcddf2a5",
-    "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -801,15 +810,6 @@
     }
   },
   {
-    "name": "Young Hollywood",
-    "path_name": "2d071c592394806c832d2a782b9be364",
-    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Showtime at the Apollo",
     "path_name": "1562ccc498170564aa5e31d516cd2a6a",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
@@ -831,6 +831,15 @@
     "name": "eScapes (XUMO)",
     "path_name": "e159a02037cae184a2a9ad046489b964",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Popstar! TV",
+    "path_name": "f5bcbf4000315aab897a740f34057e44",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -876,6 +885,24 @@
     "name": "Hi-YAH!",
     "path_name": "b956227b325f9fc84e6ad08bbe096075",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1118,15 +1145,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1182,15 +1200,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
