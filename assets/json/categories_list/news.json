@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -795,15 +786,6 @@
     "name": "CBN São Paulo",
     "path_name": "96a89b9552f2cdf42a04599d8bded182",
     "url": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "TVídeoNews",
-    "path_name": "98df7bd7545ba9df7beb05dc88990c27",
-    "url": "https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2576,6 +2558,15 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2853,6 +2844,24 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "MSNBC",
     "path_name": "c238e75431b20155fc0579b8548a40f8",
     "url": "http://s1.mysportz.tv:2082/msnbc/playlist.m3u8",
@@ -2910,15 +2919,6 @@
     "name": "MSNBC",
     "path_name": "c238e75431b20155fc0579b8548a40f8",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
