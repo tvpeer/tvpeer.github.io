@@ -882,15 +882,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2244,15 +2235,6 @@
     "name": "Cajamarca TV",
     "path_name": "7807971ea588e8f5b73ad964ee07d397",
     "url": "https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal 43 Sudamericana (Ica)",
-    "path_name": "bc2117428c81fe2513da77b0de044691",
-    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4305,6 +4287,15 @@
     "name": "NBC Buffalo NY (WGRZ1)",
     "path_name": "4f9b44b7238e637a58044a76b3056789",
     "url": "http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC New York (WNBC-DT1)",
+    "path_name": "571a5bcacbbfc367d87a12b0160d2c6c",
+    "url": "http://38.91.57.12:2082/nbc/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
