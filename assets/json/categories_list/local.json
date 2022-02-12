@@ -360,6 +360,15 @@
     }
   },
   {
+    "name": "Rede RC",
+    "path_name": "35a07d3c322b19fc85e988e66dde301c",
+    "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVunisat",
     "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
     "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
@@ -849,15 +858,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1926,15 +1926,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2277,6 +2268,15 @@
     }
   },
   {
+    "name": "Controversia TV (Moyobamba)",
+    "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
+    "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "DeltaTV (Pacayzapa | San Martín)",
     "path_name": "50dfd89f806cb41d9e6517c0fce43954",
     "url": "https://media2.cdnlayer.biz:8081/8038/index.m3u8",
@@ -2343,6 +2343,15 @@
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Planeta TV Moyobamba",
+    "path_name": "0190f822207db79a4f8cac902a761e77",
+    "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2730,6 +2739,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
