@@ -1404,24 +1404,6 @@
     }
   },
   {
-    "name": "TVRI Nusa Tenggara Barat",
-    "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Nusa Tenggara Barat",
-    "path_name": "c50c53ec4aa0f27513c68ae332a5872f",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Nusa Tenggara Timur",
     "path_name": "51c8ba7f3b275a9733970d2e420eee0a",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8",
@@ -2070,6 +2052,15 @@
     }
   },
   {
+    "name": "BR6 TV",
+    "path_name": "df1e103a481fe4e76e14dae21ca96e3c",
+    "url": "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "LOE TV",
     "path_name": "b169d9dd263586b141e303c964acb63c",
     "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
@@ -2127,15 +2118,6 @@
     "name": "Imagen Televisión (Rioja)",
     "path_name": "3d2203fd154dfce2a7588e51179b0717",
     "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "DMJ (Cuzco)",
-    "path_name": "8dac651380b06c3e429ebe055ca13085",
-    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2253,15 +2235,6 @@
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Controversia TV (Moyobamba)",
-    "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
-    "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2646,15 +2619,6 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -2694,15 +2658,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

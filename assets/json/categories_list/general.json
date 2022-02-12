@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
@@ -120,24 +111,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -648,6 +621,15 @@
     }
   },
   {
+    "name": "СТВ",
+    "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
+    "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Doyel TV",
     "path_name": "949bfcb24bdb339308630a3551277363",
     "url": "http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8",
@@ -758,16 +740,7 @@
   {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1335,6 +1308,24 @@
     "name": "GBS TV",
     "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
     "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "K24",
+    "path_name": "a1a718b053aff16b11155fdcf639f27b",
+    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "UTV",
+    "path_name": "5927dd335560a8b92ceaf0fe69dfaaa9",
+    "url": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
