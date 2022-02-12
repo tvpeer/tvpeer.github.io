@@ -396,15 +396,6 @@
     }
   },
   {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Amordiscos",
     "path_name": "e98b02583fde7caad29261e222c1d81c",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
@@ -813,6 +804,15 @@
     "name": "A NEWSDONs TV- SWAG SADDA VAKRAA",
     "path_name": "9f3741e98276f285a332cf195c9482a0",
     "url": "http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Relax TV",
+    "path_name": "0ae04150fad0720c728707f7b79d2f66",
+    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1425,15 +1425,6 @@
     "name": "Музыка Первого",
     "path_name": "90b93eca5a87c2228287890a8ac28d3f",
     "url": "http://91.185.3.218:4000/play/608",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "A2i Music",
-    "path_name": "002dc005abda9e85d85000b263350925",
-    "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
