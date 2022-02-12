@@ -360,27 +360,9 @@
     }
   },
   {
-    "name": "Rede RC",
-    "path_name": "35a07d3c322b19fc85e988e66dde301c",
-    "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVunisat",
     "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
     "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ITV",
-    "path_name": "3d5057b97790ba829b210a0e16ca978a",
-    "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -678,15 +660,6 @@
     "name": "La Popular TV (Salamanca)",
     "path_name": "c0b300bed613b9cb63e76f01554086d8",
     "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2538,6 +2511,15 @@
     }
   },
   {
+    "name": "Millenium 109 FM (Lamas)",
+    "path_name": "c1cc00facd910de1896c73705c6ac6da",
+    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2559,6 +2541,15 @@
     "name": "Primavera 15 Radiotelevisión (Moquegua)",
     "path_name": "232c1b378a773506b3584703aa567ca9",
     "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2631,6 +2622,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
