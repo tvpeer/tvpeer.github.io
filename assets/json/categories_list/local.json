@@ -810,6 +810,15 @@
     }
   },
   {
+    "name": "Visión Plus TV (Melipilla)",
+    "path_name": "99578787b40e46b93204a7af20607d90",
+    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
@@ -846,6 +855,15 @@
     }
   },
   {
+    "name": "Buenísima Radio TV (Gamarra | Cesar)",
+    "path_name": "ce83dac153a1061597fe75e03c709e60",
+    "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
@@ -867,6 +885,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1740,114 +1767,6 @@
     "name": "Next TV Malabar",
     "path_name": "462cadd733920d09791dd898d72a7142",
     "url": "https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://50.7.74.29:8880/hlsok/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://50.7.74.29:8880/hlsok/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://50.7.74.29:8880/hls/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://50.7.74.29:8880/hlsok/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://50.7.74.29:8880/hlsok/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://50.7.74.29:8880/hlsok/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://50.7.74.29:8880/hls/j00030/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://50.7.74.29:8880/hlsok/j00030/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
