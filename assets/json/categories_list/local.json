@@ -477,6 +477,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -882,6 +891,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1164,15 +1182,6 @@
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Irida TV",
-    "path_name": "e8b7b311b65a8b763f857a25298018f9",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1845,15 +1854,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2397,15 +2397,6 @@
     "name": "X TV (Chachapoyas)",
     "path_name": "c3e6108307eda0d136b5578d57804d62",
     "url": "https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ClipsTV (Ica)",
-    "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
-    "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4305,15 +4296,6 @@
     "name": "NBC Spokane WA (KHQ-TV1)",
     "path_name": "f86f4e1d3d96d0771ab56c2893668c89",
     "url": "http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC Tallahassee FL (WTWC-TV1)",
-    "path_name": "44d8487f669269ee713309a50bdf6775",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
