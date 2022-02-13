@@ -1386,15 +1386,6 @@
     }
   },
   {
-    "name": "Time Vision News",
-    "path_name": "5468f643e57b49c29583122bfee35a7b",
-    "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Reporter TV",
     "path_name": "cdbf44e8a6ae363410287101d1a04006",
     "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
@@ -2151,6 +2142,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2874,6 +2874,15 @@
     "name": "MSNBC",
     "path_name": "c238e75431b20155fc0579b8548a40f8",
     "url": "http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
