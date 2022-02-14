@@ -549,15 +549,6 @@
     }
   },
   {
-    "name": "Campus TV (Talca)",
-    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 2 (San Antonio)",
     "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
     "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
@@ -2079,27 +2070,9 @@
     }
   },
   {
-    "name": "Imagen Televisión (Rioja)",
-    "path_name": "3d2203fd154dfce2a7588e51179b0717",
-    "url": "http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2190,15 +2163,6 @@
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Caribe Televisión (Otuzco)",
-    "path_name": "ae563479c749b0ffa54aa1c009027e03",
-    "url": "http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2637,15 +2601,6 @@
     }
   },
   {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
@@ -2685,6 +2640,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2802,6 +2766,15 @@
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "http://83.234.104.142/astrakhan24hd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Астрахань 24",
+    "path_name": "e705ff4b0119d43e684738aa2722d104",
+    "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
