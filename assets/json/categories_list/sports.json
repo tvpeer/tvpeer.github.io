@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "The Sports Network (TSN5)",
-    "path_name": "54ec85a6860e05e1f95ac303bf44b485",
-    "url": "http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "RedBull Batalla de Gallos",
     "path_name": "a99a2063dedc015670e8a00d842c957d",
     "url": "https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8",
@@ -651,6 +642,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://playerstv-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Players TV",
+    "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
+    "url": "https://playerstv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"

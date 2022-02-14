@@ -702,33 +702,6 @@
     }
   },
   {
-    "name": "CityTV Toronto CFTO-DT",
-    "path_name": "eed25f78f1ca212f59f89cfe73ed7c0e",
-    "url": "http://encodercdn1.frontline.ca/bespin/output/City_Toronto_720p/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CTV Toronto CFTO-DT",
-    "path_name": "e9ed2f055e3cd19c7eda8bbce6b3713f",
-    "url": "http://encodercdn1.frontline.ca/encoder183/output/CTV_Toronto_720p/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CTV2 Barrie CKVR-DT",
-    "path_name": "c3902338d042b830b219c4d2a400a611",
-    "url": "http://encodercdn1.frontline.ca/vantrix/ltv/Bell_TCTV2_AtopItci_2015_01_12_HD/hls_hd.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Télé-Québec",
     "path_name": "8c0174ba7a9aaab819a666b938da14be",
     "url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8",
@@ -1269,6 +1242,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1533,6 +1515,15 @@
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1884,24 +1875,6 @@
     "name": "Now This",
     "path_name": "b50e3612693f4d147d08fa5d33f30996",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Peachtree TV Atlanta GA (WPCH-TV1)",
-    "path_name": "862cca5e34e53958369a69b380796e1a",
-    "url": "http://encodercdn1.frontline.ca/encoder181/output/Peachtree/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Peachtree TV Atlanta GA (WPCH-TV1)",
-    "path_name": "862cca5e34e53958369a69b380796e1a",
-    "url": "http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
