@@ -90,24 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -693,15 +675,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -876,6 +849,15 @@
     "name": "GTV",
     "path_name": "b6f10dc3b23e4aa70710831a8d918689",
     "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MNCTV",
+    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1065,15 +1047,6 @@
     "name": "Kass TV",
     "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
     "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "GBS TV",
-    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
-    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1515,15 +1488,6 @@
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
