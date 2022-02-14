@@ -90,9 +90,9 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -111,15 +111,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -576,6 +567,15 @@
     }
   },
   {
+    "name": "Rede TV! Pampa",
+    "path_name": "21614a336eb167262bb566d12fdf7130",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Rede TV! SP",
     "path_name": "2b4c0bfc592241b0790a9ae8a7977358",
     "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8",
@@ -723,6 +723,15 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1092,6 +1101,15 @@
     "name": "Jordan TV",
     "path_name": "0eb62cebd70b284bed4a7c15eddc13f3",
     "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Kass TV",
+    "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
+    "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
