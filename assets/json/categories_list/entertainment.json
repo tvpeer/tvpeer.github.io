@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -74,6 +65,15 @@
   {
     "name": "Canal RCN Novelas",
     "path_name": "002cd85d17f3848b8825c7809555a74b",
+    "url": "http://38.131.11.9:1080/play/a037",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Canal RCN Novelas",
+    "path_name": "002cd85d17f3848b8825c7809555a74b",
     "url": "http://45.179.140.242:8000/play/a0jf",
     "categories": {
       "name": "Entertainment",
@@ -120,6 +120,15 @@
     "name": "Dishum",
     "path_name": "29d8ba74b34eb504a29b528de85fe09b",
     "url": "http://14.199.164.20:4001/play/a0pe/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Prime Canada TV",
+    "path_name": "0174b660c77642fde8a645a8c147f202",
+    "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -576,18 +585,27 @@
     }
   },
   {
-    "name": "Kantipur TV",
-    "path_name": "e3d857edb7ae9f5026950acfd498ecde",
-    "url": "https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/kantipurtv/hd_1080/chunks.m3u8",
+    "name": "Tvfaces Online",
+    "path_name": "13054fb789543e8289a881a4fcddf2a5",
+    "url": "https://tvdatta.com:3211/stream/play.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
     }
   },
   {
-    "name": "Tvfaces Online",
-    "path_name": "13054fb789543e8289a881a4fcddf2a5",
-    "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Домашний",
+    "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
+    "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1136,6 +1154,15 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1191,6 +1218,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
