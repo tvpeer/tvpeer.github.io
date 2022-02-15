@@ -792,6 +792,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
@@ -1755,15 +1764,6 @@
     }
   },
   {
-    "name": "ZuidWest TV",
-    "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
-    "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Omroep Centraal TV",
     "path_name": "04799935f932e880938546ea203b0137",
     "url": "https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
@@ -2244,6 +2244,15 @@
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "La Ribereña (Pucallpa)",
+    "path_name": "a20156fddec12f98e695ca9163b6454a",
+    "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
