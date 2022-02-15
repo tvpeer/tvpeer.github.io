@@ -27,15 +27,6 @@
     }
   },
   {
-    "name": "Futura",
-    "path_name": "eddacf6b2a05d975f8badd56cb8f7697",
-    "url": "https://tv.unisc.br/hls/test.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
     "name": "TVE RS",
     "path_name": "33869e6c382d99437cd85ae17d779fec",
     "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
@@ -219,6 +210,24 @@
     "name": "PBS 39 Extra Philadelphia PA (WPPT)",
     "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
     "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PBS Tallahassee FL (WFSU-TV1)",
+    "path_name": "f3a86118486963f91dbf380b6ef10a54",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
+    "categories": {
+      "name": "Education",
+      "slug": "education"
+    }
+  },
+  {
+    "name": "PBS Tallahassee FL (WFSU-TV1)",
+    "path_name": "f3a86118486963f91dbf380b6ef10a54",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

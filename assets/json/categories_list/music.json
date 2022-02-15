@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -432,6 +423,15 @@
     }
   },
   {
+    "name": "Canal Son TV",
+    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
+    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Telemúsica TV",
     "path_name": "cee0731d8a2b1370fc3e05c0e2b6bba0",
     "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8",
@@ -621,9 +621,9 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "name": "Activa TV",
+    "path_name": "f1cdbef12bb6984066983efa76558402",
+    "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1020,15 +1020,6 @@
     "name": "Company TV",
     "path_name": "2661ef89e8bbd346ed6beaae79944801",
     "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio Piter Pan TV",
-    "path_name": "921810c9e13ccf1c449a7d481073ade6",
-    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1677,6 +1668,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Pop Adult",
+    "path_name": "5bd20e05680182e0baa90e0373812ec7",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
