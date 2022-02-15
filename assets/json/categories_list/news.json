@@ -666,51 +666,6 @@
     }
   },
   {
-    "name": "Independent TV",
-    "path_name": "06b8dba362201bbd7117e77455dd5d8d",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Jamuna TV",
-    "path_name": "a8dd9fba76a7b8a4d4bedfbf9f56a4ca",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "News 24",
-    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Somoy News TV",
-    "path_name": "9bbf35f7529a9ab40bf25a1624a3798b",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Somoy News TV",
-    "path_name": "9bbf35f7529a9ab40bf25a1624a3798b",
-    "url": "https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Bulgaria On Air",
     "path_name": "597b4a31a4ed5a8f209e46b3e9c52c88",
     "url": "http://edge15.cdn.bg:2006/fls/bonair.stream/playlist.m3u8",
@@ -867,15 +822,6 @@
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2612,6 +2558,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2622,6 +2577,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
