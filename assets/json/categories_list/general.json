@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -741,6 +732,15 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TDI Colombia",
+    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
+    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1485,15 +1485,6 @@
     }
   },
   {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1596,15 +1587,6 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
