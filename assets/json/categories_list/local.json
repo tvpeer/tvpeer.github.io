@@ -774,6 +774,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1056,15 +1065,6 @@
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Irida TV",
-    "path_name": "e8b7b311b65a8b763f857a25298018f9",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1647,6 +1647,105 @@
     }
   },
   {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://51.79.193.108:8080/hls/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Kansai TV",
+    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
+    "url": "http://51.79.193.108:8080/hlsok/j00006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MBS (Mainichi Broadcasting System)",
+    "path_name": "893d214fc242158a86311bb71d4632fc",
+    "url": "http://51.79.193.108:8080/hls/j00038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MBS (Mainichi Broadcasting System)",
+    "path_name": "893d214fc242158a86311bb71d4632fc",
+    "url": "http://51.79.193.108:8080/hlsok/j00038/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Asahi",
+    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
+    "url": "http://51.79.193.108:8080/hls/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Asahi",
+    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
+    "url": "http://51.79.193.108:8080/hlsok/j00014/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://51.79.193.108:8080/hls/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://51.79.193.108:8080/hlsok/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://51.79.193.108:8080/hlsok/j00012/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://51.79.193.108:8080/hls/j00012/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "http://51.79.193.108:8080/hlsok/j00030/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1773,9 +1872,9 @@
     }
   },
   {
-    "name": "Ideaal TV",
-    "path_name": "4b3f94e51d0362ed8b188b17ccceb861",
-    "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
+    "name": "Feel Good TV",
+    "path_name": "583bf58d00175d8dcfabbe45a60d4c53",
+    "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1893,15 +1992,6 @@
     "name": "LOE TV",
     "path_name": "b169d9dd263586b141e303c964acb63c",
     "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Omroep P&M TV",
-    "path_name": "6293b66f13e16fc08c48bfba235f5ec8",
-    "url": "https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2448,15 +2538,6 @@
     }
   },
   {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2532,15 +2613,6 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

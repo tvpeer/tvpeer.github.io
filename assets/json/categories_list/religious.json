@@ -1262,6 +1262,15 @@
   {
     "name": "Al Sunnah Al Nabawiyah TV (Medina)",
     "path_name": "9dc4485ea0b8054420191ed966fafded",
+    "url": "http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah TV (Medina)",
+    "path_name": "9dc4485ea0b8054420191ed966fafded",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "categories": {
       "name": "Religious",
@@ -1278,18 +1287,9 @@
     }
   },
   {
-    "name": "Makkah TV",
-    "path_name": "72d6a6341c40bfe95dc4a226ed51e8df",
-    "url": "http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Makkah TV",
-    "path_name": "72d6a6341c40bfe95dc4a226ed51e8df",
-    "url": "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8",
+    "name": "Al Quran Al Kareem TV (Mecca)",
+    "path_name": "3747d19ea86f7d26b423d49f573ed243",
+    "url": "http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1440,15 +1440,6 @@
     }
   },
   {
-    "name": "GOOD TV CH15 真情之夜",
-    "path_name": "a1b84d0817b72246e3f285fba55ca379",
-    "url": "https://live.streamingfast.net/osmflivech15.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH16 葉光明",
     "path_name": "bf95b2e20ad9f215c3209adc8db0360f",
     "url": "https://live.streamingfast.net/osmflivech16.m3u8",
@@ -1506,6 +1497,15 @@
     "name": "GOOD TV CH22 職場新視野",
     "path_name": "9642e0561be9f8f50167facb7e417dce",
     "url": "https://live.streamingfast.net/osmflivech22.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "GOOD TV CH23 空中主日學 生活",
+    "path_name": "ace07ac7d2074affb00f61038bfad490",
+    "url": "https://live.streamingfast.net/osmflivech23.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"

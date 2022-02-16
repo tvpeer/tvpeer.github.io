@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -84,15 +75,6 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Alegria TV",
-    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
-    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -615,24 +597,6 @@
     "name": "Activa TV",
     "path_name": "f1cdbef12bb6984066983efa76558402",
     "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "MCM Top",
-    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
-    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1413,15 +1377,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8",
@@ -1668,6 +1623,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo 80s",
+    "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
