@@ -909,15 +909,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -2007,15 +1998,6 @@
     }
   },
   {
-    "name": "CNN Philippines",
-    "path_name": "4773ddc8fe98d125135368b61f8691ba",
-    "url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Lahore News",
     "path_name": "37b3b96aa0ea32e46063d8ae9147604a",
     "url": "http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8",
@@ -2775,6 +2757,15 @@
     "name": "CNBC",
     "path_name": "8496e2dc69fbaf0e468754f38f2c036f",
     "url": "http://s1.mysportz.tv:2082/CNBC/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
