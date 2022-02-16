@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "TV Maná Argentina",
-    "path_name": "f3c511bf389496c9933f94b5f1510250",
-    "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -2304,6 +2295,15 @@
     }
   },
   {
+    "name": "TV Sistemas Cuzco (Cuzco)",
+    "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
+    "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVenLinea (Cuzco)",
     "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
     "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
@@ -2403,6 +2403,15 @@
     }
   },
   {
+    "name": "Diario Hechicera (Tumbes)",
+    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
+    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2442,6 +2451,15 @@
     "name": "Cable Netword TV",
     "path_name": "767e7a4892a20a1aa9b7837807aead93",
     "url": "https://ca.inka.net.pe/cntv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
