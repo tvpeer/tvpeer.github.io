@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "TBN Baltia",
-    "path_name": "fcfd729696486e590a7a53883470fee1",
-    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Aghapy TV",
     "path_name": "d097c1c4eaaf557352ed1a2b38895852",
     "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
@@ -1191,6 +1182,15 @@
     "name": "TV MANA (ESP)",
     "path_name": "691954cea4d263bf851dab912ce0ab9b",
     "url": "http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná Córdoba",
+    "path_name": "a9cf169e7b580470304f536fc8352837",
+    "url": "http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2055,6 +2055,15 @@
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "CTN 61 Riviera Beach FL (WFGC)",
+    "path_name": "3892efe26dc164071ebf1f27dce18b1f",
+    "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
