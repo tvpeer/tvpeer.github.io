@@ -1890,9 +1890,27 @@
     }
   },
   {
+    "name": "Medi 1 TV Arabic",
+    "path_name": "63a3c23475e52510c3021035d8a6ed18",
+    "url": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Medi 1 TV Afrique",
     "path_name": "b49bca2ba572e6a084b24abe108839be",
     "url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Medi 1 TV Maghreb",
+    "path_name": "b12f137df9610b6faf0af82715ae391f",
+    "url": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1929,6 +1947,15 @@
     "name": "RPP",
     "path_name": "05c743acfc1a1266e9adf5dea87c7a9d",
     "url": "http://38.131.11.9:1080/play/a0d8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Identidad TV",
+    "path_name": "b5c2cd855c58adc81a084a4ef6a4031b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2748,6 +2775,15 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
