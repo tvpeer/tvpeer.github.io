@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "Claro Sports",
-    "path_name": "b9e77517b5746347b557f27ec8ab90b3",
-    "url": "http://45.179.140.242:8000/play/a0ht",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Bahrain Sports 1",
     "path_name": "9b6df9dbed0f8170d9d03cfae936f0d1",
     "url": "http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8",
@@ -291,6 +282,15 @@
     "name": "DD Sports",
     "path_name": "a7321dfa1a9e1eeb966a4be1cc4bc847",
     "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "New Japan Pro Wrestling World",
+    "path_name": "82305c2f2eb5b429df20934de8dd6619",
+    "url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
