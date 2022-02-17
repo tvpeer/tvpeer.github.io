@@ -72,9 +72,27 @@
     }
   },
   {
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -102,6 +120,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -558,15 +585,6 @@
     }
   },
   {
-    "name": "ОНТ",
-    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
-    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "СТВ",
     "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
     "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
@@ -828,6 +846,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -921,15 +948,6 @@
     "name": "Al Rasheed",
     "path_name": "043c112eb2a23ece8cbe6a68e3e19808",
     "url": "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Iraqiya Al 3ama",
-    "path_name": "f497ee69d9599ae60519b4db1369524b",
-    "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1803,6 +1821,15 @@
     "name": "Time Television",
     "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Today All Day",
+    "path_name": "9c2c08849b508d1023c2774a2f9981d7",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
