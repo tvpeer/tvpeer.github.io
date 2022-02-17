@@ -189,15 +189,6 @@
     }
   },
   {
-    "name": "Rede CNT (São Paulo)",
-    "path_name": "98d8e66351ab55fdb893e09404b32a62",
-    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Interlagos",
     "path_name": "83a23431a9db5d994fc27bdac37970d4",
     "url": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
@@ -2289,6 +2280,15 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
