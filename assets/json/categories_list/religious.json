@@ -27,6 +27,24 @@
     }
   },
   {
+    "name": "Peace TV Albanian",
+    "path_name": "6bd309180fa167468e61af2c0c190625",
+    "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Շողակաթ",
+    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
+    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "EnlaceTV",
     "path_name": "e231841275cebf3383e6f13504010200",
     "url": "https://v4.tustreaming.cl/enlacebpbtv/index.m3u8",
@@ -216,6 +234,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -390,15 +417,6 @@
     "name": "TBN Baltia",
     "path_name": "fcfd729696486e590a7a53883470fee1",
     "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Aghapy TV",
-    "path_name": "d097c1c4eaaf557352ed1a2b38895852",
-    "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -927,15 +945,6 @@
     }
   },
   {
-    "name": "TV Maná Moçambique",
-    "path_name": "0f75c73a60b235b4e871068b4ff48b34",
-    "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Hope Channel Norge",
     "path_name": "f511aefaf1acc0e531e5202d9dec07ad",
     "url": "http://media1.adventist.no:1935/live/hope1/playlist.m3u8",
@@ -1056,24 +1065,6 @@
     "name": "TV MANA (FR)",
     "path_name": "0d209a99d3d68557157fe660f0b5b4c9",
     "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA MAPUTO",
-    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
-    "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA MAPUTO",
-    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
-    "url": "http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1566,6 +1557,15 @@
     }
   },
   {
+    "name": "GOOD TV CH2 真理台",
+    "path_name": "59ecdf546a1c3f4a1ea350a10b561305",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "GOOD TV CH30 天堂敬拜",
     "path_name": "f4a8b74873714d54a33dcf0a5c5da092",
     "url": "https://live.streamingfast.net/osmflivech30.m3u8",
@@ -1602,9 +1602,9 @@
     }
   },
   {
-    "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
-    "path_name": "1b057684ceece812fcca0a42ecb9853c",
-    "url": "https://live.streamingfast.net/osmflivech36.m3u8",
+    "name": "GOOD TV CH37 特會系列：以色列專題",
+    "path_name": "48b41982014773eae1239f61dad352c9",
+    "url": "https://live.streamingfast.net/osmflivech37.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1962,6 +1962,15 @@
     }
   },
   {
+    "name": "Almagd TV Middle East",
+    "path_name": "a0193e7a1dac22db4284bcfc470ece13",
+    "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Almagd TV North America",
     "path_name": "ec6bb7fa78c4bda19433f1d04be12e2e",
     "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
@@ -2280,6 +2289,15 @@
     "name": "Esperanza TV",
     "path_name": "f779936bed70364133d1fcdf28afcdff",
     "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Genesis TV",
+    "path_name": "2d63024f54aed55734541e76b52a5f34",
+    "url": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
