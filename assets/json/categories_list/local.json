@@ -234,18 +234,36 @@
     }
   },
   {
-    "name": "TV Mon",
-    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
-    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "TV Cidade de Petrópolis",
-    "path_name": "97f192a17020f1875979df3ec60fe210",
-    "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nova Era TV",
+    "path_name": "97002ce81e35169dff3b16c94d105fbd",
+    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Mon",
+    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
+    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1818,15 +1836,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2640,6 +2649,15 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
