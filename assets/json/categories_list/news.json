@@ -882,6 +882,15 @@
     }
   },
   {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Euronews Deutsch",
     "path_name": "1a50817d575fac92674f96192d1f7b3a",
     "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -1209,6 +1218,24 @@
     "name": "FASTWAY NEWS",
     "path_name": "f075257efea0c72aba476522b1cd03f7",
     "url": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "News 18 Assam",
+    "path_name": "94c4a900f59ffa598549e5253938d83a",
+    "url": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "News 18 Hindi",
+    "path_name": "15d2f1a638b278ac6d5b9ea6b6842f82",
+    "url": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?rebase=on&sd=10",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2070,6 +2097,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2538,15 +2574,6 @@
     }
   },
   {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2703,6 +2730,15 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
