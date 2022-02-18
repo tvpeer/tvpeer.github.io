@@ -945,6 +945,15 @@
     }
   },
   {
+    "name": "Canal 24 horas",
+    "path_name": "3ad59f99d776d2dc479551fe1060f7db",
+    "url": "https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "3/24",
     "path_name": "0f23455d660a8d02046e813e49f83565",
     "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
@@ -2340,15 +2349,6 @@
     }
   },
   {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -2430,9 +2430,9 @@
     }
   },
   {
-    "name": "CBC News (XUMO)",
-    "path_name": "cd6c7563f95871409f4dabf8e29a3ba4",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8",
+    "name": "CBC News",
+    "path_name": "6f1bb7f82e90b0a0f833c7ae873a1d49",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2649,15 +2649,6 @@
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RT America",
-    "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
-    "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
