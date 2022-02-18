@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
@@ -93,15 +84,6 @@
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -918,9 +900,9 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "name": "RCTI",
+    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1145,15 +1127,6 @@
   {
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hls/j00005/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://51.79.193.108:8080/hls/j00047/index.m3u8",
     "categories": {
       "name": "General",
@@ -1170,54 +1143,9 @@
     }
   },
   {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hlsok/j00047/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "BS TV Tokyo",
     "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
     "url": "http://51.79.193.108:8080/hls/j00050/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS TV Tokyo",
-    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
-    "url": "http://51.79.193.108:8080/hlsok/j00050/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS-TBS",
-    "path_name": "579e17f9b945937947fdf7ba98f53a63",
-    "url": "http://51.79.193.108:8080/hls/j00051/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK BS1",
-    "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
-    "url": "http://51.79.193.108:8080/hls/j00037/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK BS1",
-    "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
-    "url": "http://51.79.193.108:8080/hlsok/j00037/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1242,36 +1170,9 @@
     }
   },
   {
-    "name": "NHK G Osaka",
-    "path_name": "bd2f37949c17064337002b68515df864",
-    "url": "http://51.79.193.108:8080/hls/j00032/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Osaka",
-    "path_name": "bd2f37949c17064337002b68515df864",
-    "url": "http://51.79.193.108:8080/hlsok/j00032/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "NHK G Tokyo",
     "path_name": "d5eeeebcfbdf3b89336d0686cad94759",
     "url": "http://51.79.193.108:8080/hls/j00033/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Tokyo",
-    "path_name": "d5eeeebcfbdf3b89336d0686cad94759",
-    "url": "http://51.79.193.108:8080/hlsok/j00033/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1785,15 +1686,6 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

@@ -765,15 +765,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -894,6 +885,15 @@
     "name": "TVG Evento 5",
     "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
     "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "M95 Televisión Marbella",
+    "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
+    "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1640,15 +1640,6 @@
   {
     "name": "Kansai TV",
     "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
     "url": "http://51.79.193.108:8080/hlsok/j00006/index.m3u8",
     "categories": {
       "name": "Local",
@@ -1659,15 +1650,6 @@
     "name": "MBS (Mainichi Broadcasting System)",
     "path_name": "893d214fc242158a86311bb71d4632fc",
     "url": "http://51.79.193.108:8080/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://51.79.193.108:8080/hlsok/j00038/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3234,6 +3216,15 @@
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PCC-TV Pinellas County FL",
+    "path_name": "c0d009a70f183a04700e067b20ce13c1",
+    "url": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
