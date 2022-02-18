@@ -180,15 +180,6 @@
     }
   },
   {
-    "name": "CTV Canal 38 Digital (Viacha)",
-    "path_name": "e66675c20a9f8c7feab5518a9c951ecf",
-    "url": "https://media2.cdnlayer.biz:8081/8026/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -363,6 +354,15 @@
     "name": "Montreal Greek TV",
     "path_name": "a15892114864e1f2bd226d6cb845f475",
     "url": "http://94.130.180.175:8081/live/greektv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Jess TV (Lethbridge)",
+    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
+    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1827,6 +1827,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2487,15 +2496,6 @@
     "name": "Primavera 15 Radiotelevisión (Moquegua)",
     "path_name": "232c1b378a773506b3584703aa567ca9",
     "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Top FM TV (Atalaya)",
-    "path_name": "f7c8508f25c18c80c20d88a25943e219",
-    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3954,15 +3954,6 @@
     "name": "ABC Tallahassee FL (WTXL-TV1)",
     "path_name": "7c173938c26af7f3ec9a9afb232cae86",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "WGN Chicago IL (WGN-TV1)",
-    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
-    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
