@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Alegria TV",
-    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
-    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "KpopTV Play",
     "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
     "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
@@ -309,6 +300,15 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -612,6 +612,15 @@
     }
   },
   {
+    "name": "Mezzo",
+    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MCM Top",
     "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
     "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
@@ -678,15 +687,6 @@
     "name": "Baraza TV",
     "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
     "url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Baraza TV",
-    "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
-    "url": "https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -804,15 +804,6 @@
     "name": "A NEWSDONs TV- SWAG SADDA VAKRAA",
     "path_name": "9f3741e98276f285a332cf195c9482a0",
     "url": "http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Relax TV",
-    "path_name": "0ae04150fad0720c728707f7b79d2f66",
-    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1413,15 +1404,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8",
@@ -1506,15 +1488,6 @@
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1638,15 +1611,6 @@
     }
   },
   {
-    "name": "Baeble Music",
-    "path_name": "ea2dfbb2664985467ed40b533621afe9",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Bluegrass Music 4U",
     "path_name": "82589cceff8905cc7487d354c41f55ce",
     "url": "https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8",
@@ -1668,15 +1632,6 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo 80s",
-    "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
