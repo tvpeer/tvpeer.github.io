@@ -882,15 +882,6 @@
     }
   },
   {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Euronews Deutsch",
     "path_name": "1a50817d575fac92674f96192d1f7b3a",
     "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -2127,6 +2118,24 @@
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
