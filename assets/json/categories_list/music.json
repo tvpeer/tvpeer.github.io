@@ -9,9 +9,27 @@
     }
   },
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -318,15 +336,6 @@
     "name": "Carolina TV",
     "path_name": "6be974900eddc300c19f912210b5411a",
     "url": "https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Zona Latina",
-    "path_name": "ecdd1b37c2fb6a3b61f806d571307fb8",
-    "url": "http://38.131.11.9:1080/play/a00x",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1431,15 +1440,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8",
@@ -1776,6 +1776,15 @@
     "name": "Vallenato Internacional",
     "path_name": "97448385f171d4a3aa36aae4d0bf5562",
     "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Sonideros TV",
+    "path_name": "ba59b3325f267a62eb950b34bf486f65",
+    "url": "https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

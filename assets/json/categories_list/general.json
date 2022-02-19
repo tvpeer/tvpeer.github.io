@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
@@ -90,9 +81,9 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -120,6 +111,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1548,15 +1548,6 @@
     }
   },
   {
-    "name": "Peru Magico",
-    "path_name": "1d28b03893feb823c9fa1a4d459ea15d",
-    "url": "http://38.131.11.9:1080/play/a0dh",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TNTV",
     "path_name": "14996c7d6095dcd70df01a6cab0bb6bd",
     "url": "https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8",
@@ -1800,6 +1791,15 @@
     }
   },
   {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
@@ -1821,6 +1821,15 @@
     "name": "Al Khalij",
     "path_name": "1ea6c256d75fc0bcfc7485596b7484c0",
     "url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "SBC",
+    "path_name": "ff1160410ac673a2adb82da2fa83b7ef",
+    "url": "http://www.elahmad.com/tv/m3u8/online_live_6_tv.m3u8?id=sbc_tv",
     "categories": {
       "name": "General",
       "slug": "general"

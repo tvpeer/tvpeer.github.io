@@ -468,6 +468,33 @@
     }
   },
   {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
@@ -882,15 +909,6 @@
     }
   },
   {
-    "name": "RTU",
-    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
-    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1272,6 +1290,15 @@
     "name": "Janam TV",
     "path_name": "9f27c3cd21241e5218c98a55bfaec775",
     "url": "http://14.199.164.20:4001/play/a0ja/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Janam TV",
+    "path_name": "9f27c3cd21241e5218c98a55bfaec775",
+    "url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1890,15 +1917,6 @@
     }
   },
   {
-    "name": "RPP",
-    "path_name": "05c743acfc1a1266e9adf5dea87c7a9d",
-    "url": "http://38.131.11.9:1080/play/a0d8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Identidad TV",
     "path_name": "b5c2cd855c58adc81a084a4ef6a4031b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
@@ -2109,15 +2127,6 @@
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "TGRT Haber",
-    "path_name": "b82f4709898448ff34331b73459d0bad",
-    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2531,15 +2540,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2550,15 +2550,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2673,15 +2664,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2730,15 +2712,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
