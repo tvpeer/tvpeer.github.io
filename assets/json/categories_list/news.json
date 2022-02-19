@@ -882,15 +882,6 @@
     }
   },
   {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Euronews Deutsch",
     "path_name": "1a50817d575fac92674f96192d1f7b3a",
     "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -903,6 +894,15 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1791,33 +1791,6 @@
     }
   },
   {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TV Seventeen",
     "path_name": "8d8b3518de00572a4a110ed680d519d4",
     "url": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8",
@@ -1947,6 +1920,15 @@
     "name": "RTV Total (Yurimaguas)",
     "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
     "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Visión Noticias Perú (VNP)",
+    "path_name": "ca4f2b767b3bb747e12c8817820d77cc",
+    "url": "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2100,15 +2082,6 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
