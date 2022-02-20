@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
@@ -90,9 +81,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,6 +891,15 @@
     }
   },
   {
+    "name": "RTVC (Radio Televisión Canaria)",
+    "path_name": "8ff56555fd40c9da45c36c738e8b72ed",
+    "url": "https://rtvc-live1-rm.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
@@ -1665,15 +1665,6 @@
     }
   },
   {
-    "name": "TVR International",
-    "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
-    "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1713,6 +1704,15 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Târgu Mureș",
+    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
+    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
