@@ -90,6 +90,24 @@
     }
   },
   {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -729,6 +747,15 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -894,6 +921,15 @@
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "GTV",
+    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
+    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1127,34 +1163,7 @@
   {
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hls/j00047/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://51.79.193.108:8080/hlsok/j00005/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hlsok/j00047/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS TV Tokyo",
-    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
-    "url": "http://51.79.193.108:8080/hls/j00050/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1164,15 +1173,6 @@
     "name": "BS TV Tokyo",
     "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
     "url": "http://51.79.193.108:8080/hlsok/j00050/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS-TBS",
-    "path_name": "579e17f9b945937947fdf7ba98f53a63",
-    "url": "http://51.79.193.108:8080/hls/j00051/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1746,9 +1746,9 @@
     }
   },
   {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
+    "name": "Звезда",
+    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
+    "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2091,6 +2091,15 @@
     "name": "Digi TV (WFTY-DT6)",
     "path_name": "30c83e5e99d494ee1033e846c38db6dc",
     "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ayeneh TV",
+    "path_name": "c882de3143d06ca705fbc8523287cfc9",
+    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
