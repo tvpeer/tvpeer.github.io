@@ -405,6 +405,15 @@
     }
   },
   {
+    "name": "Atacama TV (Copiapó)",
+    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -756,6 +765,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1047,6 +1065,15 @@
     "name": "PLP",
     "path_name": "58b02f30b67ecf0a4aff2684f454e043",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ena Channel",
+    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
+    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1611,15 +1638,6 @@
     }
   },
   {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Asahi",
     "path_name": "69e4d92d4992ff06a8039cf515ab4584",
     "url": "http://51.79.193.108:8080/hls/j00014/index.m3u8",
@@ -1641,6 +1659,24 @@
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://51.79.193.108:8080/hls/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://51.79.193.108:8080/hlsok/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
+    "url": "http://51.79.193.108:8080/hlsok/j00012/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1998,6 +2034,15 @@
     }
   },
   {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2253,6 +2298,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
