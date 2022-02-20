@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -243,15 +252,6 @@
     }
   },
   {
-    "name": "KCV",
-    "path_name": "c6cda3130df97582258d7b4ed9403ae9",
-    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Jaihind TV",
     "path_name": "e2cf38e627f942c1c23e38c76fbdb7c2",
     "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
@@ -444,6 +444,15 @@
     "name": "EET TV",
     "path_name": "2349d9cce14c13565255b420f18a6658",
     "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Star Maa",
+    "path_name": "15e63739a699160cdd252aaca9293978",
+    "url": "http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -786,15 +795,6 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Young Hollywood",
-    "path_name": "2d071c592394806c832d2a782b9be364",
-    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
