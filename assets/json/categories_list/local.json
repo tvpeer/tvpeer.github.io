@@ -1656,24 +1656,6 @@
     }
   },
   {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hlsok/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://51.79.193.108:8080/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "MBS (Mainichi Broadcasting System)",
     "path_name": "893d214fc242158a86311bb71d4632fc",
     "url": "http://51.79.193.108:8080/hlsok/j00038/index.m3u8",
@@ -1710,6 +1692,15 @@
     }
   },
   {
+    "name": "TV Osaka",
+    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
+    "url": "http://51.79.193.108:8080/hlsok/j00013/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Tokyo",
     "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
     "url": "http://51.79.193.108:8080/hlsok/j00012/index.m3u8",
@@ -1722,15 +1713,6 @@
     "name": "TV Tokyo",
     "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
     "url": "http://51.79.193.108:8080/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://51.79.193.108:8080/hlsok/j00030/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2415,6 +2397,15 @@
     "name": "Primavera 15 Radiotelevisión (Moquegua)",
     "path_name": "232c1b378a773506b3584703aa567ca9",
     "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
