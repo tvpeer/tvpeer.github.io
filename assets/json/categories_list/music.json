@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -84,6 +75,15 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Alegria TV",
+    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
+    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1404,6 +1404,15 @@
     }
   },
   {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8",
@@ -1611,6 +1620,15 @@
     }
   },
   {
+    "name": "Baeble Music",
+    "path_name": "ea2dfbb2664985467ed40b533621afe9",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Bluegrass Music 4U",
     "path_name": "82589cceff8905cc7487d354c41f55ce",
     "url": "https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8",
@@ -1638,9 +1656,9 @@
     }
   },
   {
-    "name": "STIRR Stingray Urban Beats",
-    "path_name": "1799a6459e286d34b11dc3569524f3a0",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
+    "name": "Vevo 80s",
+    "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
