@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -111,6 +120,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -738,15 +756,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -909,6 +918,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1053,6 +1071,15 @@
     }
   },
   {
+    "name": "WAAR TV",
+    "path_name": "898b11c51fdd8864ccd0435f9dcb51eb",
+    "url": "https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "12 TV Parma",
     "path_name": "a27b633029a3c15320b108b78fa27a43",
     "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
@@ -1100,7 +1127,43 @@
   {
     "name": "BS Asahi",
     "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
+    "url": "http://51.79.193.108:8080/hls/j00048/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Asahi",
+    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
     "url": "http://51.79.193.108:8080/hlsok/j00048/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Fuji TV",
+    "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
+    "url": "http://51.79.193.108:8080/hlsok/j00049/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Nippon TV",
+    "path_name": "a5a467c75aa69036482468213dea53b1",
+    "url": "http://51.79.193.108:8080/hls/j00047/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "BS Nippon TV",
+    "path_name": "a5a467c75aa69036482468213dea53b1",
+    "url": "http://51.79.193.108:8080/hlsok/j00047/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1109,16 +1172,25 @@
   {
     "name": "BS TV Tokyo",
     "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
-    "url": "http://51.79.193.108:8080/hlsok/j00050/index.m3u8",
+    "url": "http://51.79.193.108:8080/hls/j00050/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "NHK BSP",
-    "path_name": "eb440ac0425056cd96ab46f2dbb147d4",
-    "url": "http://51.79.193.108:8080/hls/j00036/index.m3u8",
+    "name": "BS-TBS",
+    "path_name": "579e17f9b945937947fdf7ba98f53a63",
+    "url": "http://51.79.193.108:8080/hls/j00051/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "NHK BS1",
+    "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
+    "url": "http://51.79.193.108:8080/hls/j00037/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1128,33 +1200,6 @@
     "name": "NHK G Osaka",
     "path_name": "bd2f37949c17064337002b68515df864",
     "url": "http://51.79.193.108:8080/hls/j00032/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Osaka",
-    "path_name": "bd2f37949c17064337002b68515df864",
-    "url": "http://51.79.193.108:8080/hlsok/j00032/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Tokyo",
-    "path_name": "d5eeeebcfbdf3b89336d0686cad94759",
-    "url": "http://51.79.193.108:8080/hls/j00033/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NHK G Tokyo",
-    "path_name": "d5eeeebcfbdf3b89336d0686cad94759",
-    "url": "http://51.79.193.108:8080/hlsok/j00033/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1281,15 +1326,6 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1542,15 +1578,6 @@
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
