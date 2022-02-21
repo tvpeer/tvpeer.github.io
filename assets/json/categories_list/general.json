@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -84,6 +93,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -873,18 +891,18 @@
     }
   },
   {
-    "name": "RCTI",
-    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "GTV",
-    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
-    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
+    "name": "RCTI",
+    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1011,6 +1029,15 @@
     "name": "Kurdistan TV",
     "path_name": "71f595212ec4b869b27c4371e0f96add",
     "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "WAAR TV",
+    "path_name": "898b11c51fdd8864ccd0435f9dcb51eb",
+    "url": "https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1263,6 +1290,15 @@
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
     "categories": {
       "name": "General",
       "slug": "general"
