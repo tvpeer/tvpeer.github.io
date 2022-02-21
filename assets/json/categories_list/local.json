@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -912,15 +903,6 @@
     "name": "M95 Televisión Marbella",
     "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
     "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal 25 TV (Barbastro)",
-    "path_name": "4b75cee7c1659979426795ad31a572cb",
-    "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2232,6 +2214,15 @@
     }
   },
   {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2415,6 +2406,15 @@
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Genios TV (Moyobamba)",
+    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
+    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
