@@ -612,9 +612,9 @@
     }
   },
   {
-    "name": "Mezzo",
-    "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "name": "MCM Top",
+    "path_name": "eca7f82078f090b1c1c4e3528a0481f1",
+    "url": "http://ott-cdn.ucom.am/s49/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1449,6 +1449,15 @@
     }
   },
   {
+    "name": "JAWHARA TV",
+    "path_name": "d87a31fec11384f62f888abef2b884e9",
+    "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Mosaïque FM",
     "path_name": "044109ec0f439a4409b25730dfab93fe",
     "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
@@ -1593,24 +1602,6 @@
     }
   },
   {
-    "name": "Vevo Pop",
-    "path_name": "8a64fa9a7efb3af957418a41d06f6540",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Pop Europe",
-    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
-    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
@@ -1659,6 +1650,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo 80s",
+    "path_name": "89b0a5ee3fc709a3604c744dc752f1d8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
