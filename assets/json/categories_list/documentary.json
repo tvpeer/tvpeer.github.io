@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "La 2",
-    "path_name": "fbfed0a5651637ef5ee04a79492eff3a",
-    "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
     "name": "Persiana Documentary",
     "path_name": "f7d3e3cc8713bc7a0ce08ea2790bbc14",
     "url": "http://51.210.199.23/hls/stream.m3u8",
@@ -75,6 +66,15 @@
     "name": "RT Documentary Russian",
     "path_name": "0ac9769d67982e5df220818bf28432df",
     "url": "https://rtmp.api.rt.com/hls/rtdru.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
+    "name": "National Geographic Abu Dhabi",
+    "path_name": "1c6858dec0207228f8c85d3768feede1",
+    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
