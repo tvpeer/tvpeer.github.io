@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -47,15 +56,6 @@
   {
     "name": "CCTV-3综艺",
     "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
     "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -93,6 +93,15 @@
     "name": "La Voz 24h",
     "path_name": "9766ffc64b6020e70125fe64c2f26599",
     "url": "https://pull12.atresmedia.com/lavoz/master.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "TF1",
+    "path_name": "d2db20d20ad6a72ca409787b6fe50285",
+    "url": "http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
