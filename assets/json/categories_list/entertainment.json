@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -56,16 +47,16 @@
   {
     "name": "CCTV-3综艺",
     "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
+    "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
     }
   },
   {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
+    "name": "Canal RCN Novelas",
+    "path_name": "002cd85d17f3848b8825c7809555a74b",
+    "url": "http://45.179.140.242:8000/play/a0jf",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -441,6 +432,15 @@
     }
   },
   {
+    "name": "Velicham",
+    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
+    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Marutam TV",
     "path_name": "055774e0444c3ffd312362636a4c84b3",
     "url": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8",
@@ -453,6 +453,15 @@
     "name": "EET TV",
     "path_name": "2349d9cce14c13565255b420f18a6658",
     "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Star Maa",
+    "path_name": "15e63739a699160cdd252aaca9293978",
+    "url": "http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -963,6 +972,15 @@
     }
   },
   {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Cable Hits",
     "path_name": "14567a5592f48c23f4a3f43f572640d1",
     "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
@@ -1182,6 +1200,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
