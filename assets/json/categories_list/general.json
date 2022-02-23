@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -363,15 +354,6 @@
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RTV",
-    "path_name": "6d395e86fe3b96ed85ed357c216d1961",
-    "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -756,6 +738,24 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
@@ -846,15 +846,6 @@
     }
   },
   {
-    "name": "Elsharq TV",
-    "path_name": "e443aebe6eb4923eb7ae657fcd0ddd7b",
-    "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "À Punt",
     "path_name": "667f275875299e34ccd97838433710af",
     "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
@@ -939,15 +930,6 @@
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Tehelka TV",
-    "path_name": "306fc9a1909c045aefbfd0dad2f06de8",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1620,15 +1602,6 @@
     }
   },
   {
-    "name": "TVR 2",
-    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
-    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Prima TV",
     "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
     "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
@@ -1668,6 +1641,15 @@
     "name": "TVR Târgu Mureș",
     "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
     "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Iași",
+    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
+    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1749,15 +1731,6 @@
     "name": "TV BRICS Russian",
     "path_name": "2543aac2cd3fba91497e95bab6235d52",
     "url": "https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Khalij",
-    "path_name": "1ea6c256d75fc0bcfc7485596b7484c0",
-    "url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
