@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Al Jazeera Documentary",
-    "path_name": "8b929387df76d6c3fcc4a8ab527dc23b",
-    "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
     "name": "Canal Savoir",
     "path_name": "9f6dcfe8d0d709eb7276fdf96fe49626",
     "url": "https://hls.savoir.media/live/stream.m3u8",
@@ -201,6 +192,15 @@
     "name": "Reelz Channel (XUMO)",
     "path_name": "33138da025ba17e6889a272e9a7bb424",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
+    "name": "Crime Time",
+    "path_name": "74adf5b50d968ac3cd0a96f881d84d20",
+    "url": "https://crimetimebamca-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
