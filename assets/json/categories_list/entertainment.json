@@ -423,15 +423,6 @@
     }
   },
   {
-    "name": "Velicham",
-    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
-    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Marutam TV",
     "path_name": "055774e0444c3ffd312362636a4c84b3",
     "url": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8",
@@ -534,6 +525,15 @@
     "name": "YourTime TV",
     "path_name": "86e6a3fa13e819561264ac54588c6020",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Disney Channel Japan",
+    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
+    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -786,6 +786,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1109,15 +1118,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1173,15 +1173,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
