@@ -621,15 +621,6 @@
     }
   },
   {
-    "name": "Santa María Televisión",
-    "path_name": "3367c1feb878d42504c153dd4d570aa3",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
@@ -1065,6 +1056,15 @@
     "name": "PLP",
     "path_name": "58b02f30b67ecf0a4aff2684f454e043",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ena Channel",
+    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
+    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
