@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Cultura PR Catve",
-    "path_name": "bfe5a46aeff10142c356489b7af9da33",
-    "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "SBT TV Serra Dourada",
     "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
     "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
@@ -579,15 +570,6 @@
     "name": "TV BRICS Portuguese",
     "path_name": "9590801d96eec46c25414c97d033376b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Catve FM",
-    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
-    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,15 +747,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -930,6 +903,15 @@
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "GTV",
+    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
+    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1218,6 +1200,24 @@
     "name": "NHK BS1",
     "path_name": "f839d22cabaa5c2f1ac9b367be7ff569",
     "url": "http://51.79.193.108:8080/hlsok/j00037/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "NHK BSP",
+    "path_name": "eb440ac0425056cd96ab46f2dbb147d4",
+    "url": "http://51.79.193.108:8080/hls/j00036/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "NHK BSP",
+    "path_name": "eb440ac0425056cd96ab46f2dbb147d4",
+    "url": "http://51.79.193.108:8080/hlsok/j00036/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
