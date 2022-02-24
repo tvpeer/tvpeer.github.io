@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "Canal 10 Rio Negro",
+    "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
+    "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ciudad TV Resistencia (Chaco)",
     "path_name": "ae13211e238dbe907fa833cb506fa46e",
     "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
@@ -630,15 +639,6 @@
     }
   },
   {
-    "name": "TV Costa (San Antonio)",
-    "path_name": "92937adbdfc4a3d3eac3ea204589ecb7",
-    "url": "https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
@@ -768,15 +768,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2304,6 +2295,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2487,6 +2487,15 @@
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
