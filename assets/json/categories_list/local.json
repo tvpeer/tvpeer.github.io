@@ -1071,15 +1071,6 @@
     }
   },
   {
-    "name": "Ena Channel",
-    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
-    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Maya TV",
     "path_name": "98d16fe7ae8e173514d3e2deaa414800",
     "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
@@ -2529,6 +2520,15 @@
     }
   },
   {
+    "name": "Región TV (Callao)",
+    "path_name": "da4454567c8a0a234a89f94e655be1f4",
+    "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "RN Televisión (Yurimaguas)",
     "path_name": "c3a9aef0b0ccd9bd6b1af7fb478425cf",
     "url": "https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8",
@@ -2664,27 +2664,9 @@
     }
   },
   {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio Tropical Tarapoto",
     "path_name": "8453201823fc7d219cd99f78e5d804a7",
     "url": "https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "92 News UK",
-    "path_name": "4c8eea3f98da7c95cf4cf2d2c42aa4a9",
-    "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
