@@ -1044,15 +1044,6 @@
     }
   },
   {
-    "name": "Euro Indie Music Chart TV",
-    "path_name": "4b81ead013194f349b6033c8e04c4582",
-    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Nojoum TV",
     "path_name": "afa66d2ec899c2fb49fd1f6c07b74ce1",
     "url": "https://nojoumhls.wns.live/hls/stream.m3u8",
@@ -1422,15 +1413,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8",
@@ -1683,6 +1665,15 @@
     }
   },
   {
+    "name": "Radio Ritmo",
+    "path_name": "7e5e8ac29053f4f2fa7970b6d8f85c05",
+    "url": "https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8",
@@ -1713,6 +1704,24 @@
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://vidaprimo-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
