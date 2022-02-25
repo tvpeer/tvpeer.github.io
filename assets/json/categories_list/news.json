@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "RT News",
-    "path_name": "3f6552bfa7660d18c3a11b75345774c0",
-    "url": "https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "DW English",
     "path_name": "211d871ac3b856120f9d466edd57964e",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -282,15 +273,6 @@
     "name": "Al Hadath TV",
     "path_name": "0a4e55f7afdc53d2fa622b181dee1214",
     "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RT Arabic",
-    "path_name": "d332419c148373b9429e261bfc84fab2",
-    "url": "https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -534,15 +516,6 @@
     "name": "Euronews en Español",
     "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
     "url": "https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RT en Español",
-    "path_name": "9089e19a3dcef5b605ac38a93ec569e8",
-    "url": "https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1002,15 +975,6 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RT France",
-    "path_name": "8f6916ea961a9a556c0ac06ca70a5f9d",
-    "url": "https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1962,15 +1926,6 @@
     }
   },
   {
-    "name": "Visión Noticias Perú (VNP)",
-    "path_name": "ca4f2b767b3bb747e12c8817820d77cc",
-    "url": "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TV Noticias 7.3",
     "path_name": "0f2390c6b8fb66536d745e85f3d3845d",
     "url": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8",
@@ -2124,15 +2079,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2244,15 +2190,6 @@
     "name": "BBC News HD",
     "path_name": "809da825465ef017b485fcbb80e9ab28",
     "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RT UK",
-    "path_name": "7b2d5954128f5348a1a2b80bbb3cbe04",
-    "url": "https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2673,15 +2610,6 @@
     }
   },
   {
-    "name": "RT America",
-    "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
-    "url": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Payvand TV",
     "path_name": "d3b9981fec2d16a819201201508011e4",
     "url": "http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8",
@@ -2790,15 +2718,6 @@
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -2811,6 +2730,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
