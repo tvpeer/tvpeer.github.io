@@ -227,15 +227,6 @@
   {
     "name": "Euronews English",
     "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
-    "url": "https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews English",
-    "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
     "url": "https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -255,15 +246,6 @@
     "name": "Euronews English",
     "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
     "url": "https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN International Europe",
-    "path_name": "f807027c8c54035826d99c6be31e74b8",
-    "url": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -837,15 +819,6 @@
     }
   },
   {
-    "name": "AfricaNews English",
-    "path_name": "16818ec45995bbaaa14e6250273d0a7f",
-    "url": "https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "AfricaNews Français",
     "path_name": "4ddffc5c70219c4c9074ca2650ed2623",
     "url": "https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8",
@@ -1029,15 +1002,6 @@
     "name": "Euronews Français",
     "path_name": "89da5d2227cd4cbbf3a22495086c1447",
     "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "LCI",
-    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
-    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2811,6 +2775,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
