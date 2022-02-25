@@ -162,6 +162,15 @@
     }
   },
   {
+    "name": "RT News",
+    "path_name": "3f6552bfa7660d18c3a11b75345774c0",
+    "url": "https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW English",
     "path_name": "211d871ac3b856120f9d466edd57964e",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -273,6 +282,15 @@
     "name": "Al Hadath TV",
     "path_name": "0a4e55f7afdc53d2fa622b181dee1214",
     "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RT Arabic",
+    "path_name": "d332419c148373b9429e261bfc84fab2",
+    "url": "https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -516,6 +534,15 @@
     "name": "Euronews en Español",
     "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
     "url": "https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RT en Español",
+    "path_name": "9089e19a3dcef5b605ac38a93ec569e8",
+    "url": "https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -975,6 +1002,15 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RT France",
+    "path_name": "8f6916ea961a9a556c0ac06ca70a5f9d",
+    "url": "https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2187,6 +2223,15 @@
     }
   },
   {
+    "name": "RT UK",
+    "path_name": "7b2d5954128f5348a1a2b80bbb3cbe04",
+    "url": "https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Top Stories by Newsy",
     "path_name": "04417045bcad3b71c0d7914516d25a38",
     "url": "http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8",
@@ -2235,15 +2280,6 @@
     "name": "KGO-TV News",
     "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
     "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KHBS-TV News Fort Smith AR",
-    "path_name": "119b2669d5935736df3c885aa341731f",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2547,6 +2583,15 @@
     }
   },
   {
+    "name": "Newsy",
+    "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Newsy Top Stories",
     "path_name": "a753f139c32d159c5d362d329a0efcd0",
     "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
@@ -2622,6 +2667,15 @@
     "name": "RT America",
     "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
     "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RT America",
+    "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
+    "url": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2730,15 +2784,6 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
