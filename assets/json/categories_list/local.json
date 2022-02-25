@@ -423,15 +423,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -768,6 +759,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1674,15 +1674,6 @@
     }
   },
   {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://51.79.193.108:8080/hlsok/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://51.79.193.108:8080/hls/j00013/index.m3u8",
@@ -1692,27 +1683,9 @@
     }
   },
   {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://51.79.193.108:8080/hlsok/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Tokyo",
     "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
     "url": "http://51.79.193.108:8080/hlsok/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://51.79.193.108:8080/hls/j00012/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2241,6 +2214,15 @@
     }
   },
   {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
@@ -2394,15 +2376,6 @@
     }
   },
   {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NorSelva RTV (Rioja)",
     "path_name": "0987514277d76d1b01b90db8d923abe8",
     "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
@@ -2502,6 +2475,15 @@
     }
   },
   {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
@@ -2547,9 +2529,27 @@
     }
   },
   {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
