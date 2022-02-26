@@ -1035,15 +1035,6 @@
     }
   },
   {
-    "name": "LCI",
-    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
-    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
@@ -2232,6 +2223,15 @@
     }
   },
   {
+    "name": "BBC News HD",
+    "path_name": "809da825465ef017b485fcbb80e9ab28",
+    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "RT UK",
     "path_name": "7b2d5954128f5348a1a2b80bbb3cbe04",
     "url": "https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8",
@@ -2244,6 +2244,15 @@
     "name": "Top Stories by Newsy",
     "path_name": "04417045bcad3b71c0d7914516d25a38",
     "url": "http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Fox News Channel",
+    "path_name": "c6f7222c81ed1311148e92c94aa06796",
+    "url": "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
