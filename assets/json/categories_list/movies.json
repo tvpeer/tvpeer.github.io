@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "KCV Movies",
-    "path_name": "e07988886cb4b443a36608478cc2b406",
-    "url": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Nee Cinema",
     "path_name": "a43ce43326a02aaff3d6cb6c8a8a7ebd",
     "url": "https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8",
@@ -585,6 +576,15 @@
     }
   },
   {
+    "name": "Mythos",
+    "path_name": "cc2668be85633b5851ee6fe490d7106d",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "American Horrors",
     "path_name": "bc99f26aab314310109016e0576020c6",
     "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
@@ -615,6 +615,15 @@
     "name": "Maverick Black Cinema",
     "path_name": "779d6cd0d3d9c52bab62e809fd8cbb28",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "TVS Drive In Movie",
+    "path_name": "8d64d964fd745cbf3641aae28f61d8b1",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -741,6 +750,15 @@
     "name": "Samuel Goldwyn Channel",
     "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
     "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "TVS Film Noir Network",
+    "path_name": "1a9bbdf73f728a903a1a1164c327a041",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
