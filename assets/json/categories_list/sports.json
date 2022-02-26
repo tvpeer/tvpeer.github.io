@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "CCTV-5体育",
-    "path_name": "57dcf6eed74ef9a72068e41c158dc0b5",
-    "url": "http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Alfa Sport",
     "path_name": "4c29d6f3777494b26072ceeb84bbb7bd",
     "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu",
@@ -255,6 +246,15 @@
     "name": "Alfa Sport",
     "path_name": "4c29d6f3777494b26072ceeb84bbb7bd",
     "url": "https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Real Madrid TV US Version",
+    "path_name": "8d70a20cd519de3a6c68bdb65e1c23b9",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -990,6 +990,15 @@
     }
   },
   {
+    "name": "TVS Women Sports",
+    "path_name": "a96518e18dd255e3125d9447216af9bc",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "STIRR Stadium",
     "path_name": "54e90fd0ed959c5ece9eb3371b82b80b",
     "url": "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8",
@@ -1002,15 +1011,6 @@
     "name": "Stadium",
     "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Stadium",
-    "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
-    "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
