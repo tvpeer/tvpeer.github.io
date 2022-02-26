@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -768,6 +777,24 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1539,15 +1566,6 @@
     }
   },
   {
-    "name": "Palestine Satellite Channel",
-    "path_name": "381621adaa18f975b07838f53e87e37d",
-    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
@@ -1791,6 +1809,15 @@
     }
   },
   {
+    "name": "WOW TV",
+    "path_name": "dc5ea1b50761502eb23510e8482ea260",
+    "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Syria TV",
     "path_name": "1a67757ef1bd124f8a09e681f6ea45b3",
     "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8",
@@ -1893,6 +1920,15 @@
     "name": "Shout! Factory TV",
     "path_name": "9ea7cf0674c23154076af3d7c6bfd3a4",
     "url": "http://shoutfactory-redbox.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Shout! Factory TV",
+    "path_name": "9ea7cf0674c23154076af3d7c6bfd3a4",
+    "url": "https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
