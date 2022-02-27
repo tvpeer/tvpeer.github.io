@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "CCTV-5体育",
-    "path_name": "57dcf6eed74ef9a72068e41c158dc0b5",
-    "url": "http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Alfa Sport",
     "path_name": "4c29d6f3777494b26072ceeb84bbb7bd",
     "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu",
@@ -669,6 +660,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://playerstv-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
