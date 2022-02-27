@@ -1026,6 +1026,15 @@
     }
   },
   {
+    "name": "LCI",
+    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
+    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
@@ -1971,15 +1980,6 @@
     }
   },
   {
-    "name": "CNN Philippines",
-    "path_name": "4773ddc8fe98d125135368b61f8691ba",
-    "url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Lahore News",
     "path_name": "37b3b96aa0ea32e46063d8ae9147604a",
     "url": "http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8",
@@ -2495,15 +2495,6 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2757,24 +2748,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
