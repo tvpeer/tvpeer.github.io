@@ -549,15 +549,6 @@
     }
   },
   {
-    "name": "EKIZ TV (Rancagua)",
-    "path_name": "1206f17acdfcfa925d8dd53e081c7695",
-    "url": "https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Elion Canal Digital (Chillan)",
     "path_name": "1bc3940c65e017205cfe20a5794cedfa",
     "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
@@ -606,15 +597,6 @@
     "name": "La Popular TV (Salamanca)",
     "path_name": "c0b300bed613b9cb63e76f01554086d8",
     "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -777,15 +759,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1083,6 +1056,15 @@
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Maya TV",
+    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
+    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2088,6 +2070,15 @@
     }
   },
   {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
@@ -2127,6 +2118,15 @@
     "name": "Cajamarca TV",
     "path_name": "7807971ea588e8f5b73ad964ee07d397",
     "url": "https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 43 Sudamericana (Ica)",
+    "path_name": "bc2117428c81fe2513da77b0de044691",
+    "url": "https://media2.cdnlayer.biz:8081/8014/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2205,18 +2205,18 @@
     }
   },
   {
-    "name": "Oriental TV 21 (Pucallpa)",
-    "path_name": "9c4db63137480c1eb82e05dcf20073af",
-    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
+    "name": "OK TeVe (Yurimaguas)",
+    "path_name": "13852856127ecf9cbcbc3455478bdb4d",
+    "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Planeta TV Moyobamba",
-    "path_name": "0190f822207db79a4f8cac902a761e77",
-    "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
+    "name": "Oriental TV 21 (Pucallpa)",
+    "path_name": "9c4db63137480c1eb82e05dcf20073af",
+    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
