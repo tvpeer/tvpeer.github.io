@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Canal RCN Novelas",
     "path_name": "002cd85d17f3848b8825c7809555a74b",
     "url": "http://45.179.140.242:8000/play/a0jf",
@@ -480,15 +471,6 @@
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ITC TV",
-    "path_name": "6ef3f2563d169987779b98c45dab360b",
-    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1163,15 +1145,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1227,6 +1200,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
