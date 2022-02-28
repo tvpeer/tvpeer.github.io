@@ -270,24 +270,6 @@
     }
   },
   {
-    "name": "Al Arabiya Al Hadath",
-    "path_name": "1c42c205ce3e10122285fba68c96d214",
-    "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Hadath TV",
-    "path_name": "0a4e55f7afdc53d2fa622b181dee1214",
-    "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RT Arabic",
     "path_name": "d332419c148373b9429e261bfc84fab2",
     "url": "https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8",
@@ -1404,15 +1386,6 @@
     }
   },
   {
-    "name": "News 7 Tamil",
-    "path_name": "415759a7f05fd8fd5b8ecca0acee20fd",
-    "url": "http://14.199.164.20:4001/play/a0kp/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1542,6 +1515,15 @@
     "name": "Press TV English",
     "path_name": "4db0637170b90138292f8c415eb56585",
     "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Press TV French",
+    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
+    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2313,15 +2295,6 @@
     }
   },
   {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -2594,15 +2567,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2793,15 +2757,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

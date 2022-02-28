@@ -774,6 +774,15 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -1317,24 +1326,6 @@
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "OTV",
-    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
-    "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Future TV",
-    "path_name": "447806b3ff207d93ddb61799959e84dc",
-    "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1953,6 +1944,33 @@
     }
   },
   {
+    "name": "Sent TV Global Network",
+    "path_name": "fff73616ef604b8ec51fbb0f11f5f7ce",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Select Network",
+    "path_name": "9bd6a8d1b5ca544164c2ea69046a97d0",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Television Network",
+    "path_name": "104e65b16979ce9e724aca20314edaf5",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Court TV Mystery (WTXL-TV4)",
     "path_name": "f9211d5929c5584061939e8165d9cb3f",
     "url": "https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8",
@@ -2091,15 +2109,6 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "LaRed TV",
-    "path_name": "f777082a01def810416b96601a700a87",
-    "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
