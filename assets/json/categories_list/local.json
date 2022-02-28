@@ -756,15 +756,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -828,15 +819,6 @@
     }
   },
   {
-    "name": "TVG Evento 1",
-    "path_name": "3de97eb0c2c97c812d25c106232d4192",
-    "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Infantil",
     "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
     "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
@@ -876,6 +858,15 @@
     "name": "tvG2",
     "path_name": "467b3314774de8741109c336336293a8",
     "url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVG Evento 5",
+    "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
+    "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2025,6 +2016,15 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2055,6 +2055,24 @@
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2232,6 +2250,15 @@
     }
   },
   {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
@@ -2361,6 +2388,15 @@
     "name": "Cable Netword TV",
     "path_name": "767e7a4892a20a1aa9b7837807aead93",
     "url": "https://ca.inka.net.pe/cntv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 109 FM (Lamas)",
+    "path_name": "c1cc00facd910de1896c73705c6ac6da",
+    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
