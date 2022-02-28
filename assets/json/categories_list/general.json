@@ -927,6 +927,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1305,15 +1314,6 @@
     }
   },
   {
-    "name": "K24",
-    "path_name": "a1a718b053aff16b11155fdcf639f27b",
-    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "UTV",
     "path_name": "5927dd335560a8b92ceaf0fe69dfaaa9",
     "url": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8",
@@ -1326,6 +1326,24 @@
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Future TV",
+    "path_name": "447806b3ff207d93ddb61799959e84dc",
+    "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1665,6 +1683,15 @@
     }
   },
   {
+    "name": "TVR 2",
+    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
+    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Prima TV",
     "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
     "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
@@ -1728,15 +1755,6 @@
     }
   },
   {
-    "name": "360°",
-    "path_name": "369e409dc4b843e9bc897cc3fca771de",
-    "url": "https://video1.in-news.ru/360/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Россия 1 +6",
     "path_name": "54661bc06c41985158e5e791c98b2c94",
     "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
@@ -1758,6 +1776,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2139,6 +2166,24 @@
     "categories": {
       "name": "General",
       "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
     }
   }
 ]
