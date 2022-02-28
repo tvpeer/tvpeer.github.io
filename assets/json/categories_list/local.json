@@ -1775,15 +1775,6 @@
   {
     "name": "Tokyo MX2",
     "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
-    "url": "https://movie.mcas.jp/mcas/mx2_2/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX2",
-    "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
     "url": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8",
     "categories": {
       "name": "Local",
@@ -2676,6 +2667,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
