@@ -1107,6 +1107,15 @@
     }
   },
   {
+    "name": "iNews",
+    "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
+    "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Metro TV",
     "path_name": "2d59551f6fbb1e023544927e527cdd98",
     "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
@@ -1890,15 +1899,6 @@
     }
   },
   {
-    "name": "Medi 1 TV Afrique",
-    "path_name": "b49bca2ba572e6a084b24abe108839be",
-    "url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Medi 1 TV Maghreb",
     "path_name": "b12f137df9610b6faf0af82715ae391f",
     "url": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
@@ -2613,15 +2613,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
