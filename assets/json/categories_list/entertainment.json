@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -333,15 +324,6 @@
     }
   },
   {
-    "name": "Dreamz TV",
-    "path_name": "cd9f109bf0712fbdf6c40c1d0348eb19",
-    "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Darshana TV",
     "path_name": "dce8ff0302cccc4ccbd99a6febded4d4",
     "url": "https://live.neestream.net/neestream_01/darshanatv/tracks-v1a1/mono.m3u8",
@@ -507,15 +489,6 @@
     "name": "YourTime TV",
     "path_name": "86e6a3fa13e819561264ac54588c6020",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Disney Channel Japan",
-    "path_name": "d9ba6486054fb2917bdd1387d9026aa1",
-    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -957,6 +930,15 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
