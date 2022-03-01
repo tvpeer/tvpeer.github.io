@@ -423,15 +423,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -588,6 +579,15 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "La Granja TV",
+    "path_name": "6ee3a194c8c2e399155be9dc53660aab",
+    "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2592,6 +2592,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2928,6 +2937,15 @@
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "С1 (Сургут)",
+    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
+    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
