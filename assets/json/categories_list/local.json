@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -822,6 +813,15 @@
     "name": "Zaracay TV",
     "path_name": "88a63521263537d9c1bfae7153539a97",
     "url": "https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Girona",
+    "path_name": "080367b5b1350504c030597028e7450b",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
