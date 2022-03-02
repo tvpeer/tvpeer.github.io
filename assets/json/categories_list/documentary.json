@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Al Jazeera Documentary",
-    "path_name": "8b929387df76d6c3fcc4a8ab527dc23b",
-    "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
     "name": "Canal Savoir",
     "path_name": "9f6dcfe8d0d709eb7276fdf96fe49626",
     "url": "https://hls.savoir.media/live/stream.m3u8",
@@ -102,6 +93,15 @@
     "name": "Court TV",
     "path_name": "ca4ee74b576c3ed2bc0c98522d22dce5",
     "url": "https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
+    "name": "Court TV",
+    "path_name": "ca4ee74b576c3ed2bc0c98522d22dce5",
+    "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
