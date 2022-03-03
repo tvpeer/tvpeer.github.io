@@ -855,6 +855,15 @@
     }
   },
   {
+    "name": "CCTV-13新闻",
+    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
+    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Euronews Deutsch",
     "path_name": "1a50817d575fac92674f96192d1f7b3a",
     "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -984,6 +993,15 @@
     "name": "Euronews Français",
     "path_name": "89da5d2227cd4cbbf3a22495086c1447",
     "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "LCI",
+    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
+    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2088,6 +2106,15 @@
     }
   },
   {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -2244,15 +2271,6 @@
     "name": "WPVI-TV News",
     "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
     "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WLKY-TV News Louisville KY",
-    "path_name": "13d8e54e4cfb74a21099c881e921242b",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2613,6 +2631,15 @@
     "name": "RT America",
     "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
     "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Payvand TV",
+    "path_name": "d3b9981fec2d16a819201201508011e4",
+    "url": "http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
