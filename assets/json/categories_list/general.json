@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -783,9 +774,18 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1892,15 +1892,6 @@
   {
     "name": "AWE Encore",
     "path_name": "62764de955f005dead03f1ece29f1f1a",
-    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "AWE Encore",
-    "path_name": "62764de955f005dead03f1ece29f1f1a",
     "url": "https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8",
     "categories": {
       "name": "General",
@@ -2145,15 +2136,6 @@
     "name": "LaRed TV",
     "path_name": "f777082a01def810416b96601a700a87",
     "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "PromarTV (Yaracuy)",
-    "path_name": "7a4d69951bb33167cd657a9b390e6664",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
