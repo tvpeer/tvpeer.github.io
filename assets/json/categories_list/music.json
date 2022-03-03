@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -30,6 +21,15 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Gaan Bangla",
+    "path_name": "f0bafbb598d2d1444359c0863fd687b3",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -630,6 +630,15 @@
     }
   },
   {
+    "name": "Xalastra TV",
+    "path_name": "576bd68a7acb4fd5c10c41a8e555a51b",
+    "url": "https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Magic TV",
     "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
     "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
@@ -1116,15 +1125,6 @@
     }
   },
   {
-    "name": "RumbaMix TV",
-    "path_name": "fb799fcf243a61aa76886be740d24485",
-    "url": "https://tvdatta.com:3344/live/rumbamixlive.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "CVM TV Digital",
     "path_name": "a3456c64a3a570aa1b0bc7e95ed1179e",
     "url": "https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8",
@@ -1173,15 +1173,6 @@
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "SanjuaneraTV",
-    "path_name": "513b38a59cd943e492b9b2a07cb78367",
-    "url": "https://live.obslivestream.com/sanjuaneramux/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1287,6 +1278,15 @@
     }
   },
   {
+    "name": "Muzzik HipHop Serbia",
+    "path_name": "76eff5f3ebf93643704ded73bdc197a4",
+    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Muzzik Jeka Serbia",
     "path_name": "420831baac9bcbac3d3c66a5751c3329",
     "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
@@ -1371,6 +1371,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
