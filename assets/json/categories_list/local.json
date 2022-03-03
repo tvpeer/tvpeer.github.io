@@ -342,6 +342,15 @@
     }
   },
   {
+    "name": "TV Sol Comunidade",
+    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
+    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -567,6 +576,15 @@
     }
   },
   {
+    "name": "Estación TV (Chillán)",
+    "path_name": "c3d06dc3c13e4689c1fa65825ac1536d",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Exprezión TV (EXTV | Los Álamos)",
     "path_name": "ad8198cdd8d62a1915443d9f4f96b6c1",
     "url": "https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8",
@@ -588,6 +606,15 @@
     "name": "La Granja TV",
     "path_name": "6ee3a194c8c2e399155be9dc53660aab",
     "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "La Popular TV (Salamanca)",
+    "path_name": "c0b300bed613b9cb63e76f01554086d8",
+    "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -759,15 +786,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2037,24 +2055,6 @@
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Master TV (Tarapoto)",
-    "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
-    "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
