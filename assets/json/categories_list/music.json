@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -1134,6 +1125,15 @@
     }
   },
   {
+    "name": "Turbo Mix Radio TV",
+    "path_name": "b45b6abb3fd3aaf601db87ac152e3617",
+    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Best Cable Music",
     "path_name": "49cdede317e9ae8ddd307ed832da2bee",
     "url": "https://ca.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8",
@@ -1650,6 +1650,24 @@
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://vidaprimo-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
