@@ -882,15 +882,6 @@
     }
   },
   {
-    "name": "RTU",
-    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
-    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -993,15 +984,6 @@
     "name": "Euronews Français",
     "path_name": "89da5d2227cd4cbbf3a22495086c1447",
     "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "LCI",
-    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
-    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2115,6 +2097,15 @@
     }
   },
   {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -2199,6 +2190,15 @@
     "name": "Sky News",
     "path_name": "e8111c26a56c75630bb0c8f2817ca325",
     "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "BBC News HD",
+    "path_name": "809da825465ef017b485fcbb80e9ab28",
+    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2558,6 +2558,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2693,6 +2702,15 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
     "categories": {
       "name": "News",
@@ -2757,15 +2775,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
