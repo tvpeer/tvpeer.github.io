@@ -38,15 +38,6 @@
   {
     "name": "CCTV-3综艺",
     "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
     "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -75,15 +66,6 @@
     "name": "Humor 24-7",
     "path_name": "3c58d5fc36bf5f47930fa2c8e4dc81d7",
     "url": "https://srv.panelcast.net/humor247/humor247/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "TF1",
-    "path_name": "d2db20d20ad6a72ca409787b6fe50285",
-    "url": "http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -270,6 +252,15 @@
     }
   },
   {
+    "name": "Kairali Arabia",
+    "path_name": "4d374294e90774965008de67b4c2cb66",
+    "url": "https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Asianet Middle East",
     "path_name": "1141d5139941c94c26460e83a72717ba",
     "url": "http://14.199.164.20:4001/play/a0k6/index.m3u8",
@@ -354,6 +345,15 @@
     "name": "Fakt Marathi",
     "path_name": "399f3ebe1a6fe26e3832a3f6a4936f6b",
     "url": "http://14.199.164.20:4001/play/a0q8/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Imayam",
+    "path_name": "29078ed7f854168ed01ae598f41191fe",
+    "url": "https://idvd.multitvsolution.com/idvo/imayamtv.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1191,6 +1191,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
