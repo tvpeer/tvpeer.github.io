@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -441,6 +432,15 @@
     }
   },
   {
+    "name": "SBT TV Serra Dourada",
+    "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Verdes Campos",
     "path_name": "02989a8ac0d9610a95e91b1885239e4a",
     "url": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
@@ -462,6 +462,15 @@
     "name": "Catve Master TV",
     "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
     "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -747,6 +756,24 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
@@ -876,6 +903,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1350,6 +1386,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1434,15 +1479,6 @@
     "name": "USIL TV",
     "path_name": "f5833f8f7f0b313ea1bebf70cf6e07d1",
     "url": "https://video.produccionesmagicorp.com/redes/video.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Onda Digital",
-    "path_name": "c99f22979172b8dc73f36941ec96d527",
-    "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1710,15 +1746,6 @@
     }
   },
   {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
@@ -1785,15 +1812,6 @@
     "name": "大立電視",
     "path_name": "75c19b357c2c0f514208035d5a5fb390",
     "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "原住民電視",
-    "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
-    "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
