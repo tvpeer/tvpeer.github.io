@@ -621,6 +621,15 @@
     }
   },
   {
+    "name": "Channel T1",
+    "path_name": "9a508f051a628243eb88e4662f6b87c0",
+    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Channel 24",
     "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
@@ -840,15 +849,6 @@
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CCTV-13新闻",
-    "path_name": "28c44bdccdabd336032d2ae9c3278a79",
-    "url": "http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1263,6 +1263,15 @@
     "name": "Real News Kerala",
     "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
     "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Time TV",
+    "path_name": "f722d04ac7d9c4fef3be1cc8dcb297b5",
+    "url": "https://cloudflare-cdn301.ottpro.in/live/timetv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2079,6 +2088,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2685,6 +2703,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

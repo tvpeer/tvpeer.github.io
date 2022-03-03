@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -792,6 +783,15 @@
     }
   },
   {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
@@ -1413,6 +1413,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1566,9 +1575,36 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Palestine Mubasher",
     "path_name": "12152e495327e6cee3959eb9d4697170",
     "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ajyal TV",
+    "path_name": "3d6635da4ad3983076dffc58715b7713",
+    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ajyal TV",
+    "path_name": "3d6635da4ad3983076dffc58715b7713",
+    "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1749,6 +1785,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
