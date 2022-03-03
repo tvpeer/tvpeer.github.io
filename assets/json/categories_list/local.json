@@ -792,15 +792,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1971,6 +1962,15 @@
     }
   },
   {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
@@ -2172,6 +2172,15 @@
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FuegoTV (Lima)",
+    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
+    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
