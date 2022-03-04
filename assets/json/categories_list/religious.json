@@ -783,15 +783,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
@@ -1035,6 +1026,15 @@
     }
   },
   {
+    "name": "TV MANA-1 PORTUGAL",
+    "path_name": "363c786cfe48941a857cf30d8a748c34",
+    "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Kuriakos TV",
     "path_name": "5d714c5596e08b55bf97426e6a5f0717",
     "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
@@ -1101,24 +1101,6 @@
     "name": "TV Maná 2",
     "path_name": "ca27ebc7f223bdb627f8188376cbdb0a",
     "url": "http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA (RU)",
-    "path_name": "64201021e42747c3e58575f1d8475990",
-    "url": "http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA (ESP)",
-    "path_name": "691954cea4d263bf851dab912ce0ab9b",
-    "url": "http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1776,15 +1758,6 @@
     "name": "Alkerazatv",
     "path_name": "90495f55b9397abdf13a03d19d81ab26",
     "url": "https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "El Maqar",
-    "path_name": "cbde484025c8e228be54c6af2f6ed7eb",
-    "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
     "categories": {
       "name": "Religious",
       "slug": "religious"
