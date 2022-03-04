@@ -990,15 +990,6 @@
     }
   },
   {
-    "name": "EBC1 TV",
-    "path_name": "15cc362e279dceff491f3990e5f2671d",
-    "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Company TV",
     "path_name": "2661ef89e8bbd346ed6beaae79944801",
     "url": "http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8",
@@ -1371,6 +1362,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
