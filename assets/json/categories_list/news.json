@@ -999,6 +999,15 @@
     }
   },
   {
+    "name": "LCI",
+    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
+    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
@@ -2034,15 +2043,6 @@
     }
   },
   {
-    "name": "Россия 24 (Н.Новгород)",
-    "path_name": "f554e0b3a0b6dc908d29b41ed7fab43b",
-    "url": "https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Россия 24 (Чита)",
     "path_name": "f4283efe09ff6020524aaec49e1379fd",
     "url": "https://gtrkchita.ru:8081/hls/r24-chita_360p.m3u8",
@@ -2199,6 +2199,15 @@
     "name": "Fox News Channel",
     "path_name": "c6f7222c81ed1311148e92c94aa06796",
     "url": "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2559,6 +2568,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
