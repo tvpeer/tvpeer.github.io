@@ -90,9 +90,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -117,18 +117,18 @@
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "name": "Առաջին ալիք",
+    "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
+    "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,6 +765,15 @@
     }
   },
   {
+    "name": "Canal RCN",
+    "path_name": "06ea801988e7edf530b1230768e27bef",
+    "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
@@ -792,9 +801,36 @@
     }
   },
   {
+    "name": "Canal 1",
+    "path_name": "615ffb0713a3a67b040201f2a6ba60c9",
+    "url": "https://tna5.bozztv.com/LiveCH007/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Señal Colombia",
     "path_name": "64bfdf1fc9f0016a9cc38aec53179fbb",
     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Canal Caracol",
+    "path_name": "b06105468d3a7ae07b4a4c478866e9d1",
+    "url": "https://tna5.bozztv.com/LiveCH005/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Canal Caracol HD2",
+    "path_name": "8f253af4370b8a50917fe0f6263c2992",
+    "url": "https://tna5.bozztv.com/LiveCH008/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1677,6 +1713,24 @@
     "name": "360°",
     "path_name": "369e409dc4b843e9bc897cc3fca771de",
     "url": "https://video1.in-news.ru/360/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Россия 1 +6",
+    "path_name": "54661bc06c41985158e5e791c98b2c94",
+    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Россия 1 +6",
+    "path_name": "54661bc06c41985158e5e791c98b2c94",
+    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

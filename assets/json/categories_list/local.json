@@ -747,9 +747,27 @@
     }
   },
   {
+    "name": "City TV (Bogotà | Cundinamarca)",
+    "path_name": "56723578aa6b96da3fe55f3f6663efae",
+    "url": "https://tna5.bozztv.com/LiveCH006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2214,6 +2232,15 @@
     }
   },
   {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2520,6 +2547,15 @@
     }
   },
   {
+    "name": "Телеканал 86 (Сургут)",
+    "path_name": "902f3675cd784429cc4353b9291d5838",
+    "url": "https://sitv.ru/hls/s86.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Сургут 24",
     "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
     "url": "https://video1.in-news.ru/c24/index.m3u8",
@@ -2649,6 +2685,15 @@
     "name": "Эхо TV (Рязань)",
     "path_name": "a22fe26511300393f0465ebf1207e449",
     "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ЮТВ (Чебоксары)",
+    "path_name": "6edee0c70dd83b855d0fe47d631055d1",
+    "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
