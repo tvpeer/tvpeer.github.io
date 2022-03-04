@@ -765,15 +765,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
@@ -1038,6 +1029,15 @@
     "name": "Zagros",
     "path_name": "e44c7ebb99f78a9753ee5a3646650077",
     "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Cihan TV",
+    "path_name": "1e05cc1712897d7d3d7b4c736646fc45",
+    "url": "http://cdn.liveshell.net:1935/live/cihann/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1386,15 +1386,6 @@
     }
   },
   {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1407,33 +1398,6 @@
     "name": "MBC",
     "path_name": "d11fa117fb730e077192de81a07db08c",
     "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM Internacional",
-    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM",
-    "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM",
-    "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
