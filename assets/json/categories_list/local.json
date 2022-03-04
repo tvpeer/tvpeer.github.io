@@ -162,6 +162,15 @@
     }
   },
   {
+    "name": "Telenord Corrientes",
+    "path_name": "9d49de079f499fc31f02f55416f28f0a",
+    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "BTV Chittagong",
     "path_name": "ccdb0399ec3f5c5fbdc6ad3f28701cec",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8",
@@ -2088,15 +2097,6 @@
     }
   },
   {
-    "name": "CreoTV (Cajamarca)",
-    "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
-    "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
@@ -2244,24 +2244,6 @@
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Altomayo)",
-    "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
-    "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Nororiente)",
-    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
-    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2547,15 +2529,6 @@
     }
   },
   {
-    "name": "Телеканал 86 (Сургут)",
-    "path_name": "902f3675cd784429cc4353b9291d5838",
-    "url": "https://sitv.ru/hls/s86.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Сургут 24",
     "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
     "url": "https://video1.in-news.ru/c24/index.m3u8",
@@ -2637,15 +2610,6 @@
     }
   },
   {
-    "name": "Липецкое время",
-    "path_name": "335b708c0ac98f504e55c0c76c64f965",
-    "url": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Между.Net (Междуреченск)",
     "path_name": "51961435c21d8ba400bf66b4d626187b",
     "url": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8",
@@ -2700,15 +2664,6 @@
     }
   },
   {
-    "name": "ЮТВ (Чебоксары)",
-    "path_name": "6edee0c70dd83b855d0fe47d631055d1",
-    "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
@@ -2745,27 +2700,9 @@
     }
   },
   {
-    "name": "Ветта 24 (Пермь)",
-    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "С1 (Сургут)",
-    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
-    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

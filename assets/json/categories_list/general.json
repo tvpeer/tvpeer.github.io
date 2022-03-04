@@ -126,27 +126,9 @@
     }
   },
   {
-    "name": "Առաջին ալիք",
-    "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
-    "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -228,6 +210,15 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -774,24 +765,6 @@
     }
   },
   {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
@@ -885,15 +858,6 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1719,24 +1683,6 @@
     }
   },
   {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
@@ -1776,15 +1722,6 @@
     "name": "WOW TV",
     "path_name": "dc5ea1b50761502eb23510e8482ea260",
     "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Syria TV",
-    "path_name": "1a67757ef1bd124f8a09e681f6ea45b3",
-    "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2109,15 +2046,6 @@
     "name": "LaRed TV",
     "path_name": "f777082a01def810416b96601a700a87",
     "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "PromarTV (Yaracuy)",
-    "path_name": "7a4d69951bb33167cd657a9b390e6664",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
