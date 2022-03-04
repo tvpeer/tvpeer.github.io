@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "TVunisat",
-    "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
-    "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
@@ -2376,15 +2367,6 @@
     }
   },
   {
-    "name": "Millenium 109 FM (Lamas)",
-    "path_name": "c1cc00facd910de1896c73705c6ac6da",
-    "url": "https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "NorSelva RTV (Rioja)",
     "path_name": "0987514277d76d1b01b90db8d923abe8",
     "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
@@ -2547,15 +2529,6 @@
     }
   },
   {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio Tropical Tarapoto",
     "path_name": "8453201823fc7d219cd99f78e5d804a7",
     "url": "https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8",
@@ -2577,6 +2550,15 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Евразия (Орск)",
+    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
