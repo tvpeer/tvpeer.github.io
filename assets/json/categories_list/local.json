@@ -585,15 +585,6 @@
     }
   },
   {
-    "name": "La Popular TV (Salamanca)",
-    "path_name": "c0b300bed613b9cb63e76f01554086d8",
-    "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
@@ -759,6 +750,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2016,18 +2016,18 @@
     }
   },
   {
-    "name": "DMJ (Cuzco)",
-    "path_name": "8dac651380b06c3e429ebe055ca13085",
-    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
+    "name": "Proyecta Televisión (Huacho)",
+    "path_name": "398ff620923591855eada0d93fd3ab7a",
+    "url": "https://servilive.com:3194/live/proyectatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "name": "DMJ (Cuzco)",
+    "path_name": "8dac651380b06c3e429ebe055ca13085",
+    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2208,6 +2208,15 @@
     "name": "Planeta TV Moyobamba",
     "path_name": "0190f822207db79a4f8cac902a761e77",
     "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "QT Televisión (Cuzco)",
+    "path_name": "b5816595f3baa79a58dcb58854f37021",
+    "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
