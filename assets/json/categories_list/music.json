@@ -1,5 +1,23 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -711,9 +729,9 @@
     }
   },
   {
-    "name": "9XM",
-    "path_name": "5db316206030ffbaba9b42f60a36a0e3",
-    "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
+    "name": "Mtunes Plus",
+    "path_name": "4ce8ec115ec18f19baad780e2d5eacce",
+    "url": "http://14.199.164.20:4001/play/a0p2/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -732,6 +750,15 @@
     "name": "MH1 Music",
     "path_name": "662a0607f113817ade24c4bf4e63d6c4",
     "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -768,15 +795,6 @@
     "name": "A NEWSDONs TV- SWAG SADDA VAKRAA",
     "path_name": "9f3741e98276f285a332cf195c9482a0",
     "url": "http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Relax TV",
-    "path_name": "0ae04150fad0720c728707f7b79d2f66",
-    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -822,6 +840,15 @@
     "name": "Sana Plus",
     "path_name": "bf4717a206396ee4798a2c83527a0df1",
     "url": "http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vaanvavil",
+    "path_name": "610dfefa71d4e057f2ed9eeda7a997ca",
+    "url": "http://14.199.164.20:4001/play/a0nx/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1107,24 +1134,6 @@
     }
   },
   {
-    "name": "Best Cable Music",
-    "path_name": "49cdede317e9ae8ddd307ed832da2bee",
-    "url": "https://ca.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Best Cable Más Cumbia",
-    "path_name": "0024a0cf86c533e014225f37519bee73",
-    "url": "https://ca.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV Peruanísima",
     "path_name": "fc5e1818c358ce82661e54c77e16ad49",
     "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
@@ -1161,15 +1170,6 @@
     }
   },
   {
-    "name": "Cable Netword Cumbia TV",
-    "path_name": "c8eff9966d522b40c428a7106d91561d",
-    "url": "https://ca.inka.net.pe/cumbiatv/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Radio San Borja TV",
     "path_name": "483a1a898f6111b7c78d06f35eba46c3",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
@@ -1191,15 +1191,6 @@
     "name": "Visión TV Musica",
     "path_name": "3302dc2e106d23ad007eed27b4748281",
     "url": "https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Hatun TV",
-    "path_name": "e1292bbb152a8196029ca45cd1d2f3c0",
-    "url": "https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
