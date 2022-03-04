@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Rede Brasil de Comunicação",
+    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -291,15 +300,6 @@
     "name": "Radio Uniem",
     "path_name": "9dc09ef2716c26c4b80675cd2c276877",
     "url": "https://5eff35271151c.streamlock.net:1936/8110/8110/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TNE",
-    "path_name": "d1f63de2ce5f7c87c38d4ddb927c7d16",
-    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -633,6 +633,33 @@
     "name": "ABNsat",
     "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: Between the two holy shrines",
+    "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The entrance of the holy sanctuary",
+    "path_name": "f5143e093c6e6c236dc827672484d53e",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The window of Al-Kafeel",
+    "path_name": "ce691daa789ab64cd8589b61ef6b7e60",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -999,6 +1026,15 @@
     }
   },
   {
+    "name": "Al Aqsa Channel",
+    "path_name": "577b9aa4e45e1082dea53497b64bef5c",
+    "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV MANA (ENG)",
     "path_name": "dfd35f1721c3eb0e04af20b8953c6e50",
     "url": "http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8",
@@ -1038,6 +1074,24 @@
     "name": "TV MANA-1 PORTUGAL",
     "path_name": "363c786cfe48941a857cf30d8a748c34",
     "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
+    "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
+    "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
