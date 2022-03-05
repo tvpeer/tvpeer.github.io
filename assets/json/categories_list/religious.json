@@ -414,15 +414,6 @@
     }
   },
   {
-    "name": "Coptic TV",
-    "path_name": "17ad62b9301f9e8bf2480b5eb3ae76c8",
-    "url": "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "The Kingdom Sat",
     "path_name": "ac58ed653f3d9c306a67018d61051689",
     "url": "https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8",
@@ -903,6 +894,15 @@
     "name": "TV Maná Moçambique",
     "path_name": "0f75c73a60b235b4e871068b4ff48b34",
     "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBN",
+    "path_name": "135dfda1304897290c6d9c0fff8f61f8",
+    "url": "https://inliveserver.com:1936/17510/17510/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1818,27 +1818,9 @@
     }
   },
   {
-    "name": "Alkarma TV North America & Canada",
-    "path_name": "ec98e906d468bfd99742ebd9e513ae0a",
-    "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Alkarma TV Praise",
     "path_name": "6ad47286d493574784914cd52274c469",
     "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Alkarma TV Youth & English",
-    "path_name": "2eb11c488c97a66004bf6a54e4ab45f8",
-    "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1890,27 +1872,9 @@
     }
   },
   {
-    "name": "Logos TV",
-    "path_name": "15f8cb5cbd4e96a378f942d7976c87be",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Almagd TV Middle East",
     "path_name": "a0193e7a1dac22db4284bcfc470ece13",
     "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Almagd TV North America",
-    "path_name": "ec6bb7fa78c4bda19433f1d04be12e2e",
-    "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2154,15 +2118,6 @@
     "name": "Trinity Channel",
     "path_name": "f2099ab2dcb8ca3c06ed48e22cad4db5",
     "url": "http://rtmp1.abnsat.com/hls/trinity.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Logos TV English",
-    "path_name": "1b6e9fb6e3376c443773ba421fb9ff08",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
