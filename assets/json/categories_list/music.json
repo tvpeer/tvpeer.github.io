@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -765,6 +774,15 @@
     }
   },
   {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Public Music",
     "path_name": "844c60da5656272f414cb50ec450925c",
     "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
@@ -846,15 +864,6 @@
     }
   },
   {
-    "name": "Vaanvavil",
-    "path_name": "610dfefa71d4e057f2ed9eeda7a997ca",
-    "url": "http://14.199.164.20:4001/play/a0nx/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MK Tunes",
     "path_name": "0576b1143ea1a75b5186c2ae09e421d0",
     "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
@@ -903,6 +912,15 @@
     "name": "Diyar TV",
     "path_name": "050b9574112eabd36f769194a1a7b6b8",
     "url": "http://51.210.199.28/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "High Vision",
+    "path_name": "b82414f628acd86dc21be4434b264ee4",
+    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
