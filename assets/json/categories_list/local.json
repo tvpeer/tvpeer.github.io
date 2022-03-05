@@ -765,15 +765,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2016,6 +2007,15 @@
     }
   },
   {
+    "name": "Kachorro (Super TV | Amazonas)",
+    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
+    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Proyecta Televisión (Huacho)",
     "path_name": "398ff620923591855eada0d93fd3ab7a",
     "url": "https://servilive.com:3194/live/proyectatvlive.m3u8",
@@ -2100,6 +2100,15 @@
     "name": "AsiriTV (Lima)",
     "path_name": "2f106380faf53eca147780035513a4e0",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Auténtica Televisión",
+    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
+    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
