@@ -126,15 +126,6 @@
     }
   },
   {
-    "name": "Claro Sports",
-    "path_name": "b9e77517b5746347b557f27ec8ab90b3",
-    "url": "http://45.179.140.242:8000/play/a0ht",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Bahrain Sports 1",
     "path_name": "9b6df9dbed0f8170d9d03cfae936f0d1",
     "url": "http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8",
@@ -669,6 +660,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://playerstv-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
