@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "MusicTop",
-    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -498,6 +489,15 @@
     "name": "Óčko Gold",
     "path_name": "421217be063b8f4f5e6a5a8a4ec17696",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Slagr TV",
+    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
+    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1569,6 +1569,24 @@
     "name": "TVS Music Network",
     "path_name": "a54f2f258d6934682d58f220d6932f53",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "The Retro Channel",
+    "path_name": "f12aa797054038d0b72cc9f267980241",
+    "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Today's Latin Pop",
+    "path_name": "efc1221d30fa719ad57e2431a9501941",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
