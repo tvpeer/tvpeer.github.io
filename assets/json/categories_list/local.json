@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TVunisat",
-    "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
-    "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
@@ -732,6 +723,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
