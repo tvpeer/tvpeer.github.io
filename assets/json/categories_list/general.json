@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -441,15 +432,6 @@
     }
   },
   {
-    "name": "Bolivia TV 7.2",
-    "path_name": "3cfe4928a1fa763c577aa512513f826d",
-    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Cultura PR Catve",
     "path_name": "bfe5a46aeff10142c356489b7af9da33",
     "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
@@ -606,6 +588,15 @@
     "name": "Catve FM",
     "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
     "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Carioca",
+    "path_name": "48d282fa44d1c5970359b7be5418675a",
+    "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -777,15 +768,6 @@
     "name": "CCTV-1综合",
     "path_name": "4de427ba74795e768b80b0f4d011b5ce",
     "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1422,6 +1404,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1692,6 +1683,15 @@
     }
   },
   {
+    "name": "Prima TV",
+    "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
+    "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
@@ -1740,24 +1740,6 @@
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
     "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
