@@ -99,6 +99,15 @@
     }
   },
   {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -129,6 +138,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -468,15 +486,6 @@
     }
   },
   {
-    "name": "Catve Master TV",
-    "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
-    "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RedeTV! Tocantins",
     "path_name": "0d637ae20a1907c0194ff45de6510cb5",
     "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
@@ -570,15 +579,6 @@
     "name": "TV BRICS Portuguese",
     "path_name": "9590801d96eec46c25414c97d033376b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Catve FM",
-    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
-    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,6 +765,15 @@
     }
   },
   {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
@@ -894,15 +903,6 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RCTI",
-    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1683,24 +1683,6 @@
     }
   },
   {
-    "name": "TVR Târgu Mureș",
-    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
-    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Iași",
-    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
-    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Красная линия",
     "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
     "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
@@ -1749,6 +1731,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
