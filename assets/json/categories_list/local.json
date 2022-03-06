@@ -666,15 +666,6 @@
     }
   },
   {
-    "name": "Ñuble RTV (Chillán)",
-    "path_name": "047c61c110127cf131cc81ed3b540fa7",
-    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Senado",
     "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
@@ -2043,6 +2034,15 @@
     }
   },
   {
+    "name": "TV5 Soritor",
+    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
+    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
@@ -2145,15 +2145,6 @@
     "name": "Planeta TV Moyobamba",
     "path_name": "0190f822207db79a4f8cac902a761e77",
     "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Innova FM (Bagua Grande)",
-    "path_name": "6bb261cd341175bba9043fd9496bfabe",
-    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2316,15 +2307,6 @@
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NorSelva RTV (Rioja)",
-    "path_name": "0987514277d76d1b01b90db8d923abe8",
-    "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2610,6 +2592,15 @@
     }
   },
   {
+    "name": "Липецкое время",
+    "path_name": "335b708c0ac98f504e55c0c76c64f965",
+    "url": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Между.Net (Междуреченск)",
     "path_name": "51961435c21d8ba400bf66b4d626187b",
     "url": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8",
@@ -2709,9 +2700,27 @@
     }
   },
   {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "С1 (Сургут)",
+    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
+    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

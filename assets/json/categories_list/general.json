@@ -81,9 +81,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -210,6 +210,15 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -486,6 +495,15 @@
     }
   },
   {
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -732,15 +750,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-1综合",
-    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
-    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1719,9 +1728,36 @@
     }
   },
   {
+    "name": "Россия 1 +6",
+    "path_name": "54661bc06c41985158e5e791c98b2c94",
+    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Россия 1 +6",
+    "path_name": "54661bc06c41985158e5e791c98b2c94",
+    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1947,15 +1983,6 @@
     "name": "Court TV Mystery (WTXL-TV4)",
     "path_name": "f9211d5929c5584061939e8165d9cb3f",
     "url": "https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Millennium TV USA",
-    "path_name": "bbbea8cc47df74468fc7a70a7eec1283",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
