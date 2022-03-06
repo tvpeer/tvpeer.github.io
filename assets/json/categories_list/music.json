@@ -1,5 +1,14 @@
 [
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -891,15 +900,6 @@
     }
   },
   {
-    "name": "High Vision",
-    "path_name": "b82414f628acd86dc21be4434b264ee4",
-    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "NAVAHANG",
     "path_name": "3bfd0c896cfd7ad296c1987277d3c1d5",
     "url": "http://51.210.227.130/hls/stream.m3u8",
@@ -1137,15 +1137,6 @@
     "name": "SanjuaneraTV",
     "path_name": "513b38a59cd943e492b9b2a07cb78367",
     "url": "https://live.obslivestream.com/sanjuaneramux/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Stereo TV (Peru)",
-    "path_name": "858be35aec06202a74007b5e71a3ffaa",
-    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
