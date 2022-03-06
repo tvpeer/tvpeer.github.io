@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
@@ -237,15 +228,6 @@
     "name": "Alvin Channel TV",
     "path_name": "af035aef2df699d66b9a68c4742e79ed",
     "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Muğan TV",
-    "path_name": "f9b74f18048b2cbb70f49cd45485775e",
-    "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,6 +747,15 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "CCTV-4中文国际",
     "path_name": "3a17dda394dda5d22fcbf51472192e6c",
     "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
@@ -1002,15 +993,6 @@
     "name": "Al Sharqiya",
     "path_name": "17b1a2ce6a7b7a661930bdf7e376b1a7",
     "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Rasheed",
-    "path_name": "043c112eb2a23ece8cbe6a68e3e19808",
-    "url": "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2127,6 +2109,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "LaRed TV",
+    "path_name": "f777082a01def810416b96601a700a87",
+    "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
