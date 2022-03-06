@@ -999,6 +999,15 @@
     }
   },
   {
+    "name": "LCI",
+    "path_name": "3f670dc3253bcd675dd467f3a4525dce",
+    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
@@ -1056,6 +1065,15 @@
     "name": "BeritaSatu",
     "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
     "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "iNews",
+    "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
+    "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2070,15 +2088,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2540,15 +2549,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2718,6 +2718,15 @@
     }
   },
   {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -2730,6 +2739,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
