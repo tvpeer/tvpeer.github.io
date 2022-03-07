@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Catacama TV",
     "path_name": "5a8c557720d6aee66533457e328a7b6d",
     "url": "https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8",
@@ -738,6 +729,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1047,6 +1047,15 @@
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Maya TV",
+    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
+    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1791,6 +1800,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2151,6 +2169,15 @@
     }
   },
   {
+    "name": "Planeta TV Moyobamba",
+    "path_name": "0190f822207db79a4f8cac902a761e77",
+    "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
@@ -2331,6 +2358,15 @@
     }
   },
   {
+    "name": "Genios TV (Moyobamba)",
+    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
+    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
@@ -2484,6 +2520,15 @@
     }
   },
   {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
@@ -2505,15 +2550,6 @@
     "name": "Universitaria TV (Chanchamayo)",
     "path_name": "f33338a5f62e3a11997f99458109b5be",
     "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vía Altomayo",
-    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
-    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
