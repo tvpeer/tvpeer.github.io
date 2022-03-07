@@ -747,6 +747,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -786,15 +795,6 @@
     "name": "Zaracay TV",
     "path_name": "88a63521263537d9c1bfae7153539a97",
     "url": "https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1836,6 +1836,15 @@
     }
   },
   {
+    "name": "Omroep Centraal TV",
+    "path_name": "04799935f932e880938546ea203b0137",
+    "url": "https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Feel Good TV",
     "path_name": "583bf58d00175d8dcfabbe45a60d4c53",
     "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
@@ -1872,9 +1881,27 @@
     }
   },
   {
+    "name": "Omroep Tilburg TV",
+    "path_name": "ff6d8783ac40a891558447792ab7e727",
+    "url": "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Samen1 TV",
     "path_name": "55b0abc46bf655bd8d3cddc521199aeb",
     "url": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio8 TV",
+    "path_name": "b37d2bd66453ee6c900b45f46fa731c6",
+    "url": "https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1893,6 +1920,15 @@
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio90 TV",
+    "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
+    "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1929,6 +1965,24 @@
     "name": "LOE TV",
     "path_name": "b169d9dd263586b141e303c964acb63c",
     "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Omroep P&M TV",
+    "path_name": "6293b66f13e16fc08c48bfba235f5ec8",
+    "url": "https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RTV Connect TV",
+    "path_name": "b40de220a63657099f317faadbab70da",
+    "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2163,15 +2217,6 @@
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2766,15 +2811,6 @@
     "name": "TV Губерния (Воронеж)",
     "path_name": "cbdad481a9b341506ae2bd580be771d3",
     "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ветта 24 (Пермь)",
-    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
