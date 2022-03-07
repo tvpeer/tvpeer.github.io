@@ -81,9 +81,27 @@
     }
   },
   {
+    "name": "Shop TV",
+    "path_name": "c882cf405d89e9c89b79d7171da69f2f",
+    "url": "https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8",
+    "categories": {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  },
+  {
     "name": "Shopping Live",
     "path_name": "d13026fb07945e1f7d7cd3401a79c77c",
     "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "categories": {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  },
+  {
+    "name": "Luxury",
+    "path_name": "dd867fcf0c006484f8b9b49306a3d697",
+    "url": "http://nano.teleservice.su:8080/hls/luxury.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
@@ -147,6 +165,15 @@
     "name": "QVC PLUS",
     "path_name": "86de0c73ccfa2188e52a7e69f78936be",
     "url": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8",
+    "categories": {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  },
+  {
+    "name": "HSN",
+    "path_name": "50b2efd51b9ae6c93be974c3940a7077",
+    "url": "https://hsn.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
