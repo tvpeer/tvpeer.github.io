@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -513,6 +504,15 @@
     }
   },
   {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -759,6 +759,15 @@
     "name": "Kalemeh TV",
     "path_name": "2f4d70c9246b0dddefab5512b5d87dce",
     "url": "http://51.210.199.37/hls/stream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Marjaeyat",
+    "path_name": "76a5735698e42e76e6adf6ab6654c916",
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1911,15 +1920,6 @@
     "name": "Logos TV",
     "path_name": "15f8cb5cbd4e96a378f942d7976c87be",
     "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Logos TV Mubasher",
-    "path_name": "4b7de805413d46701a9224055f38f50f",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
