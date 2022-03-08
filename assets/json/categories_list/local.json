@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -1836,6 +1827,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2241,15 +2241,6 @@
     }
   },
   {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2388,15 +2379,6 @@
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Genios TV (Moyobamba)",
-    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
-    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3468,15 +3450,6 @@
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
     "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Lake Havasu City 4",
-    "path_name": "eedcbae64c57f370f763c676ba497a84",
-    "url": "https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
