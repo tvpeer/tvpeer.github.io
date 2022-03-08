@@ -756,15 +756,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1827,15 +1818,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2547,15 +2529,6 @@
     }
   },
   {
-    "name": "Televisión Tarapoto",
-    "path_name": "d1f7a0f591846e83766997eaac5be0d5",
-    "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
@@ -2613,15 +2586,6 @@
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3450,6 +3414,15 @@
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
     "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Lake Havasu City 4",
+    "path_name": "eedcbae64c57f370f763c676ba497a84",
+    "url": "https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
