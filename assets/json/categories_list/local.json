@@ -756,15 +756,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1800,6 +1791,24 @@
     }
   },
   {
+    "name": "SET Televisión Canal 26.1",
+    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
+    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.2",
+    "path_name": "6ac22eaa8921afc2fce942415159eae8",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -2226,15 +2235,6 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3495,15 +3495,6 @@
     "name": "CBS 10 Columbus OH (WBNS-TV)",
     "path_name": "e6d1e0f3de731017f9c9a6cbe5337ebd",
     "url": "https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS 46 Atlanta GA (WGCL-TV)",
-    "path_name": "8cab5d30a0c19048e85108ce923a47e9",
-    "url": "https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
