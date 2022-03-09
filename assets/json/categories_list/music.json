@@ -486,15 +486,6 @@
     }
   },
   {
-    "name": "Slagr TV",
-    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
-    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Óčko Expres",
     "path_name": "a83820a7baed73340508edbb5eb5906e",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
@@ -678,6 +669,15 @@
     "name": "Desi Channel",
     "path_name": "2a80d7c4e843d9467a9ef72436741db6",
     "url": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Steelbird Music",
+    "path_name": "645ff6b97c96279d43aad58013abfb97",
+    "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
