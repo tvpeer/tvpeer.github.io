@@ -243,6 +243,33 @@
     }
   },
   {
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVN Brasil",
+    "path_name": "9791af523744668d5f9125bf345e1295",
+    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nova Era TV",
+    "path_name": "97002ce81e35169dff3b16c94d105fbd",
+    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Mon",
     "path_name": "827c459cf6843cd8eec5ef140c100b2e",
     "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
@@ -2241,15 +2268,6 @@
     }
   },
   {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2262,15 +2280,6 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2541,15 +2550,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2874,15 +2874,6 @@
     "name": "TV Губерния (Воронеж)",
     "path_name": "cbdad481a9b341506ae2bd580be771d3",
     "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ветта 24 (Пермь)",
-    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

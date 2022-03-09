@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -486,6 +477,15 @@
     }
   },
   {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Guará",
     "path_name": "493f3f239af0744a0c302aca46a0d053",
     "url": "https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8",
@@ -561,6 +561,15 @@
     "name": "Catve2",
     "path_name": "85f63207a0a009a357ef68442ca165fd",
     "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Diário do Sertão",
+    "path_name": "fe591e582ec425bad1ddab35392ef48b",
+    "url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -756,6 +765,24 @@
     }
   },
   {
+    "name": "CCTV-1综合",
+    "path_name": "4de427ba74795e768b80b0f4d011b5ce",
+    "url": "http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "CCTV-4中文国际",
+    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
+    "url": "http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal RCN",
     "path_name": "06ea801988e7edf530b1230768e27bef",
     "url": "https://tna5.bozztv.com/LiveCH004/index.m3u8",
@@ -876,6 +903,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1289,15 +1325,6 @@
   {
     "name": "OTV",
     "path_name": "7579f7533faf9cfc179f5a0705e4e160",
-    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "OTV",
-    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
     "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8",
     "categories": {
       "name": "General",
@@ -1371,15 +1398,6 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1623,15 +1641,6 @@
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
