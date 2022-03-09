@@ -477,9 +477,27 @@
     }
   },
   {
+    "name": "VM Latino",
+    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Reload",
     "path_name": "eae022d2b36455d57347c272b2c59509",
     "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Retro Music Television",
+    "path_name": "21e52c415b65bd9f7354977ac1c3657e",
+    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -516,6 +534,24 @@
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Retro Music TV",
+    "path_name": "1b802e4567568607759861b6cb5aed69",
+    "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "RetroMusicTV",
+    "path_name": "8092654682ee19c536e0e52fa8c9f42e",
+    "url": "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -768,15 +804,6 @@
     "name": "9X Jhakaas",
     "path_name": "9037bc264be88742fcb62145db6ea77a",
     "url": "http://14.199.164.20:4001/play/a0mx/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Relax TV",
-    "path_name": "0ae04150fad0720c728707f7b79d2f66",
-    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1650,15 +1677,6 @@
     "name": "Vallenato Internacional",
     "path_name": "97448385f171d4a3aa36aae4d0bf5562",
     "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Sonideros TV",
-    "path_name": "ba59b3325f267a62eb950b34bf486f65",
-    "url": "https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
