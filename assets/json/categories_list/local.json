@@ -207,15 +207,6 @@
     }
   },
   {
-    "name": "TV UniSantos",
-    "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
-    "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Pantanal MS",
     "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
     "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
@@ -327,15 +318,6 @@
     "name": "TV Galega Blumenau",
     "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
     "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Poços",
-    "path_name": "e549542d48320a6373e4e35cccc944de",
-    "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -477,15 +459,6 @@
     }
   },
   {
-    "name": "Canal 2 (San Antonio)",
-    "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
-    "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 57 Melipilla",
     "path_name": "4ad8f7c5ca5ce4d2a3bf4bd8cf15dd5b",
     "url": "https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8",
@@ -561,15 +534,6 @@
     "name": "Elion Canal Digital (Chillan)",
     "path_name": "1bc3940c65e017205cfe20a5794cedfa",
     "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Estación TV (Chillán)",
-    "path_name": "c3d06dc3c13e4689c1fa65825ac1536d",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -768,6 +732,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1107,27 +1080,9 @@
     }
   },
   {
-    "name": "TVRI Aceh",
-    "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Bali",
     "path_name": "cdc07431d0fe682d5650e50d2bcef19e",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Bali",
-    "path_name": "cdc07431d0fe682d5650e50d2bcef19e",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1209,15 +1164,6 @@
     "name": "TVRI Jambi",
     "path_name": "e2c7c68896dcd0bda477beea509955dd",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Jambi",
-    "path_name": "e2c7c68896dcd0bda477beea509955dd",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1836,6 +1782,15 @@
     }
   },
   {
+    "name": "Telenica Canal 8 (tn8)",
+    "path_name": "28a663ef039bdaa359abebfec661ab5d",
+    "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nicavisión Canal 12",
     "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
     "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
@@ -2028,15 +1983,6 @@
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
