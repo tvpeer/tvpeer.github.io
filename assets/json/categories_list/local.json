@@ -738,15 +738,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -3891,6 +3882,15 @@
     "name": "ABC 2 Baton Rouge LA (WBRZ)",
     "path_name": "fbf6554892f7c59590c97511f7bceded",
     "url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Fox 28 Savannah GA (WTGS)",
+    "path_name": "77f592119b086a442a2be2a2901ed775",
+    "url": "https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
