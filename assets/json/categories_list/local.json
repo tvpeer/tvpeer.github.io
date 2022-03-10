@@ -342,15 +342,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -1827,15 +1818,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2178,15 +2160,6 @@
     }
   },
   {
-    "name": "Oasis RTV (Trujillo)",
-    "path_name": "c1e586de24db4e0d42c50a70938717f9",
-    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2250,15 +2223,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2307,6 +2271,15 @@
     "name": "Canal E (Evelyn) (Altomayo)",
     "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
     "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal E (Evelyn) (Nororiente)",
+    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
+    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2583,9 +2556,9 @@
     }
   },
   {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
