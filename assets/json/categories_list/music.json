@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -1467,15 +1476,6 @@
     }
   },
   {
-    "name": "Vevo Latino",
-    "path_name": "d0884e195e1dcf37895bb84395e9719a",
-    "url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Street Music 4U",
     "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
     "url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8",
@@ -1515,6 +1515,15 @@
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Loop 80s East",
+    "path_name": "047bd024519159c8b7a012c70ef76dcd",
+    "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
