@@ -90,24 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -120,6 +102,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -489,6 +480,15 @@
     "name": "TV Guará",
     "path_name": "493f3f239af0744a0c302aca46a0d053",
     "url": "https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Yeeaah!",
+    "path_name": "4d827bc5ac94fe56229662a11036635d",
+    "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -885,15 +885,6 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1629,18 +1620,18 @@
     }
   },
   {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "name": "A7TV",
+    "path_name": "a7c18ec317249c3a1a6164d2075f4531",
+    "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "A7TV",
-    "path_name": "a7c18ec317249c3a1a6164d2075f4531",
-    "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
+    "name": "TVR 3",
+    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
+    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1731,6 +1722,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
