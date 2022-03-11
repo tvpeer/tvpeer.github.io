@@ -423,15 +423,6 @@
     }
   },
   {
-    "name": "Video Tour Channel",
-    "path_name": "ebc4cfe2abccb62e5e1bd5b5f09af6da",
-    "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/chunks.m3u8",
@@ -777,6 +768,15 @@
     "name": "Kalai Isai",
     "path_name": "48f26c9c13dd06b783e018c82fdca1d6",
     "url": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Sachin Music",
+    "path_name": "fe69b332c08579933725d248f7b58c5e",
+    "url": "http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
