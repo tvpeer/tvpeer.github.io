@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Fonte TV",
+    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -207,6 +216,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -255,6 +273,15 @@
     "name": "Canal ISB (Iglesia San Bernardo)",
     "path_name": "00790056464ac6bae6f28d620093979c",
     "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Radio Uniem",
+    "path_name": "9dc09ef2716c26c4b80675cd2c276877",
+    "url": "https://5eff35271151c.streamlock.net:1936/8110/8110/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1173,6 +1200,24 @@
     "name": "Iqraa",
     "path_name": "aab0c11264721a27e083822f57980d39",
     "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Quran Al Kareem TV (Mecca)",
+    "path_name": "3747d19ea86f7d26b423d49f573ed243",
+    "url": "http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Quran Al Kareem TV (Mecca)",
+    "path_name": "3747d19ea86f7d26b423d49f573ed243",
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
