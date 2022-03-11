@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Armenia Սինեմաքս",
     "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
     "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
@@ -423,15 +414,6 @@
     }
   },
   {
-    "name": "Kuriakos Cine",
-    "path_name": "44a26e1dfb8508c723ed38c77e4a43ea",
-    "url": "http://c2.manasat.com:1935/kcine/kcine3/master.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Millenium TV",
     "path_name": "a8c604191b0b35d8fad3c5b72e40c4af",
     "url": "http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8",
@@ -723,6 +705,15 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Samuel Goldwyn Channel",
+    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
+    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
