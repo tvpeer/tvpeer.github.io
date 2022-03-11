@@ -621,15 +621,6 @@
     }
   },
   {
-    "name": "TV Quellón",
-    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Quinta Región",
     "path_name": "dc9303cf3728554ff78e4b9eed262818",
     "url": "https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/playlist.m3u8",
@@ -2703,6 +2694,15 @@
     "name": "TV Губерния (Воронеж)",
     "path_name": "cbdad481a9b341506ae2bd580be771d3",
     "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
