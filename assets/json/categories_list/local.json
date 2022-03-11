@@ -594,15 +594,6 @@
     }
   },
   {
-    "name": "La Popular TV (Salamanca)",
-    "path_name": "c0b300bed613b9cb63e76f01554086d8",
-    "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
@@ -2520,6 +2511,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Radio Tropical Tarapoto",
     "path_name": "8453201823fc7d219cd99f78e5d804a7",
     "url": "https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8",
@@ -2541,6 +2541,15 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Евразия (Орск)",
+    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2736,9 +2745,27 @@
     }
   },
   {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "С1 (Сургут)",
+    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
+    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
