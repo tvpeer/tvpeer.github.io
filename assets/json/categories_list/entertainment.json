@@ -99,6 +99,15 @@
     }
   },
   {
+    "name": "Shemaroo TV",
+    "path_name": "854d9bd001388cd30c9db1e2a4ce949b",
+    "url": "http://14.199.164.20:4001/play/a0nh/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Enter10 Bangla",
     "path_name": "2c2afa6f460ba07181333a908e0603ee",
     "url": "http://14.199.164.20:4001/play/a0j5/index.m3u8",
@@ -234,6 +243,24 @@
     }
   },
   {
+    "name": "Mazhavil Manorama",
+    "path_name": "06556c4af215ad4d71128543908d5518",
+    "url": "http://14.199.164.20:4001/play/a0pa/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Mazhavil Manorama HD",
+    "path_name": "99daa228acc7dd6e567385380c348662",
+    "url": "http://14.199.164.20:4001/play/a0p9/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Amrita TV",
     "path_name": "7f9e62eeb0cd20f1263b54dd8443ef47",
     "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
@@ -246,6 +273,15 @@
     "name": "Dreamz TV",
     "path_name": "cd9f109bf0712fbdf6c40c1d0348eb19",
     "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Darshana TV",
+    "path_name": "dce8ff0302cccc4ccbd99a6febded4d4",
+    "url": "https://live.neestream.net/neestream_01/darshanatv/tracks-v1a1/mono.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -702,15 +738,6 @@
     }
   },
   {
-    "name": "Popstar! TV",
-    "path_name": "f5bcbf4000315aab897a740f34057e44",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -741,24 +768,6 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1010,7 +1019,7 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
+    "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1019,7 +1028,7 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
