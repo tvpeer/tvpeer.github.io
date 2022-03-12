@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "Canal 2 (San Antonio)",
-    "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
-    "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 57 Melipilla",
     "path_name": "4ad8f7c5ca5ce4d2a3bf4bd8cf15dd5b",
     "url": "https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8",
@@ -594,6 +585,15 @@
     }
   },
   {
+    "name": "TV Osorno",
+    "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
+    "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Quinta Región",
     "path_name": "dc9303cf3728554ff78e4b9eed262818",
     "url": "https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/playlist.m3u8",
@@ -705,6 +705,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
