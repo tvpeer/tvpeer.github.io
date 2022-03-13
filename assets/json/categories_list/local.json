@@ -2556,15 +2556,6 @@
     }
   },
   {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Телеканал 86 (Сургут)",
     "path_name": "902f3675cd784429cc4353b9291d5838",
     "url": "https://sitv.ru/hls/s86.m3u8",
@@ -3339,6 +3330,15 @@
     }
   },
   {
+    "name": "Nothing Scripted",
+    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
+    "url": "https://30a-tv.com/NothingScripted.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
     "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
@@ -3468,6 +3468,15 @@
     "name": "NBC 12 Phoenix AZ (KPNX)",
     "path_name": "bf0a51281c04039fdd0cf98c66637ae0",
     "url": "https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CC-TV",
+    "path_name": "822f63f152ca93a8f01419eb83c43c3d",
+    "url": "https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
