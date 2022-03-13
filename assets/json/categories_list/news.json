@@ -261,6 +261,15 @@
     }
   },
   {
+    "name": "Al Hadath TV",
+    "path_name": "0a4e55f7afdc53d2fa622b181dee1214",
+    "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TRT Arabi",
     "path_name": "f18113d7f2ce61e25983d48da912ac76",
     "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
@@ -2115,45 +2124,18 @@
     }
   },
   {
-    "name": "KCCI-TV News Des Moines IA",
-    "path_name": "0ccc4b93000d8e93db7e1a7eafdee02c",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KCRA-TV News Sacramento CA",
-    "path_name": "1ae8fd18bebf48f7ee730d54afa2bf96",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KFSN News",
-    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
-    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "KOAT-TV News Albuquerque NM",
-    "path_name": "171ecb05d223574331f5557348a3014d",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WISN-TV News Milwaukee WI",
+    "path_name": "e04d067b32fbe29539dfa2ad6a0262c7",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2169,9 +2151,27 @@
     }
   },
   {
+    "name": "WMOR-TV News Lakeland FL",
+    "path_name": "82d47ea8d46905b2d7ca79091e2b6005",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "WTVD TV News",
     "path_name": "a05ec7c32a3dddb46f8253f834cbb333",
     "url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WXII-TV News Winston-Salem NC",
+    "path_name": "ff325e123d6187ecfd2f5dda66f78202",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2187,9 +2187,27 @@
     }
   },
   {
-    "name": "KHBS-TV News Fort Smith AR",
-    "path_name": "119b2669d5935736df3c885aa341731f",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8",
+    "name": "WJCL-TV News Savannah GA",
+    "path_name": "bbc9a1844dda59bd4f7cdb1b677ee6b3",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WMTW-TV News Portland ME",
+    "path_name": "40c043c952edad7a3772b40e1be08e81",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WPBF-TV News West Palm Beach FL",
+    "path_name": "2424bd1c844e995c16b7090c5d4f7f27",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2205,9 +2223,36 @@
     }
   },
   {
-    "name": "KSBW-TV News Salinas CA",
-    "path_name": "57c3c78e250dc5f1a1f8212e060334cd",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8",
+    "name": "WLKY-TV News Louisville KY",
+    "path_name": "13d8e54e4cfb74a21099c881e921242b",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WESH-TV News Orlando FL",
+    "path_name": "7d33c57d677a44aeda5921ebe2e0ae47",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WGAL-TV News Lancaster PA",
+    "path_name": "c65176625a2f55a9af68e7777f9a1704",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WPTZ-TV News Plattsburgh NY",
+    "path_name": "7cd20ff84224d480081382b20e4f05f4",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2235,15 +2280,6 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2358,27 +2394,9 @@
     }
   },
   {
-    "name": "NBC 5 Cincinnati OH (WLWT)",
-    "path_name": "e12c1627a0701d7af32fead971469899",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "OAN Encore",
     "path_name": "658f21cff54e1284be9609028ffed0c6",
     "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ABC 9 Kansas City MO (KMBC-TV)",
-    "path_name": "80f9f374ccabc690000c4d20b8154836",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2514,15 +2532,6 @@
     "name": "Newsy",
     "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
     "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Newsy",
-    "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2682,6 +2691,33 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2712,15 +2748,6 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
