@@ -756,6 +756,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1854,15 +1863,6 @@
     }
   },
   {
-    "name": "Feel Good TV",
-    "path_name": "583bf58d00175d8dcfabbe45a60d4c53",
-    "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ideaal TV",
     "path_name": "4b3f94e51d0362ed8b188b17ccceb861",
     "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
@@ -1920,6 +1920,15 @@
     "name": "JenZ",
     "path_name": "8221531104922f5ee2503dafbe589e6b",
     "url": "https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Omroep Hulst TV",
+    "path_name": "d54dc61da73530a96b0337c3e401c472",
+    "url": "https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
