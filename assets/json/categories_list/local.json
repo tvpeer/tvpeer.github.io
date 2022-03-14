@@ -2133,15 +2133,6 @@
     }
   },
   {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
@@ -2457,6 +2448,15 @@
     }
   },
   {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -2514,6 +2514,15 @@
     "name": "Televisión Tarapoto",
     "path_name": "d1f7a0f591846e83766997eaac5be0d5",
     "url": "https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2613,6 +2622,15 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
