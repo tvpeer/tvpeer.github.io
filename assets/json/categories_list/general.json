@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -183,15 +192,6 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "JonmoBhumi TV",
-    "path_name": "5ca94cbf25377921ac983b128fa79310",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -453,15 +453,6 @@
     "name": "SBT TV Serra Dourada",
     "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
     "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TV Verdes Campos",
-    "path_name": "02989a8ac0d9610a95e91b1885239e4a",
-    "url": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -894,6 +885,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1638,9 +1638,27 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 2",
+    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
+    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
