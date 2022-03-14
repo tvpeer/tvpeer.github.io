@@ -45,15 +45,6 @@
     }
   },
   {
-    "name": "Cook&Play (480p/720p)",
-    "path_name": "8bbcebcc3eee764dfc6ad23ed5a29ddb",
-    "url": "https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8",
-    "categories": {
-      "name": "Cooking",
-      "slug": "cooking"
-    }
-  },
-  {
     "name": "Gusto TV",
     "path_name": "6cf673eb8294590960bfdd1674f7f3eb",
     "url": "https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8",
@@ -165,6 +156,15 @@
     "name": "bon appétit",
     "path_name": "5dae2f04c53f2e432e12c13a43f4d27d",
     "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Cooking",
+      "slug": "cooking"
+    }
+  },
+  {
+    "name": "bon appétit",
+    "path_name": "5dae2f04c53f2e432e12c13a43f4d27d",
+    "url": "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Cooking",
       "slug": "cooking"
