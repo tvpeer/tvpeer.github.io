@@ -2691,15 +2691,6 @@
     }
   },
   {
-    "name": "Югра",
-    "path_name": "6397ea88f122f9afed02c4764ebac1c7",
-    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Юрган",
     "path_name": "90788ea6813624b98ddedb52ef474a10",
     "url": "http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8",
@@ -2721,6 +2712,15 @@
     "name": "TV Губерния (Воронеж)",
     "path_name": "cbdad481a9b341506ae2bd580be771d3",
     "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
