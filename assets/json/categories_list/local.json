@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "TVunisat",
-    "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
-    "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
@@ -1827,15 +1818,6 @@
     }
   },
   {
-    "name": "ZuidWest TV",
-    "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
-    "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Omroep Centraal TV",
     "path_name": "04799935f932e880938546ea203b0137",
     "url": "https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
@@ -2691,6 +2673,15 @@
     }
   },
   {
+    "name": "Югра",
+    "path_name": "6397ea88f122f9afed02c4764ebac1c7",
+    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Юрган",
     "path_name": "90788ea6813624b98ddedb52ef474a10",
     "url": "http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8",
@@ -2748,6 +2739,15 @@
     "name": "Oppna Kanalen",
     "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
     "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Sahel TV",
+    "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
+    "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
