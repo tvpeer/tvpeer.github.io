@@ -1,5 +1,14 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -1143,6 +1152,24 @@
     }
   },
   {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Kiss TV",
+    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1263,15 +1290,6 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1560,15 +1578,6 @@
     "name": "La Mega Mundial",
     "path_name": "2da93640d38072f339fa2acb950d7453",
     "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vallenato Internacional",
-    "path_name": "97448385f171d4a3aa36aae4d0bf5562",
-    "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
