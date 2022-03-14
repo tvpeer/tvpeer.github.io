@@ -90,9 +90,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -219,6 +219,24 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Muğan TV",
+    "path_name": "f9b74f18048b2cbb70f49cd45485775e",
+    "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,15 +918,6 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1272,15 +1281,6 @@
     "name": "Kass TV",
     "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
     "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "GBS TV",
-    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
-    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
