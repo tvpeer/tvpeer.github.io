@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Telenord Corrientes",
-    "path_name": "9d49de079f499fc31f02f55416f28f0a",
-    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "BTV Chittagong",
     "path_name": "ccdb0399ec3f5c5fbdc6ad3f28701cec",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8",
@@ -750,6 +741,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2865,6 +2865,15 @@
     "name": "TV Губерния (Воронеж)",
     "path_name": "cbdad481a9b341506ae2bd580be771d3",
     "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
