@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -765,15 +756,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
@@ -1056,6 +1038,24 @@
     "name": "Sobrenatural TV",
     "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
     "url": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Fátima",
+    "path_name": "868e6bef527eabac63ee6af59f7cf972",
+    "url": "http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Fátima",
+    "path_name": "868e6bef527eabac63ee6af59f7cf972",
+    "url": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
