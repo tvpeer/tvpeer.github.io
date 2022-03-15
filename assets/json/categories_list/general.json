@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -138,6 +129,15 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "https://amtv1.livestreamingcdn.com/am2abr/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -918,15 +918,6 @@
     }
   },
   {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1467,6 +1458,15 @@
     }
   },
   {
+    "name": "TV Palmeras",
+    "path_name": "ce8b1308fc4add4557a60169a6ce2642",
+    "url": "https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "UCI",
     "path_name": "a3881d4bf85941dc591f3b39c30274b8",
     "url": "https://servilive.com:3449/live/mlecaroslive.m3u8",
@@ -1524,6 +1524,15 @@
     "name": "Palestine Satellite Channel",
     "path_name": "381621adaa18f975b07838f53e87e37d",
     "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1668,6 +1677,15 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Târgu Mureș",
+    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
+    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1956,6 +1974,15 @@
     "name": "Court TV Mystery (WTXL-TV4)",
     "path_name": "f9211d5929c5584061939e8165d9cb3f",
     "url": "https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Millennium TV USA",
+    "path_name": "bbbea8cc47df74468fc7a70a7eec1283",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
