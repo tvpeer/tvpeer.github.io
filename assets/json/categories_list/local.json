@@ -2079,15 +2079,6 @@
     }
   },
   {
-    "name": "TV5 Soritor",
-    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
-    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
@@ -2118,15 +2109,6 @@
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CreoTV (Cajamarca)",
-    "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
-    "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2322,24 +2304,6 @@
     }
   },
   {
-    "name": "Canal E (Evelyn) (Altomayo)",
-    "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
-    "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Nororiente)",
-    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
-    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
@@ -2448,6 +2412,15 @@
     }
   },
   {
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
@@ -2460,6 +2433,15 @@
     "name": "Primavera 15 Radiotelevisión (Moquegua)",
     "path_name": "232c1b378a773506b3584703aa567ca9",
     "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
