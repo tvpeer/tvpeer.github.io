@@ -396,6 +396,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -2061,15 +2070,6 @@
     }
   },
   {
-    "name": "SoriTV (Picota)",
-    "path_name": "74fbe9de79640227ae180d7c8e2a08b0",
-    "url": "https://lamasremixes.com/hls/cadenasurrtv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
@@ -2565,6 +2565,15 @@
     }
   },
   {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Universitaria TV (Chanchamayo)",
     "path_name": "f33338a5f62e3a11997f99458109b5be",
     "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
@@ -2820,6 +2829,15 @@
     "name": "ЮТВ (Чебоксары)",
     "path_name": "6edee0c70dd83b855d0fe47d631055d1",
     "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Югра",
+    "path_name": "6397ea88f122f9afed02c4764ebac1c7",
+    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
