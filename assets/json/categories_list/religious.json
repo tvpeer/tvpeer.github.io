@@ -180,15 +180,6 @@
     }
   },
   {
-    "name": "Gospel Movie TV",
-    "path_name": "2f7fbb892b497478324177e88444148a",
-    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
@@ -567,15 +558,6 @@
     }
   },
   {
-    "name": "I AM CHANNEL",
-    "path_name": "b4995072f6956bf8072bbccd17703e96",
-    "url": "http://iamchannel.org:1935/tes/1/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Hidabroot",
     "path_name": "b020b6d7bcaeca92a1015ac71095a1ad",
     "url": "https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8",
@@ -615,6 +597,15 @@
     "name": "Shubhsandesh",
     "path_name": "fd5c3c1003d2d9ef4b0998e63467863c",
     "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "ABNsat",
+    "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
+    "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -894,6 +885,15 @@
     "name": "TV Maná Moçambique",
     "path_name": "0f75c73a60b235b4e871068b4ff48b34",
     "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBN",
+    "path_name": "135dfda1304897290c6d9c0fff8f61f8",
+    "url": "https://inliveserver.com:1936/17510/17510/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1731,6 +1731,15 @@
     "name": "Iqra TV",
     "path_name": "7d612b3c9b71749ce9e43e0762ee10f4",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Akaal TV",
+    "path_name": "30e92c0e98d78c98186c838114d7bacd",
+    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
