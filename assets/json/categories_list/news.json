@@ -810,15 +810,6 @@
     }
   },
   {
-    "name": "Echorouk News",
-    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
-    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -1359,6 +1350,15 @@
     }
   },
   {
+    "name": "Al Iraqiya News",
+    "path_name": "640c16713ed33103dd2b5f99cf10338c",
+    "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Dijlah",
     "path_name": "68a265499227d4ed7bf5f451bf50fc3e",
     "url": "http://91.134.145.75:10001/Dijlah/index.m3u8",
@@ -1791,24 +1791,6 @@
     }
   },
   {
-    "name": "RTV Total (Yurimaguas)",
-    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
-    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Visión Noticias Perú (VNP)",
-    "path_name": "ca4f2b767b3bb747e12c8817820d77cc",
-    "url": "https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RSelvaTV (Tarapoto)",
     "path_name": "85b787159037d15895c05c9d0f71d311",
     "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
@@ -1974,15 +1956,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2163,15 +2136,6 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2466,6 +2430,15 @@
     }
   },
   {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2577,6 +2550,15 @@
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
