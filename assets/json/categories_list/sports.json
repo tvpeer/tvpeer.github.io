@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "New Japan Pro Wrestling World",
-    "path_name": "82305c2f2eb5b429df20934de8dd6619",
-    "url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "J Sports 1",
     "path_name": "370638b7d68c31b1139d960e48290718",
     "url": "http://51.79.193.108:8080/hls/j00042/index.m3u8",
@@ -651,6 +642,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://playerstv-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
