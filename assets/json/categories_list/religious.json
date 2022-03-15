@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -495,6 +486,15 @@
     }
   },
   {
+    "name": "Choluteca TV",
+    "path_name": "70a1524b6bc50e538fe1307514613a3b",
+    "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Dios Te Ve",
     "path_name": "5634a93578a42696e1a08b74494f7847",
     "url": "https://emisoras.hn:8081/diostevetv/playlist.m3u8",
@@ -747,15 +747,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
@@ -981,6 +972,15 @@
     }
   },
   {
+    "name": "TV MANA (FR)",
+    "path_name": "0d209a99d3d68557157fe660f0b5b4c9",
+    "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV MANA MAPUTO",
     "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
     "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
@@ -1065,6 +1065,15 @@
     "name": "TV MANA (RU)",
     "path_name": "64201021e42747c3e58575f1d8475990",
     "url": "http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA (ESP)",
+    "path_name": "691954cea4d263bf851dab912ce0ab9b",
+    "url": "http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1695,15 +1704,6 @@
     "name": "Iqra TV",
     "path_name": "7d612b3c9b71749ce9e43e0762ee10f4",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Akaal TV",
-    "path_name": "30e92c0e98d78c98186c838114d7bacd",
-    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
