@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Rede Brasil de Comunicação",
-    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
-    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV Evangelizar",
     "path_name": "65cc6d472e59565d27a89e8ff207cb2e",
     "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
@@ -225,6 +216,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -318,6 +318,15 @@
     "name": "Avivamiento TV",
     "path_name": "579719b729534d28ebb981d339953907",
     "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TVGracia",
+    "path_name": "66771f4c21990c7dd2a8bf3a313b46ab",
+    "url": "https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -675,6 +684,15 @@
     }
   },
   {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -939,6 +957,15 @@
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Hope Channel Philippines",
+    "path_name": "b9e3cf40fdd329d82f14e108c94c7dee",
+    "url": "https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
