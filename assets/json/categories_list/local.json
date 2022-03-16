@@ -756,6 +756,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2520,6 +2529,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -2547,9 +2565,9 @@
     }
   },
   {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2568,6 +2586,15 @@
     "name": "Vía Televisión (Tarapoto)",
     "path_name": "ec1b161376ad772acf1a3915e9235b9f",
     "url": "https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3942,15 +3969,6 @@
     }
   },
   {
-    "name": "ABC Tallahassee FL (WTXL-TV1)",
-    "path_name": "7c173938c26af7f3ec9a9afb232cae86",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "WGN Chicago IL (WGN-TV1)",
     "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
     "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
@@ -3963,24 +3981,6 @@
     "name": "23 ABC Bakersfield CA (KERO)",
     "path_name": "e7abacd964e7d0423bf94d21a5f0f2b6",
     "url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Fox Tallahassee FL (WTWC-TV2)",
-    "path_name": "7fe2188be2cbe45273606a4107def90b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC Tallahassee FL (WTWC-TV1)",
-    "path_name": "44d8487f669269ee713309a50bdf6775",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -4026,15 +4026,6 @@
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
     "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS Tallahassee FL (WCTV1)",
-    "path_name": "77d8c2b96ee151dd58fa36edadfec20b",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
