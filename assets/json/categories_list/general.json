@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -138,15 +129,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -828,6 +810,15 @@
     }
   },
   {
+    "name": "Teleislas",
+    "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
+    "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal 1",
     "path_name": "615ffb0713a3a67b040201f2a6ba60c9",
     "url": "https://tna5.bozztv.com/LiveCH007/index.m3u8",
@@ -921,15 +912,6 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1551,6 +1533,15 @@
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
