@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -462,6 +453,15 @@
     "name": "Cultura PR Catve",
     "path_name": "bfe5a46aeff10142c356489b7af9da33",
     "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "SBT TV Serra Dourada",
+    "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1287,6 +1287,15 @@
     }
   },
   {
+    "name": "GBS TV",
+    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
+    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "K24",
     "path_name": "a1a718b053aff16b11155fdcf639f27b",
     "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
@@ -1395,6 +1404,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -1452,15 +1470,6 @@
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "NacionalTV",
-    "path_name": "aa6c55017db3d1530f1c6a121dcb3b50",
-    "url": "https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1659,6 +1668,15 @@
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 3",
+    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
+    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
