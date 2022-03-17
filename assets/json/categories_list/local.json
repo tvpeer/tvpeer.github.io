@@ -387,15 +387,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -822,15 +813,6 @@
     "name": "TVG Evento 5",
     "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
     "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "M95 Televisión Marbella",
-    "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
-    "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2268,6 +2250,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Diario Hechicera (Tumbes)",
     "path_name": "806a03db0ee59d9676d3fc74d912de9e",
     "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
@@ -2433,6 +2424,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
