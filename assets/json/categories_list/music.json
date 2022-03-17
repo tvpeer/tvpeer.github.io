@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Afrobeats",
+    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Mundo de la Música",
     "path_name": "3fb7efd039ea8e7f631e9480130b9c08",
     "url": "https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8",
@@ -603,6 +612,24 @@
     }
   },
   {
+    "name": "NG",
+    "path_name": "21c8ee28bfbf5e822c7d336770869a93",
+    "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "NG",
+    "path_name": "21c8ee28bfbf5e822c7d336770869a93",
+    "url": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Baraza TV",
     "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
     "url": "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8",
@@ -873,15 +900,6 @@
     }
   },
   {
-    "name": "T2 TV",
-    "path_name": "a20ac1def18cd98931ea73933b64286b",
-    "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "PMC",
     "path_name": "8c905be64cbd70bf4961637b7dfd5933",
     "url": "https://hls.pmchd.live/hls/stream.m3u8",
@@ -912,6 +930,15 @@
     "name": "Company TV",
     "path_name": "2661ef89e8bbd346ed6beaae79944801",
     "url": "http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Company TV",
+    "path_name": "2661ef89e8bbd346ed6beaae79944801",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1125,24 +1152,6 @@
     }
   },
   {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1182,6 +1191,69 @@
     "name": "Muzzik Jeka Serbia",
     "path_name": "420831baac9bcbac3d3c66a5751c3329",
     "url": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Mediteraneo Serbia",
+    "path_name": "265e05f4c19db4c1f00295d781abb9c8",
+    "url": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik OKK Serbia",
+    "path_name": "1d42a67fcab9395c47e204c504fcc48c",
+    "url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Replay Serbia",
+    "path_name": "10cfa7141509b579b7dc65e4c1937119",
+    "url": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Rock&Roll Serbia",
+    "path_name": "934e2c18bed258b9f04cd471f80a81d2",
+    "url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Saculatac Serbia",
+    "path_name": "083ab6525788e7a993b8632ba2524ee5",
+    "url": "https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik TV Serbia",
+    "path_name": "0f5380afa27e19bc4e785cfb64073271",
+    "url": "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Muzzik Worldwide Serbia",
+    "path_name": "cebb95b407e2c527ae2a9f8c413d6586",
+    "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

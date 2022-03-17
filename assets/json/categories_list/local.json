@@ -747,15 +747,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
@@ -972,6 +963,33 @@
     }
   },
   {
+    "name": "Channel 9",
+    "path_name": "998f454cb1378a5e9527a1a4af87205f",
+    "url": "http://176.9.123.140:1935/channel9/channel9/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Channel 9",
+    "path_name": "998f454cb1378a5e9527a1a4af87205f",
+    "url": "https://e-e.cyou:8222/channel9/channel9/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Epirus TV1",
+    "path_name": "b595a00706b243c81ed0e8ba19bd8fbd",
+    "url": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
@@ -1008,9 +1026,9 @@
     }
   },
   {
-    "name": "Maya TV",
-    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
-    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
+    "name": "Ena Channel",
+    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
+    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2034,15 +2052,6 @@
     }
   },
   {
-    "name": "CreoTV (Cajamarca)",
-    "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
-    "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
@@ -2187,6 +2196,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2226,24 +2244,6 @@
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Altomayo)",
-    "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
-    "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Nororiente)",
-    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
-    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2784,6 +2784,15 @@
     "name": "Sahel TV",
     "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
     "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Channel S",
+    "path_name": "18bc60166fd2a1bc4a3dcbacd65de01a",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
