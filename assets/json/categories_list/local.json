@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Aysén TV",
-    "path_name": "1e735fa078c54dc1860e19fca9c0092d",
-    "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Buin Somos Todos",
     "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
     "url": "https://bst.buin.cl/0.m3u8",
@@ -552,6 +543,15 @@
     "name": "La Popular TV (Salamanca)",
     "path_name": "c0b300bed613b9cb63e76f01554086d8",
     "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Puncón TV",
+    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -822,24 +822,6 @@
     "name": "Canal Málaga RTV",
     "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Popular TV Melilla",
-    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
-    "url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Popular TV Melilla",
-    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
-    "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2511,6 +2493,15 @@
     }
   },
   {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "92 News UK",
     "path_name": "4c8eea3f98da7c95cf4cf2d2c42aa4a9",
     "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
@@ -2730,6 +2721,15 @@
     "name": "Ветта 24 (Пермь)",
     "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
     "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Вечерняя Москва",
+    "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
+    "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
