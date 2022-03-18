@@ -288,15 +288,6 @@
     }
   },
   {
-    "name": "TVunisat",
-    "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
-    "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
@@ -2550,6 +2541,15 @@
     "name": "ОТВ (Одинцово)",
     "path_name": "99405b97c1973b91465c7891ebdccbd0",
     "url": "http://185.18.4.16/live/3m/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ТВР24 (Сергиев Посад)",
+    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
+    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
