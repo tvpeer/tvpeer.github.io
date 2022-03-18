@@ -1,17 +1,17 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -621,24 +621,6 @@
     }
   },
   {
-    "name": "NG",
-    "path_name": "21c8ee28bfbf5e822c7d336770869a93",
-    "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "NG",
-    "path_name": "21c8ee28bfbf5e822c7d336770869a93",
-    "url": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Baraza TV",
     "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
     "url": "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8",
@@ -714,6 +696,15 @@
     "name": "Public Music",
     "path_name": "844c60da5656272f414cb50ec450925c",
     "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Relax TV",
+    "path_name": "0ae04150fad0720c728707f7b79d2f66",
+    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1101,6 +1092,15 @@
     "name": "Kuriakos Music",
     "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
     "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
