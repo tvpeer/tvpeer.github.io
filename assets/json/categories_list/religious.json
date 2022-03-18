@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Fonte TV",
-    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -201,6 +192,15 @@
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Gideoes",
+    "path_name": "b2ac60535762415997a56e7397111adf",
+    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -972,15 +972,6 @@
     }
   },
   {
-    "name": "Nazarenas TV",
-    "path_name": "1d4509993bcf493f8541094425387827",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
@@ -1272,6 +1263,15 @@
     "name": "Iqraa Europe Africa",
     "path_name": "948919244f21e8d10709875ccf107c6b",
     "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "A2i Religion",
+    "path_name": "d90ee33894787f2b9f607f63cc61a556",
+    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
