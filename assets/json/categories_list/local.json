@@ -756,15 +756,6 @@
     }
   },
   {
-    "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
-    "path_name": "043d28d19d441647b261182ec39f08df",
-    "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
@@ -2043,6 +2034,15 @@
     }
   },
   {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV5 Soritor",
     "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
     "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
@@ -2151,6 +2151,15 @@
     }
   },
   {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -2169,9 +2178,9 @@
     }
   },
   {
-    "name": "VamisaTV (Lima)",
-    "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
-    "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
+    "name": "Innova FM (Bagua Grande)",
+    "path_name": "6bb261cd341175bba9043fd9496bfabe",
+    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2325,6 +2334,15 @@
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NorSelva RTV (Rioja)",
+    "path_name": "0987514277d76d1b01b90db8d923abe8",
+    "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2550,15 +2568,6 @@
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Башкортостан 24",
-    "path_name": "7ba7b2f7b32f108686f85d5318380f6f",
-    "url": "http://live.gtrk.tv/hls/b24-hls.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
