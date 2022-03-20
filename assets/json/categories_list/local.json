@@ -36,24 +36,6 @@
     }
   },
   {
-    "name": "PBS Tallahassee FL (WFSU-TV1)",
-    "path_name": "f3a86118486963f91dbf380b6ef10a54",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Tallahassee FL (WFSU-TV1)",
-    "path_name": "f3a86118486963f91dbf380b6ef10a54",
-    "url": "https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PBS MPT Baltimore MD (WMPB)",
     "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
@@ -588,15 +570,6 @@
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio América TV",
-    "path_name": "c4a914d7b4662c2342f3b85d5575c3b9",
-    "url": "https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2034,15 +2007,6 @@
     }
   },
   {
-    "name": "TV5 Soritor",
-    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
-    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2289,6 +2253,24 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Huacho Perú TV",
+    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
+    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
