@@ -324,6 +324,24 @@
     }
   },
   {
+    "name": "Sky News Arabia",
+    "path_name": "ebd4ef0fa2688b1695914c8b8e73fbac",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Sky News Arabia (Portrait)",
+    "path_name": "2eebb8fb49a8f9d081cfe181b750ceba",
+    "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "BBC Arabic",
     "path_name": "644b660903ecf0a05225efa32c771c12",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
@@ -984,6 +1002,15 @@
     "name": "Metro TV",
     "path_name": "2d59551f6fbb1e023544927e527cdd98",
     "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN Indonesia",
+    "path_name": "71b6a6a6407f0c3629434a8f3fdfc356",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2403,15 +2430,6 @@
     }
   },
   {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2496,6 +2514,24 @@
     "name": "NewsNet (KCKS-LD2)",
     "path_name": "e514c7e60cf451b4712ea350680ee3bc",
     "url": "https://cdn.igocast.com/channel2_hls/channel2_master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "USA Today",
+    "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "USA Today",
+    "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
