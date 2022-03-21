@@ -171,6 +171,15 @@
     }
   },
   {
+    "name": "Gospel Movie TV",
+    "path_name": "2f7fbb892b497478324177e88444148a",
+    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
@@ -183,6 +192,15 @@
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Gideoes",
+    "path_name": "b2ac60535762415997a56e7397111adf",
+    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -642,6 +660,15 @@
     "name": "Dua TV",
     "path_name": "3db89602f5a8cc9c8ce161d467b25f87",
     "url": "https://live.ishiacloud.com/W67H7ddMzVHyXPrG.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1739,6 +1766,15 @@
   {
     "name": "Akaal TV",
     "path_name": "30e92c0e98d78c98186c838114d7bacd",
+    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Akaal TV",
+    "path_name": "30e92c0e98d78c98186c838114d7bacd",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
     "categories": {
       "name": "Religious",
@@ -1893,15 +1929,6 @@
     "name": "The Now Network",
     "path_name": "bed0f66b5ff7dd552fc3e157634e0413",
     "url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Mission TV",
-    "path_name": "30ed2526a48a5c7b4e03c781969dffcb",
-    "url": "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2118,15 +2145,6 @@
     "name": "Bible Explorations",
     "path_name": "815837ce6bfa2fe952847f0512a01881",
     "url": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Trinity Channel",
-    "path_name": "f2099ab2dcb8ca3c06ed48e22cad4db5",
-    "url": "http://rtmp1.abnsat.com/hls/trinity.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
