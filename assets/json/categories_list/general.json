@@ -612,15 +612,6 @@
     }
   },
   {
-    "name": "TV Carioca",
-    "path_name": "48d282fa44d1c5970359b7be5418675a",
-    "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Thathi",
     "path_name": "cad818bb7d44cc73723bc19637d99456",
     "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
@@ -1494,15 +1485,6 @@
     }
   },
   {
-    "name": "USIL TV",
-    "path_name": "f5833f8f7f0b313ea1bebf70cf6e07d1",
-    "url": "https://video.produccionesmagicorp.com/redes/video.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Onda Digital",
     "path_name": "c99f22979172b8dc73f36941ec96d527",
     "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
@@ -1767,6 +1749,15 @@
     "name": "Первый канал",
     "path_name": "94d77ac98f96897f461be1073ad99778",
     "url": "http://91.185.3.218:4000/play/603",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
