@@ -819,15 +819,6 @@
     }
   },
   {
-    "name": "Echorouk News",
-    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
-    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -1371,6 +1362,15 @@
     "name": "Press TV French",
     "path_name": "1197b73f0e21acaabccc11ad488f61b9",
     "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Mihan TV",
+    "path_name": "748c2cc2c7df6520127187109c4cdc45",
+    "url": "https://iptv.mihantv.com/live/playlist1/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2322,6 +2322,15 @@
     }
   },
   {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2466,9 +2475,9 @@
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "name": "Mihan TV",
+    "path_name": "748c2cc2c7df6520127187109c4cdc45",
+    "url": "http://iptv.mihantv.com/live/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
