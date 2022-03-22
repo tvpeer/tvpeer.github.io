@@ -126,6 +126,15 @@
     }
   },
   {
+    "name": "TeleJunín",
+    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
+    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -720,27 +729,9 @@
     }
   },
   {
-    "name": "City TV (Bogotà | Cundinamarca)",
-    "path_name": "56723578aa6b96da3fe55f3f6663efae",
-    "url": "https://tna5.bozztv.com/LiveCH006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1881,15 +1872,6 @@
     }
   },
   {
-    "name": "Radio Aalsmeer TV",
-    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
-    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
@@ -1989,6 +1971,15 @@
     }
   },
   {
+    "name": "Master TV (Tarapoto)",
+    "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
+    "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
@@ -2082,6 +2073,15 @@
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FuegoTV (Lima)",
+    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
+    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2493,9 +2493,9 @@
     }
   },
   {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3018,15 +3018,6 @@
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PCC-TV Pinellas County FL",
-    "path_name": "c0d009a70f183a04700e067b20ce13c1",
-    "url": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
