@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -138,15 +147,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,6 +900,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1404,9 +1413,27 @@
     }
   },
   {
+    "name": "TVM Internacional",
+    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVM",
     "path_name": "afd856551a771d9e971aff7c943f3559",
     "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1794,15 +1821,6 @@
     "name": "Lana TV",
     "path_name": "0b42070a3c98500eaa91dce9eecef2b9",
     "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "大立電視",
-    "path_name": "75c19b357c2c0f514208035d5a5fb390",
-    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
