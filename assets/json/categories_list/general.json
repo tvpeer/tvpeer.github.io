@@ -72,9 +72,27 @@
     }
   },
   {
+    "name": "Նոր Հայաստան",
+    "path_name": "bc7a615c82558a146ae038313eb9ac09",
+    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,6 +918,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1461,6 +1488,15 @@
     "name": "UCI",
     "path_name": "a3881d4bf85941dc591f3b39c30274b8",
     "url": "https://servilive.com:3449/live/mlecaroslive.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "USIL TV",
+    "path_name": "f5833f8f7f0b313ea1bebf70cf6e07d1",
+    "url": "https://video.produccionesmagicorp.com/redes/video.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2064,15 +2100,6 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "PromarTV (Yaracuy)",
-    "path_name": "7a4d69951bb33167cd657a9b390e6664",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
