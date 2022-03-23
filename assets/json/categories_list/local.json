@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -711,15 +702,6 @@
     }
   },
   {
-    "name": "Buenísima Radio TV (Gamarra | Cesar)",
-    "path_name": "ce83dac153a1061597fe75e03c709e60",
-    "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
@@ -732,15 +714,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2304,6 +2277,15 @@
     }
   },
   {
+    "name": "Canal 8 (Catacaos)",
+    "path_name": "351a3f45c591efc880c2f0ee87d0d083",
+    "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "X TV (Chachapoyas)",
     "path_name": "c3e6108307eda0d136b5578d57804d62",
     "url": "https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8",
@@ -2703,15 +2685,6 @@
     "name": "Эхо TV (Рязань)",
     "path_name": "a22fe26511300393f0465ebf1207e449",
     "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ЮТВ (Чебоксары)",
-    "path_name": "6edee0c70dd83b855d0fe47d631055d1",
-    "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
