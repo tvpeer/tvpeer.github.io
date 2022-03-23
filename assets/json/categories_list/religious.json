@@ -45,15 +45,6 @@
     }
   },
   {
-    "name": "EnlaceTV",
-    "path_name": "e231841275cebf3383e6f13504010200",
-    "url": "https://v4.tustreaming.cl/enlacebpbtv/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -885,6 +876,15 @@
     "name": "CharityTV",
     "path_name": "55468c0cb2049dc0b13e653eda9e42f5",
     "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Espérance TV",
+    "path_name": "a9c0228fdf69e65d18ec4180747a453e",
+    "url": "https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
