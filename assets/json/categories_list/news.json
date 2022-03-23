@@ -209,6 +209,15 @@
   {
     "name": "Euronews English",
     "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
+    "url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews English",
+    "path_name": "7c0f690439ef6b9c838b59a1d11e190a",
     "url": "https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -480,6 +489,24 @@
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews en Español",
+    "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
+    "url": "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews en Español",
+    "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
+    "url": "https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -774,6 +801,15 @@
     }
   },
   {
+    "name": "Euronews Deutsch",
+    "path_name": "1a50817d575fac92674f96192d1f7b3a",
+    "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
@@ -885,6 +921,15 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews Français",
+    "path_name": "89da5d2227cd4cbbf3a22495086c1447",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1251,6 +1296,15 @@
     }
   },
   {
+    "name": "News 7 Tamil",
+    "path_name": "415759a7f05fd8fd5b8ecca0acee20fd",
+    "url": "http://14.199.164.20:4001/play/a0kp/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1485,6 +1539,15 @@
     }
   },
   {
+    "name": "Euronews Italiano",
+    "path_name": "4e2d91d11b8e02613917b6f23ac834b9",
+    "url": "https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NHK World Japan",
     "path_name": "4634b8e34db6c7637dff998a7b7bc147",
     "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
@@ -1587,6 +1650,33 @@
     "name": "Al Manar",
     "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
     "url": "https://manar.live/x.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1803,6 +1893,24 @@
     "name": "Россия 24 (Н.Новгород)",
     "path_name": "f554e0b3a0b6dc908d29b41ed7fab43b",
     "url": "https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24 (Чита)",
+    "path_name": "f4283efe09ff6020524aaec49e1379fd",
+    "url": "https://gtrkchita.ru:8081/hls/r24-chita_360p.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24 (Чита)",
+    "path_name": "f4283efe09ff6020524aaec49e1379fd",
+    "url": "https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2430,6 +2538,24 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2514,15 +2640,6 @@
     "name": "Al Masirah Mubacher",
     "path_name": "c12fe04226b932bd54dd166cec924483",
     "url": "https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Masirah",
-    "path_name": "ede4ed2f837af20ce1ee27897a7cebc2",
-    "url": "https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
