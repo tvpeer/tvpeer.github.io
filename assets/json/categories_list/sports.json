@@ -630,15 +630,6 @@
     }
   },
   {
-    "name": "Ring of Honor Wrestling",
-    "path_name": "2a41322e77567c41e7267ec7695fbd17",
-    "url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
@@ -651,15 +642,6 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://playerstv-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Pac 12 Insider",
-    "path_name": "ef09de2acec2ca4754e4758f875b872f",
-    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -857,15 +839,6 @@
   {
     "name": "Fuel TV",
     "path_name": "9f0381e0118c0530b9ae02d6a543e5ed",
-    "url": "https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Fuel TV",
-    "path_name": "9f0381e0118c0530b9ae02d6a543e5ed",
     "url": "https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -993,6 +966,15 @@
     "name": "Stadium",
     "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Stadium",
+    "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
+    "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
