@@ -828,6 +828,15 @@
     }
   },
   {
+    "name": "RTU",
+    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
+    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1062,6 +1071,24 @@
     }
   },
   {
+    "name": "News 24",
+    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
+    "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "News 24",
+    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
+    "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NDTV 24X7",
     "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
@@ -1116,18 +1143,18 @@
     }
   },
   {
-    "name": "Asianet News Bangla",
-    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
-    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
+    "name": "Asianet News Kannada",
+    "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
+    "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "TV9 Kannada",
-    "path_name": "c82749589c740e60cab7ea83e34fd59c",
-    "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
+    "name": "Asianet News Bangla",
+    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
+    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1155,6 +1182,15 @@
     "name": "Janam TV",
     "path_name": "9f27c3cd21241e5218c98a55bfaec775",
     "url": "http://14.199.164.20:4001/play/a0ja/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Janam TV",
+    "path_name": "9f27c3cd21241e5218c98a55bfaec775",
+    "url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1281,15 +1317,6 @@
     "name": "Asianet News Tamil",
     "path_name": "efb9f3e9968cb3ed93db2ea06ceac1dd",
     "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "TV9 News",
-    "path_name": "aeb7a774c49a0cb8073ea0a21abc8214",
-    "url": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2387,15 +2414,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2406,6 +2424,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2520,42 +2547,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2592,6 +2583,15 @@
     }
   },
   {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -2604,15 +2604,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
