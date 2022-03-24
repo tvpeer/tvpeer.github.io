@@ -81,18 +81,18 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -192,15 +192,6 @@
     "name": "TVG América",
     "path_name": "fe6d0c842c2244c61c6860ae9816affb",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "JonmoBhumi TV",
-    "path_name": "5ca94cbf25377921ac983b128fa79310",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,6 +891,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1413,33 +1413,6 @@
     }
   },
   {
-    "name": "TVM Internacional",
-    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM",
-    "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM",
-    "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Oman TV",
     "path_name": "1aeeefceb7a3ba8e2b9d0fd9c5c30450",
     "url": "https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8",
@@ -1713,15 +1686,6 @@
     "name": "TVR Timișoara",
     "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
     "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Craiova",
-    "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
-    "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -2145,6 +2109,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "LaRed TV",
+    "path_name": "f777082a01def810416b96601a700a87",
+    "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
