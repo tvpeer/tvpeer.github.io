@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -765,15 +756,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
@@ -1026,6 +1008,15 @@
     }
   },
   {
+    "name": "TV MANA-1 PORTUGAL",
+    "path_name": "363c786cfe48941a857cf30d8a748c34",
+    "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Kuriakos TV",
     "path_name": "5d714c5596e08b55bf97426e6a5f0717",
     "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
@@ -1074,6 +1065,24 @@
     "name": "Sobrenatural TV",
     "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
     "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná 1",
+    "path_name": "b1c29e00c999d9509e7d3819def131a6",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná 2",
+    "path_name": "ca27ebc7f223bdb627f8188376cbdb0a",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2037,15 +2046,6 @@
     "name": "JBS",
     "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
     "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Hope Channel International",
-    "path_name": "56d49b4acfbd200907273ac69ff04f60",
-    "url": "https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
