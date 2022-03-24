@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Catacama TV",
     "path_name": "5a8c557720d6aee66533457e328a7b6d",
     "url": "https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8",
@@ -1011,6 +1002,15 @@
     "name": "PLP",
     "path_name": "58b02f30b67ecf0a4aff2684f454e043",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ena Channel",
+    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
+    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2016,6 +2016,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2682,15 +2691,6 @@
     }
   },
   {
-    "name": "ЮТВ (Чебоксары)",
-    "path_name": "6edee0c70dd83b855d0fe47d631055d1",
-    "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
@@ -3243,15 +3243,6 @@
     "name": "CBS 11 Toledo OH (WTOL)",
     "path_name": "08cf9e7fe153179faeae19efd8bbc85a",
     "url": "https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Lex TV",
-    "path_name": "29b5b063aa705cf68d80f73223419990",
-    "url": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
