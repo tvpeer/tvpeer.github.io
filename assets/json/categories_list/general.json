@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -462,6 +453,15 @@
     "name": "Cultura PR Catve",
     "path_name": "bfe5a46aeff10142c356489b7af9da33",
     "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "SBT TV Serra Dourada",
+    "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,6 +900,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1263,6 +1272,15 @@
     "name": "Kass TV",
     "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
     "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "GBS TV",
+    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
+    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1755,15 +1773,6 @@
     }
   },
   {
-    "name": "Al Khalij",
-    "path_name": "1ea6c256d75fc0bcfc7485596b7484c0",
-    "url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Sama TV",
     "path_name": "2c29c79e8161f2f95ce806dab8fb3986",
     "url": "http://stream5.sama-tv.net/hls/stream.m3u8",
@@ -2073,6 +2082,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "LaRed TV",
+    "path_name": "f777082a01def810416b96601a700a87",
+    "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

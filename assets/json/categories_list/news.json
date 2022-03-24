@@ -828,15 +828,6 @@
     }
   },
   {
-    "name": "RTU",
-    "path_name": "3f28d8b856fb6a09afce4eab6a971136",
-    "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1134,6 +1125,15 @@
     }
   },
   {
+    "name": "TV9 Kannada",
+    "path_name": "c82749589c740e60cab7ea83e34fd59c",
+    "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Asianet News",
     "path_name": "3f8b98b8efdb9ee5014d8c0abcd63620",
     "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
@@ -1260,6 +1260,15 @@
     }
   },
   {
+    "name": "Thanthi TV",
+    "path_name": "f821111c29c5f3a338361471d9931d47",
+    "url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Polimer News",
     "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
     "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
@@ -1272,6 +1281,15 @@
     "name": "Asianet News Tamil",
     "path_name": "efb9f3e9968cb3ed93db2ea06ceac1dd",
     "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "TV9 News",
+    "path_name": "aeb7a774c49a0cb8073ea0a21abc8214",
+    "url": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1989,6 +2007,24 @@
     }
   },
   {
+    "name": "Arise News",
+    "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
+    "url": "https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Arise News",
+    "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
+    "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Sky News",
     "path_name": "e8111c26a56c75630bb0c8f2817ca325",
     "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
@@ -2376,15 +2412,6 @@
     }
   },
   {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2493,6 +2520,42 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2523,15 +2586,6 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
