@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -612,6 +603,15 @@
     }
   },
   {
+    "name": "Shubhsandesh",
+    "path_name": "fd5c3c1003d2d9ef4b0998e63467863c",
+    "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "ABNsat",
     "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
@@ -840,33 +840,6 @@
     "name": "Aliman TV",
     "path_name": "7f219ff24ea6ad7489d2eb5be6720958",
     "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Nour Mariam",
-    "path_name": "194bb6d17575245c9cf0a68c81266112",
-    "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "NourSAT",
-    "path_name": "59d42699ad4b6b339fa75ad7269bf6b5",
-    "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Nour Al Sharq",
-    "path_name": "ca0a595fec859c8ef6d2167c7f4e4ef0",
-    "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1893,15 +1866,6 @@
     "name": "Logos TV",
     "path_name": "15f8cb5cbd4e96a378f942d7976c87be",
     "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Logos TV Mubasher",
-    "path_name": "4b7de805413d46701a9224055f38f50f",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
