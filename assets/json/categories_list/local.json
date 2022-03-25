@@ -441,6 +441,15 @@
     }
   },
   {
+    "name": "Campus TV (Talca)",
+    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 2 (San Antonio)",
     "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
     "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
@@ -534,15 +543,6 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "La Granja TV",
-    "path_name": "6ee3a194c8c2e399155be9dc53660aab",
-    "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1557,105 +1557,6 @@
     }
   },
   {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hlsok/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://51.79.193.108:8080/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://51.79.193.108:8080/hlsok/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://51.79.193.108:8080/hls/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://51.79.193.108:8080/hlsok/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://51.79.193.108:8080/hls/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://51.79.193.108:8080/hlsok/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://51.79.193.108:8080/hlsok/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://51.79.193.108:8080/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://51.79.193.108:8080/hlsok/j00030/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1983,6 +1884,15 @@
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2322,6 +2232,15 @@
     }
   },
   {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -2406,6 +2325,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
