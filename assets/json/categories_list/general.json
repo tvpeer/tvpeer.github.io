@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -147,6 +138,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -693,6 +693,15 @@
     }
   },
   {
+    "name": "DesheBideshe TV",
+    "path_name": "4e498c2c2821169e06ff02a075b0dc49",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8",
@@ -741,24 +750,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -858,6 +849,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1065,6 +1065,15 @@
     "name": "GBS TV",
     "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
     "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "K24",
+    "path_name": "a1a718b053aff16b11155fdcf639f27b",
+    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
