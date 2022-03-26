@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -549,6 +540,15 @@
     }
   },
   {
+    "name": "TV Diário do Sertão",
+    "path_name": "fe591e582ec425bad1ddab35392ef48b",
+    "url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV BRICS Portuguese",
     "path_name": "9590801d96eec46c25414c97d033376b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
@@ -840,6 +840,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1911,15 +1920,6 @@
     "name": "LaRed TV",
     "path_name": "f777082a01def810416b96601a700a87",
     "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "PromarTV (Yaracuy)",
-    "path_name": "7a4d69951bb33167cd657a9b390e6664",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
