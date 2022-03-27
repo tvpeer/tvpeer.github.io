@@ -720,15 +720,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2565,6 +2556,15 @@
     }
   },
   {
+    "name": "Вечерняя Москва",
+    "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
+    "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "С1 (Сургут)",
     "path_name": "08be0f97930b257645b8c4618c0a6bd8",
     "url": "https://sitv.ru/hls/stv.m3u8",
@@ -3333,6 +3333,15 @@
     "name": "NBC 10 Knoxville TN (WBIR-TV)",
     "path_name": "74462b8a3e331f6e52be1421c0c04862",
     "url": "https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 24 Austin TX (KVUE)",
+    "path_name": "d44aa67f45dbc7ca80727ba08b44993a",
+    "url": "https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
