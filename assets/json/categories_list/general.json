@@ -333,6 +333,15 @@
     }
   },
   {
+    "name": "RTV",
+    "path_name": "6d395e86fe3b96ed85ed357c216d1961",
+    "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Bahrain Lawal",
     "path_name": "7bd19a967761e47c1f4187ee6b81ce6a",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8",
@@ -399,6 +408,15 @@
     "name": "SBT Rede Massa",
     "path_name": "1b66afe2a94a5000abbc12e2604434a7",
     "url": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "SBT TV Serra Dourada",
+    "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -549,15 +567,6 @@
     }
   },
   {
-    "name": "TV Carioca",
-    "path_name": "48d282fa44d1c5970359b7be5418675a",
-    "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Thathi",
     "path_name": "cad818bb7d44cc73723bc19637d99456",
     "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
@@ -624,15 +633,6 @@
     "name": "ОНТ",
     "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
     "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "СТВ",
-    "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
-    "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1020,15 +1020,6 @@
     "name": "Jordan TV",
     "path_name": "0eb62cebd70b284bed4a7c15eddc13f3",
     "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Kass TV",
-    "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
-    "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1452,24 +1443,6 @@
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
     "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
