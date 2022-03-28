@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -57,15 +66,6 @@
     "name": "Alegria TV",
     "path_name": "bc0279ce6b32621bb7182b06655b9a61",
     "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "KpopTV Play",
-    "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
-    "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -675,9 +675,27 @@
     }
   },
   {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Public Music",
     "path_name": "844c60da5656272f414cb50ec450925c",
     "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Real TV",
+    "path_name": "6c092badba12db1580c14080f0bbf6b0",
+    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -696,6 +714,15 @@
     "name": "Relax TV",
     "path_name": "0ae04150fad0720c728707f7b79d2f66",
     "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Tunes 6",
+    "path_name": "05bcdf31718a8b8e660faa0614b4c3c2",
+    "url": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1209,6 +1236,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

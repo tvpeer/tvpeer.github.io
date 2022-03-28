@@ -1296,15 +1296,6 @@
     }
   },
   {
-    "name": "News 7 Tamil",
-    "path_name": "415759a7f05fd8fd5b8ecca0acee20fd",
-    "url": "http://14.199.164.20:4001/play/a0kp/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1665,6 +1656,33 @@
     }
   },
   {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV Seventeen",
     "path_name": "8d8b3518de00572a4a110ed680d519d4",
     "url": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8",
@@ -1989,15 +2007,6 @@
     }
   },
   {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -2145,15 +2154,6 @@
     "name": "WPVI-TV News",
     "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
     "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WPTZ-TV News Plattsburgh NY",
-    "path_name": "7cd20ff84224d480081382b20e4f05f4",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2450,6 +2450,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2583,6 +2592,15 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2667,6 +2685,15 @@
     "name": "Al Masirah Mubacher",
     "path_name": "c12fe04226b932bd54dd166cec924483",
     "url": "https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Masirah",
+    "path_name": "ede4ed2f837af20ce1ee27897a7cebc2",
+    "url": "https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
