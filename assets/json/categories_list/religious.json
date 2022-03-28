@@ -504,6 +504,15 @@
     }
   },
   {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -1719,15 +1728,6 @@
     }
   },
   {
-    "name": "Loveworld TV",
-    "path_name": "edd71d2286bbdac0594f469ed7bc7af5",
-    "url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Iqra Bangla",
     "path_name": "ab685978c6c4110ae50dc15708e796ed",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8",
@@ -2154,6 +2154,15 @@
     "name": "Bible Explorations",
     "path_name": "815837ce6bfa2fe952847f0512a01881",
     "url": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Trinity Channel",
+    "path_name": "f2099ab2dcb8ca3c06ed48e22cad4db5",
+    "url": "http://rtmp1.abnsat.com/hls/trinity.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
