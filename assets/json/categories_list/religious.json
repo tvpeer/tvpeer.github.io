@@ -963,15 +963,6 @@
     }
   },
   {
-    "name": "Nazarenas TV",
-    "path_name": "1d4509993bcf493f8541094425387827",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
@@ -1038,6 +1029,24 @@
     "name": "TV MANA-1 PORTUGAL",
     "path_name": "363c786cfe48941a857cf30d8a748c34",
     "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
+    "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
+    "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1731,6 +1740,15 @@
     "name": "Iqra TV",
     "path_name": "7d612b3c9b71749ce9e43e0762ee10f4",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Akaal TV",
+    "path_name": "30e92c0e98d78c98186c838114d7bacd",
+    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
