@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -93,15 +84,6 @@
     "name": "Sesc TV",
     "path_name": "31fb60494f335dd660155ee30709741e",
     "url": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "TV BNO",
-    "path_name": "ba11abe7e12aa4cff0062c167f20bd0d",
-    "url": "http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -255,15 +237,6 @@
     "name": "Azstar TV",
     "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
     "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Afrobeats",
-    "path_name": "dcfbddf483737c922e95705a0e05bb3d",
-    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -507,6 +480,15 @@
     "name": "Hits 360 TV",
     "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
     "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Nogoum FM TV",
+    "path_name": "1ce920a2fedd4d7a1d15a31ef5393ff5",
+    "url": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -963,15 +945,6 @@
     }
   },
   {
-    "name": "Conecta TV",
-    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
-    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -1227,6 +1200,15 @@
     "name": "Muzzik Worldwide Serbia",
     "path_name": "cebb95b407e2c527ae2a9f8c413d6586",
     "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Новое радио",
+    "path_name": "0f7d0e26b49dcf44439e6994145e71db",
+    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
