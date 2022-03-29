@@ -756,15 +756,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1920,6 +1911,15 @@
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Siris TV",
+    "path_name": "22f23b1234e9dfd797a5c5e3425eda4e",
+    "url": "https://videostream.siris.nl/hls/playoutweb/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
