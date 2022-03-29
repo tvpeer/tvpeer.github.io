@@ -432,15 +432,6 @@
     }
   },
   {
-    "name": "Buin Somos Todos",
-    "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
-    "url": "https://bst.buin.cl/0.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CEAC TV (Santiago)",
     "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
     "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
@@ -588,6 +579,15 @@
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Santa María Televisión",
+    "path_name": "3367c1feb878d42504c153dd4d570aa3",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1782,15 +1782,6 @@
     }
   },
   {
-    "name": "Nicavisión Canal 12",
-    "path_name": "6261c47e1cb6cf2acee9d78bebf29284",
-    "url": "https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ZuidWest TV",
     "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
     "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
@@ -2100,6 +2091,15 @@
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "OK TeVe (Yurimaguas)",
+    "path_name": "13852856127ecf9cbcbc3455478bdb4d",
+    "url": "https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2451,15 +2451,6 @@
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Vía Altomayo",
-    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
-    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
