@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -927,24 +936,6 @@
     }
   },
   {
-    "name": "Trans7",
-    "path_name": "5f8d7fe7e00f29f23a181f8eebc7618b",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Trans TV",
-    "path_name": "2b332593d6c5d88558ea2f13ef01e9ff",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
@@ -1497,6 +1488,24 @@
     "name": "Alfajer TV 2",
     "path_name": "ca0a5bcb26dce34d6691d4521ed9c35c",
     "url": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
