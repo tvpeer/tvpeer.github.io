@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TV Cidade de Petrópolis",
-    "path_name": "97f192a17020f1875979df3ec60fe210",
-    "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Cidade Canal 9",
     "path_name": "635f211a99a5c1410c36ba58189bd6d0",
     "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
@@ -756,15 +747,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -795,6 +777,15 @@
     "name": "Zaracay TV",
     "path_name": "88a63521263537d9c1bfae7153539a97",
     "url": "https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Girona",
+    "path_name": "080367b5b1350504c030597028e7450b",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2070,6 +2061,15 @@
     }
   },
   {
+    "name": "QT Televisión (Cuzco)",
+    "path_name": "b5816595f3baa79a58dcb58854f37021",
+    "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Innova FM (Bagua Grande)",
     "path_name": "6bb261cd341175bba9043fd9496bfabe",
     "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
@@ -2415,6 +2415,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3654,6 +3663,15 @@
     }
   },
   {
+    "name": "Millennium TV 24",
+    "path_name": "310f642f691e3362c5674515e9ad9f08",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC News Live 1",
     "path_name": "9e71f9d55fdd13524ab8d7c5a3c38289",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
@@ -3744,6 +3762,15 @@
     }
   },
   {
+    "name": "ABC Tallahassee FL (WTXL-TV1)",
+    "path_name": "7c173938c26af7f3ec9a9afb232cae86",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "WGN Chicago IL (WGN-TV1)",
     "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
     "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
@@ -3774,6 +3801,15 @@
     "name": "The CW Tallahassee FL (WTLF1)",
     "path_name": "3be007bcd8e942249e031caa2780ff80",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Fox Tallahassee FL (WTWC-TV2)",
+    "path_name": "7fe2188be2cbe45273606a4107def90b",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3828,6 +3864,15 @@
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
     "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS Tallahassee FL (WCTV1)",
+    "path_name": "77d8c2b96ee151dd58fa36edadfec20b",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
