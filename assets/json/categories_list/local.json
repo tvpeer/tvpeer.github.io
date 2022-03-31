@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TVunisat",
-    "path_name": "d88574291ff71b24d8a3a45fdb4c9cbd",
-    "url": "https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ITV",
     "path_name": "3d5057b97790ba829b210a0e16ca978a",
     "url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
@@ -2091,6 +2082,15 @@
     "name": "Canal E (Evelyn) (Altomayo)",
     "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
     "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal E (Evelyn) (Nororiente)",
+    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
+    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
