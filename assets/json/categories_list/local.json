@@ -738,6 +738,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1029,15 +1038,6 @@
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Maya TV",
-    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
-    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1584,15 +1584,6 @@
     }
   },
   {
-    "name": "Next TV Malabar",
-    "path_name": "462cadd733920d09791dd898d72a7142",
-    "url": "https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1677,6 +1668,15 @@
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3837,6 +3837,15 @@
     "name": "The CW Tallahassee FL (WTLF1)",
     "path_name": "3be007bcd8e942249e031caa2780ff80",
     "url": "https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Fox Tallahassee FL (WTWC-TV2)",
+    "path_name": "7fe2188be2cbe45273606a4107def90b",
+    "url": "https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
