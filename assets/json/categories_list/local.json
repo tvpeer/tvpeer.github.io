@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "La Granja TV",
-    "path_name": "6ee3a194c8c2e399155be9dc53660aab",
-    "url": "https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "La Popular TV (Salamanca)",
     "path_name": "c0b300bed613b9cb63e76f01554086d8",
     "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
@@ -597,15 +588,6 @@
     "name": "Santa María Televisión",
     "path_name": "3367c1feb878d42504c153dd4d570aa3",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osorno",
-    "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
-    "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2979,6 +2961,15 @@
     }
   },
   {
+    "name": "CBS 4 New Orleans LA (WWL-TV)",
+    "path_name": "f0ee51c07829908f87506045f630896d",
+    "url": "https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 6 Albany NY (WRGB)",
     "path_name": "027fe6a204e1663ed841e2b1cf3faa55",
     "url": "https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8",
@@ -3594,6 +3585,15 @@
     "name": "NBC 11 Alive Atlanta GA (WXIA-TV)",
     "path_name": "2041a7f8646843093fcfa81e6b31fa5b",
     "url": "https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS 5 San Antonio TX (KENS)",
+    "path_name": "64dce25ea286be17bbf6cb10d51842c2",
+    "url": "https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
