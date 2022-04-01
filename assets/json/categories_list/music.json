@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -75,6 +66,15 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Alegria TV",
+    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
+    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -306,6 +306,24 @@
     }
   },
   {
+    "name": "Portalfoxmix",
+    "path_name": "16d32f809a2de992ad72747e533febb8",
+    "url": "https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Ruidos FM",
+    "path_name": "f3e54b1185ca3bdc3e3b6c8c23575c0a",
+    "url": "https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Carolina TV",
     "path_name": "6be974900eddc300c19f912210b5411a",
     "url": "https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
@@ -327,15 +345,6 @@
     "name": "Retro Plus 2",
     "path_name": "6a97eb8024801bbefa2d7e8ec3179adf",
     "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1092,15 +1101,6 @@
     "name": "Marah FM",
     "path_name": "150dca7a13476f07d9440d71632eb2fc",
     "url": "http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kuriakos Music",
-    "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
-    "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

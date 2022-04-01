@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Fonte TV",
-    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -786,6 +777,15 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1929,15 +1929,6 @@
     "name": "The Now Network",
     "path_name": "bed0f66b5ff7dd552fc3e157634e0413",
     "url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Mission TV",
-    "path_name": "30ed2526a48a5c7b4e03c781969dffcb",
-    "url": "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
