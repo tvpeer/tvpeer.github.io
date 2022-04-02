@@ -1062,15 +1062,6 @@
     }
   },
   {
-    "name": "Pratidin Time",
-    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
-    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
@@ -2124,6 +2115,15 @@
     }
   },
   {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
@@ -2307,6 +2307,15 @@
     "name": "OAN Encore",
     "path_name": "658f21cff54e1284be9609028ffed0c6",
     "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ABC 9 Kansas City MO (KMBC-TV)",
+    "path_name": "80f9f374ccabc690000c4d20b8154836",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2601,6 +2610,15 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2640,15 +2658,6 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
