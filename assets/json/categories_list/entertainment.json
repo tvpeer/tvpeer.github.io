@@ -396,15 +396,6 @@
     }
   },
   {
-    "name": "Velicham",
-    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
-    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Marutam TV",
     "path_name": "055774e0444c3ffd312362636a4c84b3",
     "url": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8",
@@ -1098,6 +1089,15 @@
     }
   },
   {
+    "name": "Game Show Network East",
+    "path_name": "929b1b721957bc62f1d30b5fcf1d4e98",
+    "url": "http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Audio Dungeon",
     "path_name": "6532ff1a1dc83cd41a24d000a2d279d1",
     "url": "https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8",
@@ -1119,6 +1119,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
