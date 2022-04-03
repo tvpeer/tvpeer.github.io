@@ -189,15 +189,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -993,15 +984,6 @@
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Maya TV",
-    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
-    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1890,15 +1872,6 @@
     }
   },
   {
-    "name": "Auténtica Televisión",
-    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
-    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CreoTV (Cajamarca)",
     "path_name": "8bd0ab0c7051139c15c3e5ad07c7afc4",
     "url": "https://srv1.mediastreamperu.com:8081/creotv/index.m3u8",
@@ -1911,15 +1884,6 @@
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Controversia TV (Moyobamba)",
-    "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
-    "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1974,6 +1938,15 @@
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Planeta TV Moyobamba",
+    "path_name": "0190f822207db79a4f8cac902a761e77",
+    "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
