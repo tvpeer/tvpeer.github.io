@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -39,6 +30,15 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Gaan Bangla",
+    "path_name": "f0bafbb598d2d1444359c0863fd687b3",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -810,15 +810,6 @@
     }
   },
   {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -1125,6 +1116,15 @@
     }
   },
   {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kiss TV",
     "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
     "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
@@ -1242,6 +1242,15 @@
     }
   },
   {
+    "name": "Новое радио",
+    "path_name": "0f7d0e26b49dcf44439e6994145e71db",
+    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
@@ -1314,27 +1323,9 @@
     }
   },
   {
-    "name": "V2BEAT",
-    "path_name": "170dbb73651fd04590a00da30331e5ac",
-    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "V2BEAT",
-    "path_name": "170dbb73651fd04590a00da30331e5ac",
-    "url": "https://de1se01.v2beat.live/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
