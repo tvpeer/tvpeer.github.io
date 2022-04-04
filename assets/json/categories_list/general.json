@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -1575,6 +1566,15 @@
     }
   },
   {
+    "name": "Sama TV",
+    "path_name": "2c29c79e8161f2f95ce806dab8fb3986",
+    "url": "http://stream5.sama-tv.net/hls/stream.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Syria TV",
     "path_name": "1a67757ef1bd124f8a09e681f6ea45b3",
     "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8",
@@ -1884,6 +1884,15 @@
     "name": "LaRed TV",
     "path_name": "f777082a01def810416b96601a700a87",
     "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
