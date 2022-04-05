@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -693,15 +702,6 @@
     }
   },
   {
-    "name": "СТВ",
-    "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
-    "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Doyel TV",
     "path_name": "949bfcb24bdb339308630a3551277363",
     "url": "http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8",
@@ -768,6 +768,15 @@
     "name": "Boss Brothers TV",
     "path_name": "3a7f7fe4a8f8c4440cecad60d1a97acd",
     "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RTNC 1",
+    "path_name": "8de70c6cdb48a33fa1e02cb3bb2a211b",
+    "url": "https://cdn.strimie.eu:3431/live/rtnc1live.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1476,9 +1485,27 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 2",
+    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
+    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1947,15 +1974,6 @@
     "name": "LaRed TV",
     "path_name": "f777082a01def810416b96601a700a87",
     "url": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "PromarTV (Yaracuy)",
-    "path_name": "7a4d69951bb33167cd657a9b390e6664",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
