@@ -27,15 +27,6 @@
     }
   },
   {
-    "name": "Peace TV Albanian",
-    "path_name": "6bd309180fa167468e61af2c0c190625",
-    "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Շողակաթ",
     "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
     "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
@@ -792,15 +783,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
@@ -1074,24 +1056,6 @@
     "name": "Kuriakos TV",
     "path_name": "5d714c5596e08b55bf97426e6a5f0717",
     "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV Fátima",
-    "path_name": "868e6bef527eabac63ee6af59f7cf972",
-    "url": "http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV Fátima",
-    "path_name": "868e6bef527eabac63ee6af59f7cf972",
-    "url": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1767,6 +1731,15 @@
     "name": "Iqra TV",
     "path_name": "7d612b3c9b71749ce9e43e0762ee10f4",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Akaal TV",
+    "path_name": "30e92c0e98d78c98186c838114d7bacd",
+    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
