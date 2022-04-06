@@ -18,9 +18,9 @@
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -30,6 +30,15 @@
     "name": "ATV Կինոման",
     "path_name": "5dceef43f92994d939241c5cf491829d",
     "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ATV Ֆիլմզոն",
+    "path_name": "daa60ca759b05ec4bb74a650d4705527",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -165,15 +174,6 @@
     "name": "B4U Bhojpuri",
     "path_name": "6976bc3bf919d856a69c24b34ac18f97",
     "url": "http://14.199.164.20:4001/play/a0nq/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Star Cinema",
-    "path_name": "d6fb916bd542fcda121b6fd21541545c",
-    "url": "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -351,6 +351,15 @@
     }
   },
   {
+    "name": "Persian Film",
+    "path_name": "01cd721bf7d3268f21fd19d96840df93",
+    "url": "http://51.210.227.135/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Persiana Cinema",
     "path_name": "ccffc82d483dd2979a2c19490664fb1e",
     "url": "http://51.210.199.15/hls/stream.m3u8",
@@ -360,9 +369,36 @@
     }
   },
   {
+    "name": "Persiana Classic",
+    "path_name": "3da06e8e5d3537682479203819362575",
+    "url": "http://51.210.199.26/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Persiana Comedy",
     "path_name": "5e77ce43ab77e2421457f682985e42a9",
     "url": "http://51.210.199.27/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Persiana Family",
+    "path_name": "71a5a82e2817afe23e7106cacbf12184",
+    "url": "http://51.210.199.19/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Persiana Iranian",
+    "path_name": "3cc8d78e1cdab21c526b57cf98a010dc",
+    "url": "http://51.210.199.22/hls/stream.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
