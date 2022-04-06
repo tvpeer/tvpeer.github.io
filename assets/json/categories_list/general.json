@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -174,6 +165,15 @@
     "name": "América TV",
     "path_name": "65933879ac005056881bddadf3c01723",
     "url": "https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "SEO TV",
+    "path_name": "041e2bab84e23a495f520590cab8120f",
+    "url": "https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -453,6 +453,15 @@
     "name": "Catve Master TV",
     "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
     "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -846,6 +855,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -1044,18 +1062,18 @@
     }
   },
   {
-    "name": "GBS TV",
-    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
-    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+    "name": "K24",
+    "path_name": "a1a718b053aff16b11155fdcf639f27b",
+    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "K24",
-    "path_name": "a1a718b053aff16b11155fdcf639f27b",
-    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
+    "name": "UTV",
+    "path_name": "5927dd335560a8b92ceaf0fe69dfaaa9",
+    "url": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1245,6 +1263,15 @@
     "name": "USIL TV",
     "path_name": "f5833f8f7f0b313ea1bebf70cf6e07d1",
     "url": "https://video.produccionesmagicorp.com/redes/video.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Onda Digital",
+    "path_name": "c99f22979172b8dc73f36941ec96d527",
+    "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
