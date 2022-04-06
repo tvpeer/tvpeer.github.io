@@ -990,15 +990,6 @@
     }
   },
   {
-    "name": "Ena Channel",
-    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
-    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Aceh",
     "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
@@ -1899,6 +1890,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2145,6 +2145,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2808,6 +2817,15 @@
     }
   },
   {
+    "name": "30A The Beach Show",
+    "path_name": "bd3ca19adb02409d239b7afa4d71c51b",
+    "url": "https://30a-tv.com/beachy.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "WLNG Radio",
     "path_name": "c4215e3bf1cd92242f42febb7be42fe3",
     "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8",
@@ -3162,6 +3180,15 @@
     "name": "CBS 8 San Diego CA (KFMB-TV)",
     "path_name": "42a3b277d62068ee3aa377fa1880a972",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nothing Scripted",
+    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
+    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
