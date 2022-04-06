@@ -621,15 +621,6 @@
     }
   },
   {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
@@ -687,15 +678,6 @@
     "name": "City TV (Bogotà | Cundinamarca)",
     "path_name": "56723578aa6b96da3fe55f3f6663efae",
     "url": "https://tna5.bozztv.com/LiveCH006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2313,6 +2295,15 @@
     }
   },
   {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
@@ -2325,6 +2316,15 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
