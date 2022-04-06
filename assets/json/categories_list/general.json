@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -423,6 +414,15 @@
     }
   },
   {
+    "name": "SBT TV Serra Dourada",
+    "path_name": "a1c1fd446aebb9d5e195077ccd3968a6",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Verdes Campos",
     "path_name": "02989a8ac0d9610a95e91b1885239e4a",
     "url": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
@@ -561,6 +561,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -747,6 +756,15 @@
     }
   },
   {
+    "name": "Teleislas",
+    "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
+    "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal 1",
     "path_name": "615ffb0713a3a67b040201f2a6ba60c9",
     "url": "https://tna5.bozztv.com/LiveCH007/index.m3u8",
@@ -822,15 +840,6 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
