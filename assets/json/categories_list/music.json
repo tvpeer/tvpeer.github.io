@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -810,15 +819,6 @@
     }
   },
   {
-    "name": "High Vision",
-    "path_name": "b82414f628acd86dc21be4434b264ee4",
-    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "NAVAHANG",
     "path_name": "3bfd0c896cfd7ad296c1987277d3c1d5",
     "url": "http://51.210.227.130/hls/stream.m3u8",
@@ -1251,15 +1251,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Музыка Первого",
     "path_name": "90b93eca5a87c2228287890a8ac28d3f",
     "url": "http://91.185.3.218:4000/play/608",
@@ -1494,6 +1485,15 @@
     }
   },
   {
+    "name": "Radio Ritmo",
+    "path_name": "7e5e8ac29053f4f2fa7970b6d8f85c05",
+    "url": "https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8",
@@ -1515,6 +1515,24 @@
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://vidaprimo-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
