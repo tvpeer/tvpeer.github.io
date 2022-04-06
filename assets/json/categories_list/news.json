@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Al Arabiya",
-    "path_name": "521acbade973186e0ac6a03da306246f",
-    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -417,6 +408,15 @@
     "name": "ATN News",
     "path_name": "c374e701683b6246460601756174b864",
     "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ABC News",
+    "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
+    "url": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -603,6 +603,15 @@
     }
   },
   {
+    "name": "ATN News",
+    "path_name": "c374e701683b6246460601756174b864",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Channel T1",
     "path_name": "9a508f051a628243eb88e4662f6b87c0",
     "url": "http://irbtv.net/channelt1/1080/index.m3u8",
@@ -621,9 +630,18 @@
     }
   },
   {
-    "name": "Independent TV",
-    "path_name": "06b8dba362201bbd7117e77455dd5d8d",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8",
+    "name": "Jamuna TV",
+    "path_name": "a8dd9fba76a7b8a4d4bedfbf9f56a4ca",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "News 24",
+    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -921,15 +939,6 @@
     "name": "ERT News",
     "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
     "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "N1 HRVATSKA",
-    "path_name": "508afed1eae9c9c5de2aa0ee6e370eee",
-    "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1515,15 +1524,6 @@
     "name": "TV7 News",
     "path_name": "6fc60f031c4b5067cc206ab6d3a79419",
     "url": "http://217.61.26.46:8080/hls/news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Tele Sondrio News",
-    "path_name": "b7ff20bd2e0a004d41968c23f9da67a7",
-    "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2280,15 +2280,6 @@
     "name": "CBC News (XUMO)",
     "path_name": "cd6c7563f95871409f4dabf8e29a3ba4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "NBC 5 Cincinnati OH (WLWT)",
-    "path_name": "e12c1627a0701d7af32fead971469899",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
