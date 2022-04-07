@@ -180,6 +180,15 @@
     }
   },
   {
+    "name": "Gospel Movie TV",
+    "path_name": "2f7fbb892b497478324177e88444148a",
+    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
@@ -237,6 +246,15 @@
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Amazing Discoveries TV",
+    "path_name": "a10694f2c4744969025809afc5903cba",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -659,6 +677,15 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -723,6 +750,15 @@
     "name": "Payvand TV",
     "path_name": "d3b9981fec2d16a819201201508011e4",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "BeitolAbbas TV",
+    "path_name": "c81994bc2032895e11f77c743b82b2cf",
+    "url": "http://live.beitolabbas.tv/live/beitolabbastv.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -945,15 +981,6 @@
     }
   },
   {
-    "name": "Nazarenas TV",
-    "path_name": "1d4509993bcf493f8541094425387827",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
@@ -981,6 +1008,24 @@
     }
   },
   {
+    "name": "TV MANA (ENG)",
+    "path_name": "dfd35f1721c3eb0e04af20b8953c6e50",
+    "url": "http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA (FR)",
+    "path_name": "0d209a99d3d68557157fe660f0b5b4c9",
+    "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV MANA MAPUTO",
     "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
     "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
@@ -993,6 +1038,15 @@
     "name": "TV MANA MAPUTO",
     "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
     "url": "http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA-1 PORTUGAL",
+    "path_name": "363c786cfe48941a857cf30d8a748c34",
+    "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1020,6 +1074,42 @@
     "name": "Sobrenatural TV",
     "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
     "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná 1",
+    "path_name": "b1c29e00c999d9509e7d3819def131a6",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná 2",
+    "path_name": "ca27ebc7f223bdb627f8188376cbdb0a",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA (RU)",
+    "path_name": "64201021e42747c3e58575f1d8475990",
+    "url": "http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA (ESP)",
+    "path_name": "691954cea4d263bf851dab912ce0ab9b",
+    "url": "http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1890,15 +1980,6 @@
     }
   },
   {
-    "name": "CTN 61 Riviera Beach FL (WFGC)",
-    "path_name": "3892efe26dc164071ebf1f27dce18b1f",
-    "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Jewish Life TV",
     "path_name": "c289830c6c468cc05e2cf388038bbec6",
     "url": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8",
@@ -2100,6 +2181,15 @@
     "name": "Aliento Vision",
     "path_name": "b8440f3cd354a766453c5a61067d529b",
     "url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Juventud Renovada en el Espiritu Santo",
+    "path_name": "5c439fbbd0bb99a934572239bc1d4b15",
+    "url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
