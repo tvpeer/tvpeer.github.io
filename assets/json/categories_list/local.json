@@ -693,6 +693,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -813,6 +822,15 @@
     "name": "Canal 25 TV (Barbastro)",
     "path_name": "4b75cee7c1659979426795ad31a572cb",
     "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Málaga RTV",
+    "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
+    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1911,6 +1929,15 @@
     "name": "RTV Connect TV",
     "path_name": "b40de220a63657099f317faadbab70da",
     "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Kachorro (Super TV | Amazonas)",
+    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
+    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3330,6 +3357,15 @@
     }
   },
   {
+    "name": "CBS 46 Atlanta GA (WGCL-TV)",
+    "path_name": "8cab5d30a0c19048e85108ce923a47e9",
+    "url": "https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Bowie TV",
     "path_name": "9ab0814455ca18667d0013508a29f8ed",
     "url": "https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8",
@@ -3873,6 +3909,42 @@
     "name": "CBS News Los Angeles",
     "path_name": "73a6ce3ef8090c617c87fe6ee465e64a",
     "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBS News New York",
+    "path_name": "363bf81b3d79d531d96ae5a80578bc21",
+    "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS News New York",
+    "path_name": "363bf81b3d79d531d96ae5a80578bc21",
+    "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBSN Boston",
+    "path_name": "6763bc4ae69bd479fd162f37625008d1",
+    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBSN Boston",
+    "path_name": "6763bc4ae69bd479fd162f37625008d1",
+    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
