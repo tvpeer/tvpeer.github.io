@@ -666,15 +666,6 @@
     }
   },
   {
-    "name": "MH1 Music",
-    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
-    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "I Love",
     "path_name": "8a62b0af352c53905d098227efb1e2ff",
     "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
@@ -1416,6 +1407,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop Europe",
+    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
+    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
