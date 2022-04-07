@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -810,6 +819,15 @@
     }
   },
   {
+    "name": "Echorouk News",
+    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1308,15 +1326,6 @@
     "name": "Thanthi TV",
     "path_name": "f821111c29c5f3a338361471d9931d47",
     "url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Polimer News",
-    "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
-    "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2577,6 +2586,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
