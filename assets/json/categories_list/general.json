@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -522,6 +513,15 @@
     }
   },
   {
+    "name": "TV Guará",
+    "path_name": "493f3f239af0744a0c302aca46a0d053",
+    "url": "https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Yeeaah!",
     "path_name": "4d827bc5ac94fe56229662a11036635d",
     "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
@@ -729,6 +729,15 @@
     }
   },
   {
+    "name": "DesheBideshe TV",
+    "path_name": "4e498c2c2821169e06ff02a075b0dc49",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8",
@@ -876,6 +885,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1344,6 +1362,33 @@
     "name": "MBC",
     "path_name": "d11fa117fb730e077192de81a07db08c",
     "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM Internacional",
+    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
