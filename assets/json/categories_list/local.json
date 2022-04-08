@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "TV Pantanal MS",
-    "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
-    "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 25 Jundiaí",
     "path_name": "63d12f4a270b9fe9a947a90f2347a451",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -2115,6 +2106,24 @@
     }
   },
   {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2145,15 +2154,6 @@
     "name": "Canal E (Evelyn) (Altomayo)",
     "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
     "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal E (Evelyn) (Nororiente)",
-    "path_name": "03982603b53aa0eeb9cd83b8828dbb05",
-    "url": "https://srv1.mediastreamperu.com:8081/8004/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2361,6 +2361,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
