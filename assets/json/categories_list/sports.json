@@ -153,6 +153,15 @@
     }
   },
   {
+    "name": "DTV Play (Deporte Total)",
+    "path_name": "4ded98cb318fe9ea08d27d63db158440",
+    "url": "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "All Sports",
     "path_name": "cea9458061366d7a4669f773d0ca6771",
     "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
@@ -300,15 +309,6 @@
     "name": "Persiana Varzesh",
     "path_name": "3e59e35579d9f4cb2b9728373fdd7857",
     "url": "http://51.210.199.16/hls/stream.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "New Japan Pro Wrestling World",
-    "path_name": "82305c2f2eb5b429df20934de8dd6619",
-    "url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -642,6 +642,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
