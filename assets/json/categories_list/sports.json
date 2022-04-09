@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Dubai Racing",
-    "path_name": "e704a876e463bc79cf5cb62886595417",
-    "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Abu Dhabi Sports 2",
     "path_name": "3f6cfbddeb10ddd13f81c2c8ff160706",
     "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
@@ -650,6 +641,15 @@
   {
     "name": "Pac 12 Insider",
     "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
     "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -1011,6 +1011,15 @@
     "name": "TVS Classic Sports",
     "path_name": "ee4769d822385415c79e1da36ca77a87",
     "url": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "FightBox HD",
+    "path_name": "ff53a50ee550d0b541f877e97cafeab1",
+    "url": "http://ott-cdn.ucom.am/s86/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
