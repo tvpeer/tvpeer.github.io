@@ -1,23 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -39,6 +21,15 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Gaan Bangla",
+    "path_name": "f0bafbb598d2d1444359c0863fd687b3",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -495,15 +486,6 @@
     }
   },
   {
-    "name": "Hits 360 TV",
-    "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
-    "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Nogoum FM TV",
     "path_name": "1ce920a2fedd4d7a1d15a31ef5393ff5",
     "url": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8",
@@ -795,15 +777,6 @@
     "name": "Dijlah Tarab",
     "path_name": "a39a07c0a4587298b3a1f1e1834edd81",
     "url": "https://ghaasiflu.online/tarab/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1125,24 +1098,6 @@
     }
   },
   {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1245,15 +1200,6 @@
     "name": "Muzzik Worldwide Serbia",
     "path_name": "cebb95b407e2c527ae2a9f8c413d6586",
     "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Новое радио",
-    "path_name": "0f7d0e26b49dcf44439e6994145e71db",
-    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1443,6 +1389,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop Europe",
+    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
+    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
