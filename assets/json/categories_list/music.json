@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -1125,6 +1116,15 @@
     }
   },
   {
+    "name": "TV Duga Plus",
+    "path_name": "247c1ba0159fdcca4856256524b932e5",
+    "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Muzzik AMVA 2020",
     "path_name": "56eb3285711470314cc411865b5646e1",
     "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
@@ -1461,6 +1461,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Urban Beats",
+    "path_name": "1799a6459e286d34b11dc3569524f3a0",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
