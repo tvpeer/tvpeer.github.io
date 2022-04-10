@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -147,15 +138,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -237,6 +219,15 @@
     "name": "Alvin Channel TV",
     "path_name": "af035aef2df699d66b9a68c4742e79ed",
     "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Muğan TV",
+    "path_name": "f9b74f18048b2cbb70f49cd45485775e",
+    "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1512,6 +1503,33 @@
     }
   },
   {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Ajyal TV",
     "path_name": "3d6635da4ad3983076dffc58715b7713",
     "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
@@ -1587,6 +1605,15 @@
     "name": "Al Rayyan",
     "path_name": "2a1fbe76aab852808351018dc4d2317a",
     "url": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR International",
+    "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
+    "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
