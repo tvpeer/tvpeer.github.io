@@ -180,6 +180,15 @@
     }
   },
   {
+    "name": "TV Pantanal MS",
+    "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
+    "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 25 Jundiaí",
     "path_name": "63d12f4a270b9fe9a947a90f2347a451",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -1521,105 +1530,6 @@
     }
   },
   {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hls/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kansai TV",
-    "path_name": "8b8810bc3413929f3aeabc409ea8a3c2",
-    "url": "http://51.79.193.108:8080/hlsok/j00006/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://51.79.193.108:8080/hls/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MBS (Mainichi Broadcasting System)",
-    "path_name": "893d214fc242158a86311bb71d4632fc",
-    "url": "http://51.79.193.108:8080/hlsok/j00038/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://51.79.193.108:8080/hls/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://51.79.193.108:8080/hlsok/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://51.79.193.108:8080/hls/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Osaka",
-    "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
-    "url": "http://51.79.193.108:8080/hlsok/j00013/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://51.79.193.108:8080/hlsok/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Tokyo",
-    "path_name": "6d8928b88eaf681ba4dfbb061deb8bf0",
-    "url": "http://51.79.193.108:8080/hls/j00012/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "http://51.79.193.108:8080/hlsok/j00030/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1812,15 +1722,6 @@
     "name": "Omroep Hulst TV",
     "path_name": "d54dc61da73530a96b0337c3e401c472",
     "url": "https://stream.iconbroadcastgroup.com:1443/OH-Playout/smil:OH-Playout.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Aalsmeer TV",
-    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
-    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2361,15 +2262,6 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
