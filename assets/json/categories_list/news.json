@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -603,6 +612,15 @@
     }
   },
   {
+    "name": "ATN News",
+    "path_name": "c374e701683b6246460601756174b864",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Channel T1",
     "path_name": "9a508f051a628243eb88e4662f6b87c0",
     "url": "http://irbtv.net/channelt1/1080/index.m3u8",
@@ -846,15 +864,6 @@
     }
   },
   {
-    "name": "101TV Malaga",
-    "path_name": "930cee95729458c790dd69049205a25a",
-    "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Canal 24 horas",
     "path_name": "3ad59f99d776d2dc479551fe1060f7db",
     "url": "https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8",
@@ -945,15 +954,6 @@
     }
   },
   {
-    "name": "ERT News",
-    "path_name": "acbe3d842b18487839a8c0ed8c60cf9c",
-    "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 HRVATSKA",
     "path_name": "508afed1eae9c9c5de2aa0ee6e370eee",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -984,15 +984,6 @@
     "name": "BeritaSatu",
     "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
     "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "iNews",
-    "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
-    "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1503,15 +1494,6 @@
     }
   },
   {
-    "name": "TSN Tele Sondrio News",
-    "path_name": "c1039a7c3f03e10e4207890b5743456c",
-    "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TV7 News",
     "path_name": "6fc60f031c4b5067cc206ab6d3a79419",
     "url": "http://217.61.26.46:8080/hls/news.m3u8",
@@ -1740,15 +1722,6 @@
     "name": "M24 TV",
     "path_name": "5b8239b824c3ec4f91aba55d9191788c",
     "url": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "M24 TV",
-    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
-    "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1992,6 +1965,15 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2567,7 +2549,16 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2613,6 +2604,15 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
