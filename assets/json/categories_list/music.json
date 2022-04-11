@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -513,9 +504,9 @@
     }
   },
   {
-    "name": "Activa TV",
-    "path_name": "f1cdbef12bb6984066983efa76558402",
-    "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+    "name": "101 Tele Antequera",
+    "path_name": "7bc0dba9ebff499918e13e8a3fa07aca",
+    "url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -552,6 +543,24 @@
     "name": "Magic TV",
     "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
     "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "NG",
+    "path_name": "21c8ee28bfbf5e822c7d336770869a93",
+    "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "NG",
+    "path_name": "21c8ee28bfbf5e822c7d336770869a93",
+    "url": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -765,6 +774,15 @@
     }
   },
   {
+    "name": "KurdMax Music",
+    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
+    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -783,9 +801,18 @@
     }
   },
   {
-    "name": "NAVAHANG",
-    "path_name": "3bfd0c896cfd7ad296c1987277d3c1d5",
-    "url": "http://51.210.227.130/hls/stream.m3u8",
+    "name": "Persiana Music",
+    "path_name": "4a9ac8b3029e1d0753440ac87a22c8cc",
+    "url": "http://51.210.199.24/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Persiana Nostalgia",
+    "path_name": "46891c7fe8ce09333f209b775a412e9b",
+    "url": "http://51.210.199.20/hls/stream.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -849,6 +876,15 @@
     "name": "Euro Indie Music Chart TV",
     "path_name": "4b81ead013194f349b6033c8e04c4582",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Nojoum TV",
+    "path_name": "afa66d2ec899c2fb49fd1f6c07b74ce1",
+    "url": "https://nojoumhls.wns.live/hls/stream.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1335,6 +1371,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "30A Music",
+    "path_name": "8c052738370a2cf5822d919bddcb72da",
+    "url": "https://30a-tv.com/music.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
