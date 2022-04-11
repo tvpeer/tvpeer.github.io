@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
@@ -93,15 +102,6 @@
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -138,15 +138,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -315,6 +306,15 @@
     }
   },
   {
+    "name": "BTV World",
+    "path_name": "c3e192d5b776927f49773f379884ee5f",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AB TV",
     "path_name": "69d73eaf8beec97801739725eae96a03",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8",
@@ -345,42 +345,6 @@
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain Lawal",
-    "path_name": "7bd19a967761e47c1f4187ee6b81ce6a",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain TV",
-    "path_name": "601c8f40d4d3504224e3de6f144e5086",
-    "url": "http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain TV",
-    "path_name": "601c8f40d4d3504224e3de6f144e5086",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain International",
-    "path_name": "8e99cb5580cfa6863f9055d6a02ece8c",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1053,9 +1017,36 @@
     }
   },
   {
+    "name": "Kass TV",
+    "path_name": "a3f7141ace8b11d5693e9fc2b29ad9e3",
+    "url": "https://goliveafrica.media:9998/live/60755313b36db/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "GBS TV",
+    "path_name": "66cc08fe3a3efdc884e51d48b94fbf71",
+    "url": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "K24",
     "path_name": "a1a718b053aff16b11155fdcf639f27b",
     "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "UTV",
+    "path_name": "5927dd335560a8b92ceaf0fe69dfaaa9",
+    "url": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1686,6 +1677,15 @@
     "name": "PBS America",
     "path_name": "df5b2980c9f9130ff2cafe2b1440326a",
     "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Mad Dog and Merrill",
+    "path_name": "57870ffad06e847d6d067cd337740814",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
