@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -30,6 +21,15 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Gaan Bangla",
+    "path_name": "f0bafbb598d2d1444359c0863fd687b3",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -75,6 +75,15 @@
     "name": "KpopTV Play",
     "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
     "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "TV BNO",
+    "path_name": "ba11abe7e12aa4cff0062c167f20bd0d",
+    "url": "http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1017,15 +1026,6 @@
     }
   },
   {
-    "name": "TV Peruanísima",
-    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
-    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
@@ -1443,6 +1443,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Today's Latin Pop",
+    "path_name": "efc1221d30fa719ad57e2431a9501941",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
