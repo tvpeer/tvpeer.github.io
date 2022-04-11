@@ -513,6 +513,15 @@
     }
   },
   {
+    "name": "Activa TV",
+    "path_name": "f1cdbef12bb6984066983efa76558402",
+    "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Mezzo",
     "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
     "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
@@ -774,15 +783,6 @@
     }
   },
   {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Caltex TV",
     "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
     "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
@@ -792,9 +792,27 @@
     }
   },
   {
+    "name": "Diyar TV",
+    "path_name": "050b9574112eabd36f769194a1a7b6b8",
+    "url": "http://51.210.199.28/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "High Vision",
     "path_name": "b82414f628acd86dc21be4434b264ee4",
     "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "NAVAHANG",
+    "path_name": "3bfd0c896cfd7ad296c1987277d3c1d5",
+    "url": "http://51.210.227.130/hls/stream.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1236,6 +1254,15 @@
     "name": "A2i Music",
     "path_name": "002dc005abda9e85d85000b263350925",
     "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Mosaïque FM",
+    "path_name": "044109ec0f439a4409b25730dfab93fe",
+    "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
