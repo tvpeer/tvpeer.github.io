@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Luxury",
-    "path_name": "dd867fcf0c006484f8b9b49306a3d697",
-    "url": "http://nano.teleservice.su:8080/hls/luxury.m3u8",
-    "categories": {
-      "name": "Shop",
-      "slug": "shop"
-    }
-  },
-  {
     "name": "Gems TV",
     "path_name": "4c9e2c4a8e3da42a68390a72061dd9ba",
     "url": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8",
@@ -255,6 +246,15 @@
     "name": "QVC UK +1",
     "path_name": "7e411b469638fa61680ac95e51d39f05",
     "url": "https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8",
+    "categories": {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  },
+  {
+    "name": "QVC UK Beauty",
+    "path_name": "5cffe4cd1361b4e534d19260a281ac6b",
+    "url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
