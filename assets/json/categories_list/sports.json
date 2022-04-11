@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "MavTV Select",
-    "path_name": "a7fbeb63e33e14da9f7711bc614865a7",
-    "url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Dubai Racing 2",
     "path_name": "f0629ebd1e962e50dc20ef5cf9cf4847",
     "url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8",
@@ -567,24 +558,6 @@
     }
   },
   {
-    "name": "Players TV",
-    "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Pac 12 Insider",
-    "path_name": "ef09de2acec2ca4754e4758f875b872f",
-    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Pac 12 Insider",
     "path_name": "ef09de2acec2ca4754e4758f875b872f",
     "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
@@ -900,9 +873,27 @@
     }
   },
   {
+    "name": "STIRR Stadium",
+    "path_name": "54e90fd0ed959c5ece9eb3371b82b80b",
+    "url": "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "Stadium",
     "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Stadium",
+    "path_name": "ab7fa6fac03546331a8b22375cb8fa0d",
+    "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
