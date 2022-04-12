@@ -837,15 +837,6 @@
     }
   },
   {
-    "name": "T2 TV",
-    "path_name": "a20ac1def18cd98931ea73933b64286b",
-    "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "PMC Royale",
     "path_name": "6fab4622ab2df165f933044473cd2f95",
     "url": "http://51.210.199.29/hls/stream.m3u8",
@@ -999,15 +990,6 @@
     }
   },
   {
-    "name": "Metropolitana del Cuzco (CCTVRadio)",
-    "path_name": "5c24d91b60b7824519530788b04979d1",
-    "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "CVM TV Digital",
     "path_name": "a3456c64a3a570aa1b0bc7e95ed1179e",
     "url": "https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8",
@@ -1092,6 +1074,15 @@
     "name": "Kuriakos Music",
     "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
     "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Kiss TV",
+    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1224,15 +1215,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Музыка Первого",
     "path_name": "90b93eca5a87c2228287890a8ac28d3f",
     "url": "http://91.185.3.218:4000/play/608",
@@ -1353,6 +1335,24 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
