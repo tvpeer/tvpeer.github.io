@@ -126,15 +126,6 @@
     }
   },
   {
-    "name": "Telenord Corrientes",
-    "path_name": "9d49de079f499fc31f02f55416f28f0a",
-    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "BTV Chittagong",
     "path_name": "ccdb0399ec3f5c5fbdc6ad3f28701cec",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8",
@@ -2070,6 +2061,15 @@
     }
   },
   {
+    "name": "Canal E (Evelyn) (Altomayo)",
+    "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
+    "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
@@ -2502,15 +2502,6 @@
     }
   },
   {
-    "name": "ЮТВ (Чебоксары)",
-    "path_name": "6edee0c70dd83b855d0fe47d631055d1",
-    "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
@@ -2577,6 +2568,15 @@
     "name": "Oppna Kanalen",
     "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
     "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Sahel TV",
+    "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
+    "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
