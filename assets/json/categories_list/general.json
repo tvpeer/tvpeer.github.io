@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -210,6 +201,15 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -885,6 +885,33 @@
     "name": "GTV",
     "path_name": "b6f10dc3b23e4aa70710831a8d918689",
     "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MNCTV",
+    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Trans7",
+    "path_name": "5f8d7fe7e00f29f23a181f8eebc7618b",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Trans TV",
+    "path_name": "2b332593d6c5d88558ea2f13ef01e9ff",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
