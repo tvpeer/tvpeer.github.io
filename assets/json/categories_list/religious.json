@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -300,15 +291,6 @@
     "name": "Radio Uniem",
     "path_name": "9dc09ef2716c26c4b80675cd2c276877",
     "url": "https://5eff35271151c.streamlock.net:1936/8110/8110/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TNE",
-    "path_name": "d1f63de2ce5f7c87c38d4ddb927c7d16",
-    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -741,6 +723,15 @@
     "name": "Payvand TV",
     "path_name": "d3b9981fec2d16a819201201508011e4",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "BeitolAbbas TV",
+    "path_name": "c81994bc2032895e11f77c743b82b2cf",
+    "url": "http://live.beitolabbas.tv/live/beitolabbastv.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1748,15 +1739,6 @@
   {
     "name": "Akaal TV",
     "path_name": "30e92c0e98d78c98186c838114d7bacd",
-    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Akaal TV",
-    "path_name": "30e92c0e98d78c98186c838114d7bacd",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
     "categories": {
       "name": "Religious",
@@ -1902,6 +1884,15 @@
     "name": "Almagd TV North America",
     "path_name": "ec6bb7fa78c4bda19433f1d04be12e2e",
     "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "The Now Network",
+    "path_name": "bed0f66b5ff7dd552fc3e157634e0413",
+    "url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
