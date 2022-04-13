@@ -414,15 +414,6 @@
     }
   },
   {
-    "name": "ABC News",
-    "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
-    "url": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
@@ -819,6 +810,15 @@
     }
   },
   {
+    "name": "Echorouk News",
+    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -1044,15 +1044,6 @@
     }
   },
   {
-    "name": "Kanak News",
-    "path_name": "6883abf486ff64267998970ad0e7f212",
-    "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "India News",
     "path_name": "92a9b5ceeab2628c7c7369eec06ce1cc",
     "url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8",
@@ -1209,15 +1200,6 @@
     "name": "Mangalam",
     "path_name": "fa87a0f5649c52683c1b81f0332e7e44",
     "url": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Time Vision News",
-    "path_name": "5468f643e57b49c29583122bfee35a7b",
-    "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2631,6 +2613,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
