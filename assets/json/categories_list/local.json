@@ -1008,15 +1008,6 @@
     }
   },
   {
-    "name": "Maya TV",
-    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
-    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Aceh",
     "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
@@ -1764,6 +1755,15 @@
     }
   },
   {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
@@ -2079,6 +2079,15 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -2277,27 +2286,9 @@
     }
   },
   {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
