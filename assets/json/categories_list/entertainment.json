@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "UNO PLAY",
     "path_name": "59c4f4c6efa2399574540a59532ceb4c",
     "url": "https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8",
@@ -756,15 +747,6 @@
     }
   },
   {
-    "name": "Popstar! TV",
-    "path_name": "f5bcbf4000315aab897a740f34057e44",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -801,24 +783,6 @@
     }
   },
   {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "World Poker Tour",
     "path_name": "4410fd784b09915966c94029fbff9e59",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8",
@@ -849,15 +813,6 @@
     "name": "TMZ",
     "path_name": "8110add785fa7edf64d4fb5010e2fa29",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "AMC Presents",
-    "path_name": "61baf1abc40498b2dab7ec3127a84cfc",
-    "url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1055,15 +1010,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1119,6 +1065,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
