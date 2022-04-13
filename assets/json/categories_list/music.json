@@ -1,8 +1,8 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -837,6 +837,15 @@
     }
   },
   {
+    "name": "PMC",
+    "path_name": "8c905be64cbd70bf4961637b7dfd5933",
+    "url": "https://hls.pmchd.live/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "PMC Royale",
     "path_name": "6fab4622ab2df165f933044473cd2f95",
     "url": "http://51.210.199.29/hls/stream.m3u8",
@@ -1047,15 +1056,6 @@
     "name": "Radio San Borja TV",
     "path_name": "483a1a898f6111b7c78d06f35eba46c3",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Top Latino TV",
-    "path_name": "9975d13dc3902ccfc77d53c9675c50df",
-    "url": "https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
