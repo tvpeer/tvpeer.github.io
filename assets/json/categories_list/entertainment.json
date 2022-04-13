@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "TangoTV",
-    "path_name": "ed738b9d12d0d208cd8b4e5ecbc376c0",
-    "url": "https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -363,15 +354,6 @@
     "name": "Velicham",
     "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
     "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Marutam TV",
-    "path_name": "055774e0444c3ffd312362636a4c84b3",
-    "url": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -756,6 +738,15 @@
     }
   },
   {
+    "name": "Popstar! TV",
+    "path_name": "f5bcbf4000315aab897a740f34057e44",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -786,6 +777,24 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
