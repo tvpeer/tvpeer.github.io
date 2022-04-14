@@ -504,15 +504,6 @@
     }
   },
   {
-    "name": "Estación TV (Chillán)",
-    "path_name": "c3d06dc3c13e4689c1fa65825ac1536d",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Exprezión TV (EXTV | Los Álamos)",
     "path_name": "ad8198cdd8d62a1915443d9f4f96b6c1",
     "url": "https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8",
@@ -687,6 +678,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -993,15 +993,6 @@
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Maya TV",
-    "path_name": "98d16fe7ae8e173514d3e2deaa414800",
-    "url": "https://media.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2313,15 +2304,6 @@
     }
   },
   {
-    "name": "Uranio TV (Yurimaguas)",
-    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
-    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -3168,15 +3150,6 @@
     }
   },
   {
-    "name": "Nothing Scripted",
-    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
-    "url": "https://30a-tv.com/NothingScripted.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
     "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
@@ -3351,15 +3324,6 @@
     "name": "Fox 43 Harrisburg PA (WPMT)",
     "path_name": "8c547e174650dacd631e570d49596dc5",
     "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 6 Waco TX (KCEN)",
-    "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
-    "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
