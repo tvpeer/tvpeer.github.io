@@ -522,15 +522,6 @@
     }
   },
   {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Домашний",
     "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
     "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
@@ -597,6 +588,15 @@
     "name": "ESR 24x7 eSports Network",
     "path_name": "ac9123aa4429f7505bd1160280e34ced",
     "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Pop TV",
+    "path_name": "a9ca93a7b1c62cbd40efa41e123f8831",
+    "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1080,6 +1080,15 @@
     }
   },
   {
+    "name": "Game Show Network East",
+    "path_name": "929b1b721957bc62f1d30b5fcf1d4e98",
+    "url": "http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Audio Dungeon",
     "path_name": "6532ff1a1dc83cd41a24d000a2d279d1",
     "url": "https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8",
@@ -1101,6 +1110,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
