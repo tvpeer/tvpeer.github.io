@@ -81,9 +81,9 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -138,15 +138,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -315,6 +306,15 @@
     }
   },
   {
+    "name": "Boishakhi TV",
+    "path_name": "eff641dd37d7af69e90b4ff8501ee3cf",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "BTV World",
     "path_name": "c3e192d5b776927f49773f379884ee5f",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8",
@@ -324,9 +324,36 @@
     }
   },
   {
+    "name": "Nexus TV",
+    "path_name": "2001755923d1fac95e3f3d5b5f862fcb",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AB TV",
     "path_name": "69d73eaf8beec97801739725eae96a03",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bijoy TV",
+    "path_name": "ee96336f5a8b05581840f206aa2eb8e0",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Sangshad TV",
+    "path_name": "7ffe5966e41b9f92369ecce643ca3fdb",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -351,6 +378,15 @@
     }
   },
   {
+    "name": "SATV",
+    "path_name": "d81912dfc106c935a646b6840f4ac276",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Bahrain Lawal",
     "path_name": "7bd19a967761e47c1f4187ee6b81ce6a",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8",
@@ -363,15 +399,6 @@
     "name": "Bahrain TV",
     "path_name": "601c8f40d4d3504224e3de6f144e5086",
     "url": "http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain TV",
-    "path_name": "601c8f40d4d3504224e3de6f144e5086",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -453,6 +480,15 @@
     "name": "Catve Master TV",
     "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
     "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -819,6 +855,15 @@
     }
   },
   {
+    "name": "RCTI",
+    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "GTV",
     "path_name": "b6f10dc3b23e4aa70710831a8d918689",
     "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
@@ -1065,15 +1110,6 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1344,15 +1380,6 @@
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
