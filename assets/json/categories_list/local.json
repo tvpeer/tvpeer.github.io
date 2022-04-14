@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "BTV Chittagong",
-    "path_name": "ccdb0399ec3f5c5fbdc6ad3f28701cec",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -174,6 +165,15 @@
     "name": "TV UniSantos",
     "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
     "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Pantanal MS",
+    "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
+    "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1845,15 +1845,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1866,15 +1857,6 @@
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1929,15 +1911,6 @@
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "FuegoTV (Lima)",
-    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
-    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2001,15 +1974,6 @@
     "name": "Innova FM (Bagua Grande)",
     "path_name": "6bb261cd341175bba9043fd9496bfabe",
     "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2187,15 +2151,6 @@
     }
   },
   {
-    "name": "PiuraTV",
-    "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
-    "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Planeta TV Bagua",
     "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
     "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
@@ -2235,6 +2190,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2343,15 +2307,6 @@
     "name": "92 News UK",
     "path_name": "4c8eea3f98da7c95cf4cf2d2c42aa4a9",
     "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Евразия (Орск)",
-    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
-    "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
