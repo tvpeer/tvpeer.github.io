@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "KpopTV Play",
-    "path_name": "6eb4be7d1e25b0e9ca8c0911122fcbea",
-    "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV BNO",
     "path_name": "ba11abe7e12aa4cff0062c167f20bd0d",
     "url": "http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8",
@@ -747,15 +738,6 @@
     }
   },
   {
-    "name": "Vaanvavil",
-    "path_name": "610dfefa71d4e057f2ed9eeda7a997ca",
-    "url": "http://14.199.164.20:4001/play/a0nx/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MK Tunes",
     "path_name": "0576b1143ea1a75b5186c2ae09e421d0",
     "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
@@ -1218,6 +1200,15 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
