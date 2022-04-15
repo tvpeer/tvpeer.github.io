@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "Al Jazeera Documentary",
+    "path_name": "8b929387df76d6c3fcc4a8ab527dc23b",
+    "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
     "name": "Canal Savoir",
     "path_name": "9f6dcfe8d0d709eb7276fdf96fe49626",
     "url": "https://hls.savoir.media/live/stream.m3u8",
@@ -48,15 +57,6 @@
     "name": "RT Documentary Russian",
     "path_name": "0ac9769d67982e5df220818bf28432df",
     "url": "https://hls.rt.com/hls/rtdru.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
-    "name": "RT Documentary Russian",
-    "path_name": "0ac9769d67982e5df220818bf28432df",
-    "url": "https://rtmp.api.rt.com/hls/rtdru.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
@@ -137,25 +137,7 @@
   {
     "name": "Law & Crime",
     "path_name": "ac531564040737f21abc2d4fcd1fb609",
-    "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
-    "name": "Law & Crime",
-    "path_name": "ac531564040737f21abc2d4fcd1fb609",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
-    "categories": {
-      "name": "Documentary",
-      "slug": "documentary"
-    }
-  },
-  {
-    "name": "Law & Crime",
-    "path_name": "ac531564040737f21abc2d4fcd1fb609",
-    "url": "https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
