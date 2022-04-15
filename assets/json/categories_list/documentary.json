@@ -54,6 +54,15 @@
     }
   },
   {
+    "name": "RT Documentary Russian",
+    "path_name": "0ac9769d67982e5df220818bf28432df",
+    "url": "https://rtmp.api.rt.com/hls/rtdru.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
     "name": "National Geographic Abu Dhabi",
     "path_name": "1c6858dec0207228f8c85d3768feede1",
     "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
@@ -183,6 +192,15 @@
     "name": "Crime Time",
     "path_name": "74adf5b50d968ac3cd0a96f881d84d20",
     "url": "https://crimetimebamca-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Documentary",
+      "slug": "documentary"
+    }
+  },
+  {
+    "name": "Crime 360",
+    "path_name": "4726ea9e1b63d82370f04687bfc671fd",
+    "url": "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Documentary",
       "slug": "documentary"
