@@ -342,15 +342,6 @@
     }
   },
   {
-    "name": "Canal Son TV",
-    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
-    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "88 Stereo",
     "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
     "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
@@ -1206,6 +1197,15 @@
     }
   },
   {
+    "name": "Новое радио",
+    "path_name": "0f7d0e26b49dcf44439e6994145e71db",
+    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
@@ -1398,15 +1398,6 @@
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Loop 80s East",
-    "path_name": "047bd024519159c8b7a012c70ef76dcd",
-    "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
