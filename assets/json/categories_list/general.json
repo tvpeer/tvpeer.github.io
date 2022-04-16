@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -855,6 +846,15 @@
     }
   },
   {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "RCTI",
     "path_name": "f3219703247c4fe3e4fcc23f1184369d",
     "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
@@ -867,6 +867,15 @@
     "name": "GTV",
     "path_name": "b6f10dc3b23e4aa70710831a8d918689",
     "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MNCTV",
+    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1386,6 +1395,15 @@
     }
   },
   {
+    "name": "TVR 1",
+    "path_name": "efe15e2f5675b809f259c5eea7a62625",
+    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1434,6 +1452,15 @@
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Târgu Mureș",
+    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
+    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
