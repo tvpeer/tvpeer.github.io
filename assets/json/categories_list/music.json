@@ -243,6 +243,15 @@
     }
   },
   {
+    "name": "Azstar TV",
+    "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
+    "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Afrobeats",
     "path_name": "dcfbddf483737c922e95705a0e05bb3d",
     "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
@@ -1197,15 +1206,6 @@
     }
   },
   {
-    "name": "Новое радио",
-    "path_name": "0f7d0e26b49dcf44439e6994145e71db",
-    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
@@ -1398,6 +1398,15 @@
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Loop 80s East",
+    "path_name": "047bd024519159c8b7a012c70ef76dcd",
+    "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"

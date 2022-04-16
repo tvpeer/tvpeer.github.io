@@ -72,18 +72,18 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "name": "Նոր Հայաստան",
+    "path_name": "bc7a615c82558a146ae038313eb9ac09",
+    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -138,6 +138,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -288,9 +297,27 @@
     }
   },
   {
+    "name": "Az Star TV",
+    "path_name": "4641579d4c09a3e1044ffae1651ca977",
+    "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "İnterAz",
     "path_name": "aab9362434e4b8314b943b555d1ad4e4",
     "url": "http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Boishakhi TV",
+    "path_name": "eff641dd37d7af69e90b4ff8501ee3cf",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -831,6 +858,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1422,15 +1458,6 @@
     }
   },
   {
-    "name": "TVR Târgu Mureș",
-    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
-    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Красная линия",
     "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
     "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
@@ -1767,6 +1794,15 @@
     "name": "Bloomberg Quicktake",
     "path_name": "fbeab9cf71debfa86f235671af702fc6",
     "url": "https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bloomberg Quicktake",
+    "path_name": "fbeab9cf71debfa86f235671af702fc6",
+    "url": "https://bloomberg-quicktake-1-no.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
