@@ -729,15 +729,6 @@
     }
   },
   {
-    "name": "Icnet TV",
-    "path_name": "03ca68e7572ea2a70f2360641309a18c",
-    "url": "http://51.210.199.7/hls/stream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Kalemeh TV",
     "path_name": "2f4d70c9246b0dddefab5512b5d87dce",
     "url": "http://51.210.199.37/hls/stream.m3u8",
@@ -759,6 +750,15 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
