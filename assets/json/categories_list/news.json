@@ -828,15 +828,6 @@
     }
   },
   {
-    "name": "Echorouk News",
-    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
-    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -1173,6 +1164,15 @@
     "name": "TV9 Kannada",
     "path_name": "c82749589c740e60cab7ea83e34fd59c",
     "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Dighvijay",
+    "path_name": "5a8edd978ec1634bef7e7dc29bceea25",
+    "url": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2478,6 +2478,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
