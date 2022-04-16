@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Luxury",
+    "path_name": "dd867fcf0c006484f8b9b49306a3d697",
+    "url": "http://nano.teleservice.su:8080/hls/luxury.m3u8",
+    "categories": {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  },
+  {
     "name": "Gems TV",
     "path_name": "4c9e2c4a8e3da42a68390a72061dd9ba",
     "url": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8",
@@ -147,24 +156,6 @@
     "name": "HSN",
     "path_name": "50b2efd51b9ae6c93be974c3940a7077",
     "url": "https://hsn.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "Shop",
-      "slug": "shop"
-    }
-  },
-  {
-    "name": "Shop LC",
-    "path_name": "4a56cd412d3bb4c0f699a826ccf540be",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
-    "categories": {
-      "name": "Shop",
-      "slug": "shop"
-    }
-  },
-  {
-    "name": "Shop LC",
-    "path_name": "4a56cd412d3bb4c0f699a826ccf540be",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
     "categories": {
       "name": "Shop",
       "slug": "shop"
