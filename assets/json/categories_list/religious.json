@@ -180,15 +180,6 @@
     }
   },
   {
-    "name": "Gospel Movie TV",
-    "path_name": "2f7fbb892b497478324177e88444148a",
-    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
@@ -228,6 +219,15 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -945,6 +945,15 @@
     }
   },
   {
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
@@ -1227,6 +1236,15 @@
     "name": "Suboro TV",
     "path_name": "1ae3373be4f8d20c979aba5b9e903d40",
     "url": "https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Thaqalayn TV",
+    "path_name": "f6c9d03893c98053ca36d4819029de4f",
+    "url": "https://live.thaqalayn.tv/hls/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
