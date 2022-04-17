@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -201,6 +192,15 @@
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Gideoes",
+    "path_name": "b2ac60535762415997a56e7397111adf",
+    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -408,6 +408,15 @@
     "name": "Coptic TV",
     "path_name": "17ad62b9301f9e8bf2480b5eb3ae76c8",
     "url": "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Hayat TV",
+    "path_name": "e361cb5edda427d6ac65314425cf56e3",
+    "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -641,6 +650,15 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -678,6 +696,15 @@
     "name": "Imam Hussein TV 4 Urdu",
     "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -759,6 +786,24 @@
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1710,15 +1755,6 @@
     }
   },
   {
-    "name": "El Maqar",
-    "path_name": "cbde484025c8e228be54c6af2f6ed7eb",
-    "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Al Horreya TV",
     "path_name": "ea78dbe690084ade9d6258623e8803a9",
     "url": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8",
@@ -2118,15 +2154,6 @@
     "name": "Aliento Vision",
     "path_name": "b8440f3cd354a766453c5a61067d529b",
     "url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Juventud Renovada en el Espiritu Santo",
-    "path_name": "5c439fbbd0bb99a934572239bc1d4b15",
-    "url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
