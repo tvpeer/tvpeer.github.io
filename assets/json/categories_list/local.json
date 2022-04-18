@@ -378,15 +378,6 @@
     }
   },
   {
-    "name": "Aysén TV",
-    "path_name": "1e735fa078c54dc1860e19fca9c0092d",
-    "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Buin Somos Todos",
     "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
     "url": "https://bst.buin.cl/0.m3u8",
@@ -549,15 +540,6 @@
     }
   },
   {
-    "name": "TV Quellón",
-    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Quinta Región",
     "path_name": "dc9303cf3728554ff78e4b9eed262818",
     "url": "https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/playlist.m3u8",
@@ -669,6 +651,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1053,15 +1044,6 @@
     }
   },
   {
-    "name": "TVRI Bengkulu",
-    "path_name": "0c82c4714e5f5fcf30089a33726d4ae0",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI DKI Jakarta",
     "path_name": "31078ffdcb359039286e551f2e227b3b",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8",
@@ -1191,15 +1173,6 @@
     "name": "TVRI Lampung",
     "path_name": "62ee7b139fe1cf0e4dd5e86234049bd4",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Lampung",
-    "path_name": "62ee7b139fe1cf0e4dd5e86234049bd4",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1371,15 +1344,6 @@
     "name": "TVRI Sulawesi Utara",
     "path_name": "0a74756a24f8accdc9c04be8045badec",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Sulawesi Utara",
-    "path_name": "0a74756a24f8accdc9c04be8045badec",
-    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3009,6 +2973,15 @@
     "name": "CBS 8 San Diego CA (KFMB-TV)",
     "path_name": "42a3b277d62068ee3aa377fa1880a972",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nothing Scripted",
+    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
+    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
