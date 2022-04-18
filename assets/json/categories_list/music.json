@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -423,15 +414,6 @@
     }
   },
   {
-    "name": "Retro Music Television",
-    "path_name": "21e52c415b65bd9f7354977ac1c3657e",
-    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Óčko Gold",
     "path_name": "421217be063b8f4f5e6a5a8a4ec17696",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
@@ -462,24 +444,6 @@
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Retro Music TV",
-    "path_name": "1b802e4567568607759861b6cb5aed69",
-    "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "RetroMusicTV",
-    "path_name": "8092654682ee19c536e0e52fa8c9f42e",
-    "url": "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1053,6 +1017,15 @@
     }
   },
   {
+    "name": "TV Peruanísima",
+    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
+    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
@@ -1080,9 +1053,27 @@
     }
   },
   {
+    "name": "Marah FM",
+    "path_name": "150dca7a13476f07d9440d71632eb2fc",
+    "url": "http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kuriakos Music",
     "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
     "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
