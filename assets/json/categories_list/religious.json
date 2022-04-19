@@ -180,6 +180,15 @@
     }
   },
   {
+    "name": "Rede Vida",
+    "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
+    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
@@ -641,6 +650,15 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -669,6 +687,15 @@
     "name": "Imam Hussein TV 4 Urdu",
     "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -810,33 +837,6 @@
     }
   },
   {
-    "name": "Nour Mariam",
-    "path_name": "194bb6d17575245c9cf0a68c81266112",
-    "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "NourSAT",
-    "path_name": "59d42699ad4b6b339fa75ad7269bf6b5",
-    "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Nour Al Sharq",
-    "path_name": "ca0a595fec859c8ef6d2167c7f4e4ef0",
-    "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "CharityTV",
     "path_name": "55468c0cb2049dc0b13e653eda9e42f5",
     "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
@@ -903,15 +903,6 @@
     "name": "Al Istiqama TV",
     "path_name": "cb3dfaa3cc1989873b06dd7f81ba020b",
     "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "La Luz TV",
-    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1623,6 +1614,15 @@
     "name": "British Muslim TV",
     "path_name": "0d6b0abcd9908fa4ebda9d06f4894284",
     "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Loveworld TV",
+    "path_name": "edd71d2286bbdac0594f469ed7bc7af5",
+    "url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
