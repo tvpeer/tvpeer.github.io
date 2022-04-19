@@ -72,24 +72,6 @@
     }
   },
   {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "AVC HD (Monte Caseros | Corrientes)",
     "path_name": "8c7725a7842c0eb81227e0feecd828c8",
     "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
@@ -435,6 +417,15 @@
     "name": "Campus TV (Talca)",
     "path_name": "3eb5077be8e10d7c129fc064c1f23960",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 2 (San Antonio)",
+    "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
+    "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1584,15 +1575,6 @@
     }
   },
   {
-    "name": "Tokyo MX1",
-    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
-    "url": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX2",
     "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
     "url": "https://movie.mcas.jp/mcas/mx2_2/master.m3u8",
@@ -1863,45 +1845,9 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Bella Abanquina TV (Apurimac)",
-    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
-    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV5 Soritor",
-    "path_name": "d6059fe7506a7c06c0fbbf9dd08befe5",
-    "url": "https://live.obslivestream.com/tv5soritormux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1956,15 +1902,6 @@
     "name": "LimaLive",
     "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
     "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Huanta TV",
-    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
-    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2277,18 +2214,18 @@
     }
   },
   {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Universitaria TV (Chanchamayo)",
-    "path_name": "f33338a5f62e3a11997f99458109b5be",
-    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2307,15 +2244,6 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "RadioTV Oriente (Yurimaguas)",
-    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
-    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2775,15 +2703,6 @@
     "name": "ABC 8 Dallas TX (WFAA)",
     "path_name": "93c033a989db8bfab0f260f9cdb83bd2",
     "url": "https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "30A The Beach Show",
-    "path_name": "bd3ca19adb02409d239b7afa4d71c51b",
-    "url": "https://30a-tv.com/beachy.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
