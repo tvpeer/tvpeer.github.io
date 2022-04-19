@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "5-րդ ալիք",
-    "path_name": "c200ff245361563b6b97cc36940ec4ef",
-    "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
@@ -138,15 +129,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -849,6 +831,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
