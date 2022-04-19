@@ -1,8 +1,8 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -354,15 +354,6 @@
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Canal Son TV",
-    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
-    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -804,15 +795,6 @@
     "name": "Dijlah Tarab",
     "path_name": "a39a07c0a4587298b3a1f1e1834edd81",
     "url": "https://ghaasiflu.online/tarab/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "KurdMax Music",
-    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
-    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1344,6 +1326,24 @@
     "name": "Box Hits",
     "path_name": "831df94f10a11999dfa768d1f4db5442",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "The Box UK",
+    "path_name": "cd193df222036636e3a7c652978bf742",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "The Box UK",
+    "path_name": "cd193df222036636e3a7c652978bf742",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/",
     "categories": {
       "name": "Music",
       "slug": "music"
