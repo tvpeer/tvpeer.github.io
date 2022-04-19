@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "DTV Play (Deporte Total)",
+    "path_name": "4ded98cb318fe9ea08d27d63db158440",
+    "url": "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "All Sports",
     "path_name": "cea9458061366d7a4669f773d0ca6771",
     "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
@@ -605,15 +614,6 @@
   {
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
-    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "SportsGrid",
-    "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -714,6 +714,15 @@
     "name": "Unbeaten",
     "path_name": "a6a76aa91604cdc9ca0a774361485fc8",
     "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "TVS Sports",
+    "path_name": "f07a2e8da0727610df05d4933f84f017",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
