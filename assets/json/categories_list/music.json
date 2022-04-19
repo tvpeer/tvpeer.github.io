@@ -1,5 +1,23 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -345,6 +363,15 @@
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "88 Stereo",
+    "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
+    "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1431,33 +1458,6 @@
     }
   },
   {
-    "name": "STIRR Stingray Urban Beats",
-    "path_name": "1799a6459e286d34b11dc3569524f3a0",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "STIRR Stingray Pop Adult",
-    "path_name": "5bd20e05680182e0baa90e0373812ec7",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "STIRR Stingray Rock Alternative",
-    "path_name": "5b72cbdbe41000dce33932153ab21264",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Radio U TV",
     "path_name": "cbcb52855245b403334c2deffb93aaef",
     "url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8",
@@ -1470,15 +1470,6 @@
     "name": "VH1",
     "path_name": "d52229c62adf5293eb6b484439d130b7",
     "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio Ritmo",
-    "path_name": "7e5e8ac29053f4f2fa7970b6d8f85c05",
-    "url": "https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
