@@ -1,5 +1,14 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -39,6 +48,15 @@
     "name": "City Music TV",
     "path_name": "58c88d09ec8bdd42fda5b3d6d3036b14",
     "url": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio PROS",
+    "path_name": "fbb4ccaf63e303dbc3a46e8e49c3957e",
+    "url": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -405,6 +423,15 @@
     }
   },
   {
+    "name": "Retro Music Television",
+    "path_name": "21e52c415b65bd9f7354977ac1c3657e",
+    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Óčko Gold",
     "path_name": "421217be063b8f4f5e6a5a8a4ec17696",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
@@ -435,6 +462,24 @@
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Retro Music TV",
+    "path_name": "1b802e4567568607759861b6cb5aed69",
+    "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "RetroMusicTV",
+    "path_name": "8092654682ee19c536e0e52fa8c9f42e",
+    "url": "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1344,15 +1389,6 @@
     "name": "MCN6 Music Channel",
     "path_name": "146b4ab0a7117133a37e55f541b4b9d1",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Hip Hop",
-    "path_name": "b8b481ce3ee75deda9327c0fb327e658",
-    "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
