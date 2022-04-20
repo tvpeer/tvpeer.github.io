@@ -585,15 +585,6 @@
     }
   },
   {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
@@ -651,6 +642,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2190,6 +2190,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
