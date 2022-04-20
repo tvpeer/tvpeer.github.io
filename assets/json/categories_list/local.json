@@ -1872,15 +1872,6 @@
     }
   },
   {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
@@ -1962,9 +1953,27 @@
     }
   },
   {
+    "name": "TPTO TV (Tarapoto)",
+    "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
+    "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2205,9 +2214,27 @@
     }
   },
   {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Vía Altomayo",
+    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
+    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
