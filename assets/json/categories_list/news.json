@@ -810,6 +810,15 @@
     }
   },
   {
+    "name": "Echorouk News",
+    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "RTU",
     "path_name": "3f28d8b856fb6a09afce4eab6a971136",
     "url": "https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8",
@@ -2097,15 +2106,6 @@
     }
   },
   {
-    "name": "KFSN News",
-    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
-    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
@@ -2466,15 +2466,6 @@
     }
   },
   {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2583,15 +2574,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2658,6 +2640,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-samsung-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "TeleSUR English",
+    "path_name": "8920ca69389bdac1d6edaa0ee6b65c8a",
+    "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
