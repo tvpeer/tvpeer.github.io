@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "TangoTV",
-    "path_name": "ed738b9d12d0d208cd8b4e5ecbc376c0",
-    "url": "https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -147,15 +138,6 @@
     "name": "Dum TV Kannada",
     "path_name": "38ae0061dc5e25bb385297fee91fa11d",
     "url": "http://14.199.164.20:4001/play/a0sq/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Public TV",
-    "path_name": "229f2044b52c189551ecfe66f0296ce9",
-    "url": "http://14.199.164.20:4001/play/a0ld/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -336,6 +318,15 @@
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Aathavan TV",
+    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -747,6 +738,15 @@
     }
   },
   {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Showtime at the Apollo",
     "path_name": "1562ccc498170564aa5e31d516cd2a6a",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
@@ -885,6 +885,15 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
