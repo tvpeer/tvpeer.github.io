@@ -189,33 +189,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Nova Era TV",
     "path_name": "97002ce81e35169dff3b16c94d105fbd",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
@@ -309,6 +282,15 @@
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Montreal Greek TV",
+    "path_name": "a15892114864e1f2bd226d6cb845f475",
+    "url": "http://94.130.180.175:8081/live/greektv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -615,6 +597,15 @@
     "name": "Visión Plus TV (Melipilla)",
     "path_name": "99578787b40e46b93204a7af20607d90",
     "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ziza TV (Chiguayante)",
+    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
+    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2358,15 +2349,6 @@
     }
   },
   {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Millenium 49 TV (Pucallpa)",
     "path_name": "b38029251e5315b6d9234a159b407285",
     "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
@@ -2775,6 +2757,15 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Winthrop Community Access TV (WCAT 15)",
+    "path_name": "98b95044d5d11eeb7d0bd622475d27fa",
+    "url": "https://edu-wcat.azureedge.net/live/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
