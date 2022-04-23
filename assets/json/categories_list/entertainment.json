@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "CCTV-3综艺",
-    "path_name": "e06ac545af1fe2e10ed20fda59b513b0",
-    "url": "http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "UNO PLAY",
     "path_name": "59c4f4c6efa2399574540a59532ceb4c",
     "url": "https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8",
@@ -381,6 +372,15 @@
     "name": "EET TV",
     "path_name": "2349d9cce14c13565255b420f18a6658",
     "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Star Maa",
+    "path_name": "15e63739a699160cdd252aaca9293978",
+    "url": "http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -740,7 +740,7 @@
   {
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
-    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
+    "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -768,6 +768,15 @@
     "name": "eScapes (XUMO)",
     "path_name": "e159a02037cae184a2a9ad046489b964",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Popstar! TV",
+    "path_name": "f5bcbf4000315aab897a740f34057e44",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -804,6 +813,24 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1092,15 +1119,6 @@
     "name": "Audio Dungeon",
     "path_name": "6532ff1a1dc83cd41a24d000a2d279d1",
     "url": "https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "30A Sidewalks",
-    "path_name": "c3e564140b666eb3e5dd3a8baa5076bf",
-    "url": "https://30a-tv.com/sidewalks.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
