@@ -63,15 +63,6 @@
     }
   },
   {
-    "name": "MBC 1 KSA",
-    "path_name": "bff69df8bc693d4391c9306932a9b981",
-    "url": "https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Dubai One",
     "path_name": "9261f2c340cc197baff8128bfa3bbf4c",
     "url": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
@@ -84,15 +75,6 @@
     "name": "Նոր Հայաստան",
     "path_name": "bc7a615c82558a146ae038313eb9ac09",
     "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -147,15 +129,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -711,24 +684,6 @@
     }
   },
   {
-    "name": "Doyel TV",
-    "path_name": "949bfcb24bdb339308630a3551277363",
-    "url": "http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Doyel TV",
-    "path_name": "949bfcb24bdb339308630a3551277363",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CanBangla TV",
     "path_name": "aa68730c085a631700805bb998db5eef",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8",
@@ -1260,15 +1215,6 @@
     }
   },
   {
-    "name": "USIL TV",
-    "path_name": "f5833f8f7f0b313ea1bebf70cf6e07d1",
-    "url": "https://video.produccionesmagicorp.com/redes/video.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Onda Digital",
     "path_name": "c99f22979172b8dc73f36941ec96d527",
     "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
@@ -1476,15 +1422,6 @@
     }
   },
   {
-    "name": "Красная линия",
-    "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
-    "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Мир",
     "path_name": "579ae29d20979b9bf2d927153abbdaeb",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
@@ -1515,6 +1452,15 @@
     "name": "Россия 1 +6",
     "path_name": "54661bc06c41985158e5e791c98b2c94",
     "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
