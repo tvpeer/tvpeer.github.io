@@ -891,15 +891,6 @@
     }
   },
   {
-    "name": "Radio Piter Pan TV",
-    "path_name": "921810c9e13ccf1c449a7d481073ade6",
-    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Euro Indie Music Chart TV",
     "path_name": "4b81ead013194f349b6033c8e04c4582",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
@@ -1098,6 +1089,15 @@
     }
   },
   {
+    "name": "Kiss TV",
+    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1224,9 +1224,27 @@
     }
   },
   {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "A2i Music",
     "path_name": "002dc005abda9e85d85000b263350925",
     "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Mosaïque FM",
+    "path_name": "044109ec0f439a4409b25730dfab93fe",
+    "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1263,15 +1281,6 @@
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Qello Concerts by Stingray",
-    "path_name": "bc31d54a9f6701af9c5f60a963b04127",
-    "url": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
