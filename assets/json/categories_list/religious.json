@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -489,15 +480,6 @@
     "name": "Taevas TV7",
     "path_name": "97ea1bcbb5608bbaa3270a5e62eb8805",
     "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Choluteca TV",
-    "path_name": "70a1524b6bc50e538fe1307514613a3b",
-    "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -765,6 +747,15 @@
     }
   },
   {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Imam Hussein TV 1",
     "path_name": "d94a667716d0c1fa5529fd011b0f16ba",
     "url": "https://live.imamhossaintv.com/live/ih103/index.m3u8",
@@ -921,15 +912,6 @@
     "name": "Hosanna Vision",
     "path_name": "239552b56fcd887230456197f49b9eac",
     "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "La Luz TV",
-    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
