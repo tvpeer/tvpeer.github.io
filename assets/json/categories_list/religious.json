@@ -324,15 +324,6 @@
     }
   },
   {
-    "name": "Gracia TV",
-    "path_name": "3b3f8f2ecd0dbf879402a7228aadbdc1",
-    "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Avivamiento TV",
     "path_name": "579719b729534d28ebb981d339953907",
     "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
@@ -659,15 +650,6 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
-    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV 2 Arabic",
-    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -894,6 +876,15 @@
     "name": "CharityTV",
     "path_name": "55468c0cb2049dc0b13e653eda9e42f5",
     "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Espérance TV",
+    "path_name": "a9c0228fdf69e65d18ec4180747a453e",
+    "url": "https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
