@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -1449,15 +1458,6 @@
     }
   },
   {
-    "name": "Press TV English",
-    "path_name": "4db0637170b90138292f8c415eb56585",
-    "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Press TV French",
     "path_name": "1197b73f0e21acaabccc11ad488f61b9",
     "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
@@ -1524,15 +1524,6 @@
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HispanTV",
-    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
-    "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
