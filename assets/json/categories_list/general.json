@@ -72,9 +72,18 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Նոր Հայաստան",
+    "path_name": "bc7a615c82558a146ae038313eb9ac09",
+    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -129,6 +138,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -264,15 +282,6 @@
     "name": "Kəpəz TV",
     "path_name": "20082913f71c516ee3ddc764203aca00",
     "url": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Az Star TV",
-    "path_name": "4641579d4c09a3e1044ffae1651ca977",
-    "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1215,6 +1224,15 @@
     }
   },
   {
+    "name": "TV Palmeras",
+    "path_name": "ce8b1308fc4add4557a60169a6ce2642",
+    "url": "https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "UCI",
     "path_name": "a3881d4bf85941dc591f3b39c30274b8",
     "url": "https://servilive.com:3449/live/mlecaroslive.m3u8",
@@ -1452,6 +1470,15 @@
     "name": "TVR Iași",
     "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
     "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Красная линия",
+    "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
+    "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
