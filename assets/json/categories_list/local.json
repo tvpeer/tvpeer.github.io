@@ -315,15 +315,6 @@
     }
   },
   {
-    "name": "Montreal Greek TV",
-    "path_name": "a15892114864e1f2bd226d6cb845f475",
-    "url": "http://94.130.180.175:8081/live/greektv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -693,15 +684,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -975,24 +957,6 @@
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Irida TV",
-    "path_name": "e8b7b311b65a8b763f857a25298018f9",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PLP",
-    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1647,6 +1611,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2196,6 +2169,15 @@
     }
   },
   {
+    "name": "Huacho Perú TV",
+    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
+    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2253,6 +2235,15 @@
     "name": "Red de Comunicación Regional (RCR)",
     "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Región TV (Callao)",
+    "path_name": "da4454567c8a0a234a89f94e655be1f4",
+    "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
