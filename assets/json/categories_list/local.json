@@ -414,15 +414,6 @@
     }
   },
   {
-    "name": "Campus TV (Talca)",
-    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 2 (San Antonio)",
     "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
     "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
@@ -687,6 +678,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1917,15 +1917,6 @@
     }
   },
   {
-    "name": "ATM Televisión (Apurimac)",
-    "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
-    "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "AsiriTV (Lima)",
     "path_name": "2f106380faf53eca147780035513a4e0",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
@@ -2325,6 +2316,15 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3180,6 +3180,15 @@
     "name": "CBS 8 San Diego CA (KFMB-TV)",
     "path_name": "42a3b277d62068ee3aa377fa1880a972",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nothing Scripted",
+    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
+    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
