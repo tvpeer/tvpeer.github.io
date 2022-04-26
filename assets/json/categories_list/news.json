@@ -468,33 +468,6 @@
     }
   },
   {
-    "name": "teleSUR",
-    "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
-    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "teleSUR",
-    "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
-    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "teleSUR",
-    "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
-    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Euronews en Español",
     "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
     "url": "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8",
@@ -1047,15 +1020,6 @@
     "name": "India News",
     "path_name": "92a9b5ceeab2628c7c7369eec06ce1cc",
     "url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Pratidin Time",
-    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
-    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1998,15 +1962,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -2352,6 +2307,15 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
