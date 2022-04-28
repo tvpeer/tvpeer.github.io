@@ -1,14 +1,5 @@
 [
   {
-    "name": "SEO TV Novelas",
-    "path_name": "60aee019ce7bf53fcd90cef221fa8c49",
-    "url": "https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8",
-    "categories": {
-      "name": "Series",
-      "slug": "series"
-    }
-  },
-  {
     "name": "AVA Series",
     "path_name": "f2e744899340597659345b592b4b9893",
     "url": "http://51.210.199.4/hls/stream.m3u8",
@@ -74,15 +65,6 @@
   {
     "name": "Dark Matter TV",
     "path_name": "297fb7e00996d3c2d65dd834aad297e4",
-    "url": "https://dmtv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Series",
-      "slug": "series"
-    }
-  },
-  {
-    "name": "Dark Matter TV",
-    "path_name": "297fb7e00996d3c2d65dd834aad297e4",
     "url": "https://dmtv-viziosc.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Series",
@@ -111,6 +93,15 @@
     "name": "FilmRise Mysteries (XUMO)",
     "path_name": "b0ad914b433d5185fb31f9b358e0597a",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Series",
+      "slug": "series"
+    }
+  },
+  {
+    "name": "Deal or No Deal",
+    "path_name": "b17ea847969ac59ccff50133e8e1d425",
+    "url": "https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Series",
       "slug": "series"
