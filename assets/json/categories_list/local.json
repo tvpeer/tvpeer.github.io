@@ -468,15 +468,6 @@
     }
   },
   {
-    "name": "Décima TV (Ancud)",
-    "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
-    "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Elion Canal Digital (Chillan)",
     "path_name": "1bc3940c65e017205cfe20a5794cedfa",
     "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
@@ -651,6 +642,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2064,6 +2064,15 @@
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal E (Evelyn) (Altomayo)",
+    "path_name": "2aaa2b99d7ac1995eda56da388d7e9ce",
+    "url": "https://srv1.mediastreamperu.com:8081/8006/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
