@@ -639,6 +639,15 @@
     }
   },
   {
+    "name": "Mtunes Plus",
+    "path_name": "4ce8ec115ec18f19baad780e2d5eacce",
+    "url": "http://14.199.164.20:4001/play/a0p2/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "9XM",
     "path_name": "5db316206030ffbaba9b42f60a36a0e3",
     "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
@@ -696,15 +705,6 @@
     "name": "Relax TV",
     "path_name": "0ae04150fad0720c728707f7b79d2f66",
     "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Tunes 6",
-    "path_name": "05bcdf31718a8b8e660faa0614b4c3c2",
-    "url": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1089,24 +1089,6 @@
     }
   },
   {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1389,6 +1371,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop Europe",
+    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
+    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
