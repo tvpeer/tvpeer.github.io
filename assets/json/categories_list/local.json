@@ -675,15 +675,6 @@
     }
   },
   {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Cultural",
     "path_name": "6250449e8dae36b23db6418c5dc5f840",
     "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
@@ -1953,6 +1944,15 @@
     }
   },
   {
+    "name": "TV Sistemas Cuzco (Cuzco)",
+    "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
+    "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVenLinea (Cuzco)",
     "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
     "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
@@ -2028,6 +2028,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Diario Hechicera (Tumbes)",
+    "path_name": "806a03db0ee59d9676d3fc74d912de9e",
+    "url": "https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2172,15 +2181,6 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2370,15 +2370,6 @@
     "name": "ОТВ (Одинцово)",
     "path_name": "99405b97c1973b91465c7891ebdccbd0",
     "url": "http://185.18.4.16/live/3m/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ТВР24 (Сергиев Посад)",
-    "path_name": "f6bbcc730257dfae22f871027d03e9fb",
-    "url": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
