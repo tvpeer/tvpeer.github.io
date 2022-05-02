@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -1217,6 +1226,15 @@
   {
     "name": "Janam TV",
     "path_name": "9f27c3cd21241e5218c98a55bfaec775",
+    "url": "http://14.199.164.20:4001/play/a0ja/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Janam TV",
+    "path_name": "9f27c3cd21241e5218c98a55bfaec775",
     "url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -1434,15 +1452,6 @@
     "name": "Press TV French",
     "path_name": "1197b73f0e21acaabccc11ad488f61b9",
     "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Mihan TV",
-    "path_name": "748c2cc2c7df6520127187109c4cdc45",
-    "url": "https://iptv.mihantv.com/live/playlist1/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2577,6 +2586,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
