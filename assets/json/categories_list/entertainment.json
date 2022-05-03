@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "Dum TV Kannada",
-    "path_name": "38ae0061dc5e25bb385297fee91fa11d",
-    "url": "http://14.199.164.20:4001/play/a0sq/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Public TV",
     "path_name": "229f2044b52c189551ecfe66f0296ce9",
     "url": "http://14.199.164.20:4001/play/a0ld/index.m3u8",
@@ -219,15 +210,6 @@
     "name": "Jaihind TV",
     "path_name": "e2cf38e627f942c1c23e38c76fbdb7c2",
     "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Dream TV",
-    "path_name": "064fd792d6bf34e291db553c07714d1e",
-    "url": "https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -342,15 +324,6 @@
     }
   },
   {
-    "name": "Aathavan TV",
-    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
-    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Captain TV",
     "path_name": "face335600ccc660cb27875dfee1bfe3",
     "url": "http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8",
@@ -450,6 +423,15 @@
     }
   },
   {
+    "name": "Payam Javan TV",
+    "path_name": "b5aad03c5e7896eecb61605fc5d39fc8",
+    "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "YourTime TV",
     "path_name": "86e6a3fa13e819561264ac54588c6020",
     "url": "https://hls.yourtime.live/hls/stream.m3u8",
@@ -471,6 +453,15 @@
     "name": "Alrai TV",
     "path_name": "244651d9767ee95fbbda3f78e6d9975f",
     "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Kix",
+    "path_name": "2a3783abb91ff224c71f0a5922497143",
+    "url": "http://210.210.155.35/uq2663/h/h07/01.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -756,6 +747,15 @@
     }
   },
   {
+    "name": "Popstar! TV",
+    "path_name": "f5bcbf4000315aab897a740f34057e44",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -786,6 +786,24 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
