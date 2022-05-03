@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -612,6 +603,15 @@
     }
   },
   {
+    "name": "Steelbird Music",
+    "path_name": "645ff6b97c96279d43aad58013abfb97",
+    "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "9X Jalwa",
     "path_name": "ad6e8e630025fded7530b7a7ec5cee5a",
     "url": "http://14.199.164.20:4001/play/a0nc/index.m3u8",
@@ -705,6 +705,15 @@
     "name": "9X Jhakaas",
     "path_name": "9037bc264be88742fcb62145db6ea77a",
     "url": "http://14.199.164.20:4001/play/a0mx/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Relax TV",
+    "path_name": "0ae04150fad0720c728707f7b79d2f66",
+    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -822,6 +831,15 @@
     "name": "Persiana Nostalgia",
     "path_name": "46891c7fe8ce09333f209b775a412e9b",
     "url": "http://51.210.199.20/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "T2 TV",
+    "path_name": "a20ac1def18cd98931ea73933b64286b",
+    "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1074,24 +1092,6 @@
     "name": "Kuriakos Music",
     "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
     "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1425,6 +1425,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Rock Alternative",
+    "path_name": "5b72cbdbe41000dce33932153ab21264",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
