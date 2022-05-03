@@ -657,15 +657,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1569,6 +1560,15 @@
     "name": "Gunma TV",
     "path_name": "0f9b31471b89292151393d2da4af789a",
     "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Capital 21",
+    "path_name": "215e6497f27da10873ae6bb2135643df",
+    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
