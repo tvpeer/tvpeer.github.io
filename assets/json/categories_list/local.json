@@ -171,15 +171,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -450,24 +441,6 @@
     }
   },
   {
-    "name": "Cloudserver Kids90",
-    "path_name": "6d785259124b8bf264e606b4e5a5172d",
-    "url": "https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Cloudserver Latam (CSTV)",
-    "path_name": "ec45882994cb99c496f3cc28b2a6b9f5",
-    "url": "https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Décima TV (Ancud)",
     "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
     "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
@@ -660,15 +633,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2109,6 +2073,15 @@
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "KeBuena (Barranca)",
+    "path_name": "6cb7100c5b064807b625c48eea2785db",
+    "url": "https://inliveserver.com:1936/18016/18016/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
