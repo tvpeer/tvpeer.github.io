@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -768,6 +759,15 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TDI Colombia",
+    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
+    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1434,15 +1434,6 @@
     "name": "Россия 1 +6",
     "path_name": "54661bc06c41985158e5e791c98b2c94",
     "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
