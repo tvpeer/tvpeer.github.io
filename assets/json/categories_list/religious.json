@@ -495,6 +495,15 @@
     }
   },
   {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -650,6 +659,15 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -741,6 +759,15 @@
     "name": "Marjaeyat",
     "path_name": "76a5735698e42e76e6adf6ab6654c916",
     "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Salam TV",
+    "path_name": "d123adb0c257aed3f596c6dee08a6fba",
+    "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -993,24 +1020,6 @@
     "name": "TV MANA-1 PORTUGAL",
     "path_name": "363c786cfe48941a857cf30d8a748c34",
     "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Kuriakos TV",
-    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
-    "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Kuriakos TV",
-    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
-    "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1667,15 +1676,6 @@
   {
     "name": "Akaal TV",
     "path_name": "30e92c0e98d78c98186c838114d7bacd",
-    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Akaal TV",
-    "path_name": "30e92c0e98d78c98186c838114d7bacd",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
     "categories": {
       "name": "Religious",
@@ -1800,15 +1800,6 @@
     }
   },
   {
-    "name": "Logos TV Mubasher",
-    "path_name": "4b7de805413d46701a9224055f38f50f",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Almagd TV Middle East",
     "path_name": "a0193e7a1dac22db4284bcfc470ece13",
     "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
@@ -1884,6 +1875,15 @@
     "name": "Christian Youth Channel (CYC)",
     "path_name": "6a32b1fc5a566c22c643d810877267f3",
     "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TBN Asia",
+    "path_name": "a80cbe0640e879f6ce9c0550953c61c4",
+    "url": "http://210.210.155.35/qwr9ew/s/s39/02.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
