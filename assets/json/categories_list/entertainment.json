@@ -333,15 +333,6 @@
     }
   },
   {
-    "name": "Imayam",
-    "path_name": "29078ed7f854168ed01ae598f41191fe",
-    "url": "https://idvd.multitvsolution.com/idvo/imayamtv.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
@@ -774,15 +765,6 @@
     }
   },
   {
-    "name": "Popstar! TV",
-    "path_name": "f5bcbf4000315aab897a740f34057e44",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -819,24 +801,6 @@
     }
   },
   {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "World Poker Tour",
     "path_name": "4410fd784b09915966c94029fbff9e59",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8",
@@ -867,6 +831,15 @@
     "name": "TMZ",
     "path_name": "8110add785fa7edf64d4fb5010e2fa29",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "AMC Presents",
+    "path_name": "61baf1abc40498b2dab7ec3127a84cfc",
+    "url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
