@@ -198,15 +198,6 @@
     }
   },
   {
-    "name": "Nova Era TV",
-    "path_name": "97002ce81e35169dff3b16c94d105fbd",
-    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Mon",
     "path_name": "827c459cf6843cd8eec5ef140c100b2e",
     "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
@@ -705,15 +696,6 @@
     "name": "Zaracay TV",
     "path_name": "88a63521263537d9c1bfae7153539a97",
     "url": "https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1992,6 +1974,15 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
