@@ -522,15 +522,6 @@
     }
   },
   {
-    "name": "La Popular TV (Salamanca)",
-    "path_name": "c0b300bed613b9cb63e76f01554086d8",
-    "url": "https://5eff35271151c.streamlock.net:1936/8076/ngrp:8076/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
@@ -684,6 +675,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -768,6 +768,15 @@
     "name": "tvG2",
     "path_name": "467b3314774de8741109c336336293a8",
     "url": "https://events2-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "tvG2",
+    "path_name": "467b3314774de8741109c336336293a8",
+    "url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2304,18 +2313,18 @@
     }
   },
   {
-    "name": "MitosTV (Mitos de la Selva | Pucallpa)",
-    "path_name": "a6c0333501d9711ef41184342257183a",
-    "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "name": "MitosTV (Mitos de la Selva | Pucallpa)",
+    "path_name": "a6c0333501d9711ef41184342257183a",
+    "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
