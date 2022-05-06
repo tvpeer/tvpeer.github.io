@@ -810,15 +810,6 @@
     }
   },
   {
-    "name": "High Vision",
-    "path_name": "b82414f628acd86dc21be4434b264ee4",
-    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "NAVAHANG",
     "path_name": "3bfd0c896cfd7ad296c1987277d3c1d5",
     "url": "http://51.210.227.130/hls/stream.m3u8",
@@ -1092,6 +1083,24 @@
     "name": "Kuriakos Music",
     "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
     "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Kiss TV",
+    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
     "categories": {
       "name": "Music",
       "slug": "music"
