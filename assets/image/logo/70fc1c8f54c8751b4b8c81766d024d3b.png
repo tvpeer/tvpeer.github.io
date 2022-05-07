@@ -10,7 +10,7 @@
 <!--<![endif]-->
 <head>
 	<meta charset="UTF-8">
-	<title>Redbox_512x512.png - OpenDrive</title>
+	<title>OpenDrive</title>
 	<meta name="author" content="OpenDrive">
 	<link rel="icon" href="/wp-content/plugins/opendrive/images/favicon.ico" type="image/x-icon"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -64,53 +64,23 @@
 				</header>
 			
 			
-					<input type="hidden" id="preview-file-type" value="image">
-	<input type="hidden" id="file_id" value="MF8yMzE5OTIyMjBf">
+					<input type="hidden" id="preview-file-type" value="unknown">
+	<input type="hidden" id="file_id" value="">
 
 	<div class="fill ">
         		<div class="breadcrumb-and-buttons">
 							<div class="buttons">
-											<i class="fa fa-info info-btn" title="File Info"></i>
-
-													<i class="fa fa-repeat rotate-right-btn rotate-btn" title="Rotate Right"></i>
-							<i class="fa fa-undo rotate-left-btn rotate-btn" title="Rotate Left"></i>
-													<i class="fa fa-share-alt share-btn" title="Share"></i>
-
-												<a class="fa fa-download" href="/download/MF8yMzE5OTIyMjBf?"></a>
-										</div>
+									</div>
 						<h2>
-			<a href="#" title="Redbox_512x512.png">
-			Redbox_512x512.png			</a>
-			<i>
-								 176 KB | </i>Created Mar 21, 2021 by Georges Brunet</h2>
+			<a href="#" title="">
+			Communication error 60(SSL certificate problem: certificate has expired)			</a>
+			</h2>
 			<div class="clearfix"></div>
 		</div>
         
 		<div class="files-container " id="file-preview">
 			<div class="file-content">
-										<img class="image-preview" rotation="0"  src="/s/MF8yMzE5OTIyMjBf?preview=1">
-						<img class="image-preloading" src="/wp-content/plugins/opendrive/images/loading-bar.gif">
-											<div class="file-info">
-						<i class="fa fa-info"></i>
-						<h3>Redbox_512x512.png</h3>
-						<p></p>
-						<div class="col-md-4 text-left no-padding">
-							Size: <b>176 KB</b>
-						</div>
-						<div class="col-md-4 text-center no-padding">
-							Created: <b>Mar 21, 2021 by Georges Brunet</b>
-						</div>
-						<div class="col-md-4 text-right no-padding">
-							Downloads: <b>4553229</b>
-						</div>
-					</div>
-					<div class="file-share">
-						<i class="fa fa-share-alt"></i>
-						<h3>Share file</h3>
-						File link (URL): <input type="text" id="file_link" readonly value="https://od.lk/f/MF8yMzE5OTIyMjBf">
-						<a href="#" class="copy-clipboard-btn">Copy link to clipboard</a>
-					</div>
-								</div>
+				<img src="/wp-content/plugins/opendrive/images/icons/256px/uknown-doc.png" class="file_icon">			</div>
 		</div>
 
 				<div class="col-md-12 file-footer">
@@ -134,7 +104,6 @@
 <script type='text/javascript' src='/wp-content/plugins/opendrive/js/od_handlebars.js?time=11712015'></script>
 <script type='text/javascript' src='/wp-content/plugins/opendrive/js/od_common.js?time=12203318'></script>
 <script type='text/javascript' src='/wp-content/plugins/opendrive_extension/js/od_ext_common.js'></script>
-<script type='text/javascript' src='/wp-content/plugins/opendrive/js/vendor/jquery.rotate.js?time=11712015'></script>
 <script type='text/javascript' src='/wp-content/plugins/opendrive/js/file_preview.js?time=11712015'></script>
 <!-- BEGIN OpenDrive Plugin Tracking -->
 <script>
@@ -149,9 +118,9 @@
         <div style="position: fixed;color: #000000; right: 0;bottom: 0;max-height: 50%;max-width:85%;overflow-y: scroll; z-index: 1000">
         <div class="text-right">
             <span class="pull-left js-profile-bar" style="display: none">
-                <b>Plugin exec time:</b> 0.199 s
-                <b>API Calls:</b> 0.113 s
-                <b>WP exec time:</b> 0.227 s
+                <b>Plugin exec time:</b> 0.138 s
+                <b>API Calls:</b> 0.06 s
+                <b>WP exec time:</b> 0.165 s
             </span>
             <a href="#" class="js-profiler-window"><i class="fa fa-bug"></i></a>
         </div>
@@ -163,24 +132,17 @@
                     <th>Code</th>
                 </tr>
                                     <tr>
-                        <td>0.059</td>
+                        <td>0.031</td>
                         <td>GET</td>
                         <td><a target="_blank" href="https://web.opendrive.com/api/file/info.json/MF8yMzE5OTIyMjBf?sharing_id=">file/info.json/MF8yMzE5OTIyMjBf?sharing_id=</a></td>
-                        <td>200</td>
+                        <td></td>
                     </tr>
 
                                         <tr>
-                        <td>0.033</td>
+                        <td>0.029</td>
                         <td>GET</td>
-                        <td><a target="_blank" href="https://web.opendrive.com/api/download/file.json/MF8yMzE5OTIyMjBf?test=1&amp;inline=0">download/file.json/MF8yMzE5OTIyMjBf?test=1&amp;inline=0</a></td>
-                        <td>200</td>
-                    </tr>
-
-                                        <tr>
-                        <td>0.021</td>
-                        <td>GET</td>
-                        <td><a target="_blank" href="https://web.opendrive.com/api/branding.json?user_id=1529140">branding.json?user_id=1529140</a></td>
-                        <td>200</td>
+                        <td><a target="_blank" href="https://web.opendrive.com/api/download/file.json/?test=1&amp;inline=0">download/file.json/?test=1&amp;inline=0</a></td>
+                        <td></td>
                     </tr>
 
                                 </table>
