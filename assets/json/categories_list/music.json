@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -279,15 +288,6 @@
     }
   },
   {
-    "name": "Carolina TV",
-    "path_name": "6be974900eddc300c19f912210b5411a",
-    "url": "https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Portalfoxmix",
     "path_name": "16d32f809a2de992ad72747e533febb8",
     "url": "http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8",
@@ -309,15 +309,6 @@
     "name": "Ruidos FM",
     "path_name": "f3e54b1185ca3bdc3e3b6c8c23575c0a",
     "url": "https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Carolina TV",
-    "path_name": "6be974900eddc300c19f912210b5411a",
-    "url": "https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -669,6 +660,15 @@
     "name": "Mastiii",
     "path_name": "3fac57820a93ad6421d3dd933c9f70a7",
     "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MH1 Music",
+    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
+    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
