@@ -549,15 +549,6 @@
     }
   },
   {
-    "name": "TV Quinta Región",
-    "path_name": "dc9303cf3728554ff78e4b9eed262818",
-    "url": "https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV8 (Concepción)",
     "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
     "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
@@ -660,15 +651,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1827,15 +1809,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1890,36 +1863,9 @@
     }
   },
   {
-    "name": "Auténtica Televisión",
-    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
-    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Controversia TV (Moyobamba)",
-    "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
-    "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "FuegoTV (Lima)",
-    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
-    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2187,27 +2133,9 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Sistema 1 (Huaraz)",
-    "path_name": "9fe3e4d1a40906b4218be7ba9cc47525",
-    "url": "https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3657,6 +3585,15 @@
     "name": "ABC News Live 9",
     "path_name": "ad16e9e7e11dacd97197f6935b961762",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "WGN Chicago IL (WGN-TV1)",
+    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
+    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
