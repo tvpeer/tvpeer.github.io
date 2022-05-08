@@ -882,9 +882,27 @@
     }
   },
   {
+    "name": "RTVC (Radio Televisión Canaria)",
+    "path_name": "8ff56555fd40c9da45c36c738e8b72ed",
+    "url": "https://rtvc-live1-rm.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1821,6 +1839,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
