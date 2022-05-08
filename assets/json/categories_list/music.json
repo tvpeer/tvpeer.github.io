@@ -1,23 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -1035,6 +1017,15 @@
     }
   },
   {
+    "name": "Salto Brasa Music",
+    "path_name": "b8fdce3e7e4904f49f14dd2c5fdffa11",
+    "url": "https://salto-streams.nl/hls/sotv1_high.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "CVM TV Digital",
     "path_name": "a3456c64a3a570aa1b0bc7e95ed1179e",
     "url": "https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8",
@@ -1422,6 +1413,15 @@
     }
   },
   {
+    "name": "30A Music",
+    "path_name": "8c052738370a2cf5822d919bddcb72da",
+    "url": "https://30a-tv.com/music.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Loop 80s East",
     "path_name": "047bd024519159c8b7a012c70ef76dcd",
     "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
@@ -1461,6 +1461,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Urban Beats",
+    "path_name": "1799a6459e286d34b11dc3569524f3a0",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
