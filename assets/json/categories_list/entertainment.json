@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "Dum TV Kannada",
-    "path_name": "38ae0061dc5e25bb385297fee91fa11d",
-    "url": "http://14.199.164.20:4001/play/a0sq/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Kasthuri",
     "path_name": "4bb14179416d72410b42911d8bd18a7d",
     "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
@@ -165,15 +156,6 @@
     "name": "Flowers TV",
     "path_name": "6068778a2b9a017237edf7269d257d1d",
     "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Kerala Vision",
-    "path_name": "8a6e0fb26ce7452bf48e550c5e0e1a9f",
-    "url": "http://14.199.164.20:4001/play/a0ni/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -351,6 +333,15 @@
     }
   },
   {
+    "name": "EET TV",
+    "path_name": "2349d9cce14c13565255b420f18a6658",
+    "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "AFN TV",
     "path_name": "08f85bac1a51a38b23d4f56a99d82330",
     "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
@@ -462,15 +453,6 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -729,15 +711,6 @@
     }
   },
   {
-    "name": "Popstar! TV",
-    "path_name": "f5bcbf4000315aab897a740f34057e44",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -768,24 +741,6 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1028,15 +983,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1092,6 +1038,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
