@@ -1,14 +1,5 @@
 [
   {
-    "name": "Crossing TV (Crossing Contenidos)",
-    "path_name": "886a83a0c22256aa5378935b504c05eb",
-    "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -495,6 +486,15 @@
     }
   },
   {
+    "name": "Alrai TV",
+    "path_name": "244651d9767ee95fbbda3f78e6d9975f",
+    "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "WTV Canal 20",
     "path_name": "557b0a556010accc1193995fef6e0745",
     "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
@@ -756,6 +756,15 @@
     }
   },
   {
+    "name": "Popstar! TV",
+    "path_name": "f5bcbf4000315aab897a740f34057e44",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -786,6 +795,24 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "path_name": "b956227b325f9fc84e6ad08bbe096075",
+    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1028,15 +1055,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -1092,15 +1110,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
