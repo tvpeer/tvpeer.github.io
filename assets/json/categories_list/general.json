@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -513,6 +504,15 @@
     }
   },
   {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Guará",
     "path_name": "493f3f239af0744a0c302aca46a0d053",
     "url": "https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8",
@@ -747,15 +747,6 @@
     }
   },
   {
-    "name": "The Channel TV",
-    "path_name": "667306b14609c11d532f3cbfee11590e",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Télé-Québec",
     "path_name": "8c0174ba7a9aaab819a666b938da14be",
     "url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8",
@@ -885,6 +876,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1029,6 +1029,15 @@
     "name": "Kurdistan TV",
     "path_name": "71f595212ec4b869b27c4371e0f96add",
     "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "WAAR TV",
+    "path_name": "898b11c51fdd8864ccd0435f9dcb51eb",
+    "url": "https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1452,33 +1461,6 @@
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
     "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Россия 1 +6",
-    "path_name": "54661bc06c41985158e5e791c98b2c94",
-    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
