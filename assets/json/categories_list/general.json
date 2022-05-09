@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -747,6 +756,15 @@
     }
   },
   {
+    "name": "The Channel TV",
+    "path_name": "667306b14609c11d532f3cbfee11590e",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Télé-Québec",
     "path_name": "8c0174ba7a9aaab819a666b938da14be",
     "url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8",
@@ -876,15 +894,6 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Fox Greece",
-    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
-    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1083,15 +1092,6 @@
     "name": "Jordan TV",
     "path_name": "0eb62cebd70b284bed4a7c15eddc13f3",
     "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "K24",
-    "path_name": "a1a718b053aff16b11155fdcf639f27b",
-    "url": "https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1461,6 +1461,24 @@
     "name": "РЕН ТВ",
     "path_name": "a6d55a80a4807c6ceedb1f9e3ad3f4c6",
     "url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Россия 1 +6",
+    "path_name": "54661bc06c41985158e5e791c98b2c94",
+    "url": "https://gtrkchita.ru:8081/hls/r1-chita_180p.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Россия 1 +6",
+    "path_name": "54661bc06c41985158e5e791c98b2c94",
+    "url": "https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
