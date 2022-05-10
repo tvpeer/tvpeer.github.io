@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Rede Brasil de Comunicação",
+    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -102,6 +111,15 @@
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Mão Amiga",
+    "path_name": "4e97951a79db436abdc85bcb72535cbc",
+    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -201,6 +219,15 @@
     "name": "TV Pai Eterno",
     "path_name": "d35712fb77a9ee74b5df628cf6c77c7c",
     "url": "https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -657,15 +684,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV 4 Urdu",
-    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
-    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -723,15 +741,6 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
