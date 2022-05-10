@@ -1071,15 +1071,6 @@
     }
   },
   {
-    "name": "SanjuaneraTV",
-    "path_name": "513b38a59cd943e492b9b2a07cb78367",
-    "url": "https://live.obslivestream.com/sanjuaneramux/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Radio San Borja TV",
     "path_name": "483a1a898f6111b7c78d06f35eba46c3",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
@@ -1326,6 +1317,24 @@
     "name": "V2BEAT",
     "path_name": "170dbb73651fd04590a00da30331e5ac",
     "url": "https://de1se01.v2beat.live/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Box Hits",
+    "path_name": "831df94f10a11999dfa768d1f4db5442",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Box Hits",
+    "path_name": "831df94f10a11999dfa768d1f4db5442",
+    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
     "categories": {
       "name": "Music",
       "slug": "music"
