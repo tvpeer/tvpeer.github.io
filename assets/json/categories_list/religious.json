@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Rede Brasil de Comunicação",
+    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -102,6 +111,15 @@
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Mão Amiga",
+    "path_name": "4e97951a79db436abdc85bcb72535cbc",
+    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -468,6 +486,15 @@
     }
   },
   {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -623,6 +650,15 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -711,9 +747,27 @@
     }
   },
   {
+    "name": "Marjaeyat",
+    "path_name": "76a5735698e42e76e6adf6ab6654c916",
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
