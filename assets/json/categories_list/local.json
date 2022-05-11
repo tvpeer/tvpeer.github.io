@@ -657,15 +657,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2214,15 +2205,6 @@
     }
   },
   {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uranio TV (Yurimaguas)",
     "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
     "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
@@ -2244,6 +2226,15 @@
     "name": "RadioTV Oriente (Yurimaguas)",
     "path_name": "dfc31299044edc2b74806c71c30fc1cb",
     "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2550,6 +2541,24 @@
     "name": "Orange TV",
     "path_name": "3bebff48b56f316a8862f3be3cf4f4a4",
     "url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Olelo 54",
+    "path_name": "bd5822e2af1e3aee6439d86f7ce851c4",
+    "url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Olelo 55",
+    "path_name": "d1b2935829f5379e1c84530f184a289d",
+    "url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
