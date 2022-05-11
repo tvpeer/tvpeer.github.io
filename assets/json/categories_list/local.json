@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -408,15 +399,6 @@
     "name": "Canal 74 (San Antonio)",
     "path_name": "a812e3eb0f5640680dbaf33e02354de9",
     "url": "https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal SCÑ (San Carlos Ñuble)",
-    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
-    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -633,15 +615,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1791,15 +1764,6 @@
     }
   },
   {
-    "name": "Master TV (Tarapoto)",
-    "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
-    "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
@@ -1926,15 +1890,6 @@
     }
   },
   {
-    "name": "Innova FM (Bagua Grande)",
-    "path_name": "6bb261cd341175bba9043fd9496bfabe",
-    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
@@ -1965,6 +1920,15 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
