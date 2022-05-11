@@ -333,6 +333,15 @@
     }
   },
   {
+    "name": "Sky News Arabia (Portrait)",
+    "path_name": "2eebb8fb49a8f9d081cfe181b750ceba",
+    "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "BBC Arabic",
     "path_name": "644b660903ecf0a05225efa32c771c12",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
@@ -1649,6 +1658,15 @@
   {
     "name": "Nabaa TV",
     "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
+    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Nabaa TV",
+    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
     "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -1722,6 +1740,15 @@
     "name": "Jamahiria TV",
     "path_name": "facccef3c31b2bd59671012b32cc6d15",
     "url": "https://master.starmena-cloud.com/hls/jam.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "M24 TV",
+    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
+    "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
