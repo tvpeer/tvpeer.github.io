@@ -603,15 +603,6 @@
     }
   },
   {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
@@ -660,6 +651,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1584,15 +1584,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -1836,15 +1827,6 @@
     }
   },
   {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1893,6 +1875,15 @@
     "name": "LimaLive",
     "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
     "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Huanta TV",
+    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
+    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2199,15 +2190,6 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2880,6 +2862,15 @@
     }
   },
   {
+    "name": "CCX Media North Brooklyn Park MN",
+    "path_name": "e72a38c42f86897152ddd2247558bc77",
+    "url": "http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 9 Washington DC (WUSA)",
     "path_name": "47a50858dc907b8f83c0b2167eeb9ce4",
     "url": "https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8",
@@ -2919,6 +2910,15 @@
     "name": "Beach TV Panama City",
     "path_name": "87b86842cd293981a1e4aaaab833a4ff",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Miami City TV",
+    "path_name": "265d8963be1e5231592b2cf17ada42e1",
+    "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3015,6 +3015,15 @@
     }
   },
   {
+    "name": "Lex TV",
+    "path_name": "29b5b063aa705cf68d80f73223419990",
+    "url": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC 13 Norfolk VA (WVEC)",
     "path_name": "d1ac1d8443c2fba8d1fbf88a985c3502",
     "url": "https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8",
@@ -3063,6 +3072,15 @@
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
     "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Lake Havasu City 4",
+    "path_name": "eedcbae64c57f370f763c676ba497a84",
+    "url": "https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
