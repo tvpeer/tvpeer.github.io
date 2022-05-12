@@ -254,15 +254,6 @@
   {
     "name": "TVRI Sport HD",
     "path_name": "285e7eb931528c79ada2370d1cc8676c",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "TVRI Sport HD",
-    "path_name": "285e7eb931528c79ada2370d1cc8676c",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
     "categories": {
       "name": "Sports",
@@ -534,6 +525,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
