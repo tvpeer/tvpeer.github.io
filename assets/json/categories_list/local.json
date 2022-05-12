@@ -1584,6 +1584,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -1767,15 +1776,6 @@
     "name": "RTV Connect TV",
     "path_name": "b40de220a63657099f317faadbab70da",
     "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kachorro (Super TV | Amazonas)",
-    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
-    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1989,6 +1989,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2073,6 +2082,15 @@
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2190,6 +2208,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Universitaria TV (Chanchamayo)",
+    "path_name": "f33338a5f62e3a11997f99458109b5be",
+    "url": "https://tvdatta.com:3670/live/universitariatvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2514,6 +2541,15 @@
     "name": "Channel S",
     "path_name": "18bc60166fd2a1bc4a3dcbacd65de01a",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV33 Detroit Live (WHPR)",
+    "path_name": "05a51f5ca162ea5930a69e77d740a3f5",
+    "url": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2889,15 +2925,6 @@
     }
   },
   {
-    "name": "Miami City TV",
-    "path_name": "265d8963be1e5231592b2cf17ada42e1",
-    "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CT-N Court Feed",
     "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
     "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
@@ -2988,15 +3015,6 @@
     }
   },
   {
-    "name": "Lex TV",
-    "path_name": "29b5b063aa705cf68d80f73223419990",
-    "url": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC 13 Norfolk VA (WVEC)",
     "path_name": "d1ac1d8443c2fba8d1fbf88a985c3502",
     "url": "https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8",
@@ -3045,15 +3063,6 @@
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
     "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Lake Havasu City 4",
-    "path_name": "eedcbae64c57f370f763c676ba497a84",
-    "url": "https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
