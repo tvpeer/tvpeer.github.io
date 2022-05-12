@@ -63,15 +63,6 @@
     }
   },
   {
-    "name": "TF1",
-    "path_name": "d2db20d20ad6a72ca409787b6fe50285",
-    "url": "http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Dabangg",
     "path_name": "b4cea085b32aba13446bc974858cc5cb",
     "url": "http://14.199.164.20:4001/play/a0nb/index.m3u8",
@@ -261,9 +252,27 @@
     }
   },
   {
+    "name": "Asianet Middle East",
+    "path_name": "1141d5139941c94c26460e83a72717ba",
+    "url": "http://14.199.164.20:4001/play/a0k6/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "One TV",
     "path_name": "a353656426bd22f03a23dcd5edc6fad4",
     "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Mazhavil Manorama",
+    "path_name": "06556c4af215ad4d71128543908d5518",
+    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -336,15 +345,6 @@
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Aathavan TV",
-    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
-    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -489,15 +489,6 @@
     "name": "Alrai TV",
     "path_name": "244651d9767ee95fbbda3f78e6d9975f",
     "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Kix",
-    "path_name": "2a3783abb91ff224c71f0a5922497143",
-    "url": "http://210.210.155.35/uq2663/h/h07/01.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
