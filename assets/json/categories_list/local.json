@@ -513,15 +513,6 @@
     }
   },
   {
-    "name": "Holvoet TV (Copiapó)",
-    "path_name": "5983420057643dcf9f3bb25bdddddcc2",
-    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
@@ -630,6 +621,15 @@
     }
   },
   {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -696,15 +696,6 @@
     "name": "NicoyaTV",
     "path_name": "cd98ef212cd017453e3770de9005ca6c",
     "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1503,6 +1494,15 @@
     }
   },
   {
+    "name": "Next TV Malabar",
+    "path_name": "462cadd733920d09791dd898d72a7142",
+    "url": "https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1620,6 +1620,15 @@
     }
   },
   {
+    "name": "Omroep Centraal TV",
+    "path_name": "04799935f932e880938546ea203b0137",
+    "url": "https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Feel Good TV",
     "path_name": "583bf58d00175d8dcfabbe45a60d4c53",
     "url": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8",
@@ -1656,9 +1665,27 @@
     }
   },
   {
+    "name": "Omroep Tilburg TV",
+    "path_name": "ff6d8783ac40a891558447792ab7e727",
+    "url": "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Samen1 TV",
     "path_name": "55b0abc46bf655bd8d3cddc521199aeb",
     "url": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio8 TV",
+    "path_name": "b37d2bd66453ee6c900b45f46fa731c6",
+    "url": "https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1686,6 +1713,15 @@
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Regio90 TV",
+    "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
+    "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1722,6 +1758,24 @@
     "name": "LOE TV",
     "path_name": "b169d9dd263586b141e303c964acb63c",
     "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Omroep P&M TV",
+    "path_name": "6293b66f13e16fc08c48bfba235f5ec8",
+    "url": "https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RTV Connect TV",
+    "path_name": "b40de220a63657099f317faadbab70da",
+    "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
