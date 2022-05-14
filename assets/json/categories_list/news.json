@@ -1233,6 +1233,15 @@
     }
   },
   {
+    "name": "Time Vision News",
+    "path_name": "5468f643e57b49c29583122bfee35a7b",
+    "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Reporter TV",
     "path_name": "cdbf44e8a6ae363410287101d1a04006",
     "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
@@ -1731,24 +1740,6 @@
     "name": "Jamahiria TV",
     "path_name": "facccef3c31b2bd59671012b32cc6d15",
     "url": "https://master.starmena-cloud.com/hls/jam.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "M24 TV",
-    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
-    "url": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "M24 TV",
-    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
-    "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2601,6 +2592,15 @@
     }
   },
   {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -2613,6 +2613,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
