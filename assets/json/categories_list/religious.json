@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Rede Brasil de Comunicação",
-    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
-    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -255,15 +246,6 @@
     "name": "Salt + Light Television",
     "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
     "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Amazing Discoveries TV",
-    "path_name": "a10694f2c4744969025809afc5903cba",
-    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -684,15 +666,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV 4 Urdu",
-    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
-    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -930,6 +903,15 @@
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Nazarenas TV",
+    "path_name": "1d4509993bcf493f8541094425387827",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1658,15 +1640,6 @@
   {
     "name": "Akaal TV",
     "path_name": "30e92c0e98d78c98186c838114d7bacd",
-    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Akaal TV",
-    "path_name": "30e92c0e98d78c98186c838114d7bacd",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
     "categories": {
       "name": "Religious",
@@ -1893,6 +1866,15 @@
     "name": "CSat TV",
     "path_name": "c3873fec5ea2beaf771736c6841da660",
     "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Better Life TV",
+    "path_name": "e796a40be844c3f79e2d1f48e8f5a707",
+    "url": "https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
