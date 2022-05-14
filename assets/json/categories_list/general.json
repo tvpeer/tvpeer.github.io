@@ -135,6 +135,15 @@
     }
   },
   {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -684,15 +693,6 @@
     }
   },
   {
-    "name": "СТВ",
-    "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
-    "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Doyel TV",
     "path_name": "949bfcb24bdb339308630a3551277363",
     "url": "http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8",
@@ -768,24 +768,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -885,6 +867,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
