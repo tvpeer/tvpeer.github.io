@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -810,15 +819,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Echorouk News",
     "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
     "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
@@ -1170,6 +1170,15 @@
     }
   },
   {
+    "name": "TV9 Kannada",
+    "path_name": "c82749589c740e60cab7ea83e34fd59c",
+    "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Dighvijay",
     "path_name": "5a8edd978ec1634bef7e7dc29bceea25",
     "url": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
@@ -1389,6 +1398,15 @@
     "name": "Rudaw TV",
     "path_name": "af67ca63fcc4441a11ba46e7376a6ca2",
     "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KurdSat News",
+    "path_name": "75792d7aba7698f41b6da77c43663113",
+    "url": "https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1722,6 +1740,15 @@
     "name": "Jamahiria TV",
     "path_name": "facccef3c31b2bd59671012b32cc6d15",
     "url": "https://master.starmena-cloud.com/hls/jam.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "M24 TV",
+    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
+    "url": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
