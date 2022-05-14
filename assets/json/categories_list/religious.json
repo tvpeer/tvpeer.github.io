@@ -477,15 +477,6 @@
     }
   },
   {
-    "name": "Iglesia Del Camino",
-    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
-    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -507,15 +498,6 @@
     "name": "Dios Te Ve Infantil",
     "path_name": "c743196c3c93860e98936e5b9ccaada5",
     "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Vida TV",
-    "path_name": "e379829fce360c74d3894c865a6f80b8",
-    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -666,6 +648,15 @@
     }
   },
   {
+    "name": "Al-Jawadain TV",
+    "path_name": "a614fa00b9a89a8c0b10a9016770b7bc",
+    "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Imam Hussein TV 3 English",
     "path_name": "8e712ebfb18367673d77cabcead2ff03",
     "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
@@ -696,15 +687,6 @@
     "name": "Imam Hussein TV 4 Urdu",
     "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV 4 Urdu",
-    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
-    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -813,6 +795,15 @@
     "name": "SAT-7 PARS",
     "path_name": "c397398a16875a0fb0e2118b86856320",
     "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Maali TV",
+    "path_name": "f10f849aa9fc6df223e1b13f09823e00",
+    "url": "https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -936,9 +927,9 @@
     }
   },
   {
-    "name": "La Luz TV",
-    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
