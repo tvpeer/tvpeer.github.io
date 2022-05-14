@@ -1737,24 +1737,6 @@
     }
   },
   {
-    "name": "M24 TV",
-    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
-    "url": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "M24 TV",
-    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
-    "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Medi 1 TV Arabic",
     "path_name": "63a3c23475e52510c3021035d8a6ed18",
     "url": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
@@ -1848,6 +1830,15 @@
     "name": "CNN Philippines",
     "path_name": "4773ddc8fe98d125135368b61f8691ba",
     "url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Dunya News",
+    "path_name": "d756517dd5ab0df9eeebbacaefd23bb2",
+    "url": "https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1956,6 +1947,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2604,15 +2604,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
