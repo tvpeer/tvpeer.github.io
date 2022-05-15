@@ -261,6 +261,15 @@
     }
   },
   {
+    "name": "TV Poços",
+    "path_name": "e549542d48320a6373e4e35cccc944de",
+    "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -531,15 +540,6 @@
     }
   },
   {
-    "name": "TV8 (Concepción)",
-    "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
-    "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO (San Vicente)",
     "path_name": "9231f1e45816538f117972ce36b9a1a6",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8",
@@ -579,6 +579,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -669,15 +678,6 @@
     "name": "TVG Cultural",
     "path_name": "6250449e8dae36b23db6418c5dc5f840",
     "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVG Evento 1",
-    "path_name": "3de97eb0c2c97c812d25c106232d4192",
-    "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2151,24 +2151,6 @@
     }
   },
   {
-    "name": "Huacho Perú TV",
-    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
-    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Mega TV (Jaen)",
-    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
-    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2298,15 +2280,6 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
