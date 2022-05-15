@@ -225,27 +225,9 @@
     }
   },
   {
-    "name": "Asianet Middle East",
-    "path_name": "1141d5139941c94c26460e83a72717ba",
-    "url": "http://14.199.164.20:4001/play/a0k6/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "One TV",
     "path_name": "a353656426bd22f03a23dcd5edc6fad4",
     "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Mazhavil Manorama",
-    "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -318,6 +300,15 @@
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Aathavan TV",
+    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -711,6 +702,15 @@
     }
   },
   {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Showtime at the Apollo",
     "path_name": "1562ccc498170564aa5e31d516cd2a6a",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
@@ -1002,15 +1002,6 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
