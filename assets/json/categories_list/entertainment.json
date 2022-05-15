@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "TF1",
-    "path_name": "d2db20d20ad6a72ca409787b6fe50285",
-    "url": "http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Dabangg",
     "path_name": "b4cea085b32aba13446bc974858cc5cb",
     "url": "http://14.199.164.20:4001/play/a0nb/index.m3u8",
@@ -408,6 +399,15 @@
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ITC TV",
+    "path_name": "6ef3f2563d169987779b98c45dab360b",
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
