@@ -288,15 +288,6 @@
     }
   },
   {
-    "name": "Canal ISB (Iglesia San Bernardo)",
-    "path_name": "00790056464ac6bae6f28d620093979c",
-    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Radio Uniem",
     "path_name": "9dc09ef2716c26c4b80675cd2c276877",
     "url": "https://5eff35271151c.streamlock.net:1936/8110/8110/playlist.m3u8",
@@ -516,6 +507,15 @@
     "name": "Dios Te Ve Infantil",
     "path_name": "c743196c3c93860e98936e5b9ccaada5",
     "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Vida TV",
+    "path_name": "e379829fce360c74d3894c865a6f80b8",
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -777,6 +777,15 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1712,6 +1721,15 @@
   {
     "name": "Akaal TV",
     "path_name": "30e92c0e98d78c98186c838114d7bacd",
+    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Akaal TV",
+    "path_name": "30e92c0e98d78c98186c838114d7bacd",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
     "categories": {
       "name": "Religious",
@@ -1821,6 +1839,15 @@
     "name": "Logos TV",
     "path_name": "15f8cb5cbd4e96a378f942d7976c87be",
     "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Logos TV Mubasher",
+    "path_name": "4b7de805413d46701a9224055f38f50f",
+    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
