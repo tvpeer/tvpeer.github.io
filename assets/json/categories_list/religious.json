@@ -72,9 +72,9 @@
     }
   },
   {
-    "name": "Rede Brasil de Comunicação",
-    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
-    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "name": "PUC TV Goiás",
+    "path_name": "8ae99f414cd91710a8c48c16450cd820",
+    "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -84,6 +84,15 @@
     "name": "TV Evangelizar",
     "path_name": "65cc6d472e59565d27a89e8ff207cb2e",
     "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Fonte TV",
+    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -264,6 +273,15 @@
     "name": "GurSikh Sabha TV",
     "path_name": "870a33aa68fbdd0d5dd54e495415808f",
     "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Canal ISB (Iglesia San Bernardo)",
+    "path_name": "00790056464ac6bae6f28d620093979c",
+    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -945,9 +963,9 @@
     }
   },
   {
-    "name": "Bethel TV",
-    "path_name": "7de2cde51509deb82293144673943d8a",
-    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "name": "La Luz TV",
+    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
