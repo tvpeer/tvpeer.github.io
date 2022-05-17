@@ -594,15 +594,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -1971,6 +1962,15 @@
     }
   },
   {
+    "name": "Controversia TV (Moyobamba)",
+    "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
+    "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "FuegoTV (Lima)",
     "path_name": "b41736b00b8ff176a47667ab2c95d66f",
     "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
@@ -1992,6 +1992,15 @@
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2055,15 +2064,6 @@
     "name": "TV Sistemas Cuzco (Cuzco)",
     "path_name": "ee6a831c29733c47756cb9fc323bcd0d",
     "url": "https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tele2000 (Ayacucho)",
-    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
-    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
