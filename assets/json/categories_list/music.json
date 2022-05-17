@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -354,6 +345,15 @@
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Canal Son TV",
+    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
+    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1056,15 +1056,6 @@
     "name": "Radio San Borja TV",
     "path_name": "483a1a898f6111b7c78d06f35eba46c3",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Top Latino TV",
-    "path_name": "9975d13dc3902ccfc77d53c9675c50df",
-    "url": "https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
