@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Dishum",
-    "path_name": "29d8ba74b34eb504a29b528de85fe09b",
-    "url": "http://14.199.164.20:4001/play/a0pe/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Prime Canada TV",
     "path_name": "0174b660c77642fde8a645a8c147f202",
     "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
@@ -120,15 +111,6 @@
     "name": "Shemaroo TV",
     "path_name": "854d9bd001388cd30c9db1e2a4ce949b",
     "url": "http://14.199.164.20:4001/play/a0nh/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "E24",
-    "path_name": "c4f6cc80274d8e52d7d8041de1a430da",
-    "url": "http://14.199.164.20:4001/play/a0pc/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -612,6 +594,15 @@
     }
   },
   {
+    "name": "MST3K",
+    "path_name": "28e3d917d8b96352dd274c7cb3267851",
+    "url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
     "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
@@ -1038,6 +1029,15 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
