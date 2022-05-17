@@ -288,15 +288,6 @@
     }
   },
   {
-    "name": "DD Sports",
-    "path_name": "a7321dfa1a9e1eeb966a4be1cc4bc847",
-    "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Persiana Varzesh",
     "path_name": "3e59e35579d9f4cb2b9728373fdd7857",
     "url": "http://51.210.199.16/hls/stream.m3u8",
@@ -677,6 +668,15 @@
   {
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -1011,6 +1011,15 @@
     "name": "TVS Classic Sports",
     "path_name": "ee4769d822385415c79e1da36ca77a87",
     "url": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "FightBox HD",
+    "path_name": "ff53a50ee550d0b541f877e97cafeab1",
+    "url": "http://ott-cdn.ucom.am/s86/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
