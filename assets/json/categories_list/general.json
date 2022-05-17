@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -147,6 +138,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1431,6 +1431,15 @@
     }
   },
   {
+    "name": "UCI",
+    "path_name": "a3881d4bf85941dc591f3b39c30274b8",
+    "url": "https://servilive.com:3449/live/mlecaroslive.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Onda Digital",
     "path_name": "c99f22979172b8dc73f36941ec96d527",
     "url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
@@ -1722,6 +1731,15 @@
     "name": "大立電視",
     "path_name": "75c19b357c2c0f514208035d5a5fb390",
     "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "原住民電視",
+    "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
+    "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
