@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Rede Brasil de Comunicação",
+    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -111,33 +120,6 @@
     "name": "Rede Mão Amiga",
     "path_name": "4e97951a79db436abdc85bcb72535cbc",
     "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Novo Tempo",
-    "path_name": "6c494bb71b7f84b7caa95924daa28759",
-    "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Novo Tempo",
-    "path_name": "6c494bb71b7f84b7caa95924daa28759",
-    "url": "http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Novo Tempo",
-    "path_name": "6c494bb71b7f84b7caa95924daa28759",
-    "url": "http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -666,6 +648,15 @@
     }
   },
   {
+    "name": "Al-Jawadain TV",
+    "path_name": "a614fa00b9a89a8c0b10a9016770b7bc",
+    "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Imam Hussein TV 3 English",
     "path_name": "8e712ebfb18367673d77cabcead2ff03",
     "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
@@ -696,6 +687,15 @@
     "name": "Imam Hussein TV 4 Urdu",
     "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1101,15 +1101,6 @@
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
     "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Каббала ТВ",
-    "path_name": "26f40e88bf3a7de131d32cd4023ed696",
-    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1686,15 +1677,6 @@
     "name": "Iqra TV",
     "path_name": "7d612b3c9b71749ce9e43e0762ee10f4",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Akaal TV",
-    "path_name": "30e92c0e98d78c98186c838114d7bacd",
-    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
