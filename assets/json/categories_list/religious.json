@@ -659,6 +659,15 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -696,15 +705,6 @@
     "name": "Imam Hussein TV 4 Urdu",
     "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV 4 Urdu",
-    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
-    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -768,15 +768,6 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -954,9 +945,27 @@
     }
   },
   {
+    "name": "Nazarenas TV",
+    "path_name": "1d4509993bcf493f8541094425387827",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Pax TV",
     "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
     "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Hope Channel Philippines",
+    "path_name": "b9e3cf40fdd329d82f14e108c94c7dee",
+    "url": "https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1874,7 +1883,7 @@
   {
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
-    "url": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8",
+    "url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -2091,6 +2100,15 @@
     "name": "Majestad Televisión",
     "path_name": "eea5b5f5aec0d5213abff885dcc102fc",
     "url": "https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Aliento Vision",
+    "path_name": "b8440f3cd354a766453c5a61067d529b",
+    "url": "http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
