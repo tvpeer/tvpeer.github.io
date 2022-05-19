@@ -1944,15 +1944,6 @@
     }
   },
   {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -2592,6 +2583,15 @@
     }
   },
   {
+    "name": "С1 (Сургут)",
+    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
+    "url": "https://sitv.ru/hls/stv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oppna Kanalen",
     "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
     "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
@@ -3027,6 +3027,15 @@
     "name": "CT-N Live Stream 2",
     "path_name": "911c9ad223ea611f454647ba059ad622",
     "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TSTV",
+    "path_name": "8a872cb88b321447457f7b272b1a1d7b",
+    "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
