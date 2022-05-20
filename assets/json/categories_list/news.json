@@ -1296,15 +1296,6 @@
     }
   },
   {
-    "name": "News 7 Tamil",
-    "path_name": "415759a7f05fd8fd5b8ecca0acee20fd",
-    "url": "http://14.199.164.20:4001/play/a0kp/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1845,6 +1836,15 @@
     }
   },
   {
+    "name": "RSelvaTV (Tarapoto)",
+    "path_name": "85b787159037d15895c05c9d0f71d311",
+    "url": "https://live.obslivestream.com/selvatvmux/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV Noticias 7.3",
     "path_name": "0f2390c6b8fb66536d745e85f3d3845d",
     "url": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8",
@@ -1983,15 +1983,6 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2586,6 +2577,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
