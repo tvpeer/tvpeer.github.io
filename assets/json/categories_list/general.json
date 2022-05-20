@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -237,15 +228,6 @@
     "name": "Muğan TV",
     "path_name": "f9b74f18048b2cbb70f49cd45485775e",
     "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Qəbələ TV",
-    "path_name": "6cbf35caf377b0826f457f21bfdb058e",
-    "url": "https://qebele.tv/live/stream/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -702,6 +684,15 @@
     }
   },
   {
+    "name": "NRB TV",
+    "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "The Channel TV",
     "path_name": "667306b14609c11d532f3cbfee11590e",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8",
@@ -1017,33 +1008,6 @@
     }
   },
   {
-    "name": "BS Asahi",
-    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
-    "url": "http://51.79.193.108:8080/hls/j00048/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Asahi",
-    "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
-    "url": "http://51.79.193.108:8080/hlsok/j00048/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Fuji TV",
-    "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
-    "url": "http://51.79.193.108:8080/hls/j00049/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "BS Fuji TV",
     "path_name": "1cd6fdd40d293a3e9603ddc3cf76e46f",
     "url": "http://51.79.193.108:8080/hlsok/j00049/index.m3u8",
@@ -1055,61 +1019,7 @@
   {
     "name": "BS Nippon TV",
     "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hls/j00005/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hls/j00047/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
-    "url": "http://51.79.193.108:8080/hlsok/j00005/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS Nippon TV",
-    "path_name": "a5a467c75aa69036482468213dea53b1",
     "url": "http://51.79.193.108:8080/hlsok/j00047/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS TV Tokyo",
-    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
-    "url": "http://51.79.193.108:8080/hls/j00050/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS TV Tokyo",
-    "path_name": "fdd24feec08a0d9a9a99cd5a87d822fe",
-    "url": "http://51.79.193.108:8080/hlsok/j00050/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "BS-TBS",
-    "path_name": "579e17f9b945937947fdf7ba98f53a63",
-    "url": "http://51.79.193.108:8080/hls/j00051/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1548,15 +1458,6 @@
     }
   },
   {
-    "name": "Красная линия",
-    "path_name": "e7676596ac4a1c0ea8c09128ae7cbd91",
-    "url": "https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Мир",
     "path_name": "579ae29d20979b9bf2d927153abbdaeb",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
@@ -1704,15 +1605,6 @@
     "name": "Anand TV",
     "path_name": "1d85b40494e5c7a2dff655d7aab20fb0",
     "url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Time Television",
-    "path_name": "2e54f5ea3fa45f384bb1ce68f8f80f5f",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1938,6 +1830,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
