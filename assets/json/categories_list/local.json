@@ -72,24 +72,6 @@
     }
   },
   {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "AVC HD (Monte Caseros | Corrientes)",
     "path_name": "8c7725a7842c0eb81227e0feecd828c8",
     "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
@@ -633,6 +615,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2052,15 +2043,6 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -2241,18 +2223,18 @@
     }
   },
   {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "name": "Uranio TV (Yurimaguas)",
+    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
+    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Uranio TV (Yurimaguas)",
-    "path_name": "911ffec6ca10966e6ccf4b3f5016327e",
-    "url": "https://live.obslivestream.com/uraniomux/index.m3u8",
+    "name": "Vía Altomayo",
+    "path_name": "2160ff5d81b7ec791a00952eadc029f1",
+    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
