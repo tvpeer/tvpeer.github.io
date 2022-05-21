@@ -612,27 +612,9 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Buenísima Radio TV (Gamarra | Cesar)",
-    "path_name": "ce83dac153a1061597fe75e03c709e60",
-    "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2070,18 +2052,18 @@
     }
   },
   {
-    "name": "Huacho Perú TV",
-    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
-    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "name": "Genios TV (Moyobamba)",
+    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
+    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Mega TV (Jaen)",
-    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
-    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "name": "Huacho Perú TV",
+    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
+    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2469,6 +2451,15 @@
     "name": "Ветта 24 (Пермь)",
     "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
     "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Вечерняя Москва",
+    "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
+    "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
