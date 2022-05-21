@@ -612,33 +612,6 @@
     }
   },
   {
-    "name": "Channel 24",
-    "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Independent TV",
-    "path_name": "06b8dba362201bbd7117e77455dd5d8d",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Jamuna TV",
-    "path_name": "a8dd9fba76a7b8a4d4bedfbf9f56a4ca",
-    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBN Rio",
     "path_name": "9f534c91e76a8fd7b58e389252d5967f",
     "url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
@@ -1146,15 +1119,6 @@
     "name": "Asianet News",
     "path_name": "3f8b98b8efdb9ee5014d8c0abcd63620",
     "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Real News Kerala",
-    "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1926,6 +1890,24 @@
     }
   },
   {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TGRT Haber",
     "path_name": "b82f4709898448ff34331b73459d0bad",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
@@ -2333,6 +2315,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2496,6 +2487,15 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
