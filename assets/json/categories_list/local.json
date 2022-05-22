@@ -612,15 +612,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -2484,6 +2475,15 @@
     }
   },
   {
+    "name": "Sahel TV",
+    "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
+    "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Channel S",
     "path_name": "18bc60166fd2a1bc4a3dcbacd65de01a",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
@@ -3018,6 +3018,15 @@
     "name": "CBS 8 San Diego CA (KFMB-TV)",
     "path_name": "42a3b277d62068ee3aa377fa1880a972",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Nothing Scripted",
+    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
+    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
