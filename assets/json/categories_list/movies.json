@@ -396,15 +396,6 @@
     }
   },
   {
-    "name": "Persiana Plus",
-    "path_name": "a86c9686e7ad2277db6c5c23b5348a61",
-    "url": "http://51.210.199.21/hls/stream.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Sepanj TV",
     "path_name": "0f79b982aa1890484e691416653909b5",
     "url": "http://51.210.199.30/hls/stream.m3u8",
@@ -732,6 +723,15 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Samuel Goldwyn Channel",
+    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
+    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
