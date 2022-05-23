@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Toronto 360 TV",
-    "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
-    "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV 16 Toronto",
     "path_name": "0378bd20817e872afa934240cff62cf2",
     "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
@@ -615,6 +606,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2205,6 +2205,15 @@
     }
   },
   {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
@@ -3009,15 +3018,6 @@
     "name": "CBS 8 San Diego CA (KFMB-TV)",
     "path_name": "42a3b277d62068ee3aa377fa1880a972",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Nothing Scripted",
-    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
-    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
