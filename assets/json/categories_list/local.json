@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Ciudad TV Resistencia (Chaco)",
-    "path_name": "ae13211e238dbe907fa833cb506fa46e",
-    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenord Corrientes",
     "path_name": "9d49de079f499fc31f02f55416f28f0a",
     "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
@@ -669,15 +660,6 @@
     "name": "NicoyaTV",
     "path_name": "cd98ef212cd017453e3770de9005ca6c",
     "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2091,6 +2073,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
