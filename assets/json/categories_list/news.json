@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Al Arabiya",
-    "path_name": "521acbade973186e0ac6a03da306246f",
-    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -981,33 +972,6 @@
     }
   },
   {
-    "name": "BeritaSatu English",
-    "path_name": "617f0f1d8075cadfdfeee12f0582e098",
-    "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BeritaSatu",
-    "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
-    "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BeritaSatu",
-    "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
-    "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "iNews",
     "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
     "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
@@ -1029,15 +993,6 @@
     "name": "CNN Indonesia",
     "path_name": "71b6a6a6407f0c3629434a8f3fdfc356",
     "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BeritaSatu World",
-    "path_name": "1c4f62d893577ae0d596cb6eee3b6a6a",
-    "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2007,6 +1962,15 @@
     }
   },
   {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -2577,6 +2541,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
