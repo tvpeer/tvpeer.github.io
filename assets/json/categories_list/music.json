@@ -1107,24 +1107,6 @@
     }
   },
   {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1245,6 +1227,15 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1458,15 +1449,6 @@
     }
   },
   {
-    "name": "STIRR Stingray Pop Adult",
-    "path_name": "5bd20e05680182e0baa90e0373812ec7",
-    "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Radio U TV",
     "path_name": "cbcb52855245b403334c2deffb93aaef",
     "url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8",
@@ -1533,15 +1515,6 @@
     "name": "La Mega Mundial",
     "path_name": "2da93640d38072f339fa2acb950d7453",
     "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vallenato Internacional",
-    "path_name": "97448385f171d4a3aa36aae4d0bf5562",
-    "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
