@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -624,6 +615,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2340,15 +2340,6 @@
     }
   },
   {
-    "name": "TV Губерния (Воронеж)",
-    "path_name": "cbdad481a9b341506ae2bd580be771d3",
-    "url": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ветта 24 (Пермь)",
     "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
     "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
@@ -2523,15 +2514,6 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 5 Cleveland OH (WEWS-TV)",
-    "path_name": "2983600de2fe081c50039189ad893e50",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
