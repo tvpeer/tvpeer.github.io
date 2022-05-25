@@ -1494,9 +1494,27 @@
     }
   },
   {
+    "name": "TSN Tele Sondrio News",
+    "path_name": "c1039a7c3f03e10e4207890b5743456c",
+    "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV7 News",
     "path_name": "6fc60f031c4b5067cc206ab6d3a79419",
     "url": "http://217.61.26.46:8080/hls/news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Tele Sondrio News",
+    "path_name": "b7ff20bd2e0a004d41968c23f9da67a7",
+    "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2547,15 +2565,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2604,6 +2613,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
