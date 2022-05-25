@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "Bloomberg TV US Politics Live Event",
-    "path_name": "1e7a76e14231860c8d67167ee9805e30",
-    "url": "https://www.bloomberg.com/media-manifest/streams/politics.m3u8",
-    "categories": {
-      "name": "Business",
-      "slug": "business"
-    }
-  },
-  {
     "name": "Yahoo! Finance",
     "path_name": "66a20b352dded7471b47709b3465b9db",
     "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
@@ -345,6 +336,15 @@
     "name": "TD Ameritrade Network",
     "path_name": "285f3c110e37bbfcf6786d8d40391cda",
     "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Business",
+      "slug": "business"
+    }
+  },
+  {
+    "name": "CNBC Europe",
+    "path_name": "1c0a2604ccaee95ecb7200535e9a7205",
+    "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"

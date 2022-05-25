@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "Alfa Dramas",
-    "path_name": "b73fd0a6a2c03c46a7b8262fdc8b2816",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Wixlar",
     "path_name": "fd4c325a88c0377ecd162c8be0326135",
     "url": "http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8",
@@ -732,6 +723,15 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Samuel Goldwyn Channel",
+    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
+    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
