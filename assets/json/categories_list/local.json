@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "TeleJunín",
-    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
-    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -615,6 +606,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1782,6 +1782,15 @@
     }
   },
   {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
@@ -1794,6 +1803,15 @@
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "AsiriTV (Lima)",
+    "path_name": "2f106380faf53eca147780035513a4e0",
+    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
