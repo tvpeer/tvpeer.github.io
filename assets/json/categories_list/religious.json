@@ -81,9 +81,27 @@
     }
   },
   {
+    "name": "PUC TV Goiás",
+    "path_name": "8ae99f414cd91710a8c48c16450cd820",
+    "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "TV Evangelizar",
     "path_name": "65cc6d472e59565d27a89e8ff207cb2e",
     "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Fonte TV",
+    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -309,15 +327,6 @@
     "name": "Voz de Poder",
     "path_name": "ab09fee2c7044adbba4b44c22aa74b72",
     "url": "https://v2.tustreaming.cl/vozdepoder/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Gracia TV",
-    "path_name": "3b3f8f2ecd0dbf879402a7228aadbdc1",
-    "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -666,15 +675,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV 4 Urdu",
-    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
-    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -855,15 +855,6 @@
     }
   },
   {
-    "name": "TV Maná Moçambique",
-    "path_name": "0f75c73a60b235b4e871068b4ff48b34",
-    "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "JBN",
     "path_name": "135dfda1304897290c6d9c0fff8f61f8",
     "url": "https://inliveserver.com:1936/17510/17510/playlist.m3u8",
@@ -966,24 +957,6 @@
     "name": "TV MANA (FR)",
     "path_name": "0d209a99d3d68557157fe660f0b5b4c9",
     "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA MAPUTO",
-    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
-    "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TV MANA MAPUTO",
-    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
-    "url": "http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
