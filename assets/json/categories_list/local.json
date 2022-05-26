@@ -585,15 +585,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -630,6 +621,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -642,15 +642,6 @@
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NicoyaTV",
-    "path_name": "cd98ef212cd017453e3770de9005ca6c",
-    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1803,15 +1794,6 @@
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio TV Juanjui",
-    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
-    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3036,15 +3018,6 @@
     "name": "CBS 8 San Diego CA (KFMB-TV)",
     "path_name": "42a3b277d62068ee3aa377fa1880a972",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Nothing Scripted",
-    "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
-    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
