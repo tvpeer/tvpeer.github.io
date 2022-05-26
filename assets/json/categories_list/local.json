@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "TeleJunín",
+    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
+    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Maná Argentina",
     "path_name": "f3c511bf389496c9933f94b5f1510250",
     "url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
@@ -246,15 +255,6 @@
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -615,6 +615,15 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3621,6 +3630,15 @@
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
     "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Telemundo WSCV Noticias Miami FL",
+    "path_name": "0cb04ac773f050e593bedaaab8772af8",
+    "url": "https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
