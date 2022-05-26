@@ -495,15 +495,6 @@
     }
   },
   {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Santa María Televisión",
     "path_name": "3367c1feb878d42504c153dd4d570aa3",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
@@ -624,6 +615,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1773,15 +1773,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1857,15 +1848,6 @@
     "name": "Controversia TV (Moyobamba)",
     "path_name": "83f6305080ce5b8bc7e19a69ea5cd542",
     "url": "https://live.obslivestream.com/controversiamux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "FuegoTV (Lima)",
-    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
-    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2109,15 +2091,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
