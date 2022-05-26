@@ -603,6 +603,15 @@
     }
   },
   {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -624,6 +633,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1674,6 +1692,15 @@
     }
   },
   {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
@@ -2295,15 +2322,6 @@
     }
   },
   {
-    "name": "Телеканал 86 (Сургут)",
-    "path_name": "902f3675cd784429cc4353b9291d5838",
-    "url": "https://sitv.ru/hls/s86.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
@@ -2370,15 +2388,6 @@
     "name": "Липецкое время",
     "path_name": "335b708c0ac98f504e55c0c76c64f965",
     "url": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Между.Net (Междуреченск)",
-    "path_name": "51961435c21d8ba400bf66b4d626187b",
-    "url": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2469,15 +2478,6 @@
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "С1 (Сургут)",
-    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
-    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
