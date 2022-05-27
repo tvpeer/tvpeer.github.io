@@ -468,15 +468,6 @@
     }
   },
   {
-    "name": "Estación TV (Chillán)",
-    "path_name": "c3d06dc3c13e4689c1fa65825ac1536d",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
@@ -588,15 +579,6 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2142,15 +2124,6 @@
     }
   },
   {
-    "name": "Sumac TV (Lima)",
-    "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
-    "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
@@ -2898,6 +2871,24 @@
     }
   },
   {
+    "name": "CT-N Court Feed",
+    "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
+    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CT-N Live Stream 2",
+    "path_name": "911c9ad223ea611f454647ba059ad622",
+    "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TSTV",
     "path_name": "8a872cb88b321447457f7b272b1a1d7b",
     "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
@@ -3252,6 +3243,15 @@
     "name": "Beach TV Key West & Florida Keys",
     "path_name": "c19547c9bc08900408a4fc6cccf6dfe8",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CT-N TV Conneticut",
+    "path_name": "a2aaef4c0288dcfd70d776027ee235a3",
+    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
