@@ -297,6 +297,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -1656,6 +1665,15 @@
     }
   },
   {
+    "name": "TV Seventeen",
+    "path_name": "8d8b3518de00572a4a110ed680d519d4",
+    "url": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Libya Channel",
     "path_name": "94b616a515cd559a6f50b0f05938d27d",
     "url": "https://master.starmena-cloud.com/hls/libyas.m3u8",
@@ -1665,9 +1683,27 @@
     }
   },
   {
+    "name": "Libya 218",
+    "path_name": "318a341f75b67ea17e933097901cee96",
+    "url": "https://stream.218tv.net/libya218TV/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Libya 218 News",
     "path_name": "fe502802bf32427abc641679781a12f9",
     "url": "http://95.85.47.43/libya218news/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Libya 218 News",
+    "path_name": "fe502802bf32427abc641679781a12f9",
+    "url": "https://stream.218tv.net/libya218news/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1800,6 +1836,15 @@
     }
   },
   {
+    "name": "CNN Philippines",
+    "path_name": "4773ddc8fe98d125135368b61f8691ba",
+    "url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Lahore News",
     "path_name": "37b3b96aa0ea32e46063d8ae9147604a",
     "url": "https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8",
@@ -1926,6 +1971,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1938,15 +1992,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
