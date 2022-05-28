@@ -1674,9 +1674,27 @@
     }
   },
   {
+    "name": "Libya 218",
+    "path_name": "318a341f75b67ea17e933097901cee96",
+    "url": "https://stream.218tv.net/libya218TV/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Libya 218 News",
     "path_name": "fe502802bf32427abc641679781a12f9",
     "url": "http://95.85.47.43/libya218news/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Libya 218 News",
+    "path_name": "fe502802bf32427abc641679781a12f9",
+    "url": "https://stream.218tv.net/libya218news/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1965,24 +1983,6 @@
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Halab Today TV",
-    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
-    "url": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Halab Today TV",
-    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
-    "url": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2577,6 +2577,15 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
