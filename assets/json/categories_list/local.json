@@ -639,15 +639,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1584,6 +1575,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -1926,15 +1926,6 @@
     }
   },
   {
-    "name": "VamisaTV (Lima)",
-    "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
-    "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Solar Televisión (Abancay)",
     "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
     "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
@@ -1947,6 +1938,15 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2001,6 +2001,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -354,6 +345,15 @@
     "name": "Play TV",
     "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
     "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Canal Son TV",
+    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
+    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -885,15 +885,6 @@
     "name": "EBC1 TV",
     "path_name": "15cc362e279dceff491f3990e5f2671d",
     "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Company TV",
-    "path_name": "2661ef89e8bbd346ed6beaae79944801",
-    "url": "http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
