@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -1290,6 +1281,15 @@
     "name": "M1",
     "path_name": "ecc352ba6e65c8f22e5a72c74fae09e9",
     "url": "http://live.m2.tv/hls2/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "V2BEAT",
+    "path_name": "170dbb73651fd04590a00da30331e5ac",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
