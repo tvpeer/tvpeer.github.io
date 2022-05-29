@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Canal 11",
-    "path_name": "586071674190cbbc1fcb88ba037989b3",
-    "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "AntenaSport",
     "path_name": "eb67dde2a69c51dafcebd61de54dd159",
     "url": "https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8",
@@ -567,6 +558,15 @@
     }
   },
   {
+    "name": "Players TV",
+    "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
+    "url": "https://playerstv-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
     "name": "Pac 12 Insider",
     "path_name": "ef09de2acec2ca4754e4758f875b872f",
     "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
@@ -588,15 +588,6 @@
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "SportsGrid",
-    "path_name": "1708b983071f562ec17fc839c69e87f7",
-    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -876,6 +867,15 @@
     "name": "Adventure Sports Network",
     "path_name": "19d25c6fcc40539b1cee53d7970a8120",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "TVS Women Sports",
+    "path_name": "a96518e18dd255e3125d9447216af9bc",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
