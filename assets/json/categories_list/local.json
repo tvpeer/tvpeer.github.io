@@ -486,15 +486,6 @@
     }
   },
   {
-    "name": "TV Quellón",
-    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV8 (Concepción)",
     "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
     "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
@@ -558,6 +549,15 @@
     }
   },
   {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -579,15 +579,6 @@
     "name": "Suram TV",
     "path_name": "87e0122b331b4251432cdd4bd7f0bb20",
     "url": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -639,6 +630,15 @@
     }
   },
   {
+    "name": "TVG Evento 1",
+    "path_name": "3de97eb0c2c97c812d25c106232d4192",
+    "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVG Infantil",
     "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
     "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
@@ -669,6 +669,15 @@
     "name": "tvG2",
     "path_name": "467b3314774de8741109c336336293a8",
     "url": "https://events2-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "tvG2",
+    "path_name": "467b3314774de8741109c336336293a8",
+    "url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1989,15 +1998,6 @@
     }
   },
   {
-    "name": "Primavera 15 Radiotelevisión (Moquegua)",
-    "path_name": "232c1b378a773506b3584703aa567ca9",
-    "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
@@ -2622,6 +2622,15 @@
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PCC-TV Pinellas County FL",
+    "path_name": "c0d009a70f183a04700e067b20ce13c1",
+    "url": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3468,15 +3477,6 @@
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
     "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Telemundo WSCV Noticias Miami FL",
-    "path_name": "0cb04ac773f050e593bedaaab8772af8",
-    "url": "https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
