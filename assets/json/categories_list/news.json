@@ -297,6 +297,15 @@
     }
   },
   {
+    "name": "Al Arabiya",
+    "path_name": "521acbade973186e0ac6a03da306246f",
+    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
@@ -426,15 +435,6 @@
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2088,15 +2088,6 @@
     }
   },
   {
-    "name": "Fox News Channel",
-    "path_name": "c6f7222c81ed1311148e92c94aa06796",
-    "url": "http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
@@ -2568,6 +2559,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
