@@ -180,33 +180,6 @@
     }
   },
   {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Nova Era TV",
-    "path_name": "97002ce81e35169dff3b16c94d105fbd",
-    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Mon",
     "path_name": "827c459cf6843cd8eec5ef140c100b2e",
     "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
@@ -477,15 +450,6 @@
     }
   },
   {
-    "name": "Estación TV (Chillán)",
-    "path_name": "c3d06dc3c13e4689c1fa65825ac1536d",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
@@ -684,15 +648,6 @@
     }
   },
   {
-    "name": "TVG Cultural",
-    "path_name": "6250449e8dae36b23db6418c5dc5f840",
-    "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Infantil",
     "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
     "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
@@ -723,15 +678,6 @@
     "name": "tvG2",
     "path_name": "467b3314774de8741109c336336293a8",
     "url": "https://events2-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVG Evento 5",
-    "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
-    "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1944,6 +1890,15 @@
     }
   },
   {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2190,6 +2145,15 @@
     "name": "Millenium 49 TV (Pucallpa)",
     "path_name": "b38029251e5315b6d9234a159b407285",
     "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "92 News UK",
+    "path_name": "4c8eea3f98da7c95cf4cf2d2c42aa4a9",
+    "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
