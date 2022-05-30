@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "Jess TV (Lethbridge)",
-    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
-    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
@@ -585,18 +576,18 @@
     }
   },
   {
-    "name": "TVO Tocopilla",
-    "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
-    "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Buenísima Radio TV (Gamarra | Cesar)",
-    "path_name": "ce83dac153a1061597fe75e03c709e60",
-    "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "name": "TVO Tocopilla",
+    "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
+    "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1881,6 +1872,15 @@
     }
   },
   {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Planeta TV Moyobamba",
     "path_name": "0190f822207db79a4f8cac902a761e77",
     "url": "https://live.obslivestream.com/planetatvmux/index.m3u8",
@@ -2187,6 +2187,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2217,6 +2226,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2415,6 +2442,15 @@
     "name": "С1 (Сургут)",
     "path_name": "08be0f97930b257645b8c4618c0a6bd8",
     "url": "https://sitv.ru/hls/stv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Oppna Kanalen",
+    "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
+    "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
