@@ -1098,15 +1098,6 @@
     }
   },
   {
-    "name": "Kuriakos Music",
-    "path_name": "2416ef568cc02d40d265895ee3b9ffc1",
-    "url": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Rock TV",
     "path_name": "8e466aa200e9cf23b5509429fb100bc9",
     "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
@@ -1227,6 +1218,15 @@
     "name": "Muzzik Worldwide Serbia",
     "path_name": "cebb95b407e2c527ae2a9f8c413d6586",
     "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Новое радио",
+    "path_name": "0f7d0e26b49dcf44439e6994145e71db",
+    "url": "https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
