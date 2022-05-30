@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Red Bull TV",
-    "path_name": "dedc977542663b04dc67f4a0a66a5eb6",
-    "url": "https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "MavTV Select",
     "path_name": "a7fbeb63e33e14da9f7711bc614865a7",
     "url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
@@ -587,6 +578,15 @@
   {
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -687,15 +687,6 @@
     "name": "Unbeaten",
     "path_name": "a6a76aa91604cdc9ca0a774361485fc8",
     "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "TVS Sports",
-    "path_name": "f07a2e8da0727610df05d4933f84f017",
-    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
