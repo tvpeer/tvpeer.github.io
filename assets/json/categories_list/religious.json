@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "EnlaceTV",
     "path_name": "e231841275cebf3383e6f13504010200",
     "url": "https://v4.tustreaming.cl/enlacebpbtv/index.m3u8",
@@ -156,15 +147,6 @@
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Rede Século 21",
-    "path_name": "62b06c020b225700456ed5c4c71b67a3",
-    "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -648,6 +630,24 @@
     }
   },
   {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
+    "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al-Jawadain TV",
     "path_name": "a614fa00b9a89a8c0b10a9016770b7bc",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
@@ -684,9 +684,36 @@
     }
   },
   {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Payvand TV",
+    "path_name": "d3b9981fec2d16a819201201508011e4",
+    "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -927,15 +954,6 @@
     }
   },
   {
-    "name": "Hope Channel Philippines",
-    "path_name": "b9e3cf40fdd329d82f14e108c94c7dee",
-    "url": "https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Madani Channel Urdu",
     "path_name": "78458ffab0682376beec78db9ffdfe86",
     "url": "https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8",
@@ -948,15 +966,6 @@
     "name": "CTNi (Christian Television Network International)",
     "path_name": "e78146a0922fda31a76682b29a0eb8d6",
     "url": "https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Al Aqsa Channel",
-    "path_name": "577b9aa4e45e1082dea53497b64bef5c",
-    "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1533,6 +1542,15 @@
     "name": "Christian Youth Channel (CYC)",
     "path_name": "6a32b1fc5a566c22c643d810877267f3",
     "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "NRB TV",
+    "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
+    "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
