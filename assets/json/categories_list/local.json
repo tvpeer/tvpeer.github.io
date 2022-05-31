@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -561,6 +552,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1449,15 +1449,6 @@
     }
   },
   {
-    "name": "Next TV Malabar",
-    "path_name": "462cadd733920d09791dd898d72a7142",
-    "url": "https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1791,6 +1782,15 @@
     }
   },
   {
+    "name": "Radio TV Juanjui",
+    "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
+    "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1953,15 +1953,6 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -2019,6 +2010,15 @@
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "KeBuena (Barranca)",
+    "path_name": "6cb7100c5b064807b625c48eea2785db",
+    "url": "https://inliveserver.com:1936/18016/18016/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2217,6 +2217,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2781,15 +2799,6 @@
     }
   },
   {
-    "name": "FOX 13 Memphis TN (WHBQ-TV)",
-    "path_name": "616c6f9213dded3a01da13c322fb1fb5",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CCX Media North Brooklyn Park MN",
     "path_name": "e72a38c42f86897152ddd2247558bc77",
     "url": "http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
@@ -3114,15 +3123,6 @@
     }
   },
   {
-    "name": "NBC 12 Phoenix AZ (KPNX)",
-    "path_name": "bf0a51281c04039fdd0cf98c66637ae0",
-    "url": "https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CC-TV",
     "path_name": "822f63f152ca93a8f01419eb83c43c3d",
     "url": "https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8",
@@ -3144,15 +3144,6 @@
     "name": "CBS 5 Ft Smith AR (KFSM-TV)",
     "path_name": "266e3d6b3673ffec301d66d608c2fbde",
     "url": "https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Fox 43 Harrisburg PA (WPMT)",
-    "path_name": "8c547e174650dacd631e570d49596dc5",
-    "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
