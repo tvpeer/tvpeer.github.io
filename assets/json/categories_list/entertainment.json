@@ -189,6 +189,15 @@
     }
   },
   {
+    "name": "KCV",
+    "path_name": "c6cda3130df97582258d7b4ed9403ae9",
+    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Jaihind TV",
     "path_name": "e2cf38e627f942c1c23e38c76fbdb7c2",
     "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
@@ -666,15 +675,6 @@
     }
   },
   {
-    "name": "Blaze TV",
-    "path_name": "2769313efbb91c8e93af1750336e883f",
-    "url": "https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Timeline",
     "path_name": "1782a6e72d349c7c3f3af20f0222cc3e",
     "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
@@ -714,6 +714,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
