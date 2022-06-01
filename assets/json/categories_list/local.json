@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -444,15 +435,6 @@
     "name": "Cloudserver Latam (CSTV)",
     "path_name": "ec45882994cb99c496f3cc28b2a6b9f5",
     "url": "https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Décima TV (Ancud)",
-    "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
-    "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1548,6 +1530,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -1794,6 +1785,15 @@
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATM Televisión (Apurimac)",
+    "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
+    "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2208,6 +2208,15 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
