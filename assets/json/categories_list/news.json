@@ -1035,6 +1035,15 @@
     }
   },
   {
+    "name": "News 24",
+    "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
+    "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NDTV 24X7",
     "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
@@ -1065,15 +1074,6 @@
     "name": "FASTWAY NEWS",
     "path_name": "f075257efea0c72aba476522b1cd03f7",
     "url": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Pramaya News7",
-    "path_name": "f43cddf267c236960bbc1c286685aef2",
-    "url": "https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1128,15 +1128,6 @@
     "name": "Asianet News",
     "path_name": "3f8b98b8efdb9ee5014d8c0abcd63620",
     "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Real News Kerala",
-    "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1233,15 +1224,6 @@
     }
   },
   {
-    "name": "Malabar News",
-    "path_name": "7f30cbd06c44fef808e328537d581b55",
-    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
@@ -1263,6 +1245,15 @@
     "name": "Polimer News",
     "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
     "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Polimer News",
+    "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
+    "url": "https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1587,33 +1578,6 @@
     "name": "Al Manar",
     "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
     "url": "https://manar.live/x.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2559,15 +2523,6 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
