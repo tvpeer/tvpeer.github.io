@@ -1971,15 +1971,6 @@
     }
   },
   {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -2423,6 +2414,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2433,15 +2433,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
