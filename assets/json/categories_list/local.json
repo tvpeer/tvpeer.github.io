@@ -405,24 +405,6 @@
     }
   },
   {
-    "name": "Canal 74 (San Antonio)",
-    "path_name": "a812e3eb0f5640680dbaf33e02354de9",
-    "url": "https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal SCÑ (San Carlos Ñuble)",
-    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
-    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal TUTV (Quillota)",
     "path_name": "1df1987e2c26f1e7ba86ebbdc4c571a1",
     "url": "https://paneltv.net:3978/hybrid/play.m3u8",
@@ -588,6 +570,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -912,6 +903,15 @@
     "name": "PLP",
     "path_name": "58b02f30b67ecf0a4aff2684f454e043",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ena Channel",
+    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
+    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1884,15 +1884,6 @@
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Innova FM (Bagua Grande)",
-    "path_name": "6bb261cd341175bba9043fd9496bfabe",
-    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
