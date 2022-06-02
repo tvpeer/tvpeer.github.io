@@ -315,15 +315,6 @@
     }
   },
   {
-    "name": "Sana TV",
-    "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
-    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Captain TV",
     "path_name": "face335600ccc660cb27875dfee1bfe3",
     "url": "http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8",
@@ -858,6 +849,15 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
