@@ -1746,15 +1746,6 @@
     }
   },
   {
-    "name": "El Maqar",
-    "path_name": "cbde484025c8e228be54c6af2f6ed7eb",
-    "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Al Horreya TV",
     "path_name": "ea78dbe690084ade9d6258623e8803a9",
     "url": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8",
@@ -1947,6 +1938,15 @@
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "CTN 61 Riviera Beach FL (WFGC)",
+    "path_name": "3892efe26dc164071ebf1f27dce18b1f",
+    "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
