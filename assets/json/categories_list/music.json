@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -981,15 +972,6 @@
     }
   },
   {
-    "name": "Conecta TV",
-    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
-    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -1242,15 +1224,6 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "A2i Music",
     "path_name": "002dc005abda9e85d85000b263350925",
     "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
@@ -1443,6 +1416,15 @@
     "name": "TVS Music Network",
     "path_name": "a54f2f258d6934682d58f220d6932f53",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Rock Alternative",
+    "path_name": "5b72cbdbe41000dce33932153ab21264",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
