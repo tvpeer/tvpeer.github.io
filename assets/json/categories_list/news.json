@@ -2079,15 +2079,6 @@
     }
   },
   {
-    "name": "WMOR-TV News Lakeland FL",
-    "path_name": "82d47ea8d46905b2d7ca79091e2b6005",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "WTVD TV News",
     "path_name": "a05ec7c32a3dddb46f8253f834cbb333",
     "url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8",
@@ -2270,6 +2261,15 @@
   {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
+    "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "OAN",
+    "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8",
     "categories": {
       "name": "News",
@@ -2415,15 +2415,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
