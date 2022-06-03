@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -659,15 +650,6 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
-    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV 2 Arabic",
-    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -768,6 +750,15 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -939,6 +930,15 @@
     "name": "Hosanna Vision",
     "path_name": "239552b56fcd887230456197f49b9eac",
     "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "La Luz TV",
+    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1254,6 +1254,15 @@
     "name": "The Islamic Network",
     "path_name": "9075cf0f23e3a0b96056b755a9f1f73f",
     "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "唯心電視",
+    "path_name": "b06e7876bcc6049a49d5e24fa800ae28",
+    "url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1674,24 +1683,6 @@
     }
   },
   {
-    "name": "Ahlulbayt TV",
-    "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
-    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Ahlulbayt TV",
-    "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
-    "url": "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Iqra TV",
     "path_name": "7d612b3c9b71749ce9e43e0762ee10f4",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
@@ -1836,15 +1827,6 @@
     }
   },
   {
-    "name": "Logos TV Mubasher",
-    "path_name": "4b7de805413d46701a9224055f38f50f",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Almagd TV Middle East",
     "path_name": "a0193e7a1dac22db4284bcfc470ece13",
     "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
@@ -1938,15 +1920,6 @@
     "name": "CTN 61 Riviera Beach FL (WFGC)",
     "path_name": "3892efe26dc164071ebf1f27dce18b1f",
     "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Cornerstone TV",
-    "path_name": "6e9b121a0cde38819378f2e656157e80",
-    "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
