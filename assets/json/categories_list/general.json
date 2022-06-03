@@ -801,24 +801,6 @@
     }
   },
   {
-    "name": "Repretel CDR-2 Central de Radios",
-    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Canal 11",
-    "path_name": "586071674190cbbc1fcb88ba037989b3",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
@@ -1532,6 +1514,15 @@
   {
     "name": "AWE Encore",
     "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
     "url": "https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8",
     "categories": {
       "name": "General",
@@ -1761,6 +1752,24 @@
     "categories": {
       "name": "General",
       "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
     }
   }
 ]
