@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -588,6 +579,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1800,15 +1800,6 @@
     }
   },
   {
-    "name": "Quillavision (Cuzco)",
-    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
-    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio TV Juanjui",
     "path_name": "57e9236441f4309fcefc3ea8e4af5dd7",
     "url": "https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8",
@@ -2595,6 +2586,15 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Winthrop Community Access TV (WCAT 15)",
+    "path_name": "98b95044d5d11eeb7d0bd622475d27fa",
+    "url": "https://edu-wcat.azureedge.net/live/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
