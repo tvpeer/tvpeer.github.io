@@ -603,6 +603,15 @@
     }
   },
   {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -624,6 +633,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1863,6 +1881,15 @@
     }
   },
   {
+    "name": "Huanta TV",
+    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
+    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
@@ -1929,6 +1956,15 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2172,6 +2208,15 @@
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
