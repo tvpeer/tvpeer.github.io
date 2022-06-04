@@ -27,15 +27,6 @@
     }
   },
   {
-    "name": "Peace TV Albanian",
-    "path_name": "6bd309180fa167468e61af2c0c190625",
-    "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Շողակաթ",
     "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
     "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
@@ -102,6 +93,15 @@
     "name": "Fonte TV",
     "path_name": "39aef4e275cb01b0225bc50dcdeac415",
     "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IMPD TV",
+    "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
+    "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -513,6 +513,15 @@
     }
   },
   {
+    "name": "Vida TV",
+    "path_name": "e379829fce360c74d3894c865a6f80b8",
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Radio Télé 4VEH",
     "path_name": "ff1441b8417d2792fbaddd99e2c379b5",
     "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
@@ -641,15 +650,6 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
-    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV 2 Arabic",
-    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -759,15 +759,6 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1854,6 +1845,15 @@
     }
   },
   {
+    "name": "Logos TV Mubasher",
+    "path_name": "4b7de805413d46701a9224055f38f50f",
+    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Almagd TV Middle East",
     "path_name": "a0193e7a1dac22db4284bcfc470ece13",
     "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
@@ -2172,15 +2172,6 @@
     "name": "Elbeshara GTV",
     "path_name": "c324339951c943d3f0988c4bb082456a",
     "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Daawah TV",
-    "path_name": "8ad31a56225a1b9f38a402ecc91e2688",
-    "url": "http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
