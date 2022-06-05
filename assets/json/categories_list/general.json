@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -801,15 +792,6 @@
     }
   },
   {
-    "name": "Canal 11",
-    "path_name": "586071674190cbbc1fcb88ba037989b3",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
@@ -912,15 +894,6 @@
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "SCTV",
-    "path_name": "7655f79642771cf5dd5fa0cdc66df954",
-    "url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1602,9 +1575,27 @@
     }
   },
   {
+    "name": "Sent TV Global Network",
+    "path_name": "fff73616ef604b8ec51fbb0f11f5f7ce",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVS Select Network",
     "path_name": "9bd6a8d1b5ca544164c2ea69046a97d0",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Television Network",
+    "path_name": "104e65b16979ce9e724aca20314edaf5",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
