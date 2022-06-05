@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Rede Brasil de Comunicação",
-    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
-    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -705,6 +696,15 @@
     "name": "Imam Hussein TV 4 Urdu",
     "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1947,6 +1947,15 @@
     "name": "CTN 61 Riviera Beach FL (WFGC)",
     "path_name": "3892efe26dc164071ebf1f27dce18b1f",
     "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Cornerstone TV",
+    "path_name": "6e9b121a0cde38819378f2e656157e80",
+    "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
