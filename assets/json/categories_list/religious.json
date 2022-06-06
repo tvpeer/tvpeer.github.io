@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -165,6 +156,15 @@
     "name": "Rede Século 21",
     "path_name": "62b06c020b225700456ed5c4c71b67a3",
     "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Gospel",
+    "path_name": "69ebd4f367bc24a3b2c586c456b30651",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1911,6 +1911,15 @@
     "name": "CTN 61 Riviera Beach FL (WFGC)",
     "path_name": "3892efe26dc164071ebf1f27dce18b1f",
     "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Cornerstone TV",
+    "path_name": "6e9b121a0cde38819378f2e656157e80",
+    "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
