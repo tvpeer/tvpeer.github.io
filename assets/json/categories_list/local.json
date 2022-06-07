@@ -585,9 +585,27 @@
     }
   },
   {
+    "name": "Visión Plus TV (Melipilla)",
+    "path_name": "99578787b40e46b93204a7af20607d90",
+    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1791,6 +1809,15 @@
     }
   },
   {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1839,6 +1866,15 @@
     "name": "LimaLive",
     "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
     "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Huanta TV",
+    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
+    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
