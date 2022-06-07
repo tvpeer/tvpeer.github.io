@@ -279,27 +279,9 @@
     }
   },
   {
-    "name": "France 24 Arabic",
-    "path_name": "e73d6ce4a98cea33b7b2ab4596cfc41f",
-    "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Al Arabiya",
     "path_name": "521acbade973186e0ac6a03da306246f",
     "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Arabiya",
-    "path_name": "521acbade973186e0ac6a03da306246f",
-    "url": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1128,6 +1110,15 @@
     "name": "Asianet News Bangla",
     "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
     "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "TV9 Kannada",
+    "path_name": "c82749589c740e60cab7ea83e34fd59c",
+    "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2288,15 +2279,6 @@
   {
     "name": "InfoWars",
     "path_name": "94808be79537610f4ad039ba0c84f944",
-    "url": "http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "InfoWars",
-    "path_name": "94808be79537610f4ad039ba0c84f944",
     "url": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2343,15 +2325,6 @@
     "name": "Newsy",
     "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
     "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Newsy",
-    "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
