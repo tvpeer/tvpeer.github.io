@@ -441,6 +441,15 @@
     }
   },
   {
+    "name": "Canal SCÑ (San Carlos Ñuble)",
+    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
+    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal TUTV (Quillota)",
     "path_name": "1df1987e2c26f1e7ba86ebbdc4c571a1",
     "url": "https://paneltv.net:3978/hybrid/play.m3u8",
@@ -507,6 +516,15 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Puncón TV",
+    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -594,6 +612,24 @@
     }
   },
   {
+    "name": "Ñuble RTV (Chillán)",
+    "path_name": "047c61c110127cf131cc81ed3b540fa7",
+    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -621,9 +657,27 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
+    "path_name": "1eba2d69dcc77f6786a11543260ae375",
+    "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1755,15 +1809,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1845,15 +1890,6 @@
     }
   },
   {
-    "name": "Huanta TV",
-    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
-    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
@@ -1884,6 +1920,15 @@
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Innova FM (Bagua Grande)",
+    "path_name": "6bb261cd341175bba9043fd9496bfabe",
+    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
