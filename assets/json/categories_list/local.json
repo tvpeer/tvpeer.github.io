@@ -621,15 +621,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -642,15 +633,6 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1809,6 +1791,15 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2046,15 +2037,6 @@
     "name": "CR Television (Moyobamba)",
     "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
     "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Genios TV (Moyobamba)",
-    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
-    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
