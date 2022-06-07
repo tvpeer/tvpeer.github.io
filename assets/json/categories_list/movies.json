@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ATV Կինոման",
+    "path_name": "5dceef43f92994d939241c5cf491829d",
+    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -21,6 +30,15 @@
     "name": "SBS World Movies",
     "path_name": "b3e08343ae713e5688c7f0dd52344ed1",
     "url": "https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Ghost TV",
+    "path_name": "4cfaa298b7ef77c8bf02510938821956",
+    "url": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -585,15 +603,6 @@
     }
   },
   {
-    "name": "ActionMax East",
-    "path_name": "17bacc51be6f497e1e4c8068a942983a",
-    "url": "http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Xumo Free Movies",
     "path_name": "01f6a641f18e10a2a2c1f81c4e60b904",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
@@ -867,15 +876,6 @@
     "name": "Cine Romantico (XUMO)",
     "path_name": "f3d46d813ce62649b234cb3debb15ac7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Cinemax East",
-    "path_name": "9efa8e1be86e5d93ab3c7f2014785095",
-    "url": "http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
