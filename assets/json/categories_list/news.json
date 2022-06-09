@@ -315,15 +315,6 @@
     }
   },
   {
-    "name": "Sky News Arabia",
-    "path_name": "ebd4ef0fa2688b1695914c8b8e73fbac",
-    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Sky News Arabia (Portrait)",
     "path_name": "2eebb8fb49a8f9d081cfe181b750ceba",
     "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
@@ -831,6 +822,15 @@
     "name": "7 Noticias",
     "path_name": "e49283834312db0285e47ab0eeeb8bf1",
     "url": "https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "101TV Malaga",
+    "path_name": "930cee95729458c790dd69049205a25a",
+    "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2388,6 +2388,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
