@@ -324,15 +324,6 @@
     }
   },
   {
-    "name": "Gracia TV",
-    "path_name": "3b3f8f2ecd0dbf879402a7228aadbdc1",
-    "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Avivamiento TV",
     "path_name": "579719b729534d28ebb981d339953907",
     "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
@@ -666,6 +657,15 @@
     }
   },
   {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -912,6 +912,15 @@
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Nazarenas TV",
+    "path_name": "1d4509993bcf493f8541094425387827",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1173,15 +1182,6 @@
     "name": "Iqraa Europe Africa",
     "path_name": "948919244f21e8d10709875ccf107c6b",
     "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "A2i Religion",
-    "path_name": "d90ee33894787f2b9f607f63cc61a556",
-    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1884,15 +1884,6 @@
     "name": "CTN 61 Riviera Beach FL (WFGC)",
     "path_name": "3892efe26dc164071ebf1f27dce18b1f",
     "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Cornerstone TV",
-    "path_name": "6e9b121a0cde38819378f2e656157e80",
-    "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
