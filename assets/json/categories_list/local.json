@@ -189,9 +189,9 @@
     }
   },
   {
-    "name": "TV Pantanal MS",
-    "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
-    "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -651,15 +651,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2043,6 +2034,15 @@
     }
   },
   {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
@@ -2243,16 +2243,25 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Телеканал 86 (Сургут)",
-    "path_name": "902f3675cd784429cc4353b9291d5838",
-    "url": "https://sitv.ru/hls/s86.m3u8",
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2415,15 +2424,6 @@
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "С1 (Сургут)",
-    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
-    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2685,15 +2685,6 @@
     "name": "Fox 61 Hartford CT (WTIC-TV)",
     "path_name": "c361438e636e5d849b38488073aaf9a7",
     "url": "https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 7 Detroit MI (WXYZ-TV)",
-    "path_name": "227784b3d2b80cf763abd788bec550dd",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
