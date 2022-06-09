@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "Colosal TV",
+    "path_name": "fcc4642c19fd9d2b31f19ae5a828da11",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Zona Play TV (ZPTV)",
     "path_name": "109fc58bd849f1c49467ffd8833e2772",
     "url": "https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8",
@@ -102,15 +111,6 @@
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Shemaroo TV",
-    "path_name": "854d9bd001388cd30c9db1e2a4ce949b",
-    "url": "http://14.199.164.20:4001/play/a0nh/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -740,6 +740,15 @@
   {
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -768,15 +777,6 @@
     "name": "eScapes (XUMO)",
     "path_name": "e159a02037cae184a2a9ad046489b964",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Popstar! TV",
-    "path_name": "f5bcbf4000315aab897a740f34057e44",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -813,24 +813,6 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -918,15 +900,6 @@
     }
   },
   {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Cable Hits",
     "path_name": "14567a5592f48c23f4a3f43f572640d1",
     "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
@@ -1002,15 +975,6 @@
     "name": "Electric Now",
     "path_name": "851f9a17ce6ab3ffe1b79795d755f316",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Electric Now",
-    "path_name": "851f9a17ce6ab3ffe1b79795d755f316",
-    "url": "https://ov.ottera.tv/live/master.m3u8?channel=elec_en",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
