@@ -315,6 +315,15 @@
     }
   },
   {
+    "name": "Sky News Arabia",
+    "path_name": "ebd4ef0fa2688b1695914c8b8e73fbac",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Sky News Arabia (Portrait)",
     "path_name": "2eebb8fb49a8f9d081cfe181b750ceba",
     "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
@@ -1902,6 +1911,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
