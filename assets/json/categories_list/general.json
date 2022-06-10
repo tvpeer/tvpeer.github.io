@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -135,9 +144,9 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -165,15 +174,6 @@
     "name": "América TV",
     "path_name": "65933879ac005056881bddadf3c01723",
     "url": "https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "SEO TV",
-    "path_name": "041e2bab84e23a495f520590cab8120f",
-    "url": "https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -444,6 +444,15 @@
     "name": "TV Aberta",
     "path_name": "c6977ec66c32ee17e8c754bbec864638",
     "url": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Catve Master TV",
+    "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
+    "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -774,9 +783,9 @@
     }
   },
   {
-    "name": "Repretel CDR-2 Central de Radios",
-    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
+    "name": "Canal 11",
+    "path_name": "586071674190cbbc1fcb88ba037989b3",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1101,6 +1110,33 @@
     "name": "MBC",
     "path_name": "d11fa117fb730e077192de81a07db08c",
     "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM Internacional",
+    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
