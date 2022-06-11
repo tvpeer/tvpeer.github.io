@@ -198,6 +198,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -630,15 +639,6 @@
     }
   },
   {
-    "name": "Imam Hussein TV 4 Urdu",
-    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
-    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -957,24 +957,6 @@
     "name": "TV MANA-1 PORTUGAL",
     "path_name": "363c786cfe48941a857cf30d8a748c34",
     "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Kuriakos TV",
-    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
-    "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Kuriakos TV",
-    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
-    "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1749,15 +1731,6 @@
     "name": "Logos TV",
     "path_name": "15f8cb5cbd4e96a378f942d7976c87be",
     "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Logos TV Mubasher",
-    "path_name": "4b7de805413d46701a9224055f38f50f",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
