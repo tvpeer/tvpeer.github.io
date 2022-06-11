@@ -639,6 +639,15 @@
     }
   },
   {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -741,6 +750,15 @@
     "name": "SAT-7 PARS",
     "path_name": "c397398a16875a0fb0e2118b86856320",
     "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Maali TV",
+    "path_name": "f10f849aa9fc6df223e1b13f09823e00",
+    "url": "https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -909,15 +927,6 @@
     }
   },
   {
-    "name": "Al Aqsa Channel",
-    "path_name": "577b9aa4e45e1082dea53497b64bef5c",
-    "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV MANA (ENG)",
     "path_name": "dfd35f1721c3eb0e04af20b8953c6e50",
     "url": "http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8",
@@ -957,6 +966,24 @@
     "name": "TV MANA-1 PORTUGAL",
     "path_name": "363c786cfe48941a857cf30d8a748c34",
     "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
+    "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "path_name": "5d714c5596e08b55bf97426e6a5f0717",
+    "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
