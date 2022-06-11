@@ -99,6 +99,15 @@
     }
   },
   {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -219,6 +228,15 @@
     "name": "Telearuba",
     "path_name": "4552785415e099cbbd6e02370d106c1e",
     "url": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,6 +783,24 @@
     }
   },
   {
+    "name": "Repretel CDR-2 Central de Radios",
+    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Canal 11",
+    "path_name": "586071674190cbbc1fcb88ba037989b3",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
@@ -1083,33 +1119,6 @@
     "name": "MBC",
     "path_name": "d11fa117fb730e077192de81a07db08c",
     "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM Internacional",
-    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM",
-    "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVM",
-    "path_name": "afd856551a771d9e971aff7c943f3559",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
