@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "TV Cidade Canal 9",
-    "path_name": "635f211a99a5c1410c36ba58189bd6d0",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
@@ -1800,6 +1791,15 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1992,6 +1992,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2198,24 +2207,6 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2235,24 +2226,6 @@
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Univer TV",
-    "path_name": "366856882fb400d8ab5329c49d06509f",
-    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Univer TV",
-    "path_name": "366856882fb400d8ab5329c49d06509f",
-    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
