@@ -558,15 +558,6 @@
     }
   },
   {
-    "name": "Tele 2 Web (Retiro)",
-    "path_name": "1348cfd3347fe8e5b2d82e5b12c1d61f",
-    "url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
     "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
     "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
@@ -633,6 +624,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -768,24 +768,6 @@
     "name": "Canal Málaga RTV",
     "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Popular TV Melilla",
-    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
-    "url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Popular TV Melilla",
-    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
-    "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1854,15 +1836,6 @@
     }
   },
   {
-    "name": "Huanta TV",
-    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
-    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
@@ -2178,9 +2151,9 @@
     }
   },
   {
-    "name": "MitosTV (Mitos de la Selva | Pucallpa)",
-    "path_name": "a6c0333501d9711ef41184342257183a",
-    "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2217,24 +2190,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
