@@ -81,24 +81,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -147,6 +129,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -372,6 +363,42 @@
     "name": "SATV",
     "path_name": "d81912dfc106c935a646b6840f4ac276",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bahrain Lawal",
+    "path_name": "7bd19a967761e47c1f4187ee6b81ce6a",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bahrain TV",
+    "path_name": "601c8f40d4d3504224e3de6f144e5086",
+    "url": "http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bahrain TV",
+    "path_name": "601c8f40d4d3504224e3de6f144e5086",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bahrain International",
+    "path_name": "8e99cb5580cfa6863f9055d6a02ece8c",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,24 +792,6 @@
     }
   },
   {
-    "name": "Repretel CDR-2 Central de Radios",
-    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Canal 11",
-    "path_name": "586071674190cbbc1fcb88ba037989b3",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
@@ -813,6 +822,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1323,15 +1341,6 @@
     }
   },
   {
-    "name": "Kanal D",
-    "path_name": "b33ddb0bb7e2f777760cda4a93a4c445",
-    "url": "https://stream1.kanald.ro/iphone/live.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Мир",
     "path_name": "579ae29d20979b9bf2d927153abbdaeb",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
@@ -1677,24 +1686,6 @@
     "name": "Digi TV (WFTY-DT6)",
     "path_name": "30c83e5e99d494ee1033e846c38db6dc",
     "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Ayeneh TV",
-    "path_name": "c882de3143d06ca705fbc8523287cfc9",
-    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "PromarTV (Yaracuy)",
-    "path_name": "7a4d69951bb33167cd657a9b390e6664",
-    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
