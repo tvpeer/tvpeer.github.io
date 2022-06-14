@@ -648,15 +648,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2745,6 +2736,15 @@
     }
   },
   {
+    "name": "Miami City TV",
+    "path_name": "265d8963be1e5231592b2cf17ada42e1",
+    "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CT-N Court Feed",
     "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
     "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
@@ -2910,6 +2910,15 @@
     "name": "CBS 12 West Palm Beach FL (WPEC)",
     "path_name": "aeaac0bd182c03fba3a49e2df231bfa0",
     "url": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Fox 15 West Texas Abilene TX (KXVA)",
+    "path_name": "fd2c6c652f4e50675bc302852e1e4cee",
+    "url": "https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
