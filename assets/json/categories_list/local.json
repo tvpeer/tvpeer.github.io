@@ -306,18 +306,18 @@
     }
   },
   {
-    "name": "Toronto 360 TV",
-    "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
-    "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
+    "name": "Jess TV (Lethbridge)",
+    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
+    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "name": "Toronto 360 TV",
+    "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
+    "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1845,6 +1845,15 @@
     }
   },
   {
+    "name": "LimaLive",
+    "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
+    "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Huanta TV",
     "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
     "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
@@ -1854,9 +1863,27 @@
     }
   },
   {
+    "name": "LotPlus TV (Chiclayo)",
+    "path_name": "beff3819b0742473ba961e0da8ed661e",
+    "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oasis RTV (Trujillo)",
     "path_name": "c1e586de24db4e0d42c50a70938717f9",
     "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Oriental TV 21 (Pucallpa)",
+    "path_name": "9c4db63137480c1eb82e05dcf20073af",
+    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1884,6 +1911,15 @@
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TPTO TV (Tarapoto)",
+    "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
+    "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2025,18 +2061,27 @@
     }
   },
   {
-    "name": "Primavera 15 Radiotelevisión (Moquegua)",
-    "path_name": "232c1b378a773506b3584703aa567ca9",
-    "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Top FM TV (Atalaya)",
-    "path_name": "f7c8508f25c18c80c20d88a25943e219",
-    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+    "name": "Imperial Televisión (Huancayo)",
+    "path_name": "006da3caac02d5d08fa0e5b092855ab0",
+    "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Primavera 15 Radiotelevisión (Moquegua)",
+    "path_name": "232c1b378a773506b3584703aa567ca9",
+    "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2079,6 +2124,15 @@
     }
   },
   {
+    "name": "Sol Stereo TV (Casma)",
+    "path_name": "5b1011c240c409ae2b7cadb7d1767d0c",
+    "url": "https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
@@ -2097,9 +2151,27 @@
     }
   },
   {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2118,6 +2190,15 @@
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
