@@ -648,15 +648,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -2106,15 +2097,6 @@
     }
   },
   {
-    "name": "Top FM TV (Atalaya)",
-    "path_name": "f7c8508f25c18c80c20d88a25943e219",
-    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
@@ -2208,6 +2190,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3351,6 +3342,15 @@
     "name": "3 Studios Cleveland OH (WKYC)",
     "path_name": "8ebba9be2520381bf6d116d0eeb5610b",
     "url": "https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 24 Memphis TN (WATN-TV)",
+    "path_name": "965b0164612fb2317bbe49340dd1c69f",
+    "url": "https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
