@@ -621,6 +621,15 @@
     }
   },
   {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -642,6 +651,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -777,24 +795,6 @@
     "name": "Canal Málaga RTV",
     "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BFM Grand Lille",
-    "path_name": "b2a1b255aba4c8e337b4523de026386a",
-    "url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BFM Grand Littoral",
-    "path_name": "387d5ee3b2b962e3ede14e075f6d8a33",
-    "url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1773,6 +1773,15 @@
     }
   },
   {
+    "name": "Radio Pachatusan (Cuzco)",
+    "path_name": "34ecbdc896750ea603e866b389f0945f",
+    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2169,15 +2178,6 @@
     }
   },
   {
-    "name": "92 News UK",
-    "path_name": "4c8eea3f98da7c95cf4cf2d2c42aa4a9",
-    "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
@@ -2478,15 +2478,6 @@
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BUTV10 (Boston University)",
-    "path_name": "de3b37f41f9d9d6fa221071bf22107d1",
-    "url": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
