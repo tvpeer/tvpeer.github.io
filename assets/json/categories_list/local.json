@@ -2261,6 +2261,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -3015,6 +3033,15 @@
     }
   },
   {
+    "name": "Tempe 11 AZ",
+    "path_name": "b1be980b1b9ba8d8dcd75cce671d89bf",
+    "url": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 12 West Palm Beach FL (WPEC)",
     "path_name": "aeaac0bd182c03fba3a49e2df231bfa0",
     "url": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8",
@@ -3324,15 +3351,6 @@
     "name": "3 Studios Cleveland OH (WKYC)",
     "path_name": "8ebba9be2520381bf6d116d0eeb5610b",
     "url": "https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 24 Memphis TN (WATN-TV)",
-    "path_name": "965b0164612fb2317bbe49340dd1c69f",
-    "url": "https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
