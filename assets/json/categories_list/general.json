@@ -81,18 +81,27 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1287,15 +1296,6 @@
     }
   },
   {
-    "name": "Prima TV",
-    "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
-    "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
@@ -1650,6 +1650,15 @@
     "name": "Digi TV (WFTY-DT6)",
     "path_name": "30c83e5e99d494ee1033e846c38db6dc",
     "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Ayeneh TV",
+    "path_name": "c882de3143d06ca705fbc8523287cfc9",
+    "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"

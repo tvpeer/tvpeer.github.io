@@ -828,6 +828,15 @@
     }
   },
   {
+    "name": "101TV Malaga",
+    "path_name": "930cee95729458c790dd69049205a25a",
+    "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Canal 24 horas",
     "path_name": "3ad59f99d776d2dc479551fe1060f7db",
     "url": "https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8",
@@ -1296,6 +1305,15 @@
     }
   },
   {
+    "name": "Al Rafidain",
+    "path_name": "cf8924302dda5b48f2ab4c5be6735c96",
+    "url": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Dijlah",
     "path_name": "68a265499227d4ed7bf5f451bf50fc3e",
     "url": "http://91.134.145.75:10001/Dijlah/index.m3u8",
@@ -1542,6 +1560,15 @@
     "name": "국악방송",
     "path_name": "fd59b85a66a9f8eb0d2232373396f31e",
     "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Sabah",
+    "path_name": "506cca4a8b2b0167f11e7d4ff0dad75a",
+    "url": "https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1881,6 +1908,15 @@
     }
   },
   {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1998,27 +2034,9 @@
     }
   },
   {
-    "name": "WISN-TV News Milwaukee WI",
-    "path_name": "e04d067b32fbe29539dfa2ad6a0262c7",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "WLS TV News",
     "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
     "url": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WMOR-TV News Lakeland FL",
-    "path_name": "82d47ea8d46905b2d7ca79091e2b6005",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2043,54 +2061,9 @@
     }
   },
   {
-    "name": "WJCL-TV News Savannah GA",
-    "path_name": "bbc9a1844dda59bd4f7cdb1b677ee6b3",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WMTW-TV News Portland ME",
-    "path_name": "40c043c952edad7a3772b40e1be08e81",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "WPVI-TV News",
     "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
     "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WLKY-TV News Louisville KY",
-    "path_name": "13d8e54e4cfb74a21099c881e921242b",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WESH-TV News Orlando FL",
-    "path_name": "7d33c57d677a44aeda5921ebe2e0ae47",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WGAL-TV News Lancaster PA",
-    "path_name": "c65176625a2f55a9af68e7777f9a1704",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2379,6 +2352,15 @@
     "name": "Newsy Top Stories",
     "path_name": "a753f139c32d159c5d362d329a0efcd0",
     "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
