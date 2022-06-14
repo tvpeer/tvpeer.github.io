@@ -657,15 +657,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -795,6 +786,24 @@
     "name": "Canal Málaga RTV",
     "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BFM Grand Lille",
+    "path_name": "b2a1b255aba4c8e337b4523de026386a",
+    "url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BFM Grand Littoral",
+    "path_name": "387d5ee3b2b962e3ede14e075f6d8a33",
+    "url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2478,6 +2487,15 @@
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BUTV10 (Boston University)",
+    "path_name": "de3b37f41f9d9d6fa221071bf22107d1",
+    "url": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
