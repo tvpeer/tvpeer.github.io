@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -228,6 +219,15 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -792,24 +792,6 @@
     }
   },
   {
-    "name": "Repretel CDR-2 Central de Radios",
-    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Canal 11",
-    "path_name": "586071674190cbbc1fcb88ba037989b3",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
@@ -1125,6 +1107,15 @@
     }
   },
   {
+    "name": "MBC",
+    "path_name": "d11fa117fb730e077192de81a07db08c",
+    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVM Internacional",
     "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
     "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
@@ -1173,15 +1164,6 @@
     "name": "TV Palmeras",
     "path_name": "ce8b1308fc4add4557a60169a6ce2642",
     "url": "https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "UCI",
-    "path_name": "a3881d4bf85941dc591f3b39c30274b8",
-    "url": "https://servilive.com:3449/live/mlecaroslive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1632,15 +1614,6 @@
     "name": "Bloomberg Quicktake",
     "path_name": "fbeab9cf71debfa86f235671af702fc6",
     "url": "https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bloomberg Quicktake",
-    "path_name": "fbeab9cf71debfa86f235671af702fc6",
-    "url": "https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
