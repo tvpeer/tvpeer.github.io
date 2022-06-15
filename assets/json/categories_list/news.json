@@ -459,6 +459,33 @@
     }
   },
   {
+    "name": "teleSUR",
+    "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
+    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "teleSUR",
+    "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
+    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "teleSUR",
+    "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
+    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Euronews en Español",
     "path_name": "eec4e4ee53ebd2bd97ae10c50f962ac8",
     "url": "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8",
@@ -1611,9 +1638,27 @@
     }
   },
   {
+    "name": "Libya 218",
+    "path_name": "318a341f75b67ea17e933097901cee96",
+    "url": "https://stream.218tv.net/libya218TV/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Libya 218 News",
     "path_name": "fe502802bf32427abc641679781a12f9",
     "url": "http://95.85.47.43/libya218news/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Libya 218 News",
+    "path_name": "fe502802bf32427abc641679781a12f9",
+    "url": "https://stream.218tv.net/libya218news/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2313,6 +2358,15 @@
     }
   },
   {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2469,6 +2523,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
