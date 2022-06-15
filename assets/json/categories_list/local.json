@@ -1845,15 +1845,6 @@
     }
   },
   {
-    "name": "AsiriTV (Lima)",
-    "path_name": "2f106380faf53eca147780035513a4e0",
-    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
@@ -2205,15 +2196,6 @@
     }
   },
   {
-    "name": "Tumpis TV (Tumbes)",
-    "path_name": "90261500ac89e2137455a9ac188763e7",
-    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -2235,15 +2217,6 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2289,6 +2262,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2550,24 +2541,6 @@
     "name": "KSBY News San Louis Obispo CA",
     "path_name": "8f419cf84f76e641a705dcca960d656a",
     "url": "https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC4 WRC-TV Washington News",
-    "path_name": "816ca829e6c4dcce6039c9e9a5d04a9d",
-    "url": "https://wrclive-f.akamaihd.net/i/DC_STREAM1@22925/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC6 WTVJ-TV News Miami FL",
-    "path_name": "2fc887f84b1d1e798f3f5968ece10a70",
-    "url": "https://wtvjlive-f.akamaihd.net/i/MIAMI_STREAM1@19309/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
