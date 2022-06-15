@@ -1728,15 +1728,6 @@
     }
   },
   {
-    "name": "LOE TV",
-    "path_name": "b169d9dd263586b141e303c964acb63c",
-    "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Omroep P&M TV",
     "path_name": "6293b66f13e16fc08c48bfba235f5ec8",
     "url": "https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8",
@@ -1773,27 +1764,9 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2052,15 +2025,6 @@
     }
   },
   {
-    "name": "La Ribereña (Pucallpa)",
-    "path_name": "a20156fddec12f98e695ca9163b6454a",
-    "url": "https://inliveserver.com:1936/19020/19020/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
@@ -2106,15 +2070,6 @@
     }
   },
   {
-    "name": "Top FM TV (Atalaya)",
-    "path_name": "f7c8508f25c18c80c20d88a25943e219",
-    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
@@ -2127,6 +2082,15 @@
     "name": "Red de Comunicación Regional (RCR)",
     "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Región TV (Callao)",
+    "path_name": "da4454567c8a0a234a89f94e655be1f4",
+    "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2196,15 +2160,6 @@
     }
   },
   {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2244,24 +2199,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
