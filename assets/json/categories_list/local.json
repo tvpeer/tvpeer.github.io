@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "Telenord Corrientes",
-    "path_name": "9d49de079f499fc31f02f55416f28f0a",
-    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -588,6 +579,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1764,15 +1764,6 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -2181,6 +2172,15 @@
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
