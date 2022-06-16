@@ -288,24 +288,6 @@
     }
   },
   {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -2270,6 +2252,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2856,15 +2856,6 @@
     "name": "Beach TV Panama City",
     "path_name": "87b86842cd293981a1e4aaaab833a4ff",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Miami City TV",
-    "path_name": "265d8963be1e5231592b2cf17ada42e1",
-    "url": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
