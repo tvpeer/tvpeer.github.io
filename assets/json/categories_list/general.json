@@ -90,27 +90,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -147,6 +129,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -585,6 +576,15 @@
     }
   },
   {
+    "name": "Catve FM",
+    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
+    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
@@ -885,6 +885,15 @@
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "SCTV",
+    "path_name": "7655f79642771cf5dd5fa0cdc66df954",
+    "url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1704,6 +1713,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
