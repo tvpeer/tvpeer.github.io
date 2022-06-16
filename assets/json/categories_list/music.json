@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -390,15 +399,6 @@
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "VM Latino",
-    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
-    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1044,6 +1044,15 @@
     }
   },
   {
+    "name": "Stereo TV (Peru)",
+    "path_name": "858be35aec06202a74007b5e71a3ffaa",
+    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Radio San Borja TV",
     "path_name": "483a1a898f6111b7c78d06f35eba46c3",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
@@ -1287,6 +1296,15 @@
     }
   },
   {
+    "name": "Qello Concerts by Stingray",
+    "path_name": "bc31d54a9f6701af9c5f60a963b04127",
+    "url": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "V2BEAT",
     "path_name": "170dbb73651fd04590a00da30331e5ac",
     "url": "https://de1se01.v2beat.live/playlist.m3u8",
@@ -1344,6 +1362,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
