@@ -108,6 +108,15 @@
     }
   },
   {
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -138,6 +147,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -243,6 +261,15 @@
     }
   },
   {
+    "name": "Qəbələ TV",
+    "path_name": "6cbf35caf377b0826f457f21bfdb058e",
+    "url": "https://qebele.tv/live/stream/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Azad TV (ATV)",
     "path_name": "009d50bde648f4b467c3e0c708be25cd",
     "url": "http://85.132.81.184:8080/atv/index.m3u8",
@@ -336,15 +363,6 @@
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "RTV",
-    "path_name": "6d395e86fe3b96ed85ed357c216d1961",
-    "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -768,24 +786,6 @@
     "name": "Señal Colombia",
     "path_name": "64bfdf1fc9f0016a9cc38aec53179fbb",
     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Repretel CDR-2 Central de Radios",
-    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Canal 11",
-    "path_name": "586071674190cbbc1fcb88ba037989b3",
-    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1398,15 +1398,6 @@
     "name": "Al Khalij",
     "path_name": "1ea6c256d75fc0bcfc7485596b7484c0",
     "url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "WOW TV",
-    "path_name": "dc5ea1b50761502eb23510e8482ea260",
-    "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
