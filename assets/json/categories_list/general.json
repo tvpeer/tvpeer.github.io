@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -1053,15 +1044,6 @@
     }
   },
   {
-    "name": "Al Aoula",
-    "path_name": "86970aab153ed26bb40865944dcff3b0",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Al Aoula Laayoune",
     "path_name": "cedf7845ffcb1d94bca67abdd3830773",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
@@ -1263,6 +1245,15 @@
     "name": "Ajyal TV",
     "path_name": "3d6635da4ad3983076dffc58715b7713",
     "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Porto Canal",
+    "path_name": "308386aa56a9609629984201d03ad365",
+    "url": "https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
