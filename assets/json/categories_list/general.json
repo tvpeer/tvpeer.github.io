@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -747,15 +756,6 @@
     }
   },
   {
-    "name": "TDI Colombia",
-    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
-    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Teleislas",
     "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
     "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
@@ -768,6 +768,24 @@
     "name": "Señal Colombia",
     "path_name": "64bfdf1fc9f0016a9cc38aec53179fbb",
     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Repretel CDR-2 Central de Radios",
+    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Canal 11",
+    "path_name": "586071674190cbbc1fcb88ba037989b3",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1173,6 +1191,15 @@
     "name": "BHTV",
     "path_name": "503046e31301343fdf1ab5b8fe17a520",
     "url": "http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Cosmos",
+    "path_name": "bc2aa9411591b5051aff3ecec76407ef",
+    "url": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
