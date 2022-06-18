@@ -594,15 +594,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -624,6 +615,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2403,6 +2403,15 @@
     }
   },
   {
+    "name": "BUTV10 (Boston University)",
+    "path_name": "de3b37f41f9d9d6fa221071bf22107d1",
+    "url": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Leominster TV Educational",
     "path_name": "e50960fe12c31b2e8312de879a296476",
     "url": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8",
@@ -2988,15 +2997,6 @@
     }
   },
   {
-    "name": "NBC 12 Phoenix AZ (KPNX)",
-    "path_name": "bf0a51281c04039fdd0cf98c66637ae0",
-    "url": "https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CC-TV",
     "path_name": "822f63f152ca93a8f01419eb83c43c3d",
     "url": "https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8",
@@ -3036,15 +3036,6 @@
     "name": "NBC 6 Waco TX (KCEN)",
     "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
     "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 2 Buffalo NY (WGRZ)",
-    "path_name": "b3cfd63ab8665d7bea740b2afbcdd0f1",
-    "url": "https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
