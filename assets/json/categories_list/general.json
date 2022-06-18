@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -138,15 +129,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -774,6 +756,24 @@
     }
   },
   {
+    "name": "Repretel CDR-2 Central de Radios",
+    "path_name": "9b214aab1a90f2ee55cb7c6d787f89e7",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Canal 11",
+    "path_name": "586071674190cbbc1fcb88ba037989b3",
+    "url": "https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Wuan+",
     "path_name": "01fc3143801b1f183a58ed1ff32b8049",
     "url": "https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8",
@@ -876,15 +876,6 @@
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "SCTV",
-    "path_name": "7655f79642771cf5dd5fa0cdc66df954",
-    "url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
     "categories": {
       "name": "General",
       "slug": "general"
