@@ -1,17 +1,17 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -396,15 +396,6 @@
     }
   },
   {
-    "name": "VM Latino",
-    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
-    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Reload",
     "path_name": "eae022d2b36455d57347c272b2c59509",
     "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
@@ -738,6 +729,15 @@
     }
   },
   {
+    "name": "Vaanvavil",
+    "path_name": "610dfefa71d4e057f2ed9eeda7a997ca",
+    "url": "http://14.199.164.20:4001/play/a0nx/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MK Tunes",
     "path_name": "0576b1143ea1a75b5186c2ae09e421d0",
     "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
@@ -993,15 +993,6 @@
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Stereo TV (Peru)",
-    "path_name": "858be35aec06202a74007b5e71a3ffaa",
-    "url": "https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1314,15 +1305,6 @@
     }
   },
   {
-    "name": "Street Music 4U",
-    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
-    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MCN6 Music Channel",
     "path_name": "146b4ab0a7117133a37e55f541b4b9d1",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
@@ -1380,6 +1362,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Urban Beats",
+    "path_name": "1799a6459e286d34b11dc3569524f3a0",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
