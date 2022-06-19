@@ -72,24 +72,6 @@
     }
   },
   {
-    "name": "MINEDU IPTV 1",
-    "path_name": "5e64f3e61442bcc422b9b09cda9a7d3c",
-    "url": "http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "MINEDU IPTV 2",
-    "path_name": "3bc32c7828e02ce75841e420a351208d",
-    "url": "http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
     "name": "Beach TV CSULB",
     "path_name": "6cc4769ac0e524806683beaa2b36041e",
     "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
@@ -108,27 +90,9 @@
     }
   },
   {
-    "name": "PBS World Channel",
-    "path_name": "579e35a10d2ec8d5debaf843705bad58",
-    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
     "name": "Bumblebee TV Now You Know",
     "path_name": "bd96df70e84950ad2e778aecfd90aff4",
     "url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "NASA TV Public",
-    "path_name": "b91a039d7856b35cab079955664546ab",
-    "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
@@ -144,129 +108,12 @@
     }
   },
   {
-    "name": "NASA TV Media",
-    "path_name": "3fff31543f2144f15d7dc9cbe2f11a7d",
-    "url": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
     "name": "UCTV University of California",
     "path_name": "2dbb83ab4cbf50dc2087dfa7ddff6f83",
     "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8",
     "categories": {
       "name": "Education",
       "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Kids Eastern/Central",
-    "path_name": "44a84e35b291b29ba6b0e50af99473a5",
-    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Kids Eastern/Central",
-    "path_name": "44a84e35b291b29ba6b0e50af99473a5",
-    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
-    "categories": {
-      "name": "Kids",
-      "slug": "kids"
-    }
-  },
-  {
-    "name": "PBS 39 Allentown PA (WLVT)",
-    "path_name": "9fc12abaef855bcf8339f76f25b5695f",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS 39 Allentown PA (WLVT)",
-    "path_name": "9fc12abaef855bcf8339f76f25b5695f",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PBS 39 Extra Philadelphia PA (WPPT)",
-    "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS 39 Extra Philadelphia PA (WPPT)",
-    "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PBS Dallas TX (KERA)",
-    "path_name": "8bb88de2e8517933bc08b994e9d94b48",
-    "url": "https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Dallas TX (KERA)",
-    "path_name": "8bb88de2e8517933bc08b994e9d94b48",
-    "url": "https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PBS MPT Baltimore MD (WMPB)",
-    "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
-    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS MPT Baltimore MD (WMPB)",
-    "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
-    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PBS KET Louisville KY (WKMJ-TV)",
-    "path_name": "a8d7020e5b8831be753330e04c3c60ca",
-    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS KET Louisville KY (WKMJ-TV)",
-    "path_name": "a8d7020e5b8831be753330e04c3c60ca",
-    "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
     }
   }
 ]
