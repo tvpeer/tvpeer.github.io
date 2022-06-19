@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "DW Arabic",
-    "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
-    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -945,6 +936,15 @@
     }
   },
   {
+    "name": "Metro TV",
+    "path_name": "2d59551f6fbb1e023544927e527cdd98",
+    "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CNN Indonesia",
     "path_name": "71b6a6a6407f0c3629434a8f3fdfc356",
     "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
@@ -1299,6 +1299,15 @@
     "name": "Press TV French",
     "path_name": "1197b73f0e21acaabccc11ad488f61b9",
     "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Mihan TV",
+    "path_name": "748c2cc2c7df6520127187109c4cdc45",
+    "url": "https://iptv.mihantv.com/live/playlist1/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2433,6 +2442,15 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Mihan TV",
+    "path_name": "748c2cc2c7df6520127187109c4cdc45",
+    "url": "http://iptv.mihantv.com/live/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
