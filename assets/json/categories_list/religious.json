@@ -180,15 +180,6 @@
     }
   },
   {
-    "name": "Gospel Movie TV",
-    "path_name": "2f7fbb892b497478324177e88444148a",
-    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
@@ -741,15 +732,6 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1640,15 +1622,6 @@
   {
     "name": "Akaal TV",
     "path_name": "30e92c0e98d78c98186c838114d7bacd",
-    "url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Akaal TV",
-    "path_name": "30e92c0e98d78c98186c838114d7bacd",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
     "categories": {
       "name": "Religious",
@@ -2046,6 +2019,15 @@
     "name": "EWTN Europe",
     "path_name": "dfc85cbe50d4ca82bac00eeef894ba38",
     "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Majestad Televisión",
+    "path_name": "eea5b5f5aec0d5213abff885dcc102fc",
+    "url": "https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
