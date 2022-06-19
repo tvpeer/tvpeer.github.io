@@ -1269,6 +1269,15 @@
     }
   },
   {
+    "name": "Al Sharqiya News",
+    "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
+    "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Rafidain",
     "path_name": "cf8924302dda5b48f2ab4c5be6735c96",
     "url": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8",
@@ -1728,15 +1737,6 @@
     }
   },
   {
-    "name": "RTV Total (Yurimaguas)",
-    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
-    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TV Noticias 7.3",
     "path_name": "0f2390c6b8fb66536d745e85f3d3845d",
     "url": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8",
@@ -1866,6 +1866,15 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2325,15 +2334,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
