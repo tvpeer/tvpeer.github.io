@@ -315,15 +315,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -504,6 +495,24 @@
     }
   },
   {
+    "name": "Puncón TV",
+    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Santa María Televisión",
+    "path_name": "3367c1feb878d42504c153dd4d570aa3",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
@@ -513,9 +522,27 @@
     }
   },
   {
+    "name": "TV Quellón",
+    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV8 (Concepción)",
     "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
     "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVO (San Vicente)",
+    "path_name": "9231f1e45816538f117972ce36b9a1a6",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -597,15 +624,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1746,15 +1764,6 @@
     }
   },
   {
-    "name": "Radio Pachatusan (Cuzco)",
-    "path_name": "34ecbdc896750ea603e866b389f0945f",
-    "url": "https://tvdatta.com:3413/live/pachatusanlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2052,15 +2061,6 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -2172,6 +2172,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
