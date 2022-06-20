@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -641,15 +632,6 @@
   {
     "name": "Imam Hussein TV 2 Arabic",
     "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
-    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV 2 Arabic",
-    "path_name": "f3e01089046212edea58c4a7d8dfb7a3",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
     "categories": {
       "name": "Religious",
@@ -759,6 +741,15 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -945,6 +936,15 @@
     }
   },
   {
+    "name": "Pax TV",
+    "path_name": "2cf83aacb0fcc6f026e11077e567d4cb",
+    "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Madani Channel Urdu",
     "path_name": "78458ffab0682376beec78db9ffdfe86",
     "url": "https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8",
@@ -990,6 +990,15 @@
     }
   },
   {
+    "name": "TV MANA-1 PORTUGAL",
+    "path_name": "363c786cfe48941a857cf30d8a748c34",
+    "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Kuriakos TV",
     "path_name": "5d714c5596e08b55bf97426e6a5f0717",
     "url": "http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8",
@@ -1011,6 +1020,24 @@
     "name": "Sobrenatural TV",
     "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
     "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná 1",
+    "path_name": "b1c29e00c999d9509e7d3819def131a6",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Maná 2",
+    "path_name": "ca27ebc7f223bdb627f8188376cbdb0a",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1155,6 +1182,15 @@
     "name": "SAT-7 TÜRK",
     "path_name": "59fb954daae39e38bb2f4475cc3c87d5",
     "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "The Islamic Network",
+    "path_name": "9075cf0f23e3a0b96056b755a9f1f73f",
+    "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1749,15 +1785,6 @@
     "name": "Logos TV",
     "path_name": "15f8cb5cbd4e96a378f942d7976c87be",
     "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Logos TV Mubasher",
-    "path_name": "4b7de805413d46701a9224055f38f50f",
-    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
