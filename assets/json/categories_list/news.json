@@ -1602,15 +1602,6 @@
     }
   },
   {
-    "name": "Libya Channel",
-    "path_name": "94b616a515cd559a6f50b0f05938d27d",
-    "url": "https://master.starmena-cloud.com/hls/libyas.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Libya 218",
     "path_name": "318a341f75b67ea17e933097901cee96",
     "url": "https://stream.218tv.net/libya218TV/playlist.m3u8",
@@ -1971,6 +1962,15 @@
     }
   },
   {
+    "name": "Top Stories by Newsy",
+    "path_name": "04417045bcad3b71c0d7914516d25a38",
+    "url": "http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
@@ -2010,15 +2010,6 @@
     "name": "WPVI-TV News",
     "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
     "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WLKY-TV News Louisville KY",
-    "path_name": "13d8e54e4cfb74a21099c881e921242b",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2451,6 +2442,24 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
