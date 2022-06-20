@@ -315,6 +315,15 @@
     }
   },
   {
+    "name": "Persiana Cinema",
+    "path_name": "ccffc82d483dd2979a2c19490664fb1e",
+    "url": "http://51.210.199.15/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Persiana Comedy",
     "path_name": "5e77ce43ab77e2421457f682985e42a9",
     "url": "http://51.210.199.27/hls/stream.m3u8",
@@ -747,15 +756,6 @@
     }
   },
   {
-    "name": "Movee 4U",
-    "path_name": "fa9a87429545355a2e3ffd5f232ca0f4",
-    "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "MovieSphere",
     "path_name": "34f73b3abf19d73ccf165009f84049a5",
     "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
@@ -849,6 +849,15 @@
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "MyTime movie network Mexico",
+    "path_name": "0874855eeedb88a44f030b24a31c7cc2",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
