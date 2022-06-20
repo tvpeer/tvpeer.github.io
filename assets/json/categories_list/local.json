@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -597,6 +588,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1827,15 +1827,6 @@
     }
   },
   {
-    "name": "VamisaTV (Lima)",
-    "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
-    "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Solar Televisión (Abancay)",
     "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
     "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
@@ -2001,15 +1992,6 @@
     "name": "Sol Stereo TV (Casma)",
     "path_name": "5b1011c240c409ae2b7cadb7d1767d0c",
     "url": "https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Sumac TV (Lima)",
-    "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
-    "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
