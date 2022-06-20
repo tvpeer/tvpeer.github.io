@@ -495,6 +495,15 @@
     }
   },
   {
+    "name": "TV Quellón",
+    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV8 (Concepción)",
     "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
     "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
@@ -558,6 +567,15 @@
     }
   },
   {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -579,15 +597,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1854,24 +1863,6 @@
     }
   },
   {
-    "name": "Tele2000 (Ayacucho)",
-    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
-    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Unitel (Huancayo)",
-    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
-    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -2100,6 +2091,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3009,6 +3018,15 @@
     "name": "Fox 43 Harrisburg PA (WPMT)",
     "path_name": "8c547e174650dacd631e570d49596dc5",
     "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 6 Waco TX (KCEN)",
+    "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
+    "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
