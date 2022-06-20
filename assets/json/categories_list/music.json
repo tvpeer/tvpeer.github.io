@@ -720,15 +720,6 @@
     }
   },
   {
-    "name": "Relax TV",
-    "path_name": "0ae04150fad0720c728707f7b79d2f66",
-    "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "7S Music",
     "path_name": "a4400ba9f62834e84b272ff92a43da68",
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
@@ -1017,6 +1008,15 @@
     }
   },
   {
+    "name": "TV Peruanísima",
+    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
+    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
@@ -1056,15 +1056,6 @@
     "name": "Marah FM",
     "path_name": "150dca7a13476f07d9440d71632eb2fc",
     "url": "http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
