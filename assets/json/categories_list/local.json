@@ -189,24 +189,6 @@
     }
   },
   {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Nova Era TV",
     "path_name": "97002ce81e35169dff3b16c94d105fbd",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
@@ -588,15 +570,6 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1611,27 +1584,9 @@
     }
   },
   {
-    "name": "Ideaal TV",
-    "path_name": "4b3f94e51d0362ed8b188b17ccceb861",
-    "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Lansingerland TV",
     "path_name": "8fa9c12ed765f91ffd141b3601376178",
     "url": "https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ML5 TV",
-    "path_name": "bd4bd7f959692d3f87c4a9640d9f76da",
-    "url": "https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1665,15 +1620,6 @@
     }
   },
   {
-    "name": "JenZ",
-    "path_name": "8221531104922f5ee2503dafbe589e6b",
-    "url": "https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
@@ -1692,9 +1638,9 @@
     }
   },
   {
-    "name": "RTV Purmerend",
-    "path_name": "a7f849ceb41b7c0bd4f858f171ad94c0",
-    "url": "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8",
+    "name": "Siris TV",
+    "path_name": "22f23b1234e9dfd797a5c5e3425eda4e",
+    "url": "https://videostream.siris.nl/hls/playoutweb/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1908,15 +1854,6 @@
     }
   },
   {
-    "name": "Unitel (Huancayo)",
-    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
-    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -1992,6 +1929,15 @@
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Planeta TV Bagua",
+    "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
+    "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2106,15 +2052,6 @@
     }
   },
   {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2145,24 +2082,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
