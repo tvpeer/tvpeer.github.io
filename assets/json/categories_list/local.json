@@ -585,15 +585,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -903,15 +894,6 @@
     "name": "PLP",
     "path_name": "58b02f30b67ecf0a4aff2684f454e043",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ena Channel",
-    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
-    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1515,6 +1497,15 @@
     "name": "Gunma TV",
     "path_name": "0f9b31471b89292151393d2da4af789a",
     "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Capital 21",
+    "path_name": "215e6497f27da10873ae6bb2135643df",
+    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2169,6 +2160,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2208,24 +2208,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
