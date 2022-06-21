@@ -9,9 +9,9 @@
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -21,6 +21,15 @@
     "name": "ATV Ֆիլմզոն",
     "path_name": "daa60ca759b05ec4bb74a650d4705527",
     "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "SBS World Movies",
+    "path_name": "b3e08343ae713e5688c7f0dd52344ed1",
+    "url": "https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -39,15 +48,6 @@
     "name": "MyTime movie network Brazil",
     "path_name": "6540766ed3d190951154a733c36f3caf",
     "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "TELE CINE ACTION",
-    "path_name": "47506c06278231dab333e190c677050f",
-    "url": "http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -297,9 +297,27 @@
     }
   },
   {
+    "name": "Parsiland",
+    "path_name": "97044d9aed009d0b553fc62e50642f97",
+    "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Persian Film",
     "path_name": "01cd721bf7d3268f21fd19d96840df93",
     "url": "http://51.210.227.135/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Persiana Cinema",
+    "path_name": "ccffc82d483dd2979a2c19490664fb1e",
+    "url": "http://51.210.199.15/hls/stream.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -345,6 +363,15 @@
     "name": "Persiana Plus",
     "path_name": "a86c9686e7ad2277db6c5c23b5348a61",
     "url": "http://51.210.199.21/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Sepanj TV",
+    "path_name": "0f79b982aa1890484e691416653909b5",
+    "url": "http://51.210.199.30/hls/stream.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -804,15 +831,6 @@
     "name": "MyTime movie network",
     "path_name": "4c6fcb46a6b0d7909054e989238b017a",
     "url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Crackle",
-    "path_name": "ae8c9f5903dc0f1b600b46c647b1fdc7",
-    "url": "https://crackle-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
