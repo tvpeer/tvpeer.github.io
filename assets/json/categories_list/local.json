@@ -1584,9 +1584,27 @@
     }
   },
   {
+    "name": "Ideaal TV",
+    "path_name": "4b3f94e51d0362ed8b188b17ccceb861",
+    "url": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Lansingerland TV",
     "path_name": "8fa9c12ed765f91ffd141b3601376178",
     "url": "https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ML5 TV",
+    "path_name": "bd4bd7f959692d3f87c4a9640d9f76da",
+    "url": "https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1620,6 +1638,15 @@
     }
   },
   {
+    "name": "JenZ",
+    "path_name": "8221531104922f5ee2503dafbe589e6b",
+    "url": "https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Radio Aalsmeer TV",
     "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
     "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
@@ -1641,6 +1668,15 @@
     "name": "Siris TV",
     "path_name": "22f23b1234e9dfd797a5c5e3425eda4e",
     "url": "https://videostream.siris.nl/hls/playoutweb/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RTV Purmerend",
+    "path_name": "a7f849ceb41b7c0bd4f858f171ad94c0",
+    "url": "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1863,6 +1899,15 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -2052,6 +2097,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2082,6 +2136,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
