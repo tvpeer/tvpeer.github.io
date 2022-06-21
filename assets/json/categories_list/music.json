@@ -1,23 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -522,6 +504,15 @@
     }
   },
   {
+    "name": "Nogoum FM TV",
+    "path_name": "1ce920a2fedd4d7a1d15a31ef5393ff5",
+    "url": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Activa TV",
     "path_name": "f1cdbef12bb6984066983efa76558402",
     "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
@@ -702,6 +693,15 @@
     }
   },
   {
+    "name": "Real TV",
+    "path_name": "6c092badba12db1580c14080f0bbf6b0",
+    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "9X Jhakaas",
     "path_name": "9037bc264be88742fcb62145db6ea77a",
     "url": "http://14.199.164.20:4001/play/a0mx/index.m3u8",
@@ -732,6 +732,15 @@
     "name": "Kalaignar Murasu",
     "path_name": "4c9055fc25648890e6a56f1ce51131a8",
     "url": "http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Sana Plus",
+    "path_name": "bf4717a206396ee4798a2c83527a0df1",
+    "url": "http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -975,6 +984,15 @@
     "name": "GO-RTV",
     "path_name": "1d11b702ba497e1070cced490dad70cd",
     "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Salto Brasa Music",
+    "path_name": "b8fdce3e7e4904f49f14dd2c5fdffa11",
+    "url": "https://salto-streams.nl/hls/sotv1_high.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
