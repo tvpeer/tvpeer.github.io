@@ -936,15 +936,6 @@
     }
   },
   {
-    "name": "Metro TV",
-    "path_name": "2d59551f6fbb1e023544927e527cdd98",
-    "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CNN Indonesia",
     "path_name": "71b6a6a6407f0c3629434a8f3fdfc356",
     "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
@@ -1854,6 +1845,24 @@
     }
   },
   {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Halab Today TV",
+    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
+    "url": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TGRT Haber",
     "path_name": "b82f4709898448ff34331b73459d0bad",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
@@ -2261,15 +2270,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2397,6 +2397,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
