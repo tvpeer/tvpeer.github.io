@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -846,15 +837,6 @@
     }
   },
   {
-    "name": "T2 TV",
-    "path_name": "a20ac1def18cd98931ea73933b64286b",
-    "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "PMC",
     "path_name": "8c905be64cbd70bf4961637b7dfd5933",
     "url": "https://hls.pmchd.live/hls/stream.m3u8",
@@ -1011,6 +993,15 @@
     "name": "Turbo Mix Radio TV",
     "path_name": "b45b6abb3fd3aaf601db87ac152e3617",
     "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "TV Peruanísima",
+    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
+    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
