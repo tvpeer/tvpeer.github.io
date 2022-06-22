@@ -837,6 +837,15 @@
     }
   },
   {
+    "name": "Canal 24 horas",
+    "path_name": "3ad59f99d776d2dc479551fe1060f7db",
+    "url": "https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW Español",
     "path_name": "cacfacaa8978706c54f407b70a59a249",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
@@ -2001,6 +2010,15 @@
     "name": "KGO-TV News",
     "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
     "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WAPT-TV News Jackson MS",
+    "path_name": "58924ac054408da30399169fb9da39f0",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
