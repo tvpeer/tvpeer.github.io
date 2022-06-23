@@ -639,6 +639,15 @@
     }
   },
   {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -1668,6 +1677,15 @@
     "name": "JenZ",
     "path_name": "8221531104922f5ee2503dafbe589e6b",
     "url": "https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2772,24 +2790,6 @@
     }
   },
   {
-    "name": "CT-N Court Feed",
-    "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
-    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CT-N Live Stream 2",
-    "path_name": "911c9ad223ea611f454647ba059ad622",
-    "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TSTV",
     "path_name": "8a872cb88b321447457f7b272b1a1d7b",
     "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
@@ -3144,15 +3144,6 @@
     "name": "Beach TV Key West & Florida Keys",
     "path_name": "c19547c9bc08900408a4fc6cccf6dfe8",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CT-N TV Conneticut",
-    "path_name": "a2aaef4c0288dcfd70d776027ee235a3",
-    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
