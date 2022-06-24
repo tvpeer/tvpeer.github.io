@@ -504,15 +504,6 @@
     }
   },
   {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
@@ -615,6 +606,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1656,6 +1656,15 @@
     }
   },
   {
+    "name": "Radio Aalsmeer TV",
+    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
+    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
@@ -2163,24 +2172,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2808,15 +2799,6 @@
     }
   },
   {
-    "name": "Lex TV",
-    "path_name": "29b5b063aa705cf68d80f73223419990",
-    "url": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC 13 Norfolk VA (WVEC)",
     "path_name": "d1ac1d8443c2fba8d1fbf88a985c3502",
     "url": "https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8",
@@ -2907,15 +2889,6 @@
     }
   },
   {
-    "name": "Bowie TV",
-    "path_name": "9ab0814455ca18667d0013508a29f8ed",
-    "url": "https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Glendale 11 AZ",
     "path_name": "30ef1df6ad2a5f67ea333e4673726d2a",
     "url": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8",
@@ -2973,15 +2946,6 @@
     "name": "NBC 12 Phoenix AZ (KPNX)",
     "path_name": "bf0a51281c04039fdd0cf98c66637ae0",
     "url": "https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CC-TV",
-    "path_name": "822f63f152ca93a8f01419eb83c43c3d",
-    "url": "https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3252,15 +3216,6 @@
     "name": "Galveston County TV",
     "path_name": "850b09c8312b4306b241bebc625eb435",
     "url": "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Cerritos TV3",
-    "path_name": "6d9ca751b570a868c0391fccfcfe6803",
-    "url": "https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
