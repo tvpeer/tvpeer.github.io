@@ -477,15 +477,6 @@
     }
   },
   {
-    "name": "Elion Canal Digital (Chillan)",
-    "path_name": "1bc3940c65e017205cfe20a5794cedfa",
-    "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Exprezión TV (EXTV | Los Álamos)",
     "path_name": "ad8198cdd8d62a1915443d9f4f96b6c1",
     "url": "https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8",
@@ -606,6 +597,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1521,24 +1521,6 @@
     }
   },
   {
-    "name": "SET Televisión Canal 26.1",
-    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
-    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SET Televisión Canal 26.2",
-    "path_name": "6ac22eaa8921afc2fce942415159eae8",
-    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -1926,15 +1908,6 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1980,6 +1953,15 @@
     }
   },
   {
+    "name": "Huacho Perú TV",
+    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
+    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2007,15 +1989,6 @@
     }
   },
   {
-    "name": "Primavera 15 Radiotelevisión (Moquegua)",
-    "path_name": "232c1b378a773506b3584703aa567ca9",
-    "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
@@ -2037,15 +2010,6 @@
     "name": "Red de Comunicación Regional (RCR)",
     "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Sistema 1 (Huaraz)",
-    "path_name": "9fe3e4d1a40906b4218be7ba9cc47525",
-    "url": "https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2136,24 +2100,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
