@@ -1530,33 +1530,6 @@
     }
   },
   {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "http://31.14.40.238:1935/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Nabaa TV",
-    "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
-    "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TV Seventeen",
     "path_name": "8d8b3518de00572a4a110ed680d519d4",
     "url": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8",
@@ -1926,6 +1899,24 @@
     }
   },
   {
+    "name": "WBAL-TV News Baltimore MD",
+    "path_name": "09c24fa64372018dd10445d1a00ee934",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WCVB-TV News Boston MA",
+    "path_name": "d7b03e06cd15dc4fd1ad8505e4823d5a",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "WLS TV News",
     "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
     "url": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8",
@@ -1947,6 +1938,15 @@
     "name": "KGO-TV News",
     "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
     "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WAPT-TV News Jackson MS",
+    "path_name": "58924ac054408da30399169fb9da39f0",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2235,6 +2235,15 @@
     "name": "Newsy",
     "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
     "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Newsy",
+    "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
