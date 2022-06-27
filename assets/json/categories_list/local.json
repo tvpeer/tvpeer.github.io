@@ -828,15 +828,6 @@
     }
   },
   {
-    "name": "TébéSud",
-    "path_name": "43f233f688f6029e539455cac93b1e8d",
-    "url": "https://edge-live-ger1.ovstream.com/hls/10/source.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "viàMoselleTV",
     "path_name": "e8096997229835589d7cf35260083ce9",
     "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
@@ -1791,6 +1782,15 @@
     }
   },
   {
+    "name": "Bella Abanquina TV (Apurimac)",
+    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
+    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
@@ -1962,15 +1962,6 @@
     }
   },
   {
-    "name": "Impacto Televisión (Cajamarca)",
-    "path_name": "53358bc41ed5708de5414514158936df",
-    "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "MaticesTV (Cañete)",
     "path_name": "4f92fc1064173135e23bf5674307f43e",
     "url": "http://v4.tustreaming.cl/matices/index.m3u8",
@@ -2091,6 +2082,15 @@
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tropical TV (Puerto Maldonado)",
+    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
+    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
