@@ -1908,6 +1908,15 @@
     }
   },
   {
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MaticesTV (Cañete)",
     "path_name": "4f92fc1064173135e23bf5674307f43e",
     "url": "http://v4.tustreaming.cl/matices/index.m3u8",
@@ -2079,15 +2088,6 @@
     }
   },
   {
-    "name": "BeXtreme TV (Lima)",
-    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
-    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2126,16 +2126,25 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Телеканал 86 (Сургут)",
-    "path_name": "902f3675cd784429cc4353b9291d5838",
-    "url": "https://sitv.ru/hls/s86.m3u8",
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2304,15 +2313,6 @@
     }
   },
   {
-    "name": "С1 (Сургут)",
-    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
-    "url": "https://sitv.ru/hls/stv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Oppna Kanalen",
     "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
     "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
@@ -2424,6 +2424,15 @@
     "name": "NBC 26 Green Bay WI (WGBA)",
     "path_name": "3f98d5c36b2932a6d320c593c58f8cfe",
     "url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "News 12 New York",
+    "path_name": "d0dc5c2494787ff8661d41c0752319e8",
+    "url": "https://lnc-news12.tubi.video/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
