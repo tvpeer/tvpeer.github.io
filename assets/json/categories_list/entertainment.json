@@ -342,27 +342,18 @@
     }
   },
   {
-    "name": "Captain TV",
-    "path_name": "face335600ccc660cb27875dfee1bfe3",
-    "url": "http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "MK TV",
-    "path_name": "730e8fbc130a3d2f00bd5628d850f71c",
-    "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "3 Tamil TV",
     "path_name": "9322658e06935132e91b394ae26a5ba3",
     "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Velicham",
+    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
+    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -576,15 +567,6 @@
     }
   },
   {
-    "name": "MST3K",
-    "path_name": "28e3d917d8b96352dd274c7cb3267851",
-    "url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
     "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
@@ -705,6 +687,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -849,15 +840,6 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
