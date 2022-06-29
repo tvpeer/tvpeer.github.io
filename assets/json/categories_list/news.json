@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -165,15 +156,6 @@
     "name": "BBC World News",
     "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
     "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BBC World News",
-    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
-    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -290,6 +272,15 @@
   {
     "name": "France 24 Arabic",
     "path_name": "e73d6ce4a98cea33b7b2ab4596cfc41f",
+    "url": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "France 24 Arabic",
+    "path_name": "e73d6ce4a98cea33b7b2ab4596cfc41f",
     "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
     "categories": {
       "name": "News",
@@ -309,15 +300,6 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -804,15 +786,6 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1791,15 +1764,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1812,15 +1776,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1893,6 +1848,15 @@
     "name": "Arise News",
     "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
     "url": "https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Arise News",
+    "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
+    "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2252,15 +2216,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2396,24 +2351,6 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
@@ -2451,15 +2388,6 @@
     "name": "Yahoo! News",
     "path_name": "54ee144acf3fc5984e4a500fe540a744",
     "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
