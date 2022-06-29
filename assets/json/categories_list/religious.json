@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Unidad Evangelica TV",
-    "path_name": "af88e33ba901eb481c83bbb626ab2511",
-    "url": "https://v2.tustreaming.cl/unidadevangelica/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Voz de Poder",
     "path_name": "ab09fee2c7044adbba4b44c22aa74b72",
     "url": "https://v2.tustreaming.cl/vozdepoder/index.m3u8",
@@ -900,6 +891,15 @@
     }
   },
   {
+    "name": "TV Maná Moçambique",
+    "path_name": "0f75c73a60b235b4e871068b4ff48b34",
+    "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Hope Channel Norge",
     "path_name": "f511aefaf1acc0e531e5202d9dec07ad",
     "url": "http://media1.adventist.no:1935/live/hope1/playlist.m3u8",
@@ -975,6 +975,24 @@
     "name": "Al Aqsa Channel",
     "path_name": "577b9aa4e45e1082dea53497b64bef5c",
     "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA MAPUTO",
+    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
+    "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV MANA MAPUTO",
+    "path_name": "58f46dd948e6f1232a5fa98b5f0f13b8",
+    "url": "http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1551,15 +1569,6 @@
     "name": "Eman Channel",
     "path_name": "67d91a75d0c78963b1be3a5a49b51d45",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Ahlulbayt TV",
-    "path_name": "c3cfa91973ece986b59c8f794b3dbb2a",
-    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
