@@ -1296,15 +1296,6 @@
     }
   },
   {
-    "name": "Mihan TV",
-    "path_name": "748c2cc2c7df6520127187109c4cdc45",
-    "url": "https://iptv.mihantv.com/live/playlist1/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
@@ -1776,15 +1767,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2403,18 +2385,9 @@
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Mihan TV",
-    "path_name": "748c2cc2c7df6520127187109c4cdc45",
-    "url": "http://iptv.mihantv.com/live/playlist.m3u8",
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2423,7 +2396,7 @@
   {
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
