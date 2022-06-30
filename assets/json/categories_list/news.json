@@ -594,6 +594,15 @@
     }
   },
   {
+    "name": "Channel T1",
+    "path_name": "9a508f051a628243eb88e4662f6b87c0",
+    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Channel 24",
     "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
@@ -1512,15 +1521,6 @@
     }
   },
   {
-    "name": "Caspian News",
-    "path_name": "e75f41b421bf5b2ad6fc08872611774a",
-    "url": "https://sc.id-tv.kz/CaspianNews.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Al Manar",
     "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
     "url": "https://manar.live/iptv/playlist.m3u8",
@@ -1803,6 +1803,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Мир 24",
+    "path_name": "452bee50208f913d86875339ab680773",
+    "url": "https://sc.id-tv.kz/Mir24.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2261,15 +2270,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2280,15 +2280,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

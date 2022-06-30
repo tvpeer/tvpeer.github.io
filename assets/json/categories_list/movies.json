@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Manoranjan Grand",
-    "path_name": "71ae74d71ccb1fda52bbda283787d8d9",
-    "url": "http://14.199.164.20:4001/play/a0m2/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Dhinchaak 2",
     "path_name": "3b7b7143101014e6cc1422a1f4f6c756",
     "url": "http://14.199.164.20:4001/play/a0tm/index.m3u8",
@@ -441,15 +432,6 @@
     }
   },
   {
-    "name": "Киномикс",
-    "path_name": "73aa5c973e897d17615b1a0ec5e533b8",
-    "url": "https://sc.id-tv.kz/Kinomix_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Кинохит",
     "path_name": "fee11b1661b09bfe44475e7063584f7e",
     "url": "https://sc.id-tv.kz/Kinohit_hd.m3u8",
@@ -495,18 +477,18 @@
     }
   },
   {
-    "name": "Дом Кино Премиум",
-    "path_name": "bf19707fc93faa1cb67007287c34a5a9",
-    "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
+    "name": "Bollywood HD",
+    "path_name": "cab0e81a0418cd738cf509ee3ef1255a",
+    "url": "https://sc.id-tv.kz/bollywood_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
     }
   },
   {
-    "name": "Cinema",
-    "path_name": "2b2f7611b0c84877cba300eb4e72b1bb",
-    "url": "https://sc.id-tv.kz/Cinema.m3u8",
+    "name": "Дом Кино Премиум",
+    "path_name": "bf19707fc93faa1cb67007287c34a5a9",
+    "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -828,15 +810,6 @@
     }
   },
   {
-    "name": "Movee 4U",
-    "path_name": "fa9a87429545355a2e3ffd5f232ca0f4",
-    "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "MovieSphere",
     "path_name": "34f73b3abf19d73ccf165009f84049a5",
     "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
@@ -903,6 +876,15 @@
     "name": "MyTime movie network",
     "path_name": "4c6fcb46a6b0d7909054e989238b017a",
     "url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "MyTime movie network",
+    "path_name": "4c6fcb46a6b0d7909054e989238b017a",
+    "url": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
