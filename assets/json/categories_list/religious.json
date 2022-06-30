@@ -189,15 +189,6 @@
     }
   },
   {
-    "name": "Rede Vida",
-    "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
-    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
@@ -495,6 +486,33 @@
     }
   },
   {
+    "name": "Choluteca TV",
+    "path_name": "70a1524b6bc50e538fe1307514613a3b",
+    "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Dios Te Ve",
+    "path_name": "5634a93578a42696e1a08b74494f7847",
+    "url": "https://emisoras.hn:8081/diostevetv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Dios Te Ve Infantil",
+    "path_name": "c743196c3c93860e98936e5b9ccaada5",
+    "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Vida TV",
     "path_name": "e379829fce360c74d3894c865a6f80b8",
     "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
@@ -768,15 +786,6 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Imam Hussein TV",
-    "path_name": "dec86d1fbefa7abce4b54f404779c435",
-    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
