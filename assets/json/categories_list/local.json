@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -588,15 +579,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1881,15 +1863,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "MaticesTV (Cañete)",
     "path_name": "4f92fc1064173135e23bf5674307f43e",
     "url": "http://v4.tustreaming.cl/matices/index.m3u8",
@@ -1935,27 +1908,9 @@
     }
   },
   {
-    "name": "CR Television (Moyobamba)",
-    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
-    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Mega TV (Jaen)",
-    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
-    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1980,15 +1935,6 @@
     }
   },
   {
-    "name": "Primavera 15 Radiotelevisión (Moquegua)",
-    "path_name": "232c1b378a773506b3584703aa567ca9",
-    "url": "https://tv.portalexpress.es:3270/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
@@ -2001,15 +1947,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Sistema 1 (Huaraz)",
-    "path_name": "9fe3e4d1a40906b4218be7ba9cc47525",
-    "url": "https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2070,6 +2007,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2100,6 +2046,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
