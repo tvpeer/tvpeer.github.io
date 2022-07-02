@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TeleJunín",
     "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
     "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
@@ -552,6 +543,15 @@
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Senado",
+    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1845,15 +1845,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2117,6 +2108,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2217,15 +2226,6 @@
     "name": "Мордовия 24",
     "path_name": "bf84c8faa2e08bbf6e8141be8c5951fc",
     "url": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "НТМ (Народное телевидение Мордовии)",
-    "path_name": "294376b7e371b1e6d234efa33f100df5",
-    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
