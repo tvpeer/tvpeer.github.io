@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -882,6 +873,15 @@
     }
   },
   {
+    "name": "Makkal TV",
+    "path_name": "b7d5e2b98bb59ea1b1a9e85d71d6bd08",
+    "url": "http://14.199.164.20:4001/play/a0l1/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV BRICS English",
     "path_name": "55acd22b2f3edf6872e94a43db527a8b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
@@ -984,6 +984,15 @@
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1398,15 +1407,6 @@
     "name": "Lana TV",
     "path_name": "0b42070a3c98500eaa91dce9eecef2b9",
     "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "大立電視",
-    "path_name": "75c19b357c2c0f514208035d5a5fb390",
-    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
