@@ -603,15 +603,6 @@
     }
   },
   {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -930,6 +921,15 @@
     "name": "TVRI Bali",
     "path_name": "cdc07431d0fe682d5650e50d2bcef19e",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVRI Bangka Belitung",
+    "path_name": "5a54f5ec41ad457b0f5c58026f79bb6a",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2172,24 +2172,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
