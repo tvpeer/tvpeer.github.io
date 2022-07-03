@@ -342,15 +342,6 @@
     }
   },
   {
-    "name": "Buin Somos Todos",
-    "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
-    "url": "https://bst.buin.cl/0.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CEAC TV (Santiago)",
     "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
     "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
@@ -1611,15 +1602,6 @@
     }
   },
   {
-    "name": "Radio Aalsmeer TV",
-    "path_name": "7807653294ff46c620c53aa5b4b9fb9f",
-    "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Regio90 TV",
     "path_name": "bd7f2d00db2294de2b81f69fca1df4be",
     "url": "https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8",
@@ -1866,6 +1848,15 @@
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2151,6 +2142,15 @@
     }
   },
   {
+    "name": "Телеканал 86 (Сургут)",
+    "path_name": "902f3675cd784429cc4353b9291d5838",
+    "url": "https://sitv.ru/hls/s86.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
@@ -2298,15 +2298,6 @@
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "С1 (Сургут)",
-    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
-    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
