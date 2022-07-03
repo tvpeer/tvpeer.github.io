@@ -54,24 +54,6 @@
     }
   },
   {
-    "name": "CBSN Boston",
-    "path_name": "6763bc4ae69bd479fd162f37625008d1",
-    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBSN Boston",
-    "path_name": "6763bc4ae69bd479fd162f37625008d1",
-    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBS News Dallas Ft Worth",
     "path_name": "a5776f3a97cd8192e898905d0b81d3e3",
     "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
@@ -792,6 +774,15 @@
     }
   },
   {
+    "name": "Echorouk News",
+    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1494,15 +1485,6 @@
     }
   },
   {
-    "name": "Caspian News",
-    "path_name": "e75f41b421bf5b2ad6fc08872611774a",
-    "url": "https://sc.id-tv.kz/CaspianNews.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Al Manar",
     "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
     "url": "https://manar.live/iptv/playlist.m3u8",
@@ -1758,6 +1740,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Мир 24",
+    "path_name": "452bee50208f913d86875339ab680773",
+    "url": "https://sc.id-tv.kz/Mir24.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2081,15 +2072,6 @@
   {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
-    "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "OAN",
-    "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8",
     "categories": {
       "name": "News",
@@ -2358,6 +2340,15 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2394,15 +2385,6 @@
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "http://iptv.mihantv.com/live/playlist.m3u8",
@@ -2415,15 +2397,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
