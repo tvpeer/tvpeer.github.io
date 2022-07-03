@@ -270,6 +270,15 @@
     }
   },
   {
+    "name": "TV Santa Cruz",
+    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
+    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -1863,24 +1872,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tele2000 (Ayacucho)",
-    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
-    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
@@ -2151,15 +2142,6 @@
     }
   },
   {
-    "name": "Телеканал 86 (Сургут)",
-    "path_name": "902f3675cd784429cc4353b9291d5838",
-    "url": "https://sitv.ru/hls/s86.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
@@ -2307,6 +2289,15 @@
     "name": "Вечерняя Москва",
     "path_name": "164deb6016e2cb74095b3540e1fbd1bb",
     "url": "https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "С1 (Сургут)",
+    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
+    "url": "https://sitv.ru/hls/stv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3270,15 +3261,6 @@
     "name": "ABC News Live 9",
     "path_name": "ad16e9e7e11dacd97197f6935b961762",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "WGN Chicago IL (WGN-TV1)",
-    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
-    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
