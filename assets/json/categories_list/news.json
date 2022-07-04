@@ -594,6 +594,15 @@
     }
   },
   {
+    "name": "Channel T1",
+    "path_name": "9a508f051a628243eb88e4662f6b87c0",
+    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Channel 24",
     "path_name": "d8cb22bb6f4ea46cd0af0d2ba2eb0cf7",
     "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8",
@@ -1197,15 +1206,6 @@
     }
   },
   {
-    "name": "Polimer News",
-    "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
-    "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Asianet News Tamil",
     "path_name": "efb9f3e9968cb3ed93db2ea06ceac1dd",
     "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
@@ -1773,15 +1773,6 @@
     }
   },
   {
-    "name": "Мир 24",
-    "path_name": "452bee50208f913d86875339ab680773",
-    "url": "https://sc.id-tv.kz/Mir24.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1803,24 +1794,6 @@
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Halab Today TV",
-    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
-    "url": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Halab Today TV",
-    "path_name": "6bdf1d3a9d2b8f89c3c84d427776f923",
-    "url": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2234,15 +2207,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2253,6 +2217,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
