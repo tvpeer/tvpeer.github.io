@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -2189,24 +2180,6 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2376,6 +2349,15 @@
     }
   },
   {
+    "name": "С1 (Сургут)",
+    "path_name": "08be0f97930b257645b8c4618c0a6bd8",
+    "url": "https://sitv.ru/hls/stv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Oppna Kanalen",
     "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
     "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
@@ -2502,6 +2484,15 @@
     }
   },
   {
+    "name": "ABC 5 Cleveland OH (WEWS-TV)",
+    "path_name": "2983600de2fe081c50039189ad893e50",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC 8 Dallas TX (WFAA)",
     "path_name": "93c033a989db8bfab0f260f9cdb83bd2",
     "url": "https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8",
@@ -2586,6 +2577,15 @@
     "name": "Fox 61 Hartford CT (WTIC-TV)",
     "path_name": "c361438e636e5d849b38488073aaf9a7",
     "url": "https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 7 Detroit MI (WXYZ-TV)",
+    "path_name": "227784b3d2b80cf763abd788bec550dd",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
