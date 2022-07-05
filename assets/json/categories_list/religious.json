@@ -234,27 +234,9 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Salt + Light Television",
-    "path_name": "6a8a9323ed675769a9e16d331b1ea5ac",
-    "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -585,6 +567,15 @@
     }
   },
   {
+    "name": "ABNsat",
+    "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
+    "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Alkafeel: Between the two holy shrines",
     "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
     "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
@@ -684,6 +675,15 @@
     }
   },
   {
+    "name": "Imam Hussein TV 4 Urdu",
+    "path_name": "bd1c63e07103b0eb8957e4fde922bcc6",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al Wilayah",
     "path_name": "dc26e745dd5c9db67916288cef0d75f5",
     "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
@@ -741,6 +741,15 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "path_name": "dec86d1fbefa7abce4b54f404779c435",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -921,6 +930,15 @@
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Hope Channel Philippines",
+    "path_name": "b9e3cf40fdd329d82f14e108c94c7dee",
+    "url": "https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
