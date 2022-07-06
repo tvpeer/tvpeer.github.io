@@ -576,18 +576,18 @@
     }
   },
   {
-    "name": "Buenísima Radio TV (Gamarra | Cesar)",
-    "path_name": "ce83dac153a1061597fe75e03c709e60",
-    "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1899,6 +1899,15 @@
     }
   },
   {
+    "name": "Antares Televisión",
+    "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
@@ -1938,15 +1947,6 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "KeBuena (Barranca)",
-    "path_name": "6cb7100c5b064807b625c48eea2785db",
-    "url": "https://inliveserver.com:1936/18016/18016/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2061,24 +2061,6 @@
     }
   },
   {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -2154,6 +2136,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
