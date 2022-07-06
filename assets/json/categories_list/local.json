@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -822,6 +813,15 @@
     "name": "Channel 9",
     "path_name": "998f454cb1378a5e9527a1a4af87205f",
     "url": "https://e-e.cyou:8222/channel9/channel9/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Epirus TV1",
+    "path_name": "b595a00706b243c81ed0e8ba19bd8fbd",
+    "url": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3315,15 +3315,6 @@
     "name": "ABC News Live 9",
     "path_name": "ad16e9e7e11dacd97197f6935b961762",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "WGN Chicago IL (WGN-TV1)",
-    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
-    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
