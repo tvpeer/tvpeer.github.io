@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "TV Senado",
-    "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
-    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO Tocopilla",
     "path_name": "6c20c3d5c4aceea866126b1645ccbb3c",
     "url": "http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8",
@@ -597,15 +588,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2331,6 +2313,24 @@
     }
   },
   {
+    "name": "NBC-CT WVIT-TV News Hartford CT",
+    "path_name": "e5394544cdd87d57b0e87774e45384f9",
+    "url": "https://wvitlive-f.akamaihd.net/i/HARTFORD_STREAM1@22924/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC4 KNBC-TV News",
+    "path_name": "7c3187128fc5561b4aed3d0bb2f3f745",
+    "url": "https://knbclive-f.akamaihd.net/i/LA_STREAM1@13988/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
@@ -2397,6 +2397,15 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC4 WNBC-TV New York News",
+    "path_name": "af49cc9de7961767cb247b31c0c3d33c",
+    "url": "https://wnbclive-f.akamaihd.net/i/NY_STREAM1@13992/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3270,6 +3279,15 @@
     "name": "ABC 15 Phoenix AZ (KNXV-TV)",
     "path_name": "15b4327e38fbfe9e96da44840ca9a19e",
     "url": "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 5 News Chicago IL (WMAQ-TV)",
+    "path_name": "9ae43f862d53adbfae3e130c304f4b9a",
+    "url": "https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM1@22923/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
