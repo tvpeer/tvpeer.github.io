@@ -1,5 +1,14 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -540,6 +549,15 @@
     }
   },
   {
+    "name": "Xalastra TV",
+    "path_name": "576bd68a7acb4fd5c10c41a8e555a51b",
+    "url": "https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Desi Channel",
     "path_name": "2a80d7c4e843d9467a9ef72436741db6",
     "url": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8",
@@ -615,6 +633,15 @@
     "name": "MH1 Music",
     "path_name": "662a0607f113817ade24c4bf4e63d6c4",
     "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -840,15 +867,6 @@
     "name": "Conecta TV",
     "path_name": "ce240606cfc4d7801046424b4bf6dd37",
     "url": "http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Conecta TV",
-    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
-    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
