@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Витебск",
     "path_name": "6148d80862552c8db6318d33d3e00562",
     "url": "https://flu.vtv.by/tvt-non-by/playlist.m3u8",
@@ -495,15 +486,6 @@
     }
   },
   {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
@@ -606,15 +588,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1911,6 +1884,15 @@
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 8 (Catacaos)",
+    "path_name": "351a3f45c591efc880c2f0ee87d0d083",
+    "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
