@@ -288,6 +288,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -345,15 +354,6 @@
     "name": "CEAC TV (Santiago)",
     "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
     "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Campus TV (Talca)",
-    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -606,6 +606,15 @@
     "name": "NicoyaTV",
     "path_name": "cd98ef212cd017453e3770de9005ca6c",
     "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Girona",
+    "path_name": "080367b5b1350504c030597028e7450b",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1848,15 +1857,6 @@
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
