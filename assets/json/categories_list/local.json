@@ -90,24 +90,6 @@
     }
   },
   {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "AVC HD (Monte Caseros | Corrientes)",
     "path_name": "8c7725a7842c0eb81227e0feecd828c8",
     "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
@@ -504,15 +486,6 @@
     }
   },
   {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osorno",
     "path_name": "3821a9d5b96aee34cdb41ae9759ee868",
     "url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
@@ -606,6 +579,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2289,6 +2271,15 @@
     "name": "Эхо TV (Рязань)",
     "path_name": "a22fe26511300393f0465ebf1207e449",
     "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ЮТВ (Чебоксары)",
+    "path_name": "6edee0c70dd83b855d0fe47d631055d1",
+    "url": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
