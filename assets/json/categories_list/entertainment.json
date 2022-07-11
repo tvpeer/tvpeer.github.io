@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -102,15 +93,6 @@
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "DD National",
-    "path_name": "9fab29c2f78445330d527b317254e33e",
-    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -342,15 +324,6 @@
     }
   },
   {
-    "name": "Velicham",
-    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
-    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "EET TV",
     "path_name": "2349d9cce14c13565255b420f18a6658",
     "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
@@ -450,15 +423,6 @@
     }
   },
   {
-    "name": "Alrai TV",
-    "path_name": "244651d9767ee95fbbda3f78e6d9975f",
-    "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "WTV Canal 20",
     "path_name": "557b0a556010accc1193995fef6e0745",
     "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
@@ -471,6 +435,15 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
