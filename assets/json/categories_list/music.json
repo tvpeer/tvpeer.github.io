@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Óčko Expres",
-    "path_name": "a83820a7baed73340508edbb5eb5906e",
-    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Óčko",
     "path_name": "3b401d62457cdea9cf0a67238c6d9b18",
     "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
@@ -651,6 +642,15 @@
     "name": "Mastiii",
     "path_name": "3fac57820a93ad6421d3dd933c9f70a7",
     "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MH1 Music",
+    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
+    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1272,6 +1272,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
