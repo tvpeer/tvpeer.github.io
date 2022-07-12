@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "Catve FM",
-    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
-    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
@@ -795,6 +786,15 @@
     "name": "AlfaTV",
     "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
     "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1119,15 +1119,6 @@
     "name": "TV Palmeras",
     "path_name": "ce8b1308fc4add4557a60169a6ce2642",
     "url": "https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "UCI",
-    "path_name": "a3881d4bf85941dc591f3b39c30274b8",
-    "url": "https://servilive.com:3449/live/mlecaroslive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
