@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -147,6 +138,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -462,6 +462,15 @@
     "name": "Catve Master TV",
     "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
     "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RedeTV! Tocantins",
+    "path_name": "0d637ae20a1907c0194ff45de6510cb5",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1071,15 +1080,6 @@
     }
   },
   {
-    "name": "TVM Internacional",
-    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
-    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVM",
     "path_name": "afd856551a771d9e971aff7c943f3559",
     "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
@@ -1497,6 +1497,42 @@
     "name": "PBS America",
     "path_name": "df5b2980c9f9130ff2cafe2b1440326a",
     "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Mad Dog and Merrill",
+    "path_name": "57870ffad06e847d6d067cd337740814",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Sent TV Global Network",
+    "path_name": "fff73616ef604b8ec51fbb0f11f5f7ce",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Select Network",
+    "path_name": "9bd6a8d1b5ca544164c2ea69046a97d0",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Television Network",
+    "path_name": "104e65b16979ce9e724aca20314edaf5",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
