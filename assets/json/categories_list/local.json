@@ -297,6 +297,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -507,15 +516,6 @@
     "name": "Visión Plus TV (Melipilla)",
     "path_name": "99578787b40e46b93204a7af20607d90",
     "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ziza TV (Chiguayante)",
-    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
-    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1935,6 +1935,15 @@
     }
   },
   {
+    "name": "KeBuena (Barranca)",
+    "path_name": "6cb7100c5b064807b625c48eea2785db",
+    "url": "https://inliveserver.com:1936/18016/18016/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
@@ -2153,6 +2162,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2208,6 +2235,15 @@
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Белгород 24",
+    "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
+    "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2712,6 +2748,15 @@
     "name": "CT-N Live Stream 2",
     "path_name": "911c9ad223ea611f454647ba059ad622",
     "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TSTV",
+    "path_name": "8a872cb88b321447457f7b272b1a1d7b",
+    "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
