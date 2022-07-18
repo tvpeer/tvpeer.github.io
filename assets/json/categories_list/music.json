@@ -684,15 +684,6 @@
     }
   },
   {
-    "name": "MH1 Music",
-    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
-    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "I Love",
     "path_name": "8a62b0af352c53905d098227efb1e2ff",
     "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
@@ -1197,6 +1188,15 @@
     }
   },
   {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "1HD Music Television",
     "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
     "url": "https://sc.id-tv.kz/1hd.m3u8",
@@ -1380,6 +1380,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Rock Alternative",
+    "path_name": "5b72cbdbe41000dce33932153ab21264",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
