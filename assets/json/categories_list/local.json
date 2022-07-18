@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TeleJunín",
     "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
     "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
@@ -570,6 +561,15 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal Dos (Yopal | Casanare)",
+    "path_name": "17416e208e4538ee4a7e32faca25a74b",
+    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
