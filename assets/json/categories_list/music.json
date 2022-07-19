@@ -1,8 +1,8 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Slagr TV",
-    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
-    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Óčko Expres",
     "path_name": "a83820a7baed73340508edbb5eb5906e",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
@@ -687,6 +678,15 @@
     "name": "Mastiii",
     "path_name": "3fac57820a93ad6421d3dd933c9f70a7",
     "url": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MH1 Music",
+    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
+    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1224,6 +1224,15 @@
     }
   },
   {
+    "name": "1HD Music Television",
+    "path_name": "9b50bdf5052582b174a89ffddb07d3b2",
+    "url": "https://sc.id-tv.kz/1hd.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "A2i Music",
     "path_name": "002dc005abda9e85d85000b263350925",
     "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
@@ -1398,6 +1407,15 @@
     "name": "The Retro Channel",
     "path_name": "f12aa797054038d0b72cc9f267980241",
     "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "STIRR Stingray Urban Beats",
+    "path_name": "1799a6459e286d34b11dc3569524f3a0",
+    "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
