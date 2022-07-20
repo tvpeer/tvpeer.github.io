@@ -1,5 +1,23 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -675,6 +693,24 @@
     }
   },
   {
+    "name": "MH1 Music",
+    "path_name": "662a0607f113817ade24c4bf4e63d6c4",
+    "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Public Music",
     "path_name": "844c60da5656272f414cb50ec450925c",
     "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
@@ -732,15 +768,6 @@
     "name": "Sana Plus",
     "path_name": "bf4717a206396ee4798a2c83527a0df1",
     "url": "http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vaanvavil",
-    "path_name": "610dfefa71d4e057f2ed9eeda7a997ca",
-    "url": "http://14.199.164.20:4001/play/a0nx/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -849,15 +876,6 @@
     "name": "EBC1 TV",
     "path_name": "15cc362e279dceff491f3990e5f2671d",
     "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Company TV",
-    "path_name": "2661ef89e8bbd346ed6beaae79944801",
-    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1173,6 +1191,15 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Bridge TV",
+    "path_name": "99f656c51fe45a22994c30be7c610b8e",
+    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
