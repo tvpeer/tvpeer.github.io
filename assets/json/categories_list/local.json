@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -309,15 +300,6 @@
     "name": "Antofagasta TV (ATV)",
     "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1782,6 +1764,15 @@
     }
   },
   {
+    "name": "Master TV (Tarapoto)",
+    "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
+    "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
@@ -2208,6 +2199,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
