@@ -72,24 +72,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "5-րդ ալիք",
-    "path_name": "c200ff245361563b6b97cc36940ec4ef",
-    "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8",
@@ -147,6 +129,15 @@
     "name": "TV Perú Internacional",
     "path_name": "4974950f935cebe76a2cf87eb20228ee",
     "url": "http://cdnh4.iblups.com/hls/irtp.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVG América",
+    "path_name": "fe6d0c842c2244c61c6860ae9816affb",
+    "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -693,6 +684,15 @@
     }
   },
   {
+    "name": "TDI Colombia",
+    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
+    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Teleislas",
     "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
     "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
@@ -1191,6 +1191,15 @@
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MBC",
+    "path_name": "d11fa117fb730e077192de81a07db08c",
+    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
