@@ -18,9 +18,9 @@
     }
   },
   {
-    "name": "ATV Ֆիլմզոն",
-    "path_name": "daa60ca759b05ec4bb74a650d4705527",
-    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
+    "name": "Armenia Հայ Կինո",
+    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
+    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -153,9 +153,27 @@
     }
   },
   {
+    "name": "Dhinchaak 2",
+    "path_name": "3b7b7143101014e6cc1422a1f4f6c756",
+    "url": "http://14.199.164.20:4001/play/a0tm/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Box Cinema",
     "path_name": "5a53209e682a320e8b9f3dcd2711f285",
     "url": "http://14.199.164.20:4001/play/a0su/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Dhinchaak",
+    "path_name": "fb15df45b0ad7b2baec869f8ceee62c1",
+    "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -192,6 +210,15 @@
     "name": "Public Movies",
     "path_name": "2f86d712d0e3f21a5391cb40505e20de",
     "url": "http://14.199.164.20:4001/play/a0ll/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "KCV Movies",
+    "path_name": "e07988886cb4b443a36608478cc2b406",
+    "url": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -372,15 +399,6 @@
     "name": "Киносемья",
     "path_name": "9217b90acf945da0f58d61b03ce8aeb3",
     "url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Киномикс",
-    "path_name": "73aa5c973e897d17615b1a0ec5e533b8",
-    "url": "https://sc.id-tv.kz/Kinomix_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
