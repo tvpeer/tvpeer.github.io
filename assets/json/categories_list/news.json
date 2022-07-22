@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -165,15 +156,6 @@
     "name": "BBC World News",
     "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
     "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BBC World News",
-    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
-    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -318,15 +300,6 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -828,9 +801,9 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "name": "Echorouk News",
+    "path_name": "be5dcd9cacb2f7992a468f44ba21951e",
+    "url": "https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -993,6 +966,15 @@
     "name": "India Today",
     "path_name": "3cf4e2b71f21bbf0eadd6282f88f8670",
     "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Pratidin Time",
+    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
+    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1236,6 +1218,15 @@
     "name": "TV9 News",
     "path_name": "aeb7a774c49a0cb8073ea0a21abc8214",
     "url": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "iNEWS",
+    "path_name": "c38217ab979c3cc5145d71c88720b220",
+    "url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1791,15 +1782,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1812,15 +1794,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2088,6 +2061,15 @@
     }
   },
   {
+    "name": "NBC 5 Cincinnati OH (WLWT)",
+    "path_name": "e12c1627a0701d7af32fead971469899",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "OAN Encore",
     "path_name": "658f21cff54e1284be9609028ffed0c6",
     "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
@@ -2226,6 +2208,15 @@
     "name": "Newsy",
     "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
     "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Newsy",
+    "path_name": "fe2b34915fe6ec7a860ace45b0f32f7d",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
