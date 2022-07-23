@@ -657,15 +657,6 @@
     }
   },
   {
-    "name": "Mtunes Plus",
-    "path_name": "4ce8ec115ec18f19baad780e2d5eacce",
-    "url": "http://14.199.164.20:4001/play/a0p2/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "9XM",
     "path_name": "5db316206030ffbaba9b42f60a36a0e3",
     "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
@@ -1206,15 +1197,6 @@
     }
   },
   {
-    "name": "Bridge TV",
-    "path_name": "99f656c51fe45a22994c30be7c610b8e",
-    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
@@ -1236,6 +1218,15 @@
     "name": "A2i Music",
     "path_name": "002dc005abda9e85d85000b263350925",
     "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Mosaïque FM",
+    "path_name": "044109ec0f439a4409b25730dfab93fe",
+    "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1296,15 +1287,6 @@
     }
   },
   {
-    "name": "Box Hits",
-    "path_name": "831df94f10a11999dfa768d1f4db5442",
-    "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "The Box UK",
     "path_name": "cd193df222036636e3a7c652978bf742",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
@@ -1335,6 +1317,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
