@@ -1782,6 +1782,15 @@
     }
   },
   {
+    "name": "Bella Abanquina TV (Apurimac)",
+    "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
+    "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Quillavision (Cuzco)",
     "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
     "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
@@ -1848,6 +1857,15 @@
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2043,15 +2061,6 @@
     }
   },
   {
-    "name": "Tropical TV (Puerto Maldonado)",
-    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
-    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Red de Comunicación Regional (RCR)",
     "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
@@ -2190,6 +2199,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
