@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "Dabangg",
-    "path_name": "b4cea085b32aba13446bc974858cc5cb",
-    "url": "http://14.199.164.20:4001/play/a0nb/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Dishum",
     "path_name": "29d8ba74b34eb504a29b528de85fe09b",
     "url": "http://14.199.164.20:4001/play/a0pe/index.m3u8",
@@ -297,15 +288,6 @@
     }
   },
   {
-    "name": "Imayam",
-    "path_name": "29078ed7f854168ed01ae598f41191fe",
-    "url": "https://idvd.multitvsolution.com/idvo/imayamtv.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
@@ -336,6 +318,15 @@
     "name": "MK TV",
     "path_name": "730e8fbc130a3d2f00bd5628d850f71c",
     "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Velicham",
+    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
+    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1056,6 +1047,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
