@@ -846,15 +846,6 @@
     }
   },
   {
-    "name": "Ena Channel",
-    "path_name": "08db0adaca0d5b84239ea47ce0a52538",
-    "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVRI Aceh",
     "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
@@ -1818,15 +1809,6 @@
     }
   },
   {
-    "name": "AsiriTV (Lima)",
-    "path_name": "2f106380faf53eca147780035513a4e0",
-    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
@@ -2163,6 +2145,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
