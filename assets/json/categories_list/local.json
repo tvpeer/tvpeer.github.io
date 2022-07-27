@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "TV Pantanal MS",
-    "path_name": "22bc704ce2918694ca8cbb4ff49947ae",
-    "url": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 25 Jundiaí",
     "path_name": "63d12f4a270b9fe9a947a90f2347a451",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -585,6 +576,15 @@
     }
   },
   {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
@@ -705,15 +705,6 @@
     "name": "Canal 25 TV (Barbastro)",
     "path_name": "4b75cee7c1659979426795ad31a572cb",
     "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Málaga RTV",
-    "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
-    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1800,15 +1791,6 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -1830,6 +1812,15 @@
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2244,6 +2235,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
