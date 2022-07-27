@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -162,15 +171,6 @@
     }
   },
   {
-    "name": "Kairali TV",
-    "path_name": "e13cd6e0d0e0434301e893a682ffe79d",
-    "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "DD Malayalam",
     "path_name": "642a8a29e0d686fb066835267488daa1",
     "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
@@ -219,24 +219,6 @@
     "name": "Mazhavil Manorama",
     "path_name": "06556c4af215ad4d71128543908d5518",
     "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Mazhavil Manorama",
-    "path_name": "06556c4af215ad4d71128543908d5518",
-    "url": "http://14.199.164.20:4001/play/a0pa/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Mazhavil Manorama HD",
-    "path_name": "99daa228acc7dd6e567385380c348662",
-    "url": "http://14.199.164.20:4001/play/a0p9/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -333,15 +315,6 @@
     }
   },
   {
-    "name": "Velicham",
-    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
-    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "EET TV",
     "path_name": "2349d9cce14c13565255b420f18a6658",
     "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
@@ -363,15 +336,6 @@
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ITC TV",
-    "path_name": "6ef3f2563d169987779b98c45dab360b",
-    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -687,6 +651,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -1065,15 +1038,6 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Estrella TV East",
-    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
-    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
