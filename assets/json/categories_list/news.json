@@ -378,6 +378,15 @@
     }
   },
   {
+    "name": "BBC Arabic",
+    "path_name": "644b660903ecf0a05225efa32c771c12",
+    "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Jazeera Arabic",
     "path_name": "594bc5910c2e2c619ae6a022987a146d",
     "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
@@ -390,15 +399,6 @@
     "name": "ATN News",
     "path_name": "c374e701683b6246460601756174b864",
     "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ABC News",
-    "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
-    "url": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1215,6 +1215,24 @@
     }
   },
   {
+    "name": "Press TV English",
+    "path_name": "4db0637170b90138292f8c415eb56585",
+    "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Press TV French",
+    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
+    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mihan TV",
     "path_name": "748c2cc2c7df6520127187109c4cdc45",
     "url": "https://iptv.mihantv.com/live/playlist1/index.m3u8",
@@ -1272,6 +1290,24 @@
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HispanTV",
+    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
+    "url": "https://live1.presstv.ir/live/hispan.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2298,6 +2334,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
