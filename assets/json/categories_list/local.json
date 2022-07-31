@@ -1,41 +1,5 @@
 [
   {
-    "name": "PBS 39 Allentown PA (WLVT)",
-    "path_name": "9fc12abaef855bcf8339f76f25b5695f",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS 39 Allentown PA (WLVT)",
-    "path_name": "9fc12abaef855bcf8339f76f25b5695f",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PBS 39 Extra Philadelphia PA (WPPT)",
-    "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS 39 Extra Philadelphia PA (WPPT)",
-    "path_name": "cc3e0224f81db8ba6f175f2f36e10f04",
-    "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PBS Dallas TX (KERA)",
     "path_name": "8bb88de2e8517933bc08b994e9d94b48",
     "url": "https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8",
@@ -444,6 +408,15 @@
     "name": "Décima TV (Ancud)",
     "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
     "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Elion Canal Digital (Chillan)",
+    "path_name": "1bc3940c65e017205cfe20a5794cedfa",
+    "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1998,18 +1971,18 @@
     }
   },
   {
-    "name": "Ribereña TV (Bellavista)",
-    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
-    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
+    "name": "Huacho Perú TV",
+    "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
+    "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Mega TV (Jaen)",
-    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
-    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "name": "Ribereña TV (Bellavista)",
+    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
+    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2073,15 +2046,6 @@
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Sistema 1 (Huaraz)",
-    "path_name": "9fe3e4d1a40906b4218be7ba9cc47525",
-    "url": "https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2376,15 +2340,6 @@
     }
   },
   {
-    "name": "Oppna Kanalen",
-    "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
-    "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Orange TV",
     "path_name": "3bebff48b56f316a8862f3be3cf4f4a4",
     "url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8",
@@ -2478,6 +2433,15 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 5 Cleveland OH (WEWS-TV)",
+    "path_name": "2983600de2fe081c50039189ad893e50",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2595,6 +2559,15 @@
     "name": "Fox 61 Hartford CT (WTIC-TV)",
     "path_name": "c361438e636e5d849b38488073aaf9a7",
     "url": "https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 7 Detroit MI (WXYZ-TV)",
+    "path_name": "227784b3d2b80cf763abd788bec550dd",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
