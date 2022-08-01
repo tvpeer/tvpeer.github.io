@@ -171,6 +171,15 @@
     }
   },
   {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nova Era TV",
     "path_name": "97002ce81e35169dff3b16c94d105fbd",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
@@ -255,6 +264,15 @@
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -567,6 +585,15 @@
     }
   },
   {
+    "name": "NicoyaTV",
+    "path_name": "cd98ef212cd017453e3770de9005ca6c",
+    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Girona",
     "path_name": "080367b5b1350504c030597028e7450b",
     "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
@@ -651,15 +678,6 @@
     "name": "M95 Televisión Marbella",
     "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
     "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal 25 TV (Barbastro)",
-    "path_name": "4b75cee7c1659979426795ad31a572cb",
-    "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
