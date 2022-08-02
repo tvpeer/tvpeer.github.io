@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -426,6 +417,42 @@
     "name": "Yeeaah!",
     "path_name": "4d827bc5ac94fe56229662a11036635d",
     "url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Birigui",
+    "path_name": "b0f0293263304321adf4fc28dafd9d87",
+    "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Birigui",
+    "path_name": "b0f0293263304321adf4fc28dafd9d87",
+    "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Destak",
+    "path_name": "271124c029248c78f5003fcc2f1e3336",
+    "url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TV Destak",
+    "path_name": "271124c029248c78f5003fcc2f1e3336",
+    "url": "https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1019,6 +1046,15 @@
   {
     "name": "OTV",
     "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
     "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8",
     "categories": {
       "name": "General",
@@ -1359,15 +1395,6 @@
     }
   },
   {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
@@ -1434,6 +1461,15 @@
     "name": "原住民電視",
     "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
     "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
