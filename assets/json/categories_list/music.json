@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "Azstar TV",
-    "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
-    "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Afrobeats",
     "path_name": "dcfbddf483737c922e95705a0e05bb3d",
     "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
@@ -729,6 +720,15 @@
     }
   },
   {
+    "name": "Caltex TV",
+    "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
+    "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Diyar TV",
     "path_name": "050b9574112eabd36f769194a1a7b6b8",
     "url": "http://51.210.199.28/hls/stream.m3u8",
@@ -957,6 +957,15 @@
     "name": "Marah FM",
     "path_name": "150dca7a13476f07d9440d71632eb2fc",
     "url": "http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Rock TV",
+    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
+    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
