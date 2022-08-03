@@ -351,15 +351,6 @@
     }
   },
   {
-    "name": "Buin Somos Todos",
-    "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
-    "url": "https://bst.buin.cl/0.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CEAC TV (Santiago)",
     "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
     "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
@@ -1818,6 +1809,15 @@
     }
   },
   {
+    "name": "Master TV (Tarapoto)",
+    "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
+    "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Bella Abanquina TV (Apurimac)",
     "path_name": "cf1d2fab10e78e719ed10cb27e4bca2b",
     "url": "https://v4.tustreaming.cl/bellatv/index.m3u8",
@@ -2252,24 +2252,6 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2676,15 +2658,6 @@
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "The Southeastern Channel",
-    "path_name": "19d4c148be728fe77a5f2f46afb8c6dc",
-    "url": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
