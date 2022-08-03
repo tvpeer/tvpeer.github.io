@@ -1593,6 +1593,24 @@
     }
   },
   {
+    "name": "SET Televisión Canal 26.1",
+    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
+    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.2",
+    "path_name": "6ac22eaa8921afc2fce942415159eae8",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -2415,6 +2433,15 @@
     "name": "С1 (Сургут)",
     "path_name": "08be0f97930b257645b8c4618c0a6bd8",
     "url": "https://sitv.ru/hls/stv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Sahel TV",
+    "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
+    "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
