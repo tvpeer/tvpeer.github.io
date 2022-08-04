@@ -1719,6 +1719,15 @@
     }
   },
   {
+    "name": "Siris TV",
+    "path_name": "22f23b1234e9dfd797a5c5e3425eda4e",
+    "url": "https://videostream.siris.nl/hls/playoutweb/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "RTV Purmerend",
     "path_name": "a7f849ceb41b7c0bd4f858f171ad94c0",
     "url": "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8",
@@ -1953,15 +1962,6 @@
     }
   },
   {
-    "name": "Tele2000 (Ayacucho)",
-    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
-    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
@@ -2118,6 +2118,15 @@
     "name": "Sol Stereo TV (Casma)",
     "path_name": "5b1011c240c409ae2b7cadb7d1767d0c",
     "url": "https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Sumac TV (Lima)",
+    "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
+    "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2631,6 +2640,15 @@
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "The Southeastern Channel",
+    "path_name": "19d4c148be728fe77a5f2f46afb8c6dc",
+    "url": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
