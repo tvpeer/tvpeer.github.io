@@ -198,15 +198,6 @@
     }
   },
   {
-    "name": "TV Mon",
-    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
-    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Cidade de Petrópolis",
     "path_name": "97f192a17020f1875979df3ec60fe210",
     "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
@@ -831,15 +822,6 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1602,6 +1584,15 @@
     }
   },
   {
+    "name": "Canal 10 Cancún",
+    "path_name": "5558425d1ea3a92a3701bc80b37d1186",
+    "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2199,6 +2190,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
