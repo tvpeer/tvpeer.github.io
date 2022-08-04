@@ -198,6 +198,15 @@
     }
   },
   {
+    "name": "TV Mon",
+    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
+    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Cidade de Petrópolis",
     "path_name": "97f192a17020f1875979df3ec60fe210",
     "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
@@ -360,15 +369,6 @@
     }
   },
   {
-    "name": "Canal 2 (San Antonio)",
-    "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
-    "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 57 Melipilla",
     "path_name": "4ad8f7c5ca5ce4d2a3bf4bd8cf15dd5b",
     "url": "https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8",
@@ -480,15 +480,6 @@
     "name": "Santa María Televisión",
     "path_name": "3367c1feb878d42504c153dd4d570aa3",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Quellón",
-    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -822,6 +813,15 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Creta",
+    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
+    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
