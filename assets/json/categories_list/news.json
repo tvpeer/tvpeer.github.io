@@ -1053,15 +1053,6 @@
     }
   },
   {
-    "name": "Time Vision News",
-    "path_name": "5468f643e57b49c29583122bfee35a7b",
-    "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Reporter TV",
     "path_name": "cdbf44e8a6ae363410287101d1a04006",
     "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
@@ -1218,6 +1209,15 @@
     "name": "Press TV English",
     "path_name": "4db0637170b90138292f8c415eb56585",
     "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Press TV French",
+    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
+    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
