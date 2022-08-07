@@ -351,15 +351,6 @@
     }
   },
   {
-    "name": "Canal Son TV",
-    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
-    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "88 Stereo",
     "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
     "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
@@ -558,6 +549,15 @@
     }
   },
   {
+    "name": "Magic TV",
+    "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
+    "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "NG",
     "path_name": "21c8ee28bfbf5e822c7d336770869a93",
     "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
@@ -630,6 +630,15 @@
     }
   },
   {
+    "name": "Mtunes Plus",
+    "path_name": "4ce8ec115ec18f19baad780e2d5eacce",
+    "url": "http://14.199.164.20:4001/play/a0p2/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "9XM",
     "path_name": "5db316206030ffbaba9b42f60a36a0e3",
     "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
@@ -651,6 +660,15 @@
     "name": "MH1 Music",
     "path_name": "662a0607f113817ade24c4bf4e63d6c4",
     "url": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "I Love",
+    "path_name": "8a62b0af352c53905d098227efb1e2ff",
+    "url": "http://14.199.164.20:4001/play/a0p3/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1173,15 +1191,6 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Bridge TV",
-    "path_name": "99f656c51fe45a22994c30be7c610b8e",
-    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
