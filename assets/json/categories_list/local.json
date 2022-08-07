@@ -468,15 +468,6 @@
     }
   },
   {
-    "name": "Santa María Televisión",
-    "path_name": "3367c1feb878d42504c153dd4d570aa3",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Quellón",
     "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
@@ -570,15 +561,6 @@
     "name": "ATV (Soacha | Cundinamarca)",
     "path_name": "f3d2b008947edfef1d9671cbdde78aec",
     "url": "https://movil.ejeserver.com/live/verteve.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal Dos (Yopal | Casanare)",
-    "path_name": "17416e208e4538ee4a7e32faca25a74b",
-    "url": "http://131.221.42.25:1935/streaming/canal2/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2234,6 +2216,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2658,15 +2658,6 @@
     "name": "CBS 4 New Orleans LA (WWL-TV)",
     "path_name": "f0ee51c07829908f87506045f630896d",
     "url": "https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS 6 Albany NY (WRGB)",
-    "path_name": "027fe6a204e1663ed841e2b1cf3faa55",
-    "url": "https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3405,15 +3396,6 @@
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
     "url": "https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS 3 Omaha NE (KMTV-TV)",
-    "path_name": "4a13f9df7225a6324c5155ab7bb337b1",
-    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
