@@ -108,6 +108,15 @@
     }
   },
   {
+    "name": "MovieFe",
+    "path_name": "9cfafff8c63f1da26163443b483bc67e",
+    "url": "https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Wildside TV",
     "path_name": "fd5750343ccb9cb62396806a799c8d92",
     "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
@@ -138,6 +147,15 @@
     "name": "Hits Movies",
     "path_name": "b068c707fb5855166afbe353487f969f",
     "url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "B4U Bhojpuri",
+    "path_name": "6976bc3bf919d856a69c24b34ac18f97",
+    "url": "http://14.199.164.20:4001/play/a0nq/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -219,15 +237,6 @@
     "name": "KCV Movies",
     "path_name": "e07988886cb4b443a36608478cc2b406",
     "url": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Studio One Plus",
-    "path_name": "f69f035eef58621a81269600e7cd7a8a",
-    "url": "http://14.199.164.20:4001/play/a0oh/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -750,15 +759,6 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Samuel Goldwyn Channel",
-    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
-    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
