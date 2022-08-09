@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Canal TUTV (Quillota)",
-    "path_name": "1df1987e2c26f1e7ba86ebbdc4c571a1",
-    "url": "https://paneltv.net:3978/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Click TV (Coronel)",
     "path_name": "9554e47a7857e21bdbb85989291956e6",
     "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
@@ -2145,6 +2136,15 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
