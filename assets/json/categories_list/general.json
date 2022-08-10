@@ -81,9 +81,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -324,6 +324,15 @@
     }
   },
   {
+    "name": "Bolivia TV 7.2",
+    "path_name": "3cfe4928a1fa763c577aa512513f826d",
+    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Cultura PR Catve",
     "path_name": "bfe5a46aeff10142c356489b7af9da33",
     "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
@@ -471,6 +480,15 @@
     "name": "TV Carioca",
     "path_name": "48d282fa44d1c5970359b7be5418675a",
     "url": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ISTV",
+    "path_name": "4eec9f69d87af30f39ca88b4db85b595",
+    "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -630,18 +648,9 @@
     }
   },
   {
-    "name": "GTV",
-    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
-    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "MNCTV",
-    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
+    "name": "RCTI",
+    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1272,15 +1281,6 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал Евразия",
-    "path_name": "1f22fe78bd61007d577dd8f082877e8b",
-    "url": "https://sc.id-tv.kz/1KanalEvraziya.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
