@@ -684,18 +684,9 @@
     }
   },
   {
-    "name": "RCTI",
-    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "MNCTV",
-    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
+    "name": "GTV",
+    "path_name": "b6f10dc3b23e4aa70710831a8d918689",
+    "url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1395,6 +1386,15 @@
     }
   },
   {
+    "name": "Syria TV",
+    "path_name": "1a67757ef1bd124f8a09e681f6ea45b3",
+    "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Lana TV Plus",
     "path_name": "9010cb383dba2a562fa9801dcab94b6c",
     "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8",
@@ -1641,6 +1641,15 @@
     "name": "Ayeneh TV",
     "path_name": "c882de3143d06ca705fbc8523287cfc9",
     "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
