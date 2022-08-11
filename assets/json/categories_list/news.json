@@ -1233,15 +1233,6 @@
     }
   },
   {
-    "name": "Press TV English",
-    "path_name": "4db0637170b90138292f8c415eb56585",
-    "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Press TV French",
     "path_name": "1197b73f0e21acaabccc11ad488f61b9",
     "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
@@ -1299,15 +1290,6 @@
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HispanTV",
-    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
-    "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1827,6 +1809,15 @@
     }
   },
   {
+    "name": "USA Today",
+    "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "WLS TV News",
     "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
     "url": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8",
@@ -2145,15 +2136,6 @@
     "name": "Newsy Top Stories",
     "path_name": "a753f139c32d159c5d362d329a0efcd0",
     "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
