@@ -1,23 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -48,6 +30,15 @@
     "name": "City Music TV",
     "path_name": "58c88d09ec8bdd42fda5b3d6d3036b14",
     "url": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio PROS",
+    "path_name": "fbb4ccaf63e303dbc3a46e8e49c3957e",
+    "url": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -972,6 +963,24 @@
     }
   },
   {
+    "name": "JENZ",
+    "path_name": "f4aa71527fe986064db807d565aaf071",
+    "url": "https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "XITE (BE)",
+    "path_name": "7a9bfd4261bf46ded3ea1eefa44e4e0a",
+    "url": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "GO-RTV",
     "path_name": "1d11b702ba497e1070cced490dad70cd",
     "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
@@ -1029,24 +1038,6 @@
     "name": "Marah FM",
     "path_name": "150dca7a13476f07d9440d71632eb2fc",
     "url": "http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Rock TV",
-    "path_name": "8e466aa200e9cf23b5509429fb100bc9",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1173,15 +1164,6 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Bridge TV",
-    "path_name": "99f656c51fe45a22994c30be7c610b8e",
-    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1317,6 +1299,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
