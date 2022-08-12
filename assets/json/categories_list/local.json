@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -534,6 +525,15 @@
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ñuble RTV (Chillán)",
+    "path_name": "047c61c110127cf131cc81ed3b540fa7",
+    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1863,6 +1863,15 @@
     }
   },
   {
+    "name": "Oriental TV 21 (Pucallpa)",
+    "path_name": "9c4db63137480c1eb82e05dcf20073af",
+    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
@@ -2802,6 +2811,15 @@
     "name": "ABC 13 Norfolk VA (WVEC)",
     "path_name": "d1ac1d8443c2fba8d1fbf88a985c3502",
     "url": "https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS THV11 Little Rock AR (KTHV)",
+    "path_name": "a849af5eaa5cb4c10437b71b81053e78",
+    "url": "https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
