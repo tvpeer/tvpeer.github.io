@@ -1449,15 +1449,6 @@
     }
   },
   {
-    "name": "TV Asahi",
-    "path_name": "69e4d92d4992ff06a8039cf515ab4584",
-    "url": "http://51.79.193.108:8080/hlsok/j00014/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Osaka",
     "path_name": "ba2464ff5ae5cc2ba3fcd258c467f7b6",
     "url": "http://51.79.193.108:8080/hls/j00013/index.m3u8",
@@ -2271,6 +2262,15 @@
     "name": "Univer TV",
     "path_name": "366856882fb400d8ab5329c49d06509f",
     "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Астрахань 24",
+    "path_name": "e705ff4b0119d43e684738aa2722d104",
+    "url": "http://83.234.104.142/astrakhan24hd/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
