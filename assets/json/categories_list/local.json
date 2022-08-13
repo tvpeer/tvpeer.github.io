@@ -837,24 +837,6 @@
     }
   },
   {
-    "name": "Irida TV",
-    "path_name": "e8b7b311b65a8b763f857a25298018f9",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PLP",
-    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ena Channel",
     "path_name": "08db0adaca0d5b84239ea47ce0a52538",
     "url": "http://176.9.123.140:1935/1c/stream/master.m3u8",
@@ -1890,15 +1872,6 @@
     }
   },
   {
-    "name": "QT Televisión (Cuzco)",
-    "path_name": "b5816595f3baa79a58dcb58854f37021",
-    "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Innova FM (Bagua Grande)",
     "path_name": "6bb261cd341175bba9043fd9496bfabe",
     "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
@@ -2142,6 +2115,15 @@
     }
   },
   {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
@@ -2331,6 +2313,15 @@
     }
   },
   {
+    "name": "Мордовия 24",
+    "path_name": "bf84c8faa2e08bbf6e8141be8c5951fc",
+    "url": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "НТМ (Народное телевидение Мордовии)",
     "path_name": "294376b7e371b1e6d234efa33f100df5",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
@@ -2352,15 +2343,6 @@
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Татарстан24",
-    "path_name": "366a69ffe7cf4d833522aa2f026d4536",
-    "url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
