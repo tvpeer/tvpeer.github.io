@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -111,15 +120,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -201,6 +201,15 @@
     "name": "Muğan TV",
     "path_name": "f9b74f18048b2cbb70f49cd45485775e",
     "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Qəbələ TV",
+    "path_name": "6cbf35caf377b0826f457f21bfdb058e",
+    "url": "https://qebele.tv/live/stream/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -576,15 +585,6 @@
     }
   },
   {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
@@ -648,18 +648,18 @@
     }
   },
   {
-    "name": "RCTI",
-    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+    "name": "Fox Greece",
+    "path_name": "454148cf1bccd1a8a7085734bbf4b98a",
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "MNCTV",
-    "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
-    "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
+    "name": "RCTI",
+    "path_name": "f3219703247c4fe3e4fcc23f1184369d",
+    "url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
