@@ -486,15 +486,6 @@
     }
   },
   {
-    "name": "TV8 (Concepción)",
-    "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
-    "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVO (San Vicente)",
     "path_name": "9231f1e45816538f117972ce36b9a1a6",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8",
@@ -2207,6 +2198,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2370,6 +2379,15 @@
     "name": "Oppna Kanalen",
     "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
     "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Sahel TV",
+    "path_name": "a043dd17daef43b0cc09eff63f95cd6f",
+    "url": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
