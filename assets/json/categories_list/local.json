@@ -1908,15 +1908,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2061,24 +2052,6 @@
     }
   },
   {
-    "name": "Tropical TV (Puerto Maldonado)",
-    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
-    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -2118,15 +2091,6 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2352,15 +2316,6 @@
     "name": "С1 (Сургут)",
     "path_name": "08be0f97930b257645b8c4618c0a6bd8",
     "url": "https://sitv.ru/hls/stv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Oppna Kanalen",
-    "path_name": "5b241f554860a2dc7b9aaaa8fea7381f",
-    "url": "https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2718,6 +2673,24 @@
     }
   },
   {
+    "name": "CT-N Court Feed",
+    "path_name": "9c41490959ee7b9357bedb4a24bdb6ae",
+    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CT-N Live Stream 2",
+    "path_name": "911c9ad223ea611f454647ba059ad622",
+    "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TSTV",
     "path_name": "8a872cb88b321447457f7b272b1a1d7b",
     "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
@@ -3036,6 +3009,15 @@
     "name": "Beach TV Key West & Florida Keys",
     "path_name": "c19547c9bc08900408a4fc6cccf6dfe8",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CT-N TV Conneticut",
+    "path_name": "a2aaef4c0288dcfd70d776027ee235a3",
+    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
