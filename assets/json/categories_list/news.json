@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -252,6 +243,15 @@
     }
   },
   {
+    "name": "Al Arabiya Al Hadath",
+    "path_name": "1c42c205ce3e10122285fba68c96d214",
+    "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Hadath TV",
     "path_name": "0a4e55f7afdc53d2fa622b181dee1214",
     "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
@@ -300,15 +300,6 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1026,6 +1017,15 @@
     }
   },
   {
+    "name": "Real News Kerala",
+    "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
+    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Janam TV",
     "path_name": "9f27c3cd21241e5218c98a55bfaec775",
     "url": "http://14.199.164.20:4001/play/a0ja/index.m3u8",
@@ -1710,15 +1710,6 @@
     }
   },
   {
-    "name": "Мир 24",
-    "path_name": "452bee50208f913d86875339ab680773",
-    "url": "https://sc.id-tv.kz/Mir24.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1731,15 +1722,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2289,6 +2271,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
