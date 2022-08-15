@@ -855,6 +855,15 @@
     }
   },
   {
+    "name": "iNews",
+    "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
+    "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Metro TV",
     "path_name": "2d59551f6fbb1e023544927e527cdd98",
     "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
@@ -1019,15 +1028,6 @@
   {
     "name": "Janam TV",
     "path_name": "9f27c3cd21241e5218c98a55bfaec775",
-    "url": "http://14.199.164.20:4001/play/a0ja/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Janam TV",
-    "path_name": "9f27c3cd21241e5218c98a55bfaec775",
     "url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -1119,15 +1119,6 @@
     "name": "Kalaignar Seithikal",
     "path_name": "128ea7aeb33a14c71cfdff50580c9805",
     "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Polimer News",
-    "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
-    "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1515,6 +1506,15 @@
     "name": "Medi 1 TV Arabic",
     "path_name": "63a3c23475e52510c3021035d8a6ed18",
     "url": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Medi 1 TV Afrique",
+    "path_name": "b49bca2ba572e6a084b24abe108839be",
+    "url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
