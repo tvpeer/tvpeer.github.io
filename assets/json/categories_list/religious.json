@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -363,15 +354,6 @@
     "name": "CNA (Chaîne Nord Africaine)",
     "path_name": "72c895cae19a5af663cc723622b5d198",
     "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "TBN Baltia",
-    "path_name": "fcfd729696486e590a7a53883470fee1",
-    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -570,6 +552,33 @@
     "name": "ABNsat",
     "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: Between the two holy shrines",
+    "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The entrance of the holy sanctuary",
+    "path_name": "f5143e093c6e6c236dc827672484d53e",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The window of Al-Kafeel",
+    "path_name": "ce691daa789ab64cd8589b61ef6b7e60",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
