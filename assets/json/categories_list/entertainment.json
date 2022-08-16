@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -117,6 +126,15 @@
     }
   },
   {
+    "name": "Kasthuri",
+    "path_name": "4bb14179416d72410b42911d8bd18a7d",
+    "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Flowers TV",
     "path_name": "6068778a2b9a017237edf7269d257d1d",
     "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
@@ -135,6 +153,15 @@
     }
   },
   {
+    "name": "Kairali TV",
+    "path_name": "e13cd6e0d0e0434301e893a682ffe79d",
+    "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "DD Malayalam",
     "path_name": "642a8a29e0d686fb066835267488daa1",
     "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
@@ -147,6 +174,24 @@
     "name": "KCV",
     "path_name": "c6cda3130df97582258d7b4ed9403ae9",
     "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Jaihind TV",
+    "path_name": "e2cf38e627f942c1c23e38c76fbdb7c2",
+    "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Kairali We",
+    "path_name": "786d70ba6e441a1e004e2b9d0dd11f3c",
+    "url": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -270,15 +315,6 @@
     }
   },
   {
-    "name": "Captain TV",
-    "path_name": "face335600ccc660cb27875dfee1bfe3",
-    "url": "http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "MK TV",
     "path_name": "730e8fbc130a3d2f00bd5628d850f71c",
     "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
@@ -327,6 +363,15 @@
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ITC TV",
+    "path_name": "6ef3f2563d169987779b98c45dab360b",
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -642,6 +687,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
