@@ -63,15 +63,6 @@
     }
   },
   {
-    "name": "Prime Canada TV",
-    "path_name": "0174b660c77642fde8a645a8c147f202",
-    "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Food Food",
     "path_name": "1d333ec29d8266051bb97334bfcb65f4",
     "url": "http://14.199.164.20:4001/play/a0qx/index.m3u8",
@@ -117,15 +108,6 @@
     }
   },
   {
-    "name": "Public TV",
-    "path_name": "229f2044b52c189551ecfe66f0296ce9",
-    "url": "http://14.199.164.20:4001/play/a0ld/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Kasthuri",
     "path_name": "4bb14179416d72410b42911d8bd18a7d",
     "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
@@ -165,6 +147,15 @@
     "name": "DD Malayalam",
     "path_name": "642a8a29e0d686fb066835267488daa1",
     "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "KCV",
+    "path_name": "c6cda3130df97582258d7b4ed9403ae9",
+    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -282,6 +273,15 @@
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Aathavan TV",
+    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -435,15 +435,6 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -819,6 +810,15 @@
     }
   },
   {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Cable Hits",
     "path_name": "14567a5592f48c23f4a3f43f572640d1",
     "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
@@ -1029,6 +1029,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
