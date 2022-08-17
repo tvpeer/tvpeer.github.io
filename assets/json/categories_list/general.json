@@ -81,9 +81,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -621,6 +621,15 @@
     }
   },
   {
+    "name": "Teleislas",
+    "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
+    "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Señal Colombia",
     "path_name": "64bfdf1fc9f0016a9cc38aec53179fbb",
     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
@@ -828,6 +837,15 @@
     }
   },
   {
+    "name": "Jordan TV",
+    "path_name": "0eb62cebd70b284bed4a7c15eddc13f3",
+    "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "BS Asahi",
     "path_name": "e723246de8ad644903b8a1c76b4ce0fd",
     "url": "http://51.79.193.108:8080/hls/j00048/index.m3u8",
@@ -1011,6 +1029,15 @@
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
     "categories": {
       "name": "General",
       "slug": "general"
