@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Quellón",
     "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
@@ -723,15 +714,6 @@
     "name": "BFM Grand Littoral",
     "path_name": "387d5ee3b2b962e3ede14e075f6d8a33",
     "url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Alsace 20",
-    "path_name": "4245fb6dfaf53cdcdeff74b19b82f6e7",
-    "url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2172,6 +2154,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
