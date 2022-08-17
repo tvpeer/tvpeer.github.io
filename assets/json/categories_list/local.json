@@ -342,18 +342,18 @@
     }
   },
   {
-    "name": "Buin Somos Todos",
-    "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
-    "url": "https://bst.buin.cl/0.m3u8",
+    "name": "CEAC TV (Santiago)",
+    "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
+    "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "CEAC TV (Santiago)",
-    "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
-    "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
+    "name": "Campus TV (Talca)",
+    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2189,24 +2189,6 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2289,6 +2271,15 @@
     "name": "Между.Net (Междуреченск)",
     "path_name": "51961435c21d8ba400bf66b4d626187b",
     "url": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мордовия 24",
+    "path_name": "bf84c8faa2e08bbf6e8141be8c5951fc",
+    "url": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2496,6 +2487,15 @@
     "name": "Winthrop Community Access TV (WCAT 22)",
     "path_name": "d6eaf4f2635f16f6833bd76d35e4d7b5",
     "url": "https://frontdoor.wcat-tv.org:8686/live/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Winthrop Community Access TV (WCAT 3)",
+    "path_name": "49f3fda55f007cee85c58aa6e7393fa3",
+    "url": "https://frontdoor.wcat-tv.org:8787/live/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
