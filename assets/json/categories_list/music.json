@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -174,6 +165,42 @@
     "name": "Stingray Qello Concerts",
     "path_name": "6041072f492765cbfc3961f6936ca1ad",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Stingray Qello Concerts",
+    "path_name": "6041072f492765cbfc3961f6936ca1ad",
+    "url": "https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Stingray Karaoke",
+    "path_name": "6d793c07fe65caef1688db9ed27abe9b",
+    "url": "https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Stingray Karaoke (Sweden)",
+    "path_name": "1433d2766c030347c6bfe97a1d82594b",
+    "url": "https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Stingray Karoke (Netherland)",
+    "path_name": "05f959fd608730e7ad2ff5f1f5d79e90",
+    "url": "https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -351,6 +378,15 @@
     }
   },
   {
+    "name": "Canal Son TV",
+    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
+    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "88 Stereo",
     "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
     "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
@@ -489,15 +525,6 @@
     "name": "Hits 360 TV",
     "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
     "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Nogoum FM TV",
-    "path_name": "1ce920a2fedd4d7a1d15a31ef5393ff5",
-    "url": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1044,15 +1071,6 @@
     }
   },
   {
-    "name": "Kiss TV",
-    "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
-    "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "TV Duga Plus",
     "path_name": "247c1ba0159fdcca4856256524b932e5",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
@@ -1308,6 +1326,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
