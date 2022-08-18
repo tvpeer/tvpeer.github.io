@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "TeleJunín",
-    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
-    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -471,6 +462,15 @@
     "name": "Puncón TV",
     "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Santa María Televisión",
+    "path_name": "3367c1feb878d42504c153dd4d570aa3",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
