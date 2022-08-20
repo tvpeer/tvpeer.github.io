@@ -603,15 +603,6 @@
     }
   },
   {
-    "name": "Channel T1",
-    "path_name": "9a508f051a628243eb88e4662f6b87c0",
-    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBN Rio",
     "path_name": "9f534c91e76a8fd7b58e389252d5967f",
     "url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
@@ -750,15 +741,6 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -930,15 +912,6 @@
     "name": "Kanak News",
     "path_name": "6883abf486ff64267998970ad0e7f212",
     "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "India News",
-    "path_name": "92a9b5ceeab2628c7c7369eec06ce1cc",
-    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1737,9 +1710,9 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "name": "Мир 24",
+    "path_name": "452bee50208f913d86875339ab680773",
+    "url": "https://sc.id-tv.kz/Mir24.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2081,25 +2054,7 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://bnc-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2316,24 +2271,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
