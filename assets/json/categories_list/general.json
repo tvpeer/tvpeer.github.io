@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -660,15 +651,6 @@
     "name": "À Punt",
     "path_name": "667f275875299e34ccd97838433710af",
     "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "AlfaTV",
-    "path_name": "4989edeaa6b8c0738aade3f69dac8fa0",
-    "url": "https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1350,6 +1332,15 @@
     }
   },
   {
+    "name": "Первый канал Евразия",
+    "path_name": "1f22fe78bd61007d577dd8f082877e8b",
+    "url": "https://sc.id-tv.kz/1KanalEvraziya.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Мир",
     "path_name": "579ae29d20979b9bf2d927153abbdaeb",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
@@ -1368,18 +1359,18 @@
     }
   },
   {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
+    "name": "Звезда",
+    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
+    "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Звезда",
-    "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
-    "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
+    "name": "TV BRICS Russian",
+    "path_name": "2543aac2cd3fba91497e95bab6235d52",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
