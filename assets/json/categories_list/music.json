@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -351,15 +360,6 @@
     }
   },
   {
-    "name": "Canal Son TV",
-    "path_name": "3dd1b9dbd0a64110d24dd57a257799f1",
-    "url": "https://server12.videostreaming.net:3628/stream/play.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "88 Stereo",
     "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
     "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
@@ -615,15 +615,6 @@
     "name": "Music India",
     "path_name": "1eb653b59413e4cd4a6157c53938b068",
     "url": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Music India",
-    "path_name": "1eb653b59413e4cd4a6157c53938b068",
-    "url": "http://14.199.164.20:4001/play/a0mt/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1263,6 +1254,24 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Quahz TV",
+    "path_name": "1536615a8f03d6d3fb26c681b69b961f",
+    "url": "https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/index_750_av-p.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
