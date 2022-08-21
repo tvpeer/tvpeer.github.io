@@ -540,6 +540,15 @@
     }
   },
   {
+    "name": "ARB 24",
+    "path_name": "728c67a514071812451ac179652946d5",
+    "url": "http://85.132.81.184:8080/arb24/live1/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Azerbaijan News TV",
     "path_name": "990373b2f83a5e76925e11ba63b35a3a",
     "url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
@@ -687,15 +696,6 @@
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ADN Radio",
-    "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
-    "url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1683,27 +1683,18 @@
     }
   },
   {
-    "name": "Мир 24",
-    "path_name": "452bee50208f913d86875339ab680773",
-    "url": "https://sc.id-tv.kz/Mir24.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
