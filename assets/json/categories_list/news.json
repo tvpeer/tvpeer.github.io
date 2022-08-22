@@ -882,6 +882,15 @@
     }
   },
   {
+    "name": "India News",
+    "path_name": "92a9b5ceeab2628c7c7369eec06ce1cc",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Pratidin Time",
     "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
     "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
@@ -1152,6 +1161,15 @@
     }
   },
   {
+    "name": "Al Rafidain",
+    "path_name": "cf8924302dda5b48f2ab4c5be6735c96",
+    "url": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Dijlah",
     "path_name": "68a265499227d4ed7bf5f451bf50fc3e",
     "url": "http://91.134.145.75:10001/Dijlah/index.m3u8",
@@ -1404,6 +1422,24 @@
     }
   },
   {
+    "name": "Al Manar",
+    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
+    "url": "https://manar.live/iptv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Manar",
+    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
+    "url": "https://manar.live/x.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Nabaa TV",
     "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
     "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
@@ -1566,15 +1602,6 @@
     }
   },
   {
-    "name": "Dunya News",
-    "path_name": "d756517dd5ab0df9eeebbacaefd23bb2",
-    "url": "https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Dunya News (INT Feed)",
     "path_name": "982852b905d9e629108764e64fd8e13d",
     "url": "https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr=",
@@ -1667,16 +1694,7 @@
   {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2280,24 +2298,6 @@
     "name": "TAG TV",
     "path_name": "b493510675d358963bc9d4c3c859ab81",
     "url": "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "SubRang TV",
-    "path_name": "bb8c9a9d895177fc801b63aa828d4186",
-    "url": "https://cdn20.liveonlineservices.com/hls/subrang.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "SubRang TV",
-    "path_name": "bb8c9a9d895177fc801b63aa828d4186",
-    "url": "https://cdn61.liveonlineservices.com/hls/subrang.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
