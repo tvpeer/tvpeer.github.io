@@ -54,6 +54,15 @@
     }
   },
   {
+    "name": "MBC 1 KSA",
+    "path_name": "bff69df8bc693d4391c9306932a9b981",
+    "url": "https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Dubai One",
     "path_name": "9261f2c340cc197baff8128bfa3bbf4c",
     "url": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
@@ -81,18 +90,18 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -111,24 +120,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "https://amtv1.livestreamingcdn.com/am2abr/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -219,6 +210,15 @@
     "name": "Muğan TV",
     "path_name": "f9b74f18048b2cbb70f49cd45485775e",
     "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Qəbələ TV",
+    "path_name": "6cbf35caf377b0826f457f21bfdb058e",
+    "url": "https://qebele.tv/live/stream/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1089,9 +1089,27 @@
     }
   },
   {
+    "name": "TVM Internacional",
+    "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVM",
     "path_name": "afd856551a771d9e971aff7c943f3559",
     "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVM",
+    "path_name": "afd856551a771d9e971aff7c943f3559",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
