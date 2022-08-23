@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Alternativa TV (Huasco)",
-    "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
-    "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antofagasta TV (ATV)",
     "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
@@ -579,15 +570,6 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1809,6 +1791,15 @@
     }
   },
   {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ATM Televisión (Apurimac)",
     "path_name": "64f41847aa7a04912fd3bd6fc014cd7d",
     "url": "https://v4.tustreaming.cl/atmtv/index.m3u8",
@@ -1911,6 +1902,15 @@
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Solar Televisión (Abancay)",
+    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
+    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2046,6 +2046,15 @@
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Top FM TV (Atalaya)",
+    "path_name": "f7c8508f25c18c80c20d88a25943e219",
+    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2190,6 +2199,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
