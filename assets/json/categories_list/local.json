@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Telenord Corrientes",
-    "path_name": "9d49de079f499fc31f02f55416f28f0a",
-    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -306,6 +297,15 @@
     }
   },
   {
+    "name": "Antofagasta TV (ATV)",
+    "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Atacama TV (Copiapó)",
     "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
     "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
@@ -444,6 +444,15 @@
     "name": "Exprezión TV (EXTV | Los Álamos)",
     "path_name": "ad8198cdd8d62a1915443d9f4f96b6c1",
     "url": "https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Holvoet TV (Copiapó)",
+    "path_name": "5983420057643dcf9f3bb25bdddddcc2",
+    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1575,15 +1584,6 @@
     }
   },
   {
-    "name": "Telenica Canal 8 (tn8)",
-    "path_name": "28a663ef039bdaa359abebfec661ab5d",
-    "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ZuidWest TV",
     "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
     "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
@@ -1893,15 +1893,6 @@
     "name": "Solar Televisión (Abancay)",
     "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
     "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
