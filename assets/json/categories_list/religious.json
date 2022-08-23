@@ -234,6 +234,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -534,15 +543,6 @@
     "name": "Hidabroot",
     "path_name": "b020b6d7bcaeca92a1015ac71095a1ad",
     "url": "https://stream72.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Sri Sankara",
-    "path_name": "b1fc47ea4495d2cb7bb56ace5491d969",
-    "url": "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -921,6 +921,24 @@
     "name": "Sobrenatural TV",
     "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
     "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alfa Omega TV",
+    "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
+    "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alfa Omega TV",
+    "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
+    "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
