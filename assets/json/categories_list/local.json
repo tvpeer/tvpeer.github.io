@@ -351,15 +351,6 @@
     }
   },
   {
-    "name": "CEAC TV (Santiago)",
-    "path_name": "7d420d9ab0ded91662be103fdbe83d4b",
-    "url": "https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Campus TV (Talca)",
     "path_name": "3eb5077be8e10d7c129fc064c1f23960",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
@@ -399,15 +390,6 @@
     "name": "Canal SCÑ (San Carlos Ñuble)",
     "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
     "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Click TV (Coronel)",
-    "path_name": "9554e47a7857e21bdbb85989291956e6",
-    "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1827,6 +1809,15 @@
     }
   },
   {
+    "name": "FuegoTV (Lima)",
+    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
+    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "LimaLive",
     "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
     "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
@@ -2109,6 +2100,15 @@
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
