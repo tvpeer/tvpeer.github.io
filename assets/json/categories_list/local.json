@@ -414,15 +414,6 @@
     }
   },
   {
-    "name": "Décima TV (Ancud)",
-    "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
-    "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Elion Canal Digital (Chillan)",
     "path_name": "1bc3940c65e017205cfe20a5794cedfa",
     "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
@@ -2124,6 +2115,15 @@
     }
   },
   {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -2181,6 +2181,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3252,15 +3270,6 @@
     "name": "ABC News Live 10",
     "path_name": "052cb55610281305d52b4a8b578ced53",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News Live 2",
-    "path_name": "a4d570c6424db97e25c320411fa41a2d",
-    "url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
