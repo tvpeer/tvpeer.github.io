@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -210,6 +201,15 @@
     "name": "Alvin Channel TV",
     "path_name": "af035aef2df699d66b9a68c4742e79ed",
     "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Muğan TV",
+    "path_name": "f9b74f18048b2cbb70f49cd45485775e",
+    "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -507,6 +507,15 @@
     "name": "Télé-Québec",
     "path_name": "8c0174ba7a9aaab819a666b938da14be",
     "url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Boss Brothers TV",
+    "path_name": "3a7f7fe4a8f8c4440cecad60d1a97acd",
+    "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
