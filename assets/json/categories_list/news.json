@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -1002,15 +993,6 @@
     "name": "TV9 Kannada",
     "path_name": "c82749589c740e60cab7ea83e34fd59c",
     "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Dighvijay",
-    "path_name": "5a8edd978ec1634bef7e7dc29bceea25",
-    "url": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1721,16 +1703,7 @@
   {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1857,15 +1830,6 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2135,6 +2099,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2145,15 +2118,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
