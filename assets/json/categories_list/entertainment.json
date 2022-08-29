@@ -63,6 +63,15 @@
     }
   },
   {
+    "name": "DD National",
+    "path_name": "9fab29c2f78445330d527b317254e33e",
+    "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Enter10 Bangla",
     "path_name": "2c2afa6f460ba07181333a908e0603ee",
     "url": "http://14.199.164.20:4001/play/a0j5/index.m3u8",
@@ -81,9 +90,27 @@
     }
   },
   {
+    "name": "Flowers TV",
+    "path_name": "6068778a2b9a017237edf7269d257d1d",
+    "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Kairali TV",
     "path_name": "e13cd6e0d0e0434301e893a682ffe79d",
     "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "DD Malayalam",
+    "path_name": "642a8a29e0d686fb066835267488daa1",
+    "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -144,6 +171,15 @@
     }
   },
   {
+    "name": "Amrita TV",
+    "path_name": "7f9e62eeb0cd20f1263b54dd8443ef47",
+    "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Dreamz TV",
     "path_name": "cd9f109bf0712fbdf6c40c1d0348eb19",
     "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
@@ -183,6 +219,15 @@
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Aathavan TV",
+    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -327,15 +372,6 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -866,6 +902,15 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -921,6 +966,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
