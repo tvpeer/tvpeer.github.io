@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -318,6 +309,15 @@
     "name": "Avivamiento TV",
     "path_name": "579719b729534d28ebb981d339953907",
     "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TVGracia",
+    "path_name": "66771f4c21990c7dd2a8bf3a313b46ab",
+    "url": "https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -705,6 +705,15 @@
     "name": "Kalemeh TV",
     "path_name": "2f4d70c9246b0dddefab5512b5d87dce",
     "url": "http://51.210.199.37/hls/stream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Marjaeyat",
+    "path_name": "76a5735698e42e76e6adf6ab6654c916",
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1416,15 +1425,6 @@
     "name": "GOOD TV CH25 福氣人生",
     "path_name": "373e2016496f976f99d15c9dbd30aec5",
     "url": "https://live.streamingfast.net/osmflivech25.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "IBN TV",
-    "path_name": "e0627a066656ead08dc8f8c9ac12edb3",
-    "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
