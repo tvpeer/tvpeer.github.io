@@ -900,15 +900,6 @@
     }
   },
   {
-    "name": "Conecta TV",
-    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
-    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -1215,9 +1206,27 @@
     }
   },
   {
+    "name": "V2BEAT",
+    "path_name": "170dbb73651fd04590a00da30331e5ac",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "V2BEAT",
+    "path_name": "170dbb73651fd04590a00da30331e5ac",
+    "url": "https://de1se01.v2beat.live/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1290,15 +1299,6 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Pop Europe",
-    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
-    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1398,6 +1398,24 @@
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://vidaprimo-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
