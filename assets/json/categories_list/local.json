@@ -189,6 +189,15 @@
     }
   },
   {
+    "name": "TV Mon",
+    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
+    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Cidade de Petrópolis",
     "path_name": "97f192a17020f1875979df3ec60fe210",
     "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
@@ -1746,6 +1755,15 @@
     }
   },
   {
+    "name": "Huanta TV",
+    "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
+    "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
@@ -1902,15 +1920,6 @@
     "name": "Huacho Perú TV",
     "path_name": "1ca8f68924ceb4f93fd929ccd2a71fb6",
     "url": "https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "KeBuena (Barranca)",
-    "path_name": "6cb7100c5b064807b625c48eea2785db",
-    "url": "https://inliveserver.com:1936/18016/18016/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2100,24 +2109,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
