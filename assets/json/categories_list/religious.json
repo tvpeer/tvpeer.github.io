@@ -27,6 +27,15 @@
     }
   },
   {
+    "name": "Շողակաթ",
+    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
+    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -39,6 +48,15 @@
     "name": "Bahrain Quran",
     "path_name": "fe6b64d827379c89afadddc14f0f7724",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Quran_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Brasil de Comunicação",
+    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -408,6 +426,15 @@
     "name": "Taevas TV7",
     "path_name": "97ea1bcbb5608bbaa3270a5e62eb8805",
     "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1161,15 +1188,6 @@
     }
   },
   {
-    "name": "GOOD TV CH27 空中聖經學院",
-    "path_name": "1c08110384bea68b576b6ae969de2df9",
-    "url": "https://live.streamingfast.net/osmflivech27.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "GOOD TV CH28 現代詩歌",
     "path_name": "cb1ee5d833cf31243ae675b915463956",
     "url": "https://live.streamingfast.net/osmflivech28.m3u8",
@@ -1677,15 +1695,6 @@
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "CTN 61 Riviera Beach FL (WFGC)",
-    "path_name": "3892efe26dc164071ebf1f27dce18b1f",
-    "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
