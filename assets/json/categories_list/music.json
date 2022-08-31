@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -261,15 +270,6 @@
     }
   },
   {
-    "name": "Mundo de la Música",
-    "path_name": "3fb7efd039ea8e7f631e9480130b9c08",
-    "url": "https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "RCK TV",
     "path_name": "32a686f6014ac3f1284fc725617d6a68",
     "url": "https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8",
@@ -318,6 +318,24 @@
     "name": "Carolina TV",
     "path_name": "6be974900eddc300c19f912210b5411a",
     "url": "https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Retro Plus",
+    "path_name": "1c09a4e92f9cd954c7e91d49f61c7523",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Retro Plus 2",
+    "path_name": "6a97eb8024801bbefa2d7e8ec3179adf",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -480,15 +498,6 @@
     "name": "Hits 360 TV",
     "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
     "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Nogoum FM TV",
-    "path_name": "1ce920a2fedd4d7a1d15a31ef5393ff5",
-    "url": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1119,6 +1128,15 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Bridge TV",
+    "path_name": "99f656c51fe45a22994c30be7c610b8e",
+    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
