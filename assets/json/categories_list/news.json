@@ -594,15 +594,6 @@
     }
   },
   {
-    "name": "Channel T1",
-    "path_name": "9a508f051a628243eb88e4662f6b87c0",
-    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBN Rio",
     "path_name": "9f534c91e76a8fd7b58e389252d5967f",
     "url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
@@ -747,15 +738,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -777,15 +759,6 @@
     "name": "DW Español",
     "path_name": "cacfacaa8978706c54f407b70a59a249",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "France 24 Español",
-    "path_name": "e5d20bb74d29e20c93803cd0c0fc980a",
-    "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1719,6 +1692,15 @@
     }
   },
   {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1767,6 +1749,15 @@
     "name": "Sky News",
     "path_name": "e8111c26a56c75630bb0c8f2817ca325",
     "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KCRA-TV News Sacramento CA",
+    "path_name": "1ae8fd18bebf48f7ee730d54afa2bf96",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
