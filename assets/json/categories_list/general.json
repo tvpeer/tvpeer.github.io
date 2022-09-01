@@ -72,9 +72,18 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -111,15 +120,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -309,6 +309,15 @@
     "name": "Bolivia TV",
     "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
     "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bolivia TV 7.2",
+    "path_name": "3cfe4928a1fa763c577aa512513f826d",
+    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -516,24 +525,6 @@
     "name": "TV BRICS Chinese",
     "path_name": "d26fe2376236a1d11ea1c600c85e208d",
     "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1191,15 +1182,6 @@
     "name": "原住民電視",
     "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
     "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Today All Day",
-    "path_name": "9c2c08849b508d1023c2774a2f9981d7",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
