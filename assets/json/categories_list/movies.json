@@ -306,27 +306,9 @@
     }
   },
   {
-    "name": "Ел Арна",
-    "path_name": "3c1b059253e31184839de05c281eee5e",
-    "url": "https://sc.id-tv.kz/ElArna.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Кинопремьера",
-    "path_name": "e7fa2e3f24148e7402066ec8b804d269",
-    "url": "https://sc.id-tv.kz/Kinopremiera_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -399,33 +381,6 @@
     "name": "Дорама",
     "path_name": "e2ac9b464d4e275c8c3141ca1b1cdee4",
     "url": "http://ott-cdn.ucom.am/s95/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Дорама",
-    "path_name": "e2ac9b464d4e275c8c3141ca1b1cdee4",
-    "url": "https://sc.id-tv.kz/dorama_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Bollywood HD",
-    "path_name": "cab0e81a0418cd738cf509ee3ef1255a",
-    "url": "https://sc.id-tv.kz/bollywood_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Дом Кино Премиум",
-    "path_name": "bf19707fc93faa1cb67007287c34a5a9",
-    "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -828,6 +783,15 @@
     }
   },
   {
+    "name": "Crackle",
+    "path_name": "ae8c9f5903dc0f1b600b46c647b1fdc7",
+    "url": "https://crackle-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Cine Romantico (XUMO)",
     "path_name": "f3d46d813ce62649b234cb3debb15ac7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8",
@@ -849,6 +813,15 @@
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "MyTime movie network Mexico",
+    "path_name": "0874855eeedb88a44f030b24a31c7cc2",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
