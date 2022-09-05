@@ -848,15 +848,6 @@
   {
     "name": "TVRI Aceh",
     "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
-    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVRI Aceh",
-    "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
     "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
     "categories": {
       "name": "Local",
@@ -1659,6 +1650,15 @@
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Quillavision (Cuzco)",
+    "path_name": "4f47765434b7f3c2c7157d2bdc674ebe",
+    "url": "http://v4.tustreaming.cl/quillavision/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
