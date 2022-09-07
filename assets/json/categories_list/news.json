@@ -146,6 +146,15 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
+    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera English",
+    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -156,6 +165,15 @@
     "name": "BBC World News",
     "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
     "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "BBC World News",
+    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
+    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -300,6 +318,15 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera Arabic",
+    "path_name": "594bc5910c2e2c619ae6a022987a146d",
+    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -903,15 +930,6 @@
     "name": "Kanak News",
     "path_name": "6883abf486ff64267998970ad0e7f212",
     "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Pratidin Time",
-    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
-    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1683,15 +1701,6 @@
     }
   },
   {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1785,6 +1794,15 @@
     "name": "WPVI-TV News",
     "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
     "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "WPTZ-TV News Plattsburgh NY",
+    "path_name": "7cd20ff84224d480081382b20e4f05f4",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1929,6 +1947,15 @@
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "OAN",
+    "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
+    "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2082,6 +2109,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
