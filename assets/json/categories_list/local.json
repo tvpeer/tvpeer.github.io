@@ -396,15 +396,6 @@
     }
   },
   {
-    "name": "Canal SCÑ (San Carlos Ñuble)",
-    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
-    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Click TV (Coronel)",
     "path_name": "9554e47a7857e21bdbb85989291956e6",
     "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
@@ -525,15 +516,6 @@
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ñuble RTV (Chillán)",
-    "path_name": "047c61c110127cf131cc81ed3b540fa7",
-    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1782,15 +1764,6 @@
     }
   },
   {
-    "name": "Innova FM (Bagua Grande)",
-    "path_name": "6bb261cd341175bba9043fd9496bfabe",
-    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
@@ -1863,6 +1836,15 @@
     }
   },
   {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -1902,6 +1884,15 @@
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tropical TV (Puerto Maldonado)",
+    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
+    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2010,6 +2001,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
