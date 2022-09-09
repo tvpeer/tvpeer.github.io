@@ -146,6 +146,15 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
+    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera English",
+    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -300,6 +309,15 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera Arabic",
+    "path_name": "594bc5910c2e2c619ae6a022987a146d",
+    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -981,6 +999,15 @@
     }
   },
   {
+    "name": "TV9 Kannada",
+    "path_name": "c82749589c740e60cab7ea83e34fd59c",
+    "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Dighvijay",
     "path_name": "5a8edd978ec1634bef7e7dc29bceea25",
     "url": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
@@ -1386,15 +1413,6 @@
     }
   },
   {
-    "name": "Caspian News",
-    "path_name": "e75f41b421bf5b2ad6fc08872611774a",
-    "url": "https://sc.id-tv.kz/CaspianNews.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Al Manar",
     "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
     "url": "https://manar.live/iptv/playlist.m3u8",
@@ -1683,6 +1701,15 @@
     }
   },
   {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1964,15 +1991,6 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2232,18 +2250,18 @@
     }
   },
   {
-    "name": "Mihan TV",
-    "path_name": "748c2cc2c7df6520127187109c4cdc45",
-    "url": "http://iptv.mihantv.com/live/playlist.m3u8",
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "TAG TV",
-    "path_name": "b493510675d358963bc9d4c3c859ab81",
-    "url": "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8",
+    "name": "Mihan TV",
+    "path_name": "748c2cc2c7df6520127187109c4cdc45",
+    "url": "http://iptv.mihantv.com/live/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
