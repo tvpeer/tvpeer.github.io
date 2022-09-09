@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -1440,6 +1431,15 @@
     }
   },
   {
+    "name": "El Maqar",
+    "path_name": "cbde484025c8e228be54c6af2f6ed7eb",
+    "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Al Horreya TV",
     "path_name": "ea78dbe690084ade9d6258623e8803a9",
     "url": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8",
@@ -1650,6 +1650,24 @@
     "name": "CSat TV",
     "path_name": "c3873fec5ea2beaf771736c6841da660",
     "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Better Life TV",
+    "path_name": "e796a40be844c3f79e2d1f48e8f5a707",
+    "url": "https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Better Life TV",
+    "path_name": "e796a40be844c3f79e2d1f48e8f5a707",
+    "url": "https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
