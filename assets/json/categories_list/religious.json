@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -210,6 +201,15 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -378,15 +378,6 @@
     }
   },
   {
-    "name": "Christian Youth Channel (CYC)",
-    "path_name": "6a32b1fc5a566c22c643d810877267f3",
-    "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "El Futuro en tu mano",
     "path_name": "e6830f4f7c7c00cd27eaa83106485626",
     "url": "https://limited24.todostreaming.es/live/renjillo-livestream.m3u8",
@@ -462,6 +453,15 @@
     "name": "Dios Te Ve Infantil",
     "path_name": "c743196c3c93860e98936e5b9ccaada5",
     "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Vida TV",
+    "path_name": "e379829fce360c74d3894c865a6f80b8",
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
