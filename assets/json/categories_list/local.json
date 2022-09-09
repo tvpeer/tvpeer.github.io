@@ -531,15 +531,6 @@
     }
   },
   {
-    "name": "Ziza TV (Chiguayante)",
-    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
-    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ñuble RTV (Chillán)",
     "path_name": "047c61c110127cf131cc81ed3b540fa7",
     "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
@@ -1641,6 +1632,15 @@
     "name": "RTV Connect TV",
     "path_name": "b40de220a63657099f317faadbab70da",
     "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Kachorro (Super TV | Amazonas)",
+    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
+    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2757,6 +2757,15 @@
     "name": "CBS THV11 Little Rock AR (KTHV)",
     "path_name": "a849af5eaa5cb4c10437b71b81053e78",
     "url": "https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS 10 Tampa FL (WTSP)",
+    "path_name": "44bd301d16826fe1631ef6a67fd133bc",
+    "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
