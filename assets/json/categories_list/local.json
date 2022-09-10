@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "Jess TV (Lethbridge)",
-    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
-    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
@@ -579,6 +570,24 @@
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NicoyaTV",
+    "path_name": "cd98ef212cd017453e3770de9005ca6c",
+    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Girona",
+    "path_name": "080367b5b1350504c030597028e7450b",
+    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1839,6 +1848,15 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Mega TV (Jaen)",
+    "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
+    "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
