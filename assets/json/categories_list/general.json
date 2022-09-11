@@ -306,24 +306,6 @@
     }
   },
   {
-    "name": "Bahrain TV",
-    "path_name": "601c8f40d4d3504224e3de6f144e5086",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bahrain International",
-    "path_name": "8e99cb5580cfa6863f9055d6a02ece8c",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Bolivia TV",
     "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
     "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
@@ -336,6 +318,15 @@
     "name": "Bolivia TV 7.2",
     "path_name": "3cfe4928a1fa763c577aa512513f826d",
     "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Cultura PR Catve",
+    "path_name": "bfe5a46aeff10142c356489b7af9da33",
+    "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -363,6 +354,15 @@
     "name": "TV Aberta",
     "path_name": "c6977ec66c32ee17e8c754bbec864638",
     "url": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Catve Master TV",
+    "path_name": "7712a143ebf186c8bdfa8f0196a2469b",
+    "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -432,6 +432,15 @@
     }
   },
   {
+    "name": "Catve2",
+    "path_name": "85f63207a0a009a357ef68442ca165fd",
+    "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Diário do Sertão",
     "path_name": "fe591e582ec425bad1ddab35392ef48b",
     "url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
@@ -444,6 +453,15 @@
     "name": "TV BRICS Portuguese",
     "path_name": "9590801d96eec46c25414c97d033376b",
     "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Catve FM",
+    "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
+    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -720,6 +738,15 @@
     }
   },
   {
+    "name": "Kurdistan TV",
+    "path_name": "71f595212ec4b869b27c4371e0f96add",
+    "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "12 TV Parma",
     "path_name": "a27b633029a3c15320b108b78fa27a43",
     "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
@@ -849,15 +876,6 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1071,24 +1089,6 @@
     }
   },
   {
-    "name": "TVR Cluj",
-    "path_name": "32880509a5851fbc22000e7fe19041f8",
-    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1101,15 +1101,6 @@
     "name": "TVR 2",
     "path_name": "b82f3e895a946b516940bd789b6bd8c5",
     "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
