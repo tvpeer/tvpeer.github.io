@@ -45,15 +45,6 @@
     }
   },
   {
-    "name": "Bloomberg TV Asia Live Event",
-    "path_name": "5fb93bb59abf9e67ae18fcfc04dce600",
-    "url": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
-    "categories": {
-      "name": "Business",
-      "slug": "business"
-    }
-  },
-  {
     "name": "Bloomberg TV Australia",
     "path_name": "dcfe981042f513cab2bed20603aaabac",
     "url": "https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8",
@@ -363,6 +354,15 @@
     "name": "CNBC Indonesia",
     "path_name": "322e813d484e9a941f0ca33d72fb450c",
     "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Business",
+      "slug": "business"
+    }
+  },
+  {
+    "name": "Fox Business",
+    "path_name": "81d52248aa771e713554063f22ac4a91",
+    "url": "http://199.66.95.242/1/1172/index.m3u8?token=test",
     "categories": {
       "name": "Business",
       "slug": "business"
