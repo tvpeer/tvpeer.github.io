@@ -315,6 +315,15 @@
     }
   },
   {
+    "name": "Atacama TV (Copiapó)",
+    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -372,15 +381,6 @@
     "name": "Canal 74 (San Antonio)",
     "path_name": "a812e3eb0f5640680dbaf33e02354de9",
     "url": "https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal SCÑ (San Carlos Ñuble)",
-    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
-    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -513,15 +513,6 @@
     }
   },
   {
-    "name": "Ñuble RTV (Chillán)",
-    "path_name": "047c61c110127cf131cc81ed3b540fa7",
-    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Senado",
     "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
@@ -543,6 +534,15 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1755,15 +1755,6 @@
     }
   },
   {
-    "name": "Innova FM (Bagua Grande)",
-    "path_name": "6bb261cd341175bba9043fd9496bfabe",
-    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
@@ -1785,6 +1776,15 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1965,6 +1965,24 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
