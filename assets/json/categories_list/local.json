@@ -1458,15 +1458,6 @@
     }
   },
   {
-    "name": "Telenica Canal 8 (tn8)",
-    "path_name": "28a663ef039bdaa359abebfec661ab5d",
-    "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ZuidWest TV",
     "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
     "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
@@ -1776,6 +1767,15 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
