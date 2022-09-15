@@ -738,15 +738,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -1647,6 +1638,15 @@
     }
   },
   {
+    "name": "TGRT Haber",
+    "path_name": "b82f4709898448ff34331b73459d0bad",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CNN International UK",
     "path_name": "3ffe27f0ff8cfb4f0bd08da76741f398",
     "url": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
@@ -2073,6 +2073,15 @@
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RT America",
+    "path_name": "b5254839b7c86d05cc2da9ee695d77b7",
+    "url": "http://ott-cdn.ucom.am/s96/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
