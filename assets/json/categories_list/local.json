@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Click TV (Coronel)",
-    "path_name": "9554e47a7857e21bdbb85989291956e6",
-    "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Cloudserver Kids90",
     "path_name": "6d785259124b8bf264e606b4e5a5172d",
     "url": "https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8",
@@ -453,15 +444,6 @@
     "name": "Holvoet TV (Copiapó)",
     "path_name": "5983420057643dcf9f3bb25bdddddcc2",
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Puncón TV",
-    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1944,15 +1926,6 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -1983,15 +1956,6 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2034,18 +1998,18 @@
     }
   },
   {
-    "name": "MitosTV (Mitos de la Selva | Pucallpa)",
-    "path_name": "a6c0333501d9711ef41184342257183a",
-    "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
+    "name": "MitosTV (Mitos de la Selva | Pucallpa)",
+    "path_name": "a6c0333501d9711ef41184342257183a",
+    "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2649,6 +2613,15 @@
     "name": "CT-N Live Stream 2",
     "path_name": "911c9ad223ea611f454647ba059ad622",
     "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TSTV",
+    "path_name": "8a872cb88b321447457f7b272b1a1d7b",
+    "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
