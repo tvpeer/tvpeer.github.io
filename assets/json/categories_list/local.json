@@ -243,6 +243,15 @@
     }
   },
   {
+    "name": "TV Poços",
+    "path_name": "e549542d48320a6373e4e35cccc944de",
+    "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Sol Comunidade",
     "path_name": "15d51beac02d1ff1ebf4d579a607137c",
     "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
@@ -417,6 +426,15 @@
     "name": "Cloudserver Latam (CSTV)",
     "path_name": "ec45882994cb99c496f3cc28b2a6b9f5",
     "url": "https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Décima TV (Ancud)",
+    "path_name": "9bc7a411771e815d6fb968408dbd0fb0",
+    "url": "http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2072,24 +2090,6 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2376,15 +2376,6 @@
     }
   },
   {
-    "name": "ABC 5 Cleveland OH (WEWS-TV)",
-    "path_name": "2983600de2fe081c50039189ad893e50",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Winthrop Community Access TV (WCAT 15)",
     "path_name": "98b95044d5d11eeb7d0bd622475d27fa",
     "url": "https://edu-wcat.azureedge.net/live/live.m3u8",
@@ -2496,15 +2487,6 @@
     "name": "Fox 61 Hartford CT (WTIC-TV)",
     "path_name": "c361438e636e5d849b38488073aaf9a7",
     "url": "https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 7 Detroit MI (WXYZ-TV)",
-    "path_name": "227784b3d2b80cf763abd788bec550dd",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
