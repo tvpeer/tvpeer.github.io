@@ -1,14 +1,5 @@
 [
   {
-    "name": "Red Bull TV",
-    "path_name": "dedc977542663b04dc67f4a0a66a5eb6",
-    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "MavTV Select",
     "path_name": "a7fbeb63e33e14da9f7711bc614865a7",
     "url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
@@ -524,6 +515,15 @@
   {
     "name": "Pac 12 Insider",
     "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
     "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -543,6 +543,15 @@
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
