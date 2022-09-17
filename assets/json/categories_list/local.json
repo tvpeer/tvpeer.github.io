@@ -2124,15 +2124,6 @@
     }
   },
   {
-    "name": "Сургут 24",
-    "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
-    "url": "https://video1.in-news.ru/c24/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
@@ -2457,6 +2448,15 @@
     }
   },
   {
+    "name": "ABC 5 Des Moines IA (WOI)",
+    "path_name": "afbdf505ae5276152e8a0b6971e90ec4",
+    "url": "https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC 16 Wilkes Barre PA (WNEP)",
     "path_name": "f775543c1c3481ffa42a5261cc0e0c53",
     "url": "https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8",
@@ -2478,6 +2478,15 @@
     "name": "Fox 54.1 Huntsville AL (WZDX)",
     "path_name": "c51c9cffc5804e5d3c45d9c8c74c80a6",
     "url": "https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 7 Boise ID (KTVB)",
+    "path_name": "5b42eeef0efbeb1344e1def9a1e478bf",
+    "url": "https://livevideo01.ktvb.com/hls/live/2014542/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2568,6 +2577,15 @@
     "name": "NBC 13 Indianapolis IN (WTHR)",
     "path_name": "7201944e5ec65500476f27bb4c30cc3d",
     "url": "https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS 19 Tyler TX (KYTX)",
+    "path_name": "fe93425a67e2b72267b432edcd1202bc",
+    "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2745,6 +2763,15 @@
     }
   },
   {
+    "name": "CBS 8 San Diego CA (KFMB-TV)",
+    "path_name": "42a3b277d62068ee3aa377fa1880a972",
+    "url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Nothing Scripted",
     "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
     "url": "https://30a-tv.com/NothingScripted.m3u8",
@@ -2772,6 +2799,24 @@
     }
   },
   {
+    "name": "Fox 15 West Texas Abilene TX (KXVA)",
+    "path_name": "fd2c6c652f4e50675bc302852e1e4cee",
+    "url": "https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS 2 Spokane WA (KREM)",
+    "path_name": "19c74e71b3fe590c47fd56bdf35d868d",
+    "url": "https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 10 Columbus OH (WBNS-TV)",
     "path_name": "e6d1e0f3de731017f9c9a6cbe5337ebd",
     "url": "https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8",
@@ -2790,6 +2835,15 @@
     }
   },
   {
+    "name": "NBC 5 Seattle WA (KING)",
+    "path_name": "1fd9911a388e73914f3e559ba062a3f7",
+    "url": "https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CBS 11 Houston TX (KHOU)",
     "path_name": "9e6cd4a3d97f9b42ed4225230b531638",
     "url": "https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8",
@@ -2799,9 +2853,36 @@
     }
   },
   {
+    "name": "ABC 10 Sacramento CA (KXTV)",
+    "path_name": "46a0e80a25b6ab654f23e3f7b051bd3f",
+    "url": "https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "12 News Beaumont TX (KBMT)",
+    "path_name": "e51b36cce41d248968f092d8514012ac",
+    "url": "https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC 13 Grand Rapids MI (WZZM)",
     "path_name": "2afcd5567cbfe3c96b20cbf03e22f9d2",
     "url": "https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 12 Phoenix AZ (KPNX)",
+    "path_name": "bf0a51281c04039fdd0cf98c66637ae0",
+    "url": "https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2829,6 +2910,15 @@
     "name": "Fox 43 Harrisburg PA (WPMT)",
     "path_name": "8c547e174650dacd631e570d49596dc5",
     "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 6 Waco TX (KCEN)",
+    "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
+    "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2952,6 +3042,33 @@
     }
   },
   {
+    "name": "NBC NewsWest 9 Midland-Odessa TX (KWES)",
+    "path_name": "0510c78403eb24a73ad975b32fb06728",
+    "url": "https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC 3 Corpus Christi TX (KIII)",
+    "path_name": "ab2135537c7f11004dd305f5cb68e43a",
+    "url": "https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 8 Portland OR (KGW)",
+    "path_name": "9066839dabe199afe4a75ab9a899cad1",
+    "url": "https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "New Orleans Television (NOTV)",
     "path_name": "0042e207043e6972ce09fdad21df0c22",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
@@ -3000,6 +3117,15 @@
     "name": "CBS 5 San Antonio TX (KENS)",
     "path_name": "64dce25ea286be17bbf6cb10d51842c2",
     "url": "https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 6 College Station TX (KAGS)",
+    "path_name": "3ad0baf84328058afe896314603eecbb",
+    "url": "https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
