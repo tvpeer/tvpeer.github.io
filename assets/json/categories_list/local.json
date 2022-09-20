@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "Rede CNT (São Paulo)",
+    "path_name": "98d8e66351ab55fdb893e09404b32a62",
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 25 Jundiaí",
     "path_name": "63d12f4a270b9fe9a947a90f2347a451",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -468,6 +477,15 @@
     }
   },
   {
+    "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
+    "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
+    "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Visión Plus TV (Melipilla)",
     "path_name": "99578787b40e46b93204a7af20607d90",
     "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
@@ -660,6 +678,24 @@
     "name": "BFM Grand Littoral",
     "path_name": "387d5ee3b2b962e3ede14e075f6d8a33",
     "url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BFM Lyon",
+    "path_name": "518173815bea775f6f360e1a618337c6",
+    "url": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BFM Paris",
+    "path_name": "228e9e979a17538d97127745e28a1a42",
+    "url": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2352,15 +2388,6 @@
     "name": "Winthrop Community Access TV (WCAT 15)",
     "path_name": "98b95044d5d11eeb7d0bd622475d27fa",
     "url": "https://edu-wcat.azureedge.net/live/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Winthrop Community Access TV (WCAT 22)",
-    "path_name": "d6eaf4f2635f16f6833bd76d35e4d7b5",
-    "url": "https://frontdoor.wcat-tv.org:8686/live/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

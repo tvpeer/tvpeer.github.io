@@ -1,5 +1,14 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -486,6 +495,15 @@
     }
   },
   {
+    "name": "Activa TV",
+    "path_name": "f1cdbef12bb6984066983efa76558402",
+    "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Mezzo",
     "path_name": "fc6a2ee1cd1a3ae741f5d8107f867259",
     "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
@@ -846,15 +864,6 @@
     }
   },
   {
-    "name": "Conecta TV",
-    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
-    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -948,15 +957,6 @@
     "name": "Kiss TV",
     "path_name": "0ba19eb9397307988afbeb0eb5851ed6",
     "url": "https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "TV Duga Plus",
-    "path_name": "247c1ba0159fdcca4856256524b932e5",
-    "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1107,6 +1107,15 @@
     }
   },
   {
+    "name": "A2i Music",
+    "path_name": "002dc005abda9e85d85000b263350925",
+    "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Mosaïque FM",
     "path_name": "044109ec0f439a4409b25730dfab93fe",
     "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
@@ -1209,6 +1218,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
