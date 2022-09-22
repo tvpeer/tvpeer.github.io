@@ -207,18 +207,18 @@
     }
   },
   {
-    "name": "TV Cidade Canal 9",
-    "path_name": "635f211a99a5c1410c36ba58189bd6d0",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
+    "name": "Rede RC",
+    "path_name": "35a07d3c322b19fc85e988e66dde301c",
+    "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Rede RC",
-    "path_name": "35a07d3c322b19fc85e988e66dde301c",
-    "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
+    "name": "TV Galega Blumenau",
+    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
+    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -741,6 +741,15 @@
     "name": "viàMoselleTV",
     "path_name": "e8096997229835589d7cf35260083ce9",
     "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "viàOccitanie",
+    "path_name": "6caa2dd79f53c00143cc4e43a7b91a9b",
+    "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2090,6 +2099,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2361,15 +2388,6 @@
     "name": "NBC 26 Green Bay WI (WGBA)",
     "path_name": "3f98d5c36b2932a6d320c593c58f8cfe",
     "url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "News 12 New York",
-    "path_name": "d0dc5c2494787ff8661d41c0752319e8",
-    "url": "https://lnc-news12.tubi.video/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
