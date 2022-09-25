@@ -1982,6 +1982,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2790,6 +2808,15 @@
     }
   },
   {
+    "name": "NBC 6 Waco TX (KCEN)",
+    "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
+    "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "NBC 2 Buffalo NY (WGRZ)",
     "path_name": "b3cfd63ab8665d7bea740b2afbcdd0f1",
     "url": "https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8",
@@ -2907,6 +2934,15 @@
     }
   },
   {
+    "name": "NBC NewsWest 9 Midland-Odessa TX (KWES)",
+    "path_name": "0510c78403eb24a73ad975b32fb06728",
+    "url": "https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "ABC 3 Corpus Christi TX (KIII)",
     "path_name": "ab2135537c7f11004dd305f5cb68e43a",
     "url": "https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8",
@@ -2973,6 +3009,15 @@
     "name": "CBS 5 San Antonio TX (KENS)",
     "path_name": "64dce25ea286be17bbf6cb10d51842c2",
     "url": "https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 6 College Station TX (KAGS)",
+    "path_name": "3ad0baf84328058afe896314603eecbb",
+    "url": "https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
