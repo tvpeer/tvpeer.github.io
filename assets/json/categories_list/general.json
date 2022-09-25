@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
@@ -201,6 +192,15 @@
     "name": "EL TV",
     "path_name": "9bd60679e159950b3c46a1b4199abe01",
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Alvin Channel TV",
+    "path_name": "af035aef2df699d66b9a68c4742e79ed",
+    "url": "http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -639,15 +639,6 @@
     }
   },
   {
-    "name": "Trans7",
-    "path_name": "5f8d7fe7e00f29f23a181f8eebc7618b",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Trans TV",
     "path_name": "2b332593d6c5d88558ea2f13ef01e9ff",
     "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
@@ -999,24 +990,6 @@
     }
   },
   {
-    "name": "Ajyal TV",
-    "path_name": "3d6635da4ad3983076dffc58715b7713",
-    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Ajyal TV",
-    "path_name": "3d6635da4ad3983076dffc58715b7713",
-    "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Porto Canal",
     "path_name": "308386aa56a9609629984201d03ad365",
     "url": "https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8",
@@ -1071,6 +1044,24 @@
     }
   },
   {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR International",
+    "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
+    "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "A7TV",
     "path_name": "a7c18ec317249c3a1a6164d2075f4531",
     "url": "https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8",
@@ -1092,6 +1083,15 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
