@@ -450,6 +450,15 @@
     }
   },
   {
+    "name": "Santa María Televisión",
+    "path_name": "3367c1feb878d42504c153dd4d570aa3",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Quellón",
     "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
@@ -633,15 +642,6 @@
     "name": "tvG2",
     "path_name": "467b3314774de8741109c336336293a8",
     "url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVG Evento 5",
-    "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
-    "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1719,15 +1719,6 @@
     }
   },
   {
-    "name": "Oriental TV 21 (Pucallpa)",
-    "path_name": "9c4db63137480c1eb82e05dcf20073af",
-    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
@@ -1767,6 +1758,15 @@
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1821,6 +1821,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1890,6 +1899,15 @@
     }
   },
   {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -1920,6 +1938,15 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1974,6 +2001,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
