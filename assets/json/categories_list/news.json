@@ -594,15 +594,6 @@
     }
   },
   {
-    "name": "Channel T1",
-    "path_name": "9a508f051a628243eb88e4662f6b87c0",
-    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBN Rio",
     "path_name": "9f534c91e76a8fd7b58e389252d5967f",
     "url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
@@ -633,6 +624,24 @@
     "name": "Record News",
     "path_name": "3feb5980c7836d1e3d87f49734826648",
     "url": "https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Беларусь 3",
+    "path_name": "6ad011330527b86bff7dbd0583ec5bd3",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Беларусь 24",
+    "path_name": "a8b5756afc1c85e36a0c3ec7f9d9f7d9",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1161,15 +1170,6 @@
     }
   },
   {
-    "name": "Press TV French",
-    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
-    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
@@ -1227,15 +1227,6 @@
     "name": "HispanTV",
     "path_name": "906105ead1dc83d4cf1c928f4af0e168",
     "url": "https://live.presstv.ir/live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HispanTV",
-    "path_name": "906105ead1dc83d4cf1c928f4af0e168",
-    "url": "https://live1.presstv.ir/live/hispan.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1620,33 +1611,6 @@
     }
   },
   {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1875,6 +1839,15 @@
     "name": "OAN Encore",
     "path_name": "658f21cff54e1284be9609028ffed0c6",
     "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "ABC 9 Kansas City MO (KMBC-TV)",
+    "path_name": "80f9f374ccabc690000c4d20b8154836",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2154,15 +2127,6 @@
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
