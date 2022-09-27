@@ -63,15 +63,6 @@
     }
   },
   {
-    "name": "PUC TV Goiás",
-    "path_name": "8ae99f414cd91710a8c48c16450cd820",
-    "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV Evangelizar",
     "path_name": "65cc6d472e59565d27a89e8ff207cb2e",
     "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
@@ -207,6 +198,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -243,18 +243,18 @@
     }
   },
   {
-    "name": "TNE",
-    "path_name": "d1f63de2ce5f7c87c38d4ddb927c7d16",
-    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+    "name": "Canal ISB (Iglesia San Bernardo)",
+    "path_name": "00790056464ac6bae6f28d620093979c",
+    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
     }
   },
   {
-    "name": "Gracia TV",
-    "path_name": "3b3f8f2ecd0dbf879402a7228aadbdc1",
-    "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
+    "name": "TNE",
+    "path_name": "d1f63de2ce5f7c87c38d4ddb927c7d16",
+    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -399,15 +399,6 @@
     "name": "Taevas TV7",
     "path_name": "97ea1bcbb5608bbaa3270a5e62eb8805",
     "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Iglesia Del Camino",
-    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
-    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -567,6 +558,15 @@
     }
   },
   {
+    "name": "Al-Jawadain TV",
+    "path_name": "a614fa00b9a89a8c0b10a9016770b7bc",
+    "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Amozhgary TV",
     "path_name": "d71900cf38539fd5b6f9cd5f4b9801b0",
     "url": "https://media.streambrothers.com:1936/8248/8248/playlist.m3u8",
@@ -633,6 +633,24 @@
     "name": "Salam TV",
     "path_name": "d123adb0c257aed3f596c6dee08a6fba",
     "url": "https://iptv.salaamtv.org/salaam/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
