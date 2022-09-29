@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "BBC World News",
-    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
-    "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "DW English",
     "path_name": "211d871ac3b856120f9d466edd57964e",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -972,15 +963,6 @@
     }
   },
   {
-    "name": "Asianet News",
-    "path_name": "3f8b98b8efdb9ee5014d8c0abcd63620",
-    "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Real News Kerala",
     "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
     "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
@@ -999,54 +981,9 @@
     }
   },
   {
-    "name": "Manorama News",
-    "path_name": "6ec2e845eba17ccd3d31760f3ded152a",
-    "url": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Time Vision News",
     "path_name": "5468f643e57b49c29583122bfee35a7b",
     "url": "http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Reporter TV",
-    "path_name": "cdbf44e8a6ae363410287101d1a04006",
-    "url": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Kairali News",
-    "path_name": "deaf11a677075fb2ec5268016f401a7f",
-    "url": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Media One",
-    "path_name": "231e2e59c91fc8401b35de06ff4ad1c9",
-    "url": "http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Mathrubhumi News",
-    "path_name": "fbe61930d9ee1a396bcce2dba0b651c1",
-    "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1587,24 +1524,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2154,6 +2073,24 @@
     "name": "TAG TV",
     "path_name": "b493510675d358963bc9d4c3c859ab81",
     "url": "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "SubRang TV",
+    "path_name": "bb8c9a9d895177fc801b63aa828d4186",
+    "url": "https://cdn20.liveonlineservices.com/hls/subrang.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "SubRang TV",
+    "path_name": "bb8c9a9d895177fc801b63aa828d4186",
+    "url": "https://cdn61.liveonlineservices.com/hls/subrang.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
