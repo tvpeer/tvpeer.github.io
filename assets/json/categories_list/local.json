@@ -324,15 +324,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Aysén TV",
     "path_name": "1e735fa078c54dc1860e19fca9c0092d",
     "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
@@ -1665,15 +1656,6 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -2520,6 +2502,15 @@
     }
   },
   {
+    "name": "NBC 207 Bangor Portland ME (WLBZ)",
+    "path_name": "22519b4a51c3f9748ec1dc25bee40617",
+    "url": "https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "NBC 13 Indianapolis IN (WTHR)",
     "path_name": "7201944e5ec65500476f27bb4c30cc3d",
     "url": "https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8",
@@ -2631,6 +2622,15 @@
     "name": "KTLA 5 Los Angeles CA",
     "path_name": "35576459650a405121c3d43028c3e178",
     "url": "https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC / ABC Jacksonville FL (WTLV)",
+    "path_name": "2384c271b2d1b0d42e2c335942f77940",
+    "url": "https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
