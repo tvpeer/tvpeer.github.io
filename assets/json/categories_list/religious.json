@@ -1,5 +1,32 @@
 [
   {
+    "name": "Sharjah TV",
+    "path_name": "f025f11d1fd5e4c805172f47184f5a31",
+    "url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Sharjah 2",
+    "path_name": "0304da4cc308d13ccfe62f585645291d",
+    "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "SAT-7 ARABIC",
+    "path_name": "065429d611dc8bd90b59c8384df6d45b",
+    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Peace TV Albanian",
     "path_name": "6bd309180fa167468e61af2c0c190625",
     "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
@@ -174,15 +201,6 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -432,6 +450,24 @@
     }
   },
   {
+    "name": "Vida TV",
+    "path_name": "e379829fce360c74d3894c865a6f80b8",
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Radio Télé 4VEH",
+    "path_name": "ff1441b8417d2792fbaddd99e2c379b5",
+    "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Bonum TV",
     "path_name": "ce6a1e671940d92d2b3ac09fe4661651",
     "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
@@ -630,6 +666,24 @@
     }
   },
   {
+    "name": "SAT-7 PARS",
+    "path_name": "c397398a16875a0fb0e2118b86856320",
+    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Maali TV",
+    "path_name": "f10f849aa9fc6df223e1b13f09823e00",
+    "url": "https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Nour Al Koddas",
     "path_name": "d5e3774ecc32a857197356cb99edc3a1",
     "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
@@ -765,6 +819,15 @@
     }
   },
   {
+    "name": "Sobrenatural TV",
+    "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
+    "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
     "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8",
@@ -849,6 +912,15 @@
     "name": "A2i Religion",
     "path_name": "d90ee33894787f2b9f607f63cc61a556",
     "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "SAT-7 TÜRK",
+    "path_name": "59fb954daae39e38bb2f4475cc3c87d5",
+    "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1632,6 +1704,24 @@
     "name": "JBS",
     "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
     "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Revelation TV",
+    "path_name": "808793148533239786c65660c605740b",
+    "url": "https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Revelation TV",
+    "path_name": "808793148533239786c65660c605740b",
+    "url": "https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
