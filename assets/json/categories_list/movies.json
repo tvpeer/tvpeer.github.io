@@ -18,15 +18,6 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "ATV Ֆիլմզոն",
     "path_name": "daa60ca759b05ec4bb74a650d4705527",
     "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
@@ -234,15 +225,6 @@
     }
   },
   {
-    "name": "Persiana Korea",
-    "path_name": "9a6dadaa2425cc600be1bc7d59320a01",
-    "url": "http://51.210.199.14/hls/stream.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Persiana Plus",
     "path_name": "a86c9686e7ad2277db6c5c23b5348a61",
     "url": "http://51.210.199.21/hls/stream.m3u8",
@@ -255,15 +237,6 @@
     "name": "Sepanj TV",
     "path_name": "0f79b982aa1890484e691416653909b5",
     "url": "http://51.210.199.30/hls/stream.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "TehranTV 24",
-    "path_name": "563dd5c905bd6ecc38237e8517c39a5d",
-    "url": "http://51.210.227.132/hls/stream.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -354,15 +327,6 @@
     "name": "Киносвидание",
     "path_name": "a346ea9f8059edeb0ab71e1305afa04f",
     "url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Amedia Hit",
-    "path_name": "8295ae2c9964eede50012d4d1de2fb42",
-    "url": "https://sc.id-tv.kz/amedia_hit_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -660,6 +624,15 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Samuel Goldwyn Channel",
+    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
+    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
