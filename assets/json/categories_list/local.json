@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -534,6 +525,15 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1638,15 +1638,6 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -1776,6 +1767,15 @@
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Solar Televisión (Abancay)",
+    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
+    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1992,15 +1992,6 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
