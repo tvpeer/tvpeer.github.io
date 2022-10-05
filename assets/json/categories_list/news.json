@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Jazeera Arabic",
+    "path_name": "594bc5910c2e2c619ae6a022987a146d",
+    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -738,6 +747,15 @@
     }
   },
   {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -849,15 +867,6 @@
     "name": "iNews",
     "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
     "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Metro TV",
-    "path_name": "2d59551f6fbb1e023544927e527cdd98",
-    "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1155,6 +1164,15 @@
     "name": "Press TV English",
     "path_name": "4db0637170b90138292f8c415eb56585",
     "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Press TV French",
+    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
+    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1467,15 +1485,6 @@
     }
   },
   {
-    "name": "TV Noticias 7.3",
-    "path_name": "0f2390c6b8fb66536d745e85f3d3845d",
-    "url": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Lahore News",
     "path_name": "37b3b96aa0ea32e46063d8ae9147604a",
     "url": "https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8",
@@ -1587,6 +1596,15 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1883,25 +1901,7 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://bnc-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2100,24 +2100,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
