@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "TeleJunín",
-    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
-    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -2025,15 +2016,6 @@
     }
   },
   {
-    "name": "RadioTV Oriente (Yurimaguas)",
-    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
-    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Andes Televisión (Sicusani)",
     "path_name": "1c1dd28079febe6fb6f488ba7699296a",
     "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
@@ -2217,6 +2199,15 @@
     "name": "Эхо TV (Рязань)",
     "path_name": "a22fe26511300393f0465ebf1207e449",
     "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Югра",
+    "path_name": "6397ea88f122f9afed02c4764ebac1c7",
+    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
