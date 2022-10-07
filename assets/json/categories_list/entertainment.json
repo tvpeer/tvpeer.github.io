@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -126,15 +135,6 @@
     }
   },
   {
-    "name": "KCL TV",
-    "path_name": "61717861eab85ef2fefe8db41b69481b",
-    "url": "http://kcltv.livebox.co.in/kclhls/live.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "One TV",
     "path_name": "a353656426bd22f03a23dcd5edc6fad4",
     "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
@@ -174,15 +174,6 @@
     "name": "Sana TV",
     "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
     "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Aathavan TV",
-    "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
-    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -237,6 +228,15 @@
     "name": "Ecran TV",
     "path_name": "c938d335c0c5779eeebba0a45803ef40",
     "url": "http://51.210.199.40/hls/stream.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ITC TV",
+    "path_name": "6ef3f2563d169987779b98c45dab360b",
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -894,6 +894,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
