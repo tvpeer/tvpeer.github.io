@@ -198,6 +198,15 @@
     }
   },
   {
+    "name": "TV Cidade de Petrópolis",
+    "path_name": "97f192a17020f1875979df3ec60fe210",
+    "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Cidade Canal 9",
     "path_name": "635f211a99a5c1410c36ba58189bd6d0",
     "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
@@ -1656,6 +1665,15 @@
     }
   },
   {
+    "name": "AsiriTV (Lima)",
+    "path_name": "2f106380faf53eca147780035513a4e0",
+    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
@@ -1812,6 +1830,15 @@
     "name": "CR Television (Moyobamba)",
     "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
     "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Genios TV (Moyobamba)",
+    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
+    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2009,15 +2036,6 @@
   {
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
-    "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Евразия (Орск)",
-    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "categories": {
       "name": "Local",
@@ -2027,7 +2045,16 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2088,15 +2115,6 @@
     }
   },
   {
-    "name": "Губерния 33 (Владимир)",
-    "path_name": "8913cfac03688e52f808239f040c8c31",
-    "url": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Липецкое время",
     "path_name": "335b708c0ac98f504e55c0c76c64f965",
     "url": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8",
@@ -2109,15 +2127,6 @@
     "name": "Между.Net (Междуреченск)",
     "path_name": "51961435c21d8ba400bf66b4d626187b",
     "url": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "НТМ (Народное телевидение Мордовии)",
-    "path_name": "294376b7e371b1e6d234efa33f100df5",
-    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2145,15 +2154,6 @@
     "name": "Татарстан24",
     "path_name": "366a69ffe7cf4d833522aa2f026d4536",
     "url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "МТВ (Волгоград)",
-    "path_name": "5743f86434a62aeb45f219a0dad24567",
-    "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

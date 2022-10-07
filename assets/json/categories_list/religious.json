@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Fonte TV",
-    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -144,24 +135,6 @@
     }
   },
   {
-    "name": "Rede Século 21",
-    "path_name": "62b06c020b225700456ed5c4c71b67a3",
-    "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Rede Gospel",
-    "path_name": "69ebd4f367bc24a3b2c586c456b30651",
-    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Gospel Movie TV",
     "path_name": "2f7fbb892b497478324177e88444148a",
     "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
@@ -174,6 +147,15 @@
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Aparecida",
+    "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
+    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -891,33 +873,6 @@
     }
   },
   {
-    "name": "Надежда",
-    "path_name": "cc395f0a57005af38ccf31f902cd2997",
-    "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Надежда",
-    "path_name": "cc395f0a57005af38ccf31f902cd2997",
-    "url": "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Союз",
-    "path_name": "4bee6aa782a165296df643b8369cc5c1",
-    "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Небеса ТВ7",
     "path_name": "c7f3368b1f0453e5d81e4eba75a5acc3",
     "url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8",
@@ -939,15 +894,6 @@
     "name": "Al Quran Al Kareem TV (Mecca)",
     "path_name": "3747d19ea86f7d26b423d49f573ed243",
     "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "A2i Religion",
-    "path_name": "d90ee33894787f2b9f607f63cc61a556",
-    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
