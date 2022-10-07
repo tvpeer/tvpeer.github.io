@@ -1,5 +1,14 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -360,24 +369,6 @@
     }
   },
   {
-    "name": "Canal 38",
-    "path_name": "b1ca9119472e77fe038726240c956abe",
-    "url": "https://rtmp.info/canal38/envivo/chunks.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Canal 38",
-    "path_name": "b1ca9119472e77fe038726240c956abe",
-    "url": "https://rtmp.info/canal38/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "VM Latino",
     "path_name": "c4ee5c5ff301fea566fd9c277385b156",
     "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
@@ -570,6 +561,15 @@
     "name": "Baraza TV",
     "path_name": "7dc40dfb9077ca7e4e8e631b9a97f705",
     "url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Desi Channel",
+    "path_name": "2a80d7c4e843d9467a9ef72436741db6",
+    "url": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1101,6 +1101,15 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
