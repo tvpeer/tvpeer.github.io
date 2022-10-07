@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Fashion TV PG16",
-    "path_name": "48f6b819f44e7a6e6b53ed668452a2d0",
-    "url": "http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8",
-    "categories": {
-      "name": "Lifestyle",
-      "slug": "lifestyle"
-    }
-  },
-  {
     "name": "Fashion TV UHD",
     "path_name": "0ffc9b6b7962b97246280c371fe6175e",
     "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
@@ -153,9 +144,27 @@
     }
   },
   {
+    "name": "Ayush TV",
+    "path_name": "4c96d9b2f722469705cf4e97257a8203",
+    "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+    "categories": {
+      "name": "Lifestyle",
+      "slug": "lifestyle"
+    }
+  },
+  {
     "name": "Kappa TV",
     "path_name": "d83a4d2f27aa133fd55861a1829f451e",
     "url": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
+    "categories": {
+      "name": "Lifestyle",
+      "slug": "lifestyle"
+    }
+  },
+  {
+    "name": "Fashion TV Russia",
+    "path_name": "0efd04621eeba147800a31a0b5de5299",
+    "url": "http://ott-cdn.ucom.am/s30/index.m3u8",
     "categories": {
       "name": "Lifestyle",
       "slug": "lifestyle"
