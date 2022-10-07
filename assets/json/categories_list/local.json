@@ -162,27 +162,9 @@
     }
   },
   {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Nova Era TV",
-    "path_name": "97002ce81e35169dff3b16c94d105fbd",
-    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -768,6 +750,15 @@
     "name": "TVR (Bretagne)",
     "path_name": "71129c5e80a19e814eea374d980b598a",
     "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Channel 9",
+    "path_name": "998f454cb1378a5e9527a1a4af87205f",
+    "url": "http://176.9.123.140:1935/channel9/channel9/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1674,15 +1665,6 @@
     }
   },
   {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "LimaLive",
     "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
     "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
@@ -1755,18 +1737,18 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "name": "Unitel (Huancayo)",
+    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
+    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Antares Televisión",
-    "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
