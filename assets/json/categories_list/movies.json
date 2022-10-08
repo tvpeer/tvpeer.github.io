@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ATV Կինոման",
+    "path_name": "5dceef43f92994d939241c5cf491829d",
+    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -432,15 +441,6 @@
     }
   },
   {
-    "name": "Bloody Disgusting",
-    "path_name": "bc60668977cbbddce91b1c6696e84247",
-    "url": "https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "An American Christmas Carol",
     "path_name": "1ef637a3a6d8d4bc747d724093fa46d3",
     "url": "https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8",
@@ -534,15 +534,6 @@
     "name": "TVS Drive In Movie",
     "path_name": "8d64d964fd745cbf3641aae28f61d8b1",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "ActionMax East",
-    "path_name": "17bacc51be6f497e1e4c8068a942983a",
-    "url": "http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
