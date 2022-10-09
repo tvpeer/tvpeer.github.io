@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -210,15 +201,6 @@
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1350,15 +1332,6 @@
     }
   },
   {
-    "name": "Next TV Malabar",
-    "path_name": "462cadd733920d09791dd898d72a7142",
-    "url": "https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1701,6 +1674,15 @@
     }
   },
   {
+    "name": "Oriental TV 21 (Pucallpa)",
+    "path_name": "9c4db63137480c1eb82e05dcf20073af",
+    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
@@ -2019,6 +2001,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
