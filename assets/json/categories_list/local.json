@@ -1973,6 +1973,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2757,6 +2775,15 @@
     "name": "Fox 43 Harrisburg PA (WPMT)",
     "path_name": "8c547e174650dacd631e570d49596dc5",
     "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 6 Waco TX (KCEN)",
+    "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
+    "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
