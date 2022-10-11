@@ -603,15 +603,6 @@
     }
   },
   {
-    "name": "Беларусь 3",
-    "path_name": "6ad011330527b86bff7dbd0583ec5bd3",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Беларусь 24",
     "path_name": "a8b5756afc1c85e36a0c3ec7f9d9f7d9",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
@@ -855,15 +846,6 @@
     }
   },
   {
-    "name": "BeritaSatu",
-    "path_name": "4541072cc3bb099e6df7c2687e07c8d0",
-    "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "iNews",
     "path_name": "0d077f3f242cf5ad53a282d95e47bfca",
     "url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8",
@@ -930,6 +912,15 @@
     "name": "FASTWAY NEWS",
     "path_name": "f075257efea0c72aba476522b1cd03f7",
     "url": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Pramaya News7",
+    "path_name": "f43cddf267c236960bbc1c286685aef2",
+    "url": "https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1350,6 +1341,15 @@
     }
   },
   {
+    "name": "Caspian News",
+    "path_name": "e75f41b421bf5b2ad6fc08872611774a",
+    "url": "https://sc.id-tv.kz/CaspianNews.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Al Manar",
     "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
     "url": "https://manar.live/iptv/playlist.m3u8",
@@ -1431,6 +1431,15 @@
     }
   },
   {
+    "name": "Medi 1 TV Afrique",
+    "path_name": "b49bca2ba572e6a084b24abe108839be",
+    "url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Medi 1 TV Maghreb",
     "path_name": "b12f137df9610b6faf0af82715ae391f",
     "url": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
@@ -1470,15 +1479,6 @@
     "name": "Identidad TV",
     "path_name": "b5c2cd855c58adc81a084a4ef6a4031b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "RTV Total (Yurimaguas)",
-    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
-    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1605,15 +1605,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1902,15 +1893,6 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
