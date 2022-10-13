@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -279,15 +288,6 @@
     }
   },
   {
-    "name": "Ел Арна",
-    "path_name": "3c1b059253e31184839de05c281eee5e",
-    "url": "https://sc.id-tv.kz/ElArna.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8",
@@ -540,15 +540,6 @@
     }
   },
   {
-    "name": "ActionMax East",
-    "path_name": "17bacc51be6f497e1e4c8068a942983a",
-    "url": "http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Xumo Free Movies",
     "path_name": "01f6a641f18e10a2a2c1f81c4e60b904",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
@@ -783,27 +774,9 @@
     }
   },
   {
-    "name": "Crackle",
-    "path_name": "ae8c9f5903dc0f1b600b46c647b1fdc7",
-    "url": "https://crackle-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Cine Romantico (XUMO)",
     "path_name": "f3d46d813ce62649b234cb3debb15ac7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Cinemax East",
-    "path_name": "9efa8e1be86e5d93ab3c7f2014785095",
-    "url": "http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
