@@ -126,15 +126,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -423,6 +414,15 @@
     }
   },
   {
+    "name": "ISTV",
+    "path_name": "4eec9f69d87af30f39ca88b4db85b595",
+    "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Metropole",
     "path_name": "92ca0fab71afbc1be6b251467a82df91",
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
@@ -507,15 +507,6 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TDI Colombia",
-    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
-    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1464,24 +1455,6 @@
     "categories": {
       "name": "General",
       "slug": "general"
-    }
-  },
-  {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "The CW Los Angeles CA (KTLA-DT1)",
-    "path_name": "79858b4708bf31e034d38a414f16568e",
-    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
     }
   }
 ]
