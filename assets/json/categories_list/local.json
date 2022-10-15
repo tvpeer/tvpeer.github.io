@@ -216,15 +216,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -372,6 +363,15 @@
     "name": "Canal 74 (San Antonio)",
     "path_name": "a812e3eb0f5640680dbaf33e02354de9",
     "url": "https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal SCÑ (San Carlos Ñuble)",
+    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
+    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2106,15 +2106,6 @@
     }
   },
   {
-    "name": "Мордовия 24",
-    "path_name": "bf84c8faa2e08bbf6e8141be8c5951fc",
-    "url": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "НТМ (Народное телевидение Мордовии)",
     "path_name": "294376b7e371b1e6d234efa33f100df5",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
@@ -2478,15 +2469,6 @@
     "name": "NBC 13 Indianapolis IN (WTHR)",
     "path_name": "7201944e5ec65500476f27bb4c30cc3d",
     "url": "https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CBS 19 Tyler TX (KYTX)",
-    "path_name": "fe93425a67e2b72267b432edcd1202bc",
-    "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
