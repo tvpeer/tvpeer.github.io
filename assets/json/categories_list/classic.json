@@ -27,6 +27,15 @@
     }
   },
   {
+    "name": "Johnny Carson TV",
+    "path_name": "dad889492fd46c38b8648e485c0d722b",
+    "url": "https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8",
+    "categories": {
+      "name": "Classic",
+      "slug": "classic"
+    }
+  },
+  {
     "name": "FilmRise Classic TV on Redbox",
     "path_name": "65d6df645508140ae572326b005ffe17",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8",
@@ -36,9 +45,27 @@
     }
   },
   {
+    "name": "TVS Mainstreet",
+    "path_name": "c464803c5af848a5b7a412ab7e6b9a68",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8",
+    "categories": {
+      "name": "Classic",
+      "slug": "classic"
+    }
+  },
+  {
     "name": "TVS Tavern",
     "path_name": "53234efe56ddefb9156eba464a1190ba",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8",
+    "categories": {
+      "name": "Classic",
+      "slug": "classic"
+    }
+  },
+  {
+    "name": "TVS Nostalgia Movies",
+    "path_name": "f4214d0bac9926a88f55155e77866a20",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8",
     "categories": {
       "name": "Classic",
       "slug": "classic"
@@ -153,6 +180,15 @@
     }
   },
   {
+    "name": "TVS Inspirational Network",
+    "path_name": "1bc760f0f458e925c583670f6418e5fb",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8",
+    "categories": {
+      "name": "Classic",
+      "slug": "classic"
+    }
+  },
+  {
     "name": "TVS Nostalgia",
     "path_name": "a262643ca696b483264ba166e4912d10",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8",
@@ -198,6 +234,15 @@
     }
   },
   {
+    "name": "TVS Horror Network",
+    "path_name": "c82ac7342146c2a39e6dee52a84fc31c",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8",
+    "categories": {
+      "name": "Classic",
+      "slug": "classic"
+    }
+  },
+  {
     "name": "The Archive",
     "path_name": "75a1ecbb9aa52e26ec1052e6efb2cbf3",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8",
@@ -228,15 +273,6 @@
     "name": "Westerns 4U",
     "path_name": "9a900454ce40e4b554f5ae5388890338",
     "url": "https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8",
-    "categories": {
-      "name": "Classic",
-      "slug": "classic"
-    }
-  },
-  {
-    "name": "Sci-Fi 4U",
-    "path_name": "52b4592f0434676741f94b56e000fe8a",
-    "url": "https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8",
     "categories": {
       "name": "Classic",
       "slug": "classic"
