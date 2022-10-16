@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -21,15 +30,6 @@
     "name": "Antenne Vorarlberg",
     "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
     "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio Contact",
-    "path_name": "37862ce29f5bd61fbb841acfd6755687",
-    "url": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -729,15 +729,6 @@
     }
   },
   {
-    "name": "Caltex TV",
-    "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
-    "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Diyar TV",
     "path_name": "050b9574112eabd36f769194a1a7b6b8",
     "url": "http://51.210.199.28/hls/stream.m3u8",
@@ -810,24 +801,6 @@
     }
   },
   {
-    "name": "Radio Italia TV",
-    "path_name": "e05ed59d1e4c49dfa5c0334c40f6f085",
-    "url": "https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio Capital TV",
-    "path_name": "45f50b297ec07c640f94cc8be04b6abc",
-    "url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Radio Piter Pan TV",
     "path_name": "921810c9e13ccf1c449a7d481073ade6",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
@@ -840,15 +813,6 @@
     "name": "Euro Indie Music Chart TV",
     "path_name": "4b81ead013194f349b6033c8e04c4582",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Radio Capital TV",
-    "path_name": "45f50b297ec07c640f94cc8be04b6abc",
-    "url": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1146,15 +1110,6 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
