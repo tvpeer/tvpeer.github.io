@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Fonte TV",
-    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -486,15 +477,6 @@
     }
   },
   {
-    "name": "Bonum TV",
-    "path_name": "ce6a1e671940d92d2b3ac09fe4661651",
-    "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "I AM CHANNEL",
     "path_name": "b4995072f6956bf8072bbccd17703e96",
     "url": "http://iamchannel.org:1935/tes/1/playlist.m3u8",
@@ -561,6 +543,15 @@
     "name": "Alkafeel: Between the two holy shrines",
     "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
     "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The Holy Tomb",
+    "path_name": "1975e0c60f2f9bffbafe755ad6cd082d",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1632,6 +1623,15 @@
     "name": "NRB TV",
     "path_name": "2e330d2175f9bd215d8922a0bb9542c5",
     "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Cornerstone TV",
+    "path_name": "6e9b121a0cde38819378f2e656157e80",
+    "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
