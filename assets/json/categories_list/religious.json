@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Fonte TV",
+    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -120,6 +129,15 @@
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Século 21",
+    "path_name": "62b06c020b225700456ed5c4c71b67a3",
+    "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -585,15 +603,6 @@
     }
   },
   {
-    "name": "Al Wilayah",
-    "path_name": "dc26e745dd5c9db67916288cef0d75f5",
-    "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Payvand TV",
     "path_name": "d3b9981fec2d16a819201201508011e4",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
@@ -804,15 +813,6 @@
     "name": "Nazarenas TV",
     "path_name": "1d4509993bcf493f8541094425387827",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Madani Channel Urdu",
-    "path_name": "78458ffab0682376beec78db9ffdfe86",
-    "url": "https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1335,15 +1335,6 @@
     "name": "IBN TV",
     "path_name": "e0627a066656ead08dc8f8c9ac12edb3",
     "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "CNL Европа",
-    "path_name": "1665f5a280e7347e114d3f9a355dbf45",
-    "url": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
