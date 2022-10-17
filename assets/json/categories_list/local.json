@@ -225,6 +225,15 @@
     }
   },
   {
+    "name": "TV Galega Blumenau",
+    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
+    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -462,6 +471,15 @@
     "name": "TVO (San Vicente)",
     "path_name": "9231f1e45816538f117972ce36b9a1a6",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
+    "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
+    "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1638,6 +1656,15 @@
     }
   },
   {
+    "name": "FuegoTV (Lima)",
+    "path_name": "b41736b00b8ff176a47667ab2c95d66f",
+    "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "LimaLive",
     "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
     "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
@@ -1863,15 +1890,6 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -1929,15 +1947,6 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "RadioTV Oriente (Yurimaguas)",
-    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
-    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2046,6 +2055,24 @@
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
