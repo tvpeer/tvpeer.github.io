@@ -1,23 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -819,6 +801,15 @@
     }
   },
   {
+    "name": "Video Rola",
+    "path_name": "4c0a55b42c57a7ab3e68738691346f51",
+    "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Euro Indie Music Chart TV",
     "path_name": "4b81ead013194f349b6033c8e04c4582",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
@@ -903,15 +894,6 @@
     "name": "XITE (BE)",
     "path_name": "7a9bfd4261bf46ded3ea1eefa44e4e0a",
     "url": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "GO-RTV",
-    "path_name": "1d11b702ba497e1070cced490dad70cd",
-    "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
