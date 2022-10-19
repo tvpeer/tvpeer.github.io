@@ -270,6 +270,15 @@
     }
   },
   {
+    "name": "Toronto 360 TV",
+    "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
+    "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV 16 Toronto",
     "path_name": "0378bd20817e872afa934240cff62cf2",
     "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
@@ -1593,6 +1602,15 @@
     }
   },
   {
+    "name": "Auténtica Televisión",
+    "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
+    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Central TV (Chosica)",
     "path_name": "f8e30b59953c450328010027510582c2",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
@@ -1884,6 +1902,24 @@
     "name": "Super Canal (Yurimaguas)",
     "path_name": "e845ad43e8738ef46e209babf94a5dee",
     "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
