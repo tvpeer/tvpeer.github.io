@@ -1,23 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -756,6 +738,15 @@
     }
   },
   {
+    "name": "High Vision",
+    "path_name": "b82414f628acd86dc21be4434b264ee4",
+    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "NAVAHANG",
     "path_name": "3bfd0c896cfd7ad296c1987277d3c1d5",
     "url": "http://51.210.227.130/hls/stream.m3u8",
@@ -813,6 +804,15 @@
     "name": "Radio Piter Pan TV",
     "path_name": "921810c9e13ccf1c449a7d481073ade6",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Euro Indie Music Chart TV",
+    "path_name": "4b81ead013194f349b6033c8e04c4582",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1143,6 +1143,15 @@
     }
   },
   {
+    "name": "Mosaïque FM",
+    "path_name": "044109ec0f439a4409b25730dfab93fe",
+    "url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "M2",
     "path_name": "f71033f9d8c141e98e5a25bc97e1c1a6",
     "url": "http://live.m2.tv/hls3/stream.m3u8",
@@ -1254,15 +1263,6 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "30A Music",
-    "path_name": "8c052738370a2cf5822d919bddcb72da",
-    "url": "https://30a-tv.com/music.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
