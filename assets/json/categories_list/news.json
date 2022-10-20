@@ -720,6 +720,24 @@
     }
   },
   {
+    "name": "CGTN",
+    "path_name": "c860ff939f1cf588a65d3e6fe5918479",
+    "url": "http://live.cgtn.com/1000/prog_index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CGTN",
+    "path_name": "c860ff939f1cf588a65d3e6fe5918479",
+    "url": "http://live.cgtn.com/500/prog_index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CGTN Español",
     "path_name": "cc3a31331df890da59b864c170d70708",
     "url": "http://livees.cgtn.com/500e/prog_index.m3u8",
@@ -1802,15 +1820,6 @@
   {
     "name": "Newsmax",
     "path_name": "0d80516a937de6d784937fe1ee282165",
-    "url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Newsmax",
-    "path_name": "0d80516a937de6d784937fe1ee282165",
     "url": "https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8",
     "categories": {
       "name": "News",
@@ -2190,6 +2199,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
