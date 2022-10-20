@@ -144,6 +144,15 @@
     }
   },
   {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -291,6 +300,15 @@
     "name": "Antofagasta TV (ATV)",
     "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Atacama TV (Copiapó)",
+    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1575,15 +1593,6 @@
     }
   },
   {
-    "name": "Kachorro (Super TV | Amazonas)",
-    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
-    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "SelvaMía TV (Aguaytía)",
     "path_name": "0a777990fbb707ff7433f6529a1085e5",
     "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
@@ -1935,15 +1944,6 @@
     }
   },
   {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
@@ -1992,6 +1992,15 @@
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Millenium 49 TV (Pucallpa)",
+    "path_name": "b38029251e5315b6d9234a159b407285",
+    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
