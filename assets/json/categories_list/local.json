@@ -504,15 +504,6 @@
     }
   },
   {
-    "name": "Ñuble RTV (Chillán)",
-    "path_name": "047c61c110127cf131cc81ed3b540fa7",
-    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Senado",
     "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
@@ -759,15 +750,6 @@
     "name": "TVR (Bretagne)",
     "path_name": "71129c5e80a19e814eea374d980b598a",
     "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BCI 24 News",
-    "path_name": "9775c892fd3b63f100dd07382ac030ef",
-    "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1764,6 +1746,15 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1830,15 +1821,6 @@
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NorSelva RTV (Rioja)",
-    "path_name": "0987514277d76d1b01b90db8d923abe8",
-    "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3171,6 +3153,15 @@
     "name": "ABC News Live 9",
     "path_name": "ad16e9e7e11dacd97197f6935b961762",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "WGN Chicago IL (WGN-TV1)",
+    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
+    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
