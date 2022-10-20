@@ -641,6 +641,15 @@
   {
     "name": "AfricaNews English",
     "path_name": "16818ec45995bbaaa14e6250273d0a7f",
+    "url": "https://rakuten-africanews-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "AfricaNews English",
+    "path_name": "16818ec45995bbaaa14e6250273d0a7f",
     "url": "https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -794,7 +803,25 @@
   {
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
+    "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "France 24 Français",
+    "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews Français",
+    "path_name": "89da5d2227cd4cbbf3a22495086c1447",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1739,6 +1766,15 @@
   {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
+    "url": "https://cheddar.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Cheddar News",
+    "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8",
     "categories": {
       "name": "News",
@@ -1866,6 +1902,15 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2118,15 +2163,6 @@
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
