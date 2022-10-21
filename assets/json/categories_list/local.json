@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -576,6 +567,15 @@
     }
   },
   {
+    "name": "NicoyaTV",
+    "path_name": "cd98ef212cd017453e3770de9005ca6c",
+    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Girona",
     "path_name": "080367b5b1350504c030597028e7450b",
     "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
@@ -759,6 +759,15 @@
     "name": "TVR (Bretagne)",
     "path_name": "71129c5e80a19e814eea374d980b598a",
     "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "BCI 24 News",
+    "path_name": "9775c892fd3b63f100dd07382ac030ef",
+    "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1665,15 +1674,6 @@
     }
   },
   {
-    "name": "Oasis RTV (Trujillo)",
-    "path_name": "c1e586de24db4e0d42c50a70938717f9",
-    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
@@ -1737,9 +1737,9 @@
     }
   },
   {
-    "name": "Unitel (Huancayo)",
-    "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
-    "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1803,15 +1803,6 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ribereña TV (Bellavista)",
-    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
-    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1929,6 +1920,15 @@
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2577,15 +2577,6 @@
     "name": "TSTV",
     "path_name": "8a872cb88b321447457f7b272b1a1d7b",
     "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 7 Denver CO (KMGH)",
-    "path_name": "1ceb4b3d8b15eb765c366580f6eb6264",
-    "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
