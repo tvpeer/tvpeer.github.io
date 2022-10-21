@@ -576,15 +576,6 @@
     }
   },
   {
-    "name": "NicoyaTV",
-    "path_name": "cd98ef212cd017453e3770de9005ca6c",
-    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Girona",
     "path_name": "080367b5b1350504c030597028e7450b",
     "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
@@ -768,6 +759,15 @@
     "name": "TVR (Bretagne)",
     "path_name": "71129c5e80a19e814eea374d980b598a",
     "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Creta",
+    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
+    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1746,15 +1746,6 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1812,6 +1803,15 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ribereña TV (Bellavista)",
+    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
+    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
