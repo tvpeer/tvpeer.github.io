@@ -432,15 +432,6 @@
     }
   },
   {
-    "name": "Iglesia Del Camino",
-    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
-    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -615,15 +606,6 @@
     "name": "Payvand TV",
     "path_name": "d3b9981fec2d16a819201201508011e4",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "BeitolAbbas TV",
-    "path_name": "c81994bc2032895e11f77c743b82b2cf",
-    "url": "http://live.beitolabbas.tv/live/beitolabbastv.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1623,6 +1605,15 @@
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
     "url": "https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Christian Youth Channel (CYC)",
+    "path_name": "6a32b1fc5a566c22c643d810877267f3",
+    "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
