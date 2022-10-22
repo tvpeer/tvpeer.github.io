@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -534,6 +525,15 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ATV (Soacha | Cundinamarca)",
+    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
+    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1371,15 +1371,6 @@
     "name": "SET Televisión Canal 26.2",
     "path_name": "6ac22eaa8921afc2fce942415159eae8",
     "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal 10 Cancún",
-    "path_name": "5558425d1ea3a92a3701bc80b37d1186",
-    "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3153,6 +3144,15 @@
     "name": "ABC 15 Phoenix AZ (KNXV-TV)",
     "path_name": "15b4327e38fbfe9e96da44840ca9a19e",
     "url": "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 5 News Chicago IL (WMAQ-TV)",
+    "path_name": "9ae43f862d53adbfae3e130c304f4b9a",
+    "url": "https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM1@22923/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
