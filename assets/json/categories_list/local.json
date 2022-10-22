@@ -738,15 +738,6 @@
     }
   },
   {
-    "name": "BCI 24 News",
-    "path_name": "9775c892fd3b63f100dd07382ac030ef",
-    "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
@@ -1719,15 +1710,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
@@ -2064,15 +2046,6 @@
     "name": "НТМ (Народное телевидение Мордовии)",
     "path_name": "294376b7e371b1e6d234efa33f100df5",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Эхо TV (Рязань)",
-    "path_name": "a22fe26511300393f0465ebf1207e449",
-    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3090,6 +3063,15 @@
     "name": "ABC News Live 9",
     "path_name": "ad16e9e7e11dacd97197f6935b961762",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "WGN Chicago IL (WGN-TV1)",
+    "path_name": "fcae85ab9ca455e7847ddcebeae072c9",
+    "url": "http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
