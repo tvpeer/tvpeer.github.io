@@ -216,15 +216,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -282,15 +273,6 @@
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Alternativa TV (Huasco)",
-    "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
-    "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3153,6 +3135,24 @@
     "name": "CBS News Los Angeles",
     "path_name": "73a6ce3ef8090c617c87fe6ee465e64a",
     "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CBS News New York",
+    "path_name": "363bf81b3d79d531d96ae5a80578bc21",
+    "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS News New York",
+    "path_name": "363bf81b3d79d531d96ae5a80578bc21",
+    "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
