@@ -118,9 +118,9 @@
         <div style="position: fixed;color: #000000; right: 0;bottom: 0;max-height: 50%;max-width:85%;overflow-y: scroll; z-index: 1000">
         <div class="text-right">
             <span class="pull-left js-profile-bar" style="display: none">
-                <b>Plugin exec time:</b> 0.114 s
-                <b>API Calls:</b> 0.077 s
-                <b>WP exec time:</b> 0.128 s
+                <b>Plugin exec time:</b> 0.119 s
+                <b>API Calls:</b> 0.078 s
+                <b>WP exec time:</b> 0.135 s
             </span>
             <a href="#" class="js-profiler-window"><i class="fa fa-bug"></i></a>
         </div>
@@ -132,7 +132,7 @@
                     <th>Code</th>
                 </tr>
                                     <tr>
-                        <td>0.076</td>
+                        <td>0.077</td>
                         <td>GET</td>
                         <td><a target="_blank" href="https://web.opendrive.com/api/file/info.json/MF8yMjU5ODE2MDdf?sharing_id=">file/info.json/MF8yMjU5ODE2MDdf?sharing_id=</a></td>
                         <td>429</td>
