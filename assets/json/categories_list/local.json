@@ -153,24 +153,6 @@
     }
   },
   {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TVN Brasil",
-    "path_name": "9791af523744668d5f9125bf345e1295",
-    "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Nova Era TV",
     "path_name": "97002ce81e35169dff3b16c94d105fbd",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
@@ -741,24 +723,6 @@
     "name": "TVR (Bretagne)",
     "path_name": "71129c5e80a19e814eea374d980b598a",
     "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BCI 24 News",
-    "path_name": "9775c892fd3b63f100dd07382ac030ef",
-    "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1992,6 +1956,24 @@
     "name": "Луч (Пуровск)",
     "path_name": "4b042e4f552ce47530077b18c641fa8b",
     "url": "https://live.trk-luch.ru/hls/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
