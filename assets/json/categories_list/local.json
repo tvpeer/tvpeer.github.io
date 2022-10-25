@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -507,6 +498,15 @@
     "name": "Ziza TV (Chiguayante)",
     "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
     "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ñuble RTV (Chillán)",
+    "path_name": "047c61c110127cf131cc81ed3b540fa7",
+    "url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1872,6 +1872,15 @@
     }
   },
   {
+    "name": "NorSelva RTV (Rioja)",
+    "path_name": "0987514277d76d1b01b90db8d923abe8",
+    "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "PiuraTV",
     "path_name": "3e3d3a4ad103e490fece5a00711a4b74",
     "url": "http://190.108.83.142:8000/play/a00d/index.m3u8",
@@ -2124,15 +2133,6 @@
     }
   },
   {
-    "name": "Губерния 33 (Владимир)",
-    "path_name": "8913cfac03688e52f808239f040c8c31",
-    "url": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Липецкое время",
     "path_name": "335b708c0ac98f504e55c0c76c64f965",
     "url": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8",
@@ -2154,15 +2154,6 @@
     "name": "НТМ (Народное телевидение Мордовии)",
     "path_name": "294376b7e371b1e6d234efa33f100df5",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Эхо TV (Рязань)",
-    "path_name": "a22fe26511300393f0465ebf1207e449",
-    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
