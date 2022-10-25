@@ -99,6 +99,15 @@
     }
   },
   {
+    "name": "TeleJunín",
+    "path_name": "71fddd1abe3edf93b13f6ec698417b2e",
+    "url": "https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -291,6 +300,15 @@
     "name": "Alternativa TV (Huasco)",
     "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
     "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Antofagasta TV (ATV)",
+    "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -759,6 +777,15 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Creta",
+    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
+    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1593,15 +1620,6 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -1764,6 +1782,15 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1821,15 +1848,6 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ribereña TV (Bellavista)",
-    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
-    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1980,6 +1998,15 @@
     }
   },
   {
+    "name": "BeXtreme TV (Lima)",
+    "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
+    "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
@@ -2019,6 +2046,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2082,15 +2127,6 @@
     "name": "Белгород 24",
     "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
     "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Губерния 33 (Владимир)",
-    "path_name": "8913cfac03688e52f808239f040c8c31",
-    "url": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
