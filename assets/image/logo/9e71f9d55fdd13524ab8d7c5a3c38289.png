@@ -101,7 +101,7 @@
 							Created: <b>Feb 20, 2021 by Georges Brunet</b>
 						</div>
 						<div class="col-md-4 text-right no-padding">
-							Downloads: <b>7214364</b>
+							Downloads: <b>7214728</b>
 						</div>
 					</div>
 					<div class="file-share">
@@ -149,9 +149,9 @@
         <div style="position: fixed;color: #000000; right: 0;bottom: 0;max-height: 50%;max-width:85%;overflow-y: scroll; z-index: 1000">
         <div class="text-right">
             <span class="pull-left js-profile-bar" style="display: none">
-                <b>Plugin exec time:</b> 0.223 s
-                <b>API Calls:</b> 0.185 s
-                <b>WP exec time:</b> 0.24 s
+                <b>Plugin exec time:</b> 0.227 s
+                <b>API Calls:</b> 0.186 s
+                <b>WP exec time:</b> 0.243 s
             </span>
             <a href="#" class="js-profiler-window"><i class="fa fa-bug"></i></a>
         </div>
@@ -163,21 +163,21 @@
                     <th>Code</th>
                 </tr>
                                     <tr>
-                        <td>0.138</td>
+                        <td>0.131</td>
                         <td>GET</td>
                         <td><a target="_blank" href="https://web.opendrive.com/api/file/info.json/MF8yMjk3NjU0OTJf?sharing_id=">file/info.json/MF8yMjk3NjU0OTJf?sharing_id=</a></td>
                         <td>200</td>
                     </tr>
 
                                         <tr>
-                        <td>0.027</td>
+                        <td>0.032</td>
                         <td>GET</td>
                         <td><a target="_blank" href="https://web.opendrive.com/api/download/file.json/MF8yMjk3NjU0OTJf?test=1&amp;inline=0">download/file.json/MF8yMjk3NjU0OTJf?test=1&amp;inline=0</a></td>
                         <td>200</td>
                     </tr>
 
                                         <tr>
-                        <td>0.02</td>
+                        <td>0.023</td>
                         <td>GET</td>
                         <td><a target="_blank" href="https://web.opendrive.com/api/branding.json?user_id=1529140">branding.json?user_id=1529140</a></td>
                         <td>200</td>
