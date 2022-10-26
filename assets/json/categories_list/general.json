@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV Թավա TV",
     "path_name": "f0619257bd6513df0df6b140a55a4b82",
     "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
@@ -129,6 +120,15 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -282,6 +282,15 @@
     "name": "Bolivia TV",
     "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
     "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bolivia TV 7.2",
+    "path_name": "3cfe4928a1fa763c577aa512513f826d",
+    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -543,15 +552,6 @@
     "name": "TDI Colombia",
     "path_name": "76ca085348aa9fb36e2cc19016e404b8",
     "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Teleislas",
-    "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
-    "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -918,6 +918,15 @@
     }
   },
   {
+    "name": "TV Cosmos",
+    "path_name": "bc2aa9411591b5051aff3ecec76407ef",
+    "url": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Alfajer TV 2",
     "path_name": "ca0a5bcb26dce34d6691d4521ed9c35c",
     "url": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8",
@@ -1191,6 +1200,15 @@
     "name": "大立電視",
     "path_name": "75c19b357c2c0f514208035d5a5fb390",
     "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "原住民電視",
+    "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
+    "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
