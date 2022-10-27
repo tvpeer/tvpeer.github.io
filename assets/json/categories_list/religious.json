@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Fonte TV",
-    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -1560,6 +1551,15 @@
     "name": "Mission TV",
     "path_name": "30ed2526a48a5c7b4e03c781969dffcb",
     "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "CTN",
+    "path_name": "9615982e9a8056106f05c7feb6871ff9",
+    "url": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
