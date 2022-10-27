@@ -576,15 +576,6 @@
     }
   },
   {
-    "name": "TV Girona",
-    "path_name": "080367b5b1350504c030597028e7450b",
-    "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Cultural",
     "path_name": "6250449e8dae36b23db6418c5dc5f840",
     "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
@@ -768,15 +759,6 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1719,6 +1701,15 @@
     }
   },
   {
+    "name": "Innova FM (Bagua Grande)",
+    "path_name": "6bb261cd341175bba9043fd9496bfabe",
+    "url": "https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "VamisaTV (Lima)",
     "path_name": "1e29ea4954f77edae58883d83ce7bbb5",
     "url": "https://vps1.lnx.pe/vamisa/envivo/index.m3u8",
@@ -1848,6 +1839,15 @@
     "name": "Mega TV (Jaen)",
     "path_name": "6d8ef6a37f903a0f534692b514b24cb7",
     "url": "https://tv.portalexpress.es:3399/hybrid/play.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NorSelva RTV (Rioja)",
+    "path_name": "0987514277d76d1b01b90db8d923abe8",
+    "url": "https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2037,24 +2037,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
