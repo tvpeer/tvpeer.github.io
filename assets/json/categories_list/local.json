@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -759,15 +750,6 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1872,6 +1854,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -1884,6 +1875,15 @@
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
