@@ -297,15 +297,6 @@
     }
   },
   {
-    "name": "Alternativa TV (Huasco)",
-    "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
-    "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antofagasta TV (ATV)",
     "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
@@ -759,6 +750,15 @@
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PLP",
+    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2000,6 +2000,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2037,6 +2055,15 @@
     "name": "Univer TV",
     "path_name": "366856882fb400d8ab5329c49d06509f",
     "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Астрахань 24",
+    "path_name": "e705ff4b0119d43e684738aa2722d104",
+    "url": "http://83.234.104.142/astrakhan24hd/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
