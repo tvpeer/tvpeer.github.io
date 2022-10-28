@@ -360,15 +360,6 @@
     }
   },
   {
-    "name": "Al Hayat TV",
-    "path_name": "e361cb5edda427d6ac65314425cf56e3",
-    "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Christian Youth Channel (CYC)",
     "path_name": "6a32b1fc5a566c22c643d810877267f3",
     "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
@@ -606,6 +597,24 @@
     "name": "Marjaeyat",
     "path_name": "76a5735698e42e76e6adf6ab6654c916",
     "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "path_name": "8858342804dc052c83b0f9810753b9bd",
+    "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
