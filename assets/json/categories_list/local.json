@@ -234,6 +234,15 @@
     }
   },
   {
+    "name": "TV Galega Blumenau",
+    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
+    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -759,15 +768,6 @@
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "PLP",
-    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
-    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1371,15 +1371,6 @@
     "name": "Gunma TV",
     "path_name": "0f9b31471b89292151393d2da4af789a",
     "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Capital 21",
-    "path_name": "215e6497f27da10873ae6bb2135643df",
-    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2028,24 +2019,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
