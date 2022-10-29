@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -585,15 +576,6 @@
     }
   },
   {
-    "name": "TVG Evento 1",
-    "path_name": "3de97eb0c2c97c812d25c106232d4192",
-    "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Infantil",
     "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
     "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
@@ -759,6 +741,15 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Creta",
+    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
+    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
