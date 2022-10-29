@@ -117,6 +117,15 @@
     }
   },
   {
+    "name": "Hits Movies",
+    "path_name": "b068c707fb5855166afbe353487f969f",
+    "url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Star Cinema",
     "path_name": "d6fb916bd542fcda121b6fd21541545c",
     "url": "http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8",
@@ -309,6 +318,24 @@
     "name": "Киносемья",
     "path_name": "9217b90acf945da0f58d61b03ce8aeb3",
     "url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Киномикс",
+    "path_name": "73aa5c973e897d17615b1a0ec5e533b8",
+    "url": "https://sc.id-tv.kz/Kinomix_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Кинохит",
+    "path_name": "fee11b1661b09bfe44475e7063584f7e",
+    "url": "https://sc.id-tv.kz/Kinohit_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -624,6 +651,15 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Samuel Goldwyn Channel",
+    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
+    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
