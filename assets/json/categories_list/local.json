@@ -747,6 +747,15 @@
     }
   },
   {
+    "name": "BCI 24 News",
+    "path_name": "9775c892fd3b63f100dd07382ac030ef",
+    "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
@@ -1575,15 +1584,6 @@
     }
   },
   {
-    "name": "SelvaMía TV (Aguaytía)",
-    "path_name": "0a777990fbb707ff7433f6529a1085e5",
-    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -1638,15 +1638,6 @@
     }
   },
   {
-    "name": "LimaLive",
-    "path_name": "a2bede3407ead87e0f9ab8d3976fa583",
-    "url": "https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Huanta TV",
     "path_name": "a2af28c9c7579e04ef37be2fbfe07d24",
     "url": "https://inliveserver.com:1936/19002/19002/playlist.m3u8",
@@ -1659,6 +1650,15 @@
     "name": "LotPlus TV (Chiclayo)",
     "path_name": "beff3819b0742473ba961e0da8ed661e",
     "url": "https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Oasis RTV (Trujillo)",
+    "path_name": "c1e586de24db4e0d42c50a70938717f9",
+    "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1785,6 +1785,15 @@
     "name": "CNC Digital (Iquitos)",
     "path_name": "63a91fdbd9bbb31ae008dbc71cdfde77",
     "url": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2001,6 +2010,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
