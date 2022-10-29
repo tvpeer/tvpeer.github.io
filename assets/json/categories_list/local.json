@@ -261,6 +261,15 @@
     }
   },
   {
+    "name": "TV Santa Cruz",
+    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
+    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -318,6 +327,15 @@
     "name": "Atacama TV (Copiapó)",
     "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
     "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Aysén TV",
+    "path_name": "1e735fa078c54dc1860e19fca9c0092d",
+    "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -525,15 +543,6 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2325,15 +2334,6 @@
     "name": "Winthrop Community Access TV (WCAT 15)",
     "path_name": "98b95044d5d11eeb7d0bd622475d27fa",
     "url": "https://edu-wcat.azureedge.net/live/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Winthrop Community Access TV (WCAT 22)",
-    "path_name": "d6eaf4f2635f16f6833bd76d35e4d7b5",
-    "url": "https://frontdoor.wcat-tv.org:8686/live/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
