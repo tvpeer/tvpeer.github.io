@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -315,15 +306,6 @@
     }
   },
   {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -444,33 +426,6 @@
     "name": "Informacion Periodística",
     "path_name": "0d8cb37a1e754a04b0c642d4215708c1",
     "url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -777,15 +732,6 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1809,6 +1755,15 @@
     }
   },
   {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -1917,18 +1872,18 @@
     }
   },
   {
-    "name": "OAN Encore",
-    "path_name": "658f21cff54e1284be9609028ffed0c6",
-    "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
+    "name": "NBC 5 Cincinnati OH (WLWT)",
+    "path_name": "e12c1627a0701d7af32fead971469899",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "ABC 9 Kansas City MO (KMBC-TV)",
-    "path_name": "80f9f374ccabc690000c4d20b8154836",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
+    "name": "OAN Encore",
+    "path_name": "658f21cff54e1284be9609028ffed0c6",
+    "url": "https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
