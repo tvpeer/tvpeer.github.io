@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -327,15 +318,6 @@
     "name": "Atacama TV (Copiapó)",
     "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
     "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Aysén TV",
-    "path_name": "1e735fa078c54dc1860e19fca9c0092d",
-    "url": "https://v2.tustreaming.cl/aysentv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -543,15 +525,6 @@
     "name": "Buenísima Radio TV (Gamarra | Cesar)",
     "path_name": "ce83dac153a1061597fe75e03c709e60",
     "url": "https://streamyes.alsolnet.com/buturama/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ATV (Soacha | Cundinamarca)",
-    "path_name": "f3d2b008947edfef1d9671cbdde78aec",
-    "url": "https://movil.ejeserver.com/live/verteve.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1404,15 +1377,6 @@
     }
   },
   {
-    "name": "Capital 21",
-    "path_name": "215e6497f27da10873ae6bb2135643df",
-    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "SET Televisión Canal 26.1",
     "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
     "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
@@ -2028,6 +1992,15 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Евразия (Орск)",
+    "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
