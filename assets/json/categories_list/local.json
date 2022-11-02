@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Canal 25 Jundiaí",
-    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -246,24 +237,6 @@
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -759,15 +732,6 @@
     "name": "BCI 24 News",
     "path_name": "9775c892fd3b63f100dd07382ac030ef",
     "url": "https://live.streams.ovh/netmedia/netmedia/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1593,15 +1557,6 @@
     }
   },
   {
-    "name": "Kachorro (Super TV | Amazonas)",
-    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
-    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "DMJ (Cuzco)",
     "path_name": "8dac651380b06c3e429ebe055ca13085",
     "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
@@ -1899,15 +1854,6 @@
     }
   },
   {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Región TV (Callao)",
     "path_name": "da4454567c8a0a234a89f94e655be1f4",
     "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
@@ -1929,15 +1875,6 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2829,6 +2766,15 @@
     "name": "Fox 43 Harrisburg PA (WPMT)",
     "path_name": "8c547e174650dacd631e570d49596dc5",
     "url": "https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 6 Waco TX (KCEN)",
+    "path_name": "6ae82a6d4b5fb20c71ee6565ce6a60f7",
+    "url": "https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
