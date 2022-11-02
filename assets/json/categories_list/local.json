@@ -774,15 +774,6 @@
     }
   },
   {
-    "name": "TV Creta",
-    "path_name": "35c5dd55f28f0c11dee0b22034dea865",
-    "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Irida TV",
     "path_name": "e8b7b311b65a8b763f857a25298018f9",
     "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
@@ -2676,6 +2667,15 @@
     "name": "CBS THV11 Little Rock AR (KTHV)",
     "path_name": "a849af5eaa5cb4c10437b71b81053e78",
     "url": "https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CBS 10 Tampa FL (WTSP)",
+    "path_name": "44bd301d16826fe1631ef6a67fd133bc",
+    "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
