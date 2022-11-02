@@ -225,15 +225,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -273,6 +264,15 @@
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1602,15 +1602,6 @@
     }
   },
   {
-    "name": "DMJ (Cuzco)",
-    "path_name": "8dac651380b06c3e429ebe055ca13085",
-    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -2055,6 +2046,15 @@
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Луч (Пуровск)",
+    "path_name": "4b042e4f552ce47530077b18c641fa8b",
+    "url": "https://live.trk-luch.ru/hls/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
