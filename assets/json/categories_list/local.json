@@ -1728,15 +1728,6 @@
     }
   },
   {
-    "name": "Solar Televisión (Abancay)",
-    "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
-    "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TPTO TV (Tarapoto)",
     "path_name": "ee44f734db4ea0ed8c77b6430d76e372",
     "url": "https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8",
@@ -2232,6 +2223,24 @@
     }
   },
   {
+    "name": "NBC4 WRC-TV Washington News",
+    "path_name": "816ca829e6c4dcce6039c9e9a5d04a9d",
+    "url": "https://wrclive-f.akamaihd.net/i/DC_STREAM1@22925/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC6 WTVJ-TV News Miami FL",
+    "path_name": "2fc887f84b1d1e798f3f5968ece10a70",
+    "url": "https://wtvjlive-f.akamaihd.net/i/MIAMI_STREAM1@19309/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
@@ -2271,6 +2280,15 @@
     "name": "Leominster TV Public",
     "path_name": "f7747fe5ba7565c9299a1410f7d64f5b",
     "url": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "The Ohio Channel (WOSU-DT3)",
+    "path_name": "64d6ae691b5a445f923ee482411a1809",
+    "url": "https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
