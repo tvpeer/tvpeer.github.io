@@ -1629,15 +1629,6 @@
     }
   },
   {
-    "name": "Central TV (Chosica)",
-    "path_name": "f8e30b59953c450328010027510582c2",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "FuegoTV (Lima)",
     "path_name": "b41736b00b8ff176a47667ab2c95d66f",
     "url": "http://190.108.83.142:8000/play/a003/index.m3u8",
@@ -1755,15 +1746,6 @@
     }
   },
   {
-    "name": "Antares Televisión",
-    "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
@@ -1866,6 +1848,15 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Red de Comunicación Regional (RCR)",
+    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
