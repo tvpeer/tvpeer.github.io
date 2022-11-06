@@ -252,6 +252,24 @@
     }
   },
   {
+    "name": "TV Sol Comunidade",
+    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
+    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Santa Cruz",
+    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
+    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -1377,6 +1395,24 @@
     }
   },
   {
+    "name": "SET Televisión Canal 26.1",
+    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
+    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.2",
+    "path_name": "6ac22eaa8921afc2fce942415159eae8",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -1506,15 +1542,6 @@
     "name": "BR6 TV",
     "path_name": "df1e103a481fe4e76e14dae21ca96e3c",
     "url": "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "LOE TV",
-    "path_name": "b169d9dd263586b141e303c964acb63c",
-    "url": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3108,6 +3135,15 @@
     "name": "ABC News Live 8",
     "path_name": "769d9d2ca240f51f507d86ae94cef944",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News Live 9",
+    "path_name": "ad16e9e7e11dacd97197f6935b961762",
+    "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
