@@ -765,18 +765,18 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "name": "Mekameleen TV",
+    "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
+    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "Mekameleen TV",
-    "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
-    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+    "name": "7 Noticias",
+    "path_name": "e49283834312db0285e47ab0eeeb8bf1",
+    "url": "https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1110,6 +1110,15 @@
     "name": "Mathrubhumi News",
     "path_name": "fbe61930d9ee1a396bcce2dba0b651c1",
     "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Malabar News",
+    "path_name": "7f30cbd06c44fef808e328537d581b55",
+    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1638,6 +1647,15 @@
     }
   },
   {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -2145,15 +2163,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
