@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -747,6 +738,15 @@
     }
   },
   {
+    "name": "Company TV",
+    "path_name": "2661ef89e8bbd346ed6beaae79944801",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Radio Piter Pan TV",
     "path_name": "921810c9e13ccf1c449a7d481073ade6",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
@@ -849,15 +849,6 @@
     "name": "Salto Brasa Music",
     "path_name": "b8fdce3e7e4904f49f14dd2c5fdffa11",
     "url": "https://salto-streams.nl/hls/sotv1_high.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Metropolitana del Cuzco (CCTVRadio)",
-    "path_name": "5c24d91b60b7824519530788b04979d1",
-    "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
