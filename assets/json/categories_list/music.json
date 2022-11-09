@@ -405,15 +405,6 @@
     }
   },
   {
-    "name": "Slagr TV",
-    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
-    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Óčko Expres",
     "path_name": "a83820a7baed73340508edbb5eb5906e",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
@@ -594,6 +585,15 @@
     }
   },
   {
+    "name": "Real TV",
+    "path_name": "6c092badba12db1580c14080f0bbf6b0",
+    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Relax TV",
     "path_name": "0ae04150fad0720c728707f7b79d2f66",
     "url": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
@@ -750,6 +750,15 @@
     "name": "Radio Piter Pan TV",
     "path_name": "921810c9e13ccf1c449a7d481073ade6",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Video Rola",
+    "path_name": "4c0a55b42c57a7ab3e68738691346f51",
+    "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
