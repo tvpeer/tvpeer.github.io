@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -891,15 +900,6 @@
     }
   },
   {
-    "name": "TV Peruanísima",
-    "path_name": "fc5e1818c358ce82661e54c77e16ad49",
-    "url": "http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
@@ -1074,6 +1074,15 @@
     "name": "Страна FM",
     "path_name": "c9abad92743ab97afe2b603e0c11ebc7",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Жар Птица",
+    "path_name": "a0c17caccd03d1f09dcb856d48175e47",
+    "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
