@@ -1,14 +1,5 @@
 [
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -585,6 +576,15 @@
     }
   },
   {
+    "name": "9XM",
+    "path_name": "5db316206030ffbaba9b42f60a36a0e3",
+    "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Public Music",
     "path_name": "844c60da5656272f414cb50ec450925c",
     "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
@@ -660,6 +660,15 @@
     "name": "Peppers",
     "path_name": "c93391fd9c55d6866576fb3a53a066e1",
     "url": "http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "KurdMax Music",
+    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
+    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
