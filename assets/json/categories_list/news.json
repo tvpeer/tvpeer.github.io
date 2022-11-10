@@ -432,6 +432,33 @@
     }
   },
   {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Canal 26",
+    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
+    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "teleSUR",
     "path_name": "3e6ca1f295f2e87b6c276d081ea5ddbf",
     "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
@@ -1602,9 +1629,9 @@
     }
   },
   {
-    "name": "Мир 24",
-    "path_name": "452bee50208f913d86875339ab680773",
-    "url": "https://sc.id-tv.kz/Mir24.m3u8",
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1613,7 +1640,7 @@
   {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1910,7 +1937,7 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1919,7 +1946,7 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://bnc-roku-us.amagi.tv/playlist.m3u8",
+    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2009,6 +2036,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2019,6 +2055,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2136,6 +2181,15 @@
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
