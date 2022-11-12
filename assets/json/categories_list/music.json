@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "ATV Հայ TV",
     "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
     "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
@@ -522,15 +513,6 @@
     }
   },
   {
-    "name": "Magic TV",
-    "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
-    "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "NG",
     "path_name": "21c8ee28bfbf5e822c7d336770869a93",
     "url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
@@ -669,6 +651,15 @@
     "name": "Peppers",
     "path_name": "c93391fd9c55d6866576fb3a53a066e1",
     "url": "http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Dijlah Tarab",
+    "path_name": "a39a07c0a4587298b3a1f1e1834edd81",
+    "url": "https://ghaasiflu.online/tarab/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
