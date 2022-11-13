@@ -216,15 +216,6 @@
     }
   },
   {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Poços",
     "path_name": "e549542d48320a6373e4e35cccc944de",
     "url": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
@@ -2016,15 +2007,6 @@
     }
   },
   {
-    "name": "Белгород 24",
-    "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
-    "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Губерния 33 (Владимир)",
     "path_name": "8913cfac03688e52f808239f040c8c31",
     "url": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8",
@@ -2775,6 +2757,15 @@
     "name": "NBC 2 Buffalo NY (WGRZ)",
     "path_name": "b3cfd63ab8665d7bea740b2afbcdd0f1",
     "url": "https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 10 Knoxville TN (WBIR-TV)",
+    "path_name": "74462b8a3e331f6e52be1421c0c04862",
+    "url": "https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
