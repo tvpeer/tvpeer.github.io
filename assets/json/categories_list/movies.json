@@ -9,18 +9,27 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "ATV Կինոման",
+    "path_name": "5dceef43f92994d939241c5cf491829d",
+    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ATV Ֆիլմզոն",
+    "path_name": "daa60ca759b05ec4bb74a650d4705527",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -261,15 +270,6 @@
     }
   },
   {
-    "name": "Ел Арна",
-    "path_name": "3c1b059253e31184839de05c281eee5e",
-    "url": "https://sc.id-tv.kz/ElArna.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8",
@@ -333,6 +333,24 @@
     }
   },
   {
+    "name": "Backus TV Страшное",
+    "path_name": "a3831016ef7fc7de8e760c6579cd85d5",
+    "url": "http://stream.backustv.ru/live/btv2/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Backus TV",
+    "path_name": "ab8ff93856df5ff82b5b56e35a324351",
+    "url": "http://stream.backustv.ru/live/btv/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Дорама",
     "path_name": "e2ac9b464d4e275c8c3141ca1b1cdee4",
     "url": "http://ott-cdn.ucom.am/s95/index.m3u8",
@@ -345,6 +363,15 @@
     "name": "Дорама",
     "path_name": "e2ac9b464d4e275c8c3141ca1b1cdee4",
     "url": "https://sc.id-tv.kz/dorama_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Bollywood HD",
+    "path_name": "cab0e81a0418cd738cf509ee3ef1255a",
+    "url": "https://sc.id-tv.kz/bollywood_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -489,6 +516,15 @@
     "name": "TVS Drive In Movie",
     "path_name": "8d64d964fd745cbf3641aae28f61d8b1",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ActionMax East",
+    "path_name": "17bacc51be6f497e1e4c8068a942983a",
+    "url": "http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -732,6 +768,15 @@
     "name": "Cine Romantico (XUMO)",
     "path_name": "f3d46d813ce62649b234cb3debb15ac7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Cinemax East",
+    "path_name": "9efa8e1be86e5d93ab3c7f2014785095",
+    "url": "http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
