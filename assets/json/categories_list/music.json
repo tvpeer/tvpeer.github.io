@@ -1,5 +1,14 @@
 [
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -495,15 +504,6 @@
     }
   },
   {
-    "name": "Play TV",
-    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
-    "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Xalastra TV",
     "path_name": "576bd68a7acb4fd5c10c41a8e555a51b",
     "url": "https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8",
@@ -660,6 +660,15 @@
     "name": "Peppers",
     "path_name": "c93391fd9c55d6866576fb3a53a066e1",
     "url": "http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "KurdMax Music",
+    "path_name": "eeb5f8a85cb207edac7c6377fc274134",
+    "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1191,6 +1200,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Latino",
+    "path_name": "d0884e195e1dcf37895bb84395e9719a",
+    "url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
