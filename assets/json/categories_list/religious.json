@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -441,6 +432,15 @@
     }
   },
   {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Choluteca TV",
     "path_name": "70a1524b6bc50e538fe1307514613a3b",
     "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
@@ -543,6 +543,15 @@
     "name": "Alkafeel: Between the two holy shrines",
     "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
     "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Alkafeel: The Holy Tomb",
+    "path_name": "1975e0c60f2f9bffbafe755ad6cd082d",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
