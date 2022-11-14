@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Bloomberg TV Asia",
-    "path_name": "52c7d59055aff40ff1b701712362b039",
-    "url": "https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
-    "categories": {
-      "name": "Business",
-      "slug": "business"
-    }
-  },
-  {
     "name": "Bloomberg TV Asia Live Event",
     "path_name": "5fb93bb59abf9e67ae18fcfc04dce600",
     "url": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
@@ -354,6 +345,15 @@
     "name": "TD Ameritrade Network",
     "path_name": "285f3c110e37bbfcf6786d8d40391cda",
     "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Business",
+      "slug": "business"
+    }
+  },
+  {
+    "name": "CNBC Europe",
+    "path_name": "1c0a2604ccaee95ecb7200535e9a7205",
+    "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
     "categories": {
       "name": "Business",
       "slug": "business"
