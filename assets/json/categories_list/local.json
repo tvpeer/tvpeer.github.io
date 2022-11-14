@@ -1296,15 +1296,6 @@
     }
   },
   {
-    "name": "Next TV Malabar",
-    "path_name": "462cadd733920d09791dd898d72a7142",
-    "url": "https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tokyo MX1",
     "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
     "url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8",
@@ -1973,6 +1964,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2073,6 +2082,15 @@
     "name": "НТМ (Народное телевидение Мордовии)",
     "path_name": "294376b7e371b1e6d234efa33f100df5",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Эхо TV (Рязань)",
+    "path_name": "a22fe26511300393f0465ebf1207e449",
+    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
