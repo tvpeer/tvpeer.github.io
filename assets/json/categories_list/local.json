@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "Rede CNT (São Paulo)",
-    "path_name": "98d8e66351ab55fdb893e09404b32a62",
-    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV UniSantos",
     "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
     "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
@@ -300,6 +291,15 @@
     "name": "Alternativa TV (Huasco)",
     "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
     "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Antofagasta TV (ATV)",
+    "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2037,6 +2037,15 @@
     "name": "НТМ (Народное телевидение Мордовии)",
     "path_name": "294376b7e371b1e6d234efa33f100df5",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Эхо TV (Рязань)",
+    "path_name": "a22fe26511300393f0465ebf1207e449",
+    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
