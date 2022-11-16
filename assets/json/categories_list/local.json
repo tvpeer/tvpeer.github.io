@@ -324,15 +324,6 @@
     }
   },
   {
-    "name": "Atacama TV (Copiapó)",
-    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
-    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Buin Somos Todos",
     "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
     "url": "https://bst.buin.cl/0.m3u8",
@@ -1674,6 +1665,15 @@
     }
   },
   {
+    "name": "TVenLinea (Cuzco)",
+    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
+    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -2037,6 +2037,15 @@
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Татарстан24",
+    "path_name": "366a69ffe7cf4d833522aa2f026d4536",
+    "url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"

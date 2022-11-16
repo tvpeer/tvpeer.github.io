@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -93,6 +84,15 @@
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Mão Amiga",
+    "path_name": "4e97951a79db436abdc85bcb72535cbc",
+    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -165,6 +165,24 @@
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Aparecida",
+    "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
+    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Gideoes",
+    "path_name": "b2ac60535762415997a56e7397111adf",
+    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -495,15 +513,6 @@
     }
   },
   {
-    "name": "Shubhsandesh",
-    "path_name": "fd5c3c1003d2d9ef4b0998e63467863c",
-    "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "ABNsat",
     "path_name": "c7c0ea13468fb156e6d642ccf0d8b837",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
@@ -516,15 +525,6 @@
     "name": "Alkafeel: Between the two holy shrines",
     "path_name": "64cfa2020ca5f6d8e6084d882c5a8f5e",
     "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Alkafeel: The Holy Tomb",
-    "path_name": "1975e0c60f2f9bffbafe755ad6cd082d",
-    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -777,6 +777,15 @@
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Nazarenas TV",
+    "path_name": "1d4509993bcf493f8541094425387827",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
