@@ -1,35 +1,17 @@
 [
   {
-    "name": "Sharjah TV",
-    "path_name": "f025f11d1fd5e4c805172f47184f5a31",
-    "url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Sharjah 2",
-    "path_name": "0304da4cc308d13ccfe62f585645291d",
-    "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "SAT-7 ARABIC",
-    "path_name": "065429d611dc8bd90b59c8384df6d45b",
-    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Peace TV Albanian",
     "path_name": "6bd309180fa167468e61af2c0c190625",
     "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Շողակաթ",
+    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
+    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -135,6 +117,24 @@
     }
   },
   {
+    "name": "Rede Século 21",
+    "path_name": "62b06c020b225700456ed5c4c71b67a3",
+    "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Rede Gospel",
+    "path_name": "69ebd4f367bc24a3b2c586c456b30651",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Gospel Movie TV",
     "path_name": "2f7fbb892b497478324177e88444148a",
     "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
@@ -147,6 +147,15 @@
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TV Aparecida",
+    "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
+    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -174,15 +183,6 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -648,15 +648,6 @@
     }
   },
   {
-    "name": "SAT-7 PARS",
-    "path_name": "c397398a16875a0fb0e2118b86856320",
-    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nour Al Koddas",
     "path_name": "d5e3774ecc32a857197356cb99edc3a1",
     "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
@@ -810,6 +801,15 @@
     }
   },
   {
+    "name": "Sobrenatural TV",
+    "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
+    "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
     "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8",
@@ -894,15 +894,6 @@
     "name": "A2i Religion",
     "path_name": "d90ee33894787f2b9f607f63cc61a556",
     "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "SAT-7 TÜRK",
-    "path_name": "59fb954daae39e38bb2f4475cc3c87d5",
-    "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
