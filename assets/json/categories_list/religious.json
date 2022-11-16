@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -846,6 +837,15 @@
     }
   },
   {
+    "name": "Sobrenatural TV",
+    "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
+    "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
     "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8",
@@ -1344,6 +1344,15 @@
     "name": "British Muslim TV",
     "path_name": "0d6b0abcd9908fa4ebda9d06f4894284",
     "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Loveworld TV",
+    "path_name": "edd71d2286bbdac0594f469ed7bc7af5",
+    "url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
