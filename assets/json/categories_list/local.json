@@ -108,15 +108,6 @@
     }
   },
   {
-    "name": "Canal 10 Rio Negro",
-    "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
-    "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ciudad TV Resistencia (Chaco)",
     "path_name": "ae13211e238dbe907fa833cb506fa46e",
     "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
@@ -165,6 +156,15 @@
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Mon",
+    "path_name": "827c459cf6843cd8eec5ef140c100b2e",
+    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -399,6 +399,15 @@
     "name": "TV Quellón",
     "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV8 (Concepción)",
+    "path_name": "64ff403e9752eb0cbd0a671e6316a09e",
+    "url": "https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
