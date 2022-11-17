@@ -27,15 +27,6 @@
     }
   },
   {
-    "name": "TV Camara de Sao Paulo",
-    "path_name": "3553b1c1083b43f477eb075707421026",
-    "url": "https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8",
-    "categories": {
-      "name": "Legislative",
-      "slug": "legislative"
-    }
-  },
-  {
     "name": "Ontario Parliamentary Network",
     "path_name": "ad7334467772f494f726147c3de06bbd",
     "url": "http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
@@ -66,6 +57,15 @@
     "name": "TVR Parlemen",
     "path_name": "b9e5af2ce1df909357192d8b90b4b06f",
     "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+    "categories": {
+      "name": "Legislative",
+      "slug": "legislative"
+    }
+  },
+  {
+    "name": "TVR Parlemen Badan Legislatif",
+    "path_name": "29196208dbd9487f4c6b1db123a84c44",
+    "url": "http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8",
     "categories": {
       "name": "Legislative",
       "slug": "legislative"
@@ -120,15 +120,6 @@
     "name": "TVR Parlemen Komisi V",
     "path_name": "2fdccd13c800c9eeb48c2d285d057026",
     "url": "http://103.18.181.69:1935/golive/livestream5/playlist.m3u8",
-    "categories": {
-      "name": "Legislative",
-      "slug": "legislative"
-    }
-  },
-  {
-    "name": "TVR Parlemen Komisi VI",
-    "path_name": "055930c94f1a156fca85989b53fa1114",
-    "url": "http://103.18.181.69:1935/golive/livestream6/playlist.m3u8",
     "categories": {
       "name": "Legislative",
       "slug": "legislative"
