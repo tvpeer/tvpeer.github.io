@@ -36,24 +36,6 @@
     }
   },
   {
-    "name": "PBS Dallas TX (KERA)",
-    "path_name": "8bb88de2e8517933bc08b994e9d94b48",
-    "url": "https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8",
-    "categories": {
-      "name": "Education",
-      "slug": "education"
-    }
-  },
-  {
-    "name": "PBS Dallas TX (KERA)",
-    "path_name": "8bb88de2e8517933bc08b994e9d94b48",
-    "url": "https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "PBS MPT Baltimore MD (WMPB)",
     "path_name": "7daa470c3ddd3266d79956a85ab93ea2",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
@@ -111,24 +93,6 @@
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ciudad TV Resistencia (Chaco)",
-    "path_name": "ae13211e238dbe907fa833cb506fa46e",
-    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Telenord Corrientes",
-    "path_name": "9d49de079f499fc31f02f55416f28f0a",
-    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -300,6 +264,15 @@
     "name": "Antofagasta TV (ATV)",
     "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Atacama TV (Copiapó)",
+    "path_name": "410464dcb9d5a1a616f562f5ebddda6c",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1674,15 +1647,6 @@
     }
   },
   {
-    "name": "ClipsTV (Ica)",
-    "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
-    "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "CR Television (Moyobamba)",
     "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
     "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
@@ -1892,6 +1856,24 @@
   {
     "name": "Мир Белогорья",
     "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
     "url": "http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8",
     "categories": {
       "name": "Local",
@@ -2010,6 +1992,15 @@
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Татарстан24",
+    "path_name": "366a69ffe7cf4d833522aa2f026d4536",
+    "url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
