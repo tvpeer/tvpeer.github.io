@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "Fonte TV",
+    "path_name": "39aef4e275cb01b0225bc50dcdeac415",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "IMPD TV",
     "path_name": "1b5387abe82bc185e01cb75fbbb3b5b2",
     "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -129,15 +138,6 @@
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Rede Século 21",
-    "path_name": "62b06c020b225700456ed5c4c71b67a3",
-    "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -426,6 +426,15 @@
     "name": "Taevas TV7",
     "path_name": "97ea1bcbb5608bbaa3270a5e62eb8805",
     "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
