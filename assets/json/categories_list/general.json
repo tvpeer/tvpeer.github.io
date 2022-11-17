@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -972,6 +963,24 @@
     }
   },
   {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Palestine Mubasher",
     "path_name": "12152e495327e6cee3959eb9d4697170",
     "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
@@ -1170,15 +1179,6 @@
     }
   },
   {
-    "name": "大立電視",
-    "path_name": "75c19b357c2c0f514208035d5a5fb390",
-    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "原住民電視",
     "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
     "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
@@ -1308,15 +1308,6 @@
     "name": "Now This (XUMO)",
     "path_name": "070c9ad52739f78c1d34c66513ccb55e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Bloomberg Quicktake",
-    "path_name": "fbeab9cf71debfa86f235671af702fc6",
-    "url": "https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
