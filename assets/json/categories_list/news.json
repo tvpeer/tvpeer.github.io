@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "CBC",
-    "path_name": "5f4e683b5abd532cbe37217a5ba3089c",
-    "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 BIH",
     "path_name": "ab68d92182e39860a9a4b0179d805b4f",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -783,15 +774,6 @@
     }
   },
   {
-    "name": "3/24",
-    "path_name": "0f23455d660a8d02046e813e49f83565",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "DW Español",
     "path_name": "cacfacaa8978706c54f407b70a59a249",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
@@ -993,6 +975,15 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Asianet News Bangla",
+    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
+    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
