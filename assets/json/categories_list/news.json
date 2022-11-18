@@ -819,6 +819,15 @@
     }
   },
   {
+    "name": "Euronews Français",
+    "path_name": "89da5d2227cd4cbbf3a22495086c1447",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Palitra News",
     "path_name": "598f23dcc01e613111b7bf0258aef833",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
@@ -876,15 +885,6 @@
     "name": "Metro TV",
     "path_name": "2d59551f6fbb1e023544927e527cdd98",
     "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN Indonesia",
-    "path_name": "71b6a6a6407f0c3629434a8f3fdfc356",
-    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1620,6 +1620,24 @@
     }
   },
   {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1910,15 +1928,6 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://bnc-roku-us.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2145,15 +2154,6 @@
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
