@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Երկիր Մեդիա",
+    "path_name": "08208269959978d58f0551afa238588b",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -102,24 +111,6 @@
     "name": "Առաջին ալիք",
     "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
     "url": "https://amtv1.livestreamingcdn.com/am2abr/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -441,15 +432,6 @@
     }
   },
   {
-    "name": "ISTV",
-    "path_name": "4eec9f69d87af30f39ca88b4db85b595",
-    "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Metropole",
     "path_name": "92ca0fab71afbc1be6b251467a82df91",
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
@@ -540,15 +522,6 @@
     }
   },
   {
-    "name": "TDI Colombia",
-    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
-    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Teleislas",
     "path_name": "9a4b7921e2615af5249f9a8b6290ad81",
     "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
@@ -624,6 +597,24 @@
     "name": "MNCTV",
     "path_name": "68fc9cdd79d833fa1c4d1dbf372a041d",
     "url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Trans7",
+    "path_name": "5f8d7fe7e00f29f23a181f8eebc7618b",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Trans TV",
+    "path_name": "2b332593d6c5d88558ea2f13ef01e9ff",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
