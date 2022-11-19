@@ -189,6 +189,15 @@
     }
   },
   {
+    "name": "TV Cidade Canal 9",
+    "path_name": "635f211a99a5c1410c36ba58189bd6d0",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
@@ -504,15 +513,6 @@
     }
   },
   {
-    "name": "TVG Evento 1",
-    "path_name": "3de97eb0c2c97c812d25c106232d4192",
-    "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TVG Infantil",
     "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
     "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
@@ -561,15 +561,6 @@
     "name": "TVG Evento 5",
     "path_name": "abedc0e67c0e71d33cbb90a68b53bbb2",
     "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "M95 Televisión Marbella",
-    "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
-    "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1911,24 +1902,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
