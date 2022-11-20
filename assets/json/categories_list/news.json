@@ -146,6 +146,15 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
+    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera English",
+    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -300,6 +309,15 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera Arabic",
+    "path_name": "594bc5910c2e2c619ae6a022987a146d",
+    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -738,9 +756,27 @@
     }
   },
   {
+    "name": "Euronews Deutsch",
+    "path_name": "1a50817d575fac92674f96192d1f7b3a",
+    "url": "https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -795,15 +831,6 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews Français",
-    "path_name": "89da5d2227cd4cbbf3a22495086c1447",
-    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -867,6 +894,15 @@
     "name": "Metro TV",
     "path_name": "2d59551f6fbb1e023544927e527cdd98",
     "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN Indonesia",
+    "path_name": "71b6a6a6407f0c3629434a8f3fdfc356",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -948,6 +984,15 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Asianet News Bangla",
+    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
+    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1728,6 +1773,15 @@
     }
   },
   {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -1884,6 +1938,15 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
