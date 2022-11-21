@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Nova Era TV",
-    "path_name": "97002ce81e35169dff3b16c94d105fbd",
-    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Mon",
     "path_name": "827c459cf6843cd8eec5ef140c100b2e",
     "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
@@ -201,15 +192,6 @@
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -273,6 +255,15 @@
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Alternativa TV (Huasco)",
+    "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
+    "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1782,6 +1773,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -1857,6 +1857,24 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белогорья",
+    "path_name": "de4e00291df2e8648cc0f7107eafd577",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мир Белагорья",
+    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1971,18 +1989,18 @@
     }
   },
   {
-    "name": "Эхо TV (Рязань)",
-    "path_name": "a22fe26511300393f0465ebf1207e449",
-    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "name": "Югра",
+    "path_name": "6397ea88f122f9afed02c4764ebac1c7",
+    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
     }
   },
   {
-    "name": "Югра",
-    "path_name": "6397ea88f122f9afed02c4764ebac1c7",
-    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
+    "name": "Татарстан24",
+    "path_name": "366a69ffe7cf4d833522aa2f026d4536",
+    "url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
