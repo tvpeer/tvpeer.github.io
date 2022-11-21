@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -522,9 +513,45 @@
     }
   },
   {
+    "name": "TVG Cultural",
+    "path_name": "6250449e8dae36b23db6418c5dc5f840",
+    "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVG Evento 1",
     "path_name": "3de97eb0c2c97c812d25c106232d4192",
     "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVG Infantil",
+    "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
+    "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVG Musigal",
+    "path_name": "47381098b0e4668b02f78e948c4363c8",
+    "url": "https://musigal-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TVG Momento",
+    "path_name": "4d7b66d91c1c7bedb59f98c754d61248",
+    "url": "https://momentog-crtvg.flumotion.com/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1701,15 +1728,6 @@
     }
   },
   {
-    "name": "Genios TV (Moyobamba)",
-    "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
-    "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ribereña TV (Bellavista)",
     "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
     "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
@@ -1902,24 +1920,6 @@
     "name": "Евразия (Орск)",
     "path_name": "f9d74d37f7823d7e15e26f574b8a62bb",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белогорья",
-    "path_name": "de4e00291df2e8648cc0f7107eafd577",
-    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Мир Белагорья",
-    "path_name": "4b7520f6efc61f4fefbce12e537d48b2",
-    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
