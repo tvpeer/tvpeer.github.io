@@ -396,6 +396,15 @@
     }
   },
   {
+    "name": "ATN News",
+    "path_name": "c374e701683b6246460601756174b864",
+    "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "ABC News",
     "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
     "url": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8",
@@ -408,33 +417,6 @@
     "name": "News 24",
     "path_name": "f007aaf5154c1f2fee20ad4fa471f83f",
     "url": "http://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -549,6 +531,15 @@
     }
   },
   {
+    "name": "CBC",
+    "path_name": "5f4e683b5abd532cbe37217a5ba3089c",
+    "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 BIH",
     "path_name": "ab68d92182e39860a9a4b0179d805b4f",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -561,6 +552,15 @@
     "name": "Al Jazeera Balkans",
     "path_name": "0ea7151c1e05e5b7dd08bf8013c9aa45",
     "url": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Channel T1",
+    "path_name": "9a508f051a628243eb88e4662f6b87c0",
+    "url": "http://irbtv.net/channelt1/1080/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1605,6 +1605,15 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
