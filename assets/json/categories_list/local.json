@@ -657,9 +657,27 @@
     }
   },
   {
+    "name": "Alsace 20",
+    "path_name": "4245fb6dfaf53cdcdeff74b19b82f6e7",
+    "url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "viàMoselleTV",
     "path_name": "e8096997229835589d7cf35260083ce9",
     "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "viàOccitanie",
+    "path_name": "6caa2dd79f53c00143cc4e43a7b91a9b",
+    "url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
