@@ -36,6 +36,15 @@
     }
   },
   {
+    "name": "Շողակաթ",
+    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
+    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -90,15 +99,6 @@
     }
   },
   {
-    "name": "Rede Mão Amiga",
-    "path_name": "4e97951a79db436abdc85bcb72535cbc",
-    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -144,9 +144,9 @@
     }
   },
   {
-    "name": "Gospel Movie TV",
-    "path_name": "2f7fbb892b497478324177e88444148a",
-    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "name": "Rede Gospel",
+    "path_name": "69ebd4f367bc24a3b2c586c456b30651",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -756,6 +756,24 @@
     }
   },
   {
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "La Luz TV",
+    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
@@ -1296,6 +1314,15 @@
     }
   },
   {
+    "name": "Loveworld TV",
+    "path_name": "edd71d2286bbdac0594f469ed7bc7af5",
+    "url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Iqra Bangla",
     "path_name": "ab685978c6c4110ae50dc15708e796ed",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8",
@@ -1614,6 +1641,33 @@
     "name": "LifevisionTV",
     "path_name": "5cef2033bc16e425d6024144f308b858",
     "url": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
