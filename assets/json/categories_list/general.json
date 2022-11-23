@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -291,6 +282,15 @@
     "name": "Bolivia TV",
     "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
     "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bolivia TV 7.2",
+    "path_name": "3cfe4928a1fa763c577aa512513f826d",
+    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -783,42 +783,6 @@
     }
   },
   {
-    "name": "Al Aoula",
-    "path_name": "86970aab153ed26bb40865944dcff3b0",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Aoula Laayoune",
-    "path_name": "cedf7845ffcb1d94bca67abdd3830773",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Maghribia",
-    "path_name": "49cc9ac7b6c1ecbed5bf9b09af377d3a",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Tamazight",
-    "path_name": "5bb3088419f2381293ebeba6d330dc97",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
@@ -930,6 +894,24 @@
     "name": "Palestine Satellite Channel",
     "path_name": "381621adaa18f975b07838f53e87e37d",
     "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
