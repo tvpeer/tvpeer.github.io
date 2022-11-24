@@ -1152,15 +1152,6 @@
     }
   },
   {
-    "name": "Al Sharqiya News",
-    "path_name": "d16c761c9bf88d1c1cae25e8a1cdeb1d",
-    "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Dijlah",
     "path_name": "68a265499227d4ed7bf5f451bf50fc3e",
     "url": "http://91.134.145.75:10001/Dijlah/index.m3u8",
@@ -1668,6 +1659,24 @@
     "name": "CNN International UK",
     "path_name": "3ffe27f0ff8cfb4f0bd08da76741f398",
     "url": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Arise News",
+    "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
+    "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Sky News",
+    "path_name": "e8111c26a56c75630bb0c8f2817ca325",
+    "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
