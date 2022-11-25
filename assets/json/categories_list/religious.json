@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -210,6 +201,15 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -711,15 +711,6 @@
     }
   },
   {
-    "name": "María Visión Mexico",
-    "path_name": "230a3059e7c8c39c12ad0d21f8141a28",
-    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "JBN",
     "path_name": "135dfda1304897290c6d9c0fff8f61f8",
     "url": "https://inliveserver.com:1936/17510/17510/playlist.m3u8",
@@ -765,27 +756,9 @@
     }
   },
   {
-    "name": "Hosanna Vision",
-    "path_name": "239552b56fcd887230456197f49b9eac",
-    "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Nazarenas TV",
-    "path_name": "1d4509993bcf493f8541094425387827",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1326,15 +1299,6 @@
     "name": "British Muslim TV",
     "path_name": "0d6b0abcd9908fa4ebda9d06f4894284",
     "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Loveworld TV",
-    "path_name": "edd71d2286bbdac0594f469ed7bc7af5",
-    "url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
