@@ -18,6 +18,15 @@
     }
   },
   {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -858,6 +867,15 @@
     "name": "Galáctica TV (Peru)",
     "path_name": "d45e99b61541a3a01c9008e5626c60b5",
     "url": "https://pacific.direcnode.com:3715/hybrid/play.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Radio San Borja TV",
+    "path_name": "483a1a898f6111b7c78d06f35eba46c3",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
