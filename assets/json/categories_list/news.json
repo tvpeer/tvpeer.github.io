@@ -630,33 +630,6 @@
     }
   },
   {
-    "name": "AfricaNews English",
-    "path_name": "16818ec45995bbaaa14e6250273d0a7f",
-    "url": "https://rakuten-africanews-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "AfricaNews English",
-    "path_name": "16818ec45995bbaaa14e6250273d0a7f",
-    "url": "https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "AfricaNews English",
-    "path_name": "16818ec45995bbaaa14e6250273d0a7f",
-    "url": "https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "AfricaNews Français",
     "path_name": "4ddffc5c70219c4c9074ca2650ed2623",
     "url": "https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8",
@@ -984,15 +957,6 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Asianet News Bangla",
-    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
-    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1692,9 +1656,9 @@
     }
   },
   {
-    "name": "Top Stories by Newsy",
-    "path_name": "04417045bcad3b71c0d7914516d25a38",
-    "url": "http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8",
+    "name": "BBC News HD",
+    "path_name": "809da825465ef017b485fcbb80e9ab28",
+    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1884,15 +1848,6 @@
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "OAN",
-    "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
-    "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2144,7 +2099,25 @@
   {
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
