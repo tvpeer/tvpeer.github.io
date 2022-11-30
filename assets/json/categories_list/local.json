@@ -252,6 +252,15 @@
     }
   },
   {
+    "name": "Jess TV (Lethbridge)",
+    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
+    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
@@ -1368,15 +1377,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ZuidWest TV",
     "path_name": "601b4ab5b501c0c576f0f9f0b5cd4d0e",
     "url": "https://live.zuidwesttv.nl/live/zwtv.m3u8",
@@ -1794,15 +1794,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
