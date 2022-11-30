@@ -693,6 +693,15 @@
     }
   },
   {
+    "name": "CGTN Arabic",
+    "path_name": "0172a59273838deb72fd6ebc3022094a",
+    "url": "http://livear.cgtn.com/1000a/prog_index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CGTN",
     "path_name": "c860ff939f1cf588a65d3e6fe5918479",
     "url": "http://live.cgtn.com/1000/prog_index.m3u8",
@@ -1683,15 +1692,6 @@
     }
   },
   {
-    "name": "BBC News HD",
-    "path_name": "809da825465ef017b485fcbb80e9ab28",
-    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
@@ -2016,6 +2016,33 @@
     }
   },
   {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
@@ -2208,6 +2235,15 @@
     "name": "Humraaz TV",
     "path_name": "18f8d6fd77cd23dde2e88552a095a861",
     "url": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "TeleSUR English",
+    "path_name": "8920ca69389bdac1d6edaa0ee6b65c8a",
+    "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
