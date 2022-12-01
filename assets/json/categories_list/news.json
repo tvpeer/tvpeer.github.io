@@ -657,6 +657,24 @@
     }
   },
   {
+    "name": "AfricaNews Français",
+    "path_name": "4ddffc5c70219c4c9074ca2650ed2623",
+    "url": "https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "AfricaNews Français",
+    "path_name": "4ddffc5c70219c4c9074ca2650ed2623",
+    "url": "https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "ADN Radio",
     "path_name": "c4eca8c02211a1a13a5cde66dd18ea02",
     "url": "https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8",
@@ -1098,6 +1116,15 @@
     }
   },
   {
+    "name": "Polimer News",
+    "path_name": "5e3a1b3d5b1ee82f7b6becc8e3c86cc2",
+    "url": "https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Asianet News Tamil",
     "path_name": "efb9f3e9968cb3ed93db2ea06ceac1dd",
     "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
@@ -1413,27 +1440,9 @@
     }
   },
   {
-    "name": "Medi 1 TV Arabic",
-    "path_name": "63a3c23475e52510c3021035d8a6ed18",
-    "url": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Medi 1 TV Afrique",
     "path_name": "b49bca2ba572e6a084b24abe108839be",
     "url": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Medi 1 TV Maghreb",
-    "path_name": "b12f137df9610b6faf0af82715ae391f",
-    "url": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1470,6 +1479,15 @@
     "name": "Identidad TV",
     "path_name": "b5c2cd855c58adc81a084a4ef6a4031b",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "RTV Total (Yurimaguas)",
+    "path_name": "bb5240cf0bc34bf40a076de8cda1202c",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1605,15 +1623,6 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2145,15 +2154,6 @@
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
