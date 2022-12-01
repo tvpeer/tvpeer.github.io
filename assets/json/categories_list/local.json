@@ -108,6 +108,15 @@
     }
   },
   {
+    "name": "Ciudad TV Resistencia (Chaco)",
+    "path_name": "ae13211e238dbe907fa833cb506fa46e",
+    "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenord Corrientes",
     "path_name": "9d49de079f499fc31f02f55416f28f0a",
     "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
@@ -2019,6 +2028,15 @@
     "name": "Югра",
     "path_name": "6397ea88f122f9afed02c4764ebac1c7",
     "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Татарстан24",
+    "path_name": "366a69ffe7cf4d833522aa2f026d4536",
+    "url": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
