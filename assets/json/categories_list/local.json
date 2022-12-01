@@ -1836,15 +1836,6 @@
     }
   },
   {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tumpis TV (Tumbes)",
     "path_name": "90261500ac89e2137455a9ac188763e7",
     "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
@@ -2793,6 +2784,15 @@
     "name": "NBC 11 Minneapolis MN (KARE)",
     "path_name": "34f64d34d8c6303cd593fc76c08008a4",
     "url": "https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Beach TV Key West & Florida Keys",
+    "path_name": "c19547c9bc08900408a4fc6cccf6dfe8",
+    "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
