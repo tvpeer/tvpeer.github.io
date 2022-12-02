@@ -720,6 +720,24 @@
     }
   },
   {
+    "name": "Irida TV",
+    "path_name": "e8b7b311b65a8b763f857a25298018f9",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PLP",
+    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVRI Aceh",
     "path_name": "0dfbcbae2f0d2db57946e49e369075dc",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8",
@@ -1773,6 +1791,15 @@
     }
   },
   {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -1785,6 +1812,15 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1911,6 +1947,15 @@
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Белгород 24",
+    "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
+    "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
