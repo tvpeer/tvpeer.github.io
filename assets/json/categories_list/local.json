@@ -1827,15 +1827,6 @@
     }
   },
   {
-    "name": "SurTV (Ilo)",
-    "path_name": "d8fde09dec98236e24c6ef1d29871185",
-    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -3000,6 +2991,15 @@
     "name": "ABC News Live 3",
     "path_name": "27537d46203cf69aeaeba698c5307ac6",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ABC News Live 4",
+    "path_name": "237339519e079f2f6842c80fe081168a",
+    "url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
