@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "MBC 1 KSA",
-    "path_name": "bff69df8bc693d4391c9306932a9b981",
-    "url": "https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Dubai One",
     "path_name": "9261f2c340cc197baff8128bfa3bbf4c",
     "url": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
@@ -99,15 +90,6 @@
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -138,15 +120,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -282,6 +255,15 @@
     "name": "Bolivia TV",
     "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
     "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bolivia TV 7.2",
+    "path_name": "3cfe4928a1fa763c577aa512513f826d",
+    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -765,15 +747,6 @@
     }
   },
   {
-    "name": "OTV",
-    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
-    "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Future TV",
     "path_name": "447806b3ff207d93ddb61799959e84dc",
     "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8",
@@ -930,24 +903,6 @@
     "name": "Palestine Satellite Channel",
     "path_name": "381621adaa18f975b07838f53e87e37d",
     "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "MusawaChannel",
-    "path_name": "bc4117ab37fea656f2e4503eba13d501",
-    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Palestine Mubasher",
-    "path_name": "12152e495327e6cee3959eb9d4697170",
-    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1172,6 +1127,15 @@
   {
     "name": "Shout! Factory TV",
     "path_name": "9ea7cf0674c23154076af3d7c6bfd3a4",
+    "url": "https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Shout! Factory TV",
+    "path_name": "9ea7cf0674c23154076af3d7c6bfd3a4",
     "url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
@@ -1317,6 +1281,15 @@
     "name": "Bloomberg Quicktake",
     "path_name": "fbeab9cf71debfa86f235671af702fc6",
     "url": "https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Digi TV (WFTY-DT6)",
+    "path_name": "30c83e5e99d494ee1033e846c38db6dc",
+    "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
