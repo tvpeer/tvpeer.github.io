@@ -765,6 +765,24 @@
     }
   },
   {
+    "name": "Conecta TV",
+    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
+    "url": "http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Conecta TV",
+    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
+    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -1035,24 +1053,6 @@
     }
   },
   {
-    "name": "M2",
-    "path_name": "f71033f9d8c141e98e5a25bc97e1c1a6",
-    "url": "http://live.m2.tv/hls3/stream.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "M1",
-    "path_name": "ecc352ba6e65c8f22e5a72c74fae09e9",
-    "url": "http://live.m2.tv/hls2/stream.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "V2BEAT",
     "path_name": "170dbb73651fd04590a00da30331e5ac",
     "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
@@ -1146,15 +1146,6 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Pop Europe",
-    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
-    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
