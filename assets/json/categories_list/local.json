@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Canal 10 Rio Negro",
-    "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
-    "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ciudad TV Resistencia (Chaco)",
     "path_name": "ae13211e238dbe907fa833cb506fa46e",
     "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
@@ -1713,6 +1704,15 @@
     "name": "ClipsTV (Ica)",
     "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
     "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "CR Television (Moyobamba)",
+    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
