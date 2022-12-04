@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -495,24 +504,6 @@
     }
   },
   {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "CCTV-4中文国际",
-    "path_name": "3a17dda394dda5d22fcbf51472192e6c",
-    "url": "http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal 2",
     "path_name": "eec395913036effeac3d5fe694574698",
     "url": "https://video13.virtualtronics.com/streamer/canal2.m3u8",
@@ -738,15 +729,6 @@
     }
   },
   {
-    "name": "Jordan TV",
-    "path_name": "0eb62cebd70b284bed4a7c15eddc13f3",
-    "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "CBS",
     "path_name": "f9b93df96a277bddabc3919744d12525",
     "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8",
@@ -936,6 +918,24 @@
     }
   },
   {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Palestine Mubasher",
     "path_name": "12152e495327e6cee3959eb9d4697170",
     "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
@@ -999,15 +999,6 @@
     }
   },
   {
-    "name": "TVR Timișoara",
-    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
-    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVR Târgu Mureș",
     "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
     "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
@@ -1047,6 +1038,15 @@
     "name": "360°",
     "path_name": "369e409dc4b843e9bc897cc3fca771de",
     "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1110,6 +1110,15 @@
     "name": "Lana TV",
     "path_name": "0b42070a3c98500eaa91dce9eecef2b9",
     "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "大立電視",
+    "path_name": "75c19b357c2c0f514208035d5a5fb390",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
