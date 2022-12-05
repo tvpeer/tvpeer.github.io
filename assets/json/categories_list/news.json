@@ -1,23 +1,5 @@
 [
   {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC News New York NY (WABC-TV)",
-    "path_name": "a9422c0649bf1fff809167519ec041ea",
-    "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CBS News Los Angeles",
     "path_name": "73a6ce3ef8090c617c87fe6ee465e64a",
     "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -981,6 +963,15 @@
     }
   },
   {
+    "name": "Asianet News Bangla",
+    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
+    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "TV9 Kannada",
     "path_name": "c82749589c740e60cab7ea83e34fd59c",
     "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
@@ -1002,15 +993,6 @@
     "name": "Asianet News",
     "path_name": "3f8b98b8efdb9ee5014d8c0abcd63620",
     "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Real News Kerala",
-    "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1611,9 +1593,9 @@
     }
   },
   {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1674,6 +1656,15 @@
     }
   },
   {
+    "name": "KTRK TV News",
+    "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
+    "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "WLS TV News",
     "path_name": "48a62755b2f871c5b041a3c1dc29ab65",
     "url": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8",
@@ -1686,6 +1677,15 @@
     "name": "WTVD TV News",
     "path_name": "a05ec7c32a3dddb46f8253f834cbb333",
     "url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KGO-TV News",
+    "path_name": "b1fe52c1d3cff98d3644376fe534cc5c",
+    "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1883,15 +1883,6 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2027,15 +2018,6 @@
   {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
-    "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "America's Voice",
-    "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2072,25 +2054,7 @@
   {
     "name": "ABC News",
     "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
-    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ABC News",
-    "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ABC 7 Los Angeles CA (KABC-TV)",
-    "path_name": "33ff422334706087316d282d5d237df3",
-    "url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2109,6 +2073,15 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2172,15 +2145,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
