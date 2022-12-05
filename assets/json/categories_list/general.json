@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -945,6 +936,15 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Palestine Mubasher",
     "path_name": "12152e495327e6cee3959eb9d4697170",
     "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
@@ -1002,6 +1002,15 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Craiova",
+    "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
+    "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1209,6 +1218,24 @@
     "name": "Sent TV Global Network",
     "path_name": "fff73616ef604b8ec51fbb0f11f5f7ce",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Select Network",
+    "path_name": "9bd6a8d1b5ca544164c2ea69046a97d0",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Television Network",
+    "path_name": "104e65b16979ce9e724aca20314edaf5",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
