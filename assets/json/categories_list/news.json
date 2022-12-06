@@ -558,6 +558,15 @@
     }
   },
   {
+    "name": "CBC",
+    "path_name": "5f4e683b5abd532cbe37217a5ba3089c",
+    "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 BIH",
     "path_name": "ab68d92182e39860a9a4b0179d805b4f",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -750,6 +759,15 @@
     "name": "CNN International Germany",
     "path_name": "65c64dda6cbbe92d36874c3631ff3306",
     "url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1629,15 +1647,6 @@
     }
   },
   {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1695,15 +1704,6 @@
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "WCVB-TV News Boston MA",
-    "path_name": "d7b03e06cd15dc4fd1ad8505e4823d5a",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
