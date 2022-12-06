@@ -288,15 +288,6 @@
     }
   },
   {
-    "name": "Bolivia TV 7.2",
-    "path_name": "3cfe4928a1fa763c577aa512513f826d",
-    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Verdes Campos",
     "path_name": "02989a8ac0d9610a95e91b1885239e4a",
     "url": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
@@ -936,6 +927,24 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Qatar TV",
     "path_name": "69e5814ba16cd1c507a6ebfd68badc52",
     "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
@@ -957,6 +966,15 @@
     "name": "Al Rayyan",
     "path_name": "2a1fbe76aab852808351018dc4d2317a",
     "url": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1047,15 +1065,6 @@
     "name": "TV BRICS Russian",
     "path_name": "2543aac2cd3fba91497e95bab6235d52",
     "url": "https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Al Khalij",
-    "path_name": "1ea6c256d75fc0bcfc7485596b7484c0",
-    "url": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
