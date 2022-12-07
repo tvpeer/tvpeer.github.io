@@ -135,15 +135,6 @@
     }
   },
   {
-    "name": "Rede CNT (São Paulo)",
-    "path_name": "98d8e66351ab55fdb893e09404b32a62",
-    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV UniSantos",
     "path_name": "7708ed0072c1fc4f586a0af51a8b33da",
     "url": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
@@ -219,6 +210,15 @@
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Galega Blumenau",
+    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
+    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -363,6 +363,15 @@
     "name": "Canal SCÑ (San Carlos Ñuble)",
     "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
     "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Click TV (Coronel)",
+    "path_name": "9554e47a7857e21bdbb85989291956e6",
+    "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
