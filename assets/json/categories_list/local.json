@@ -252,6 +252,15 @@
     }
   },
   {
+    "name": "Jess TV (Lethbridge)",
+    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
+    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Toronto 360 TV",
     "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
     "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
@@ -657,15 +666,6 @@
     }
   },
   {
-    "name": "Alsace 20",
-    "path_name": "4245fb6dfaf53cdcdeff74b19b82f6e7",
-    "url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "viàMoselleTV",
     "path_name": "e8096997229835589d7cf35260083ce9",
     "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
@@ -714,6 +714,24 @@
     "name": "TV Creta",
     "path_name": "35c5dd55f28f0c11dee0b22034dea865",
     "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Irida TV",
+    "path_name": "e8b7b311b65a8b763f857a25298018f9",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "PLP",
+    "path_name": "58b02f30b67ecf0a4aff2684f454e043",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1947,15 +1965,6 @@
     "name": "Univer TV",
     "path_name": "366856882fb400d8ab5329c49d06509f",
     "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Белгород 24",
-    "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
-    "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
