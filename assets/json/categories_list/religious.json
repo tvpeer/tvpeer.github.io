@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -450,6 +441,24 @@
     }
   },
   {
+    "name": "Dios Te Ve",
+    "path_name": "5634a93578a42696e1a08b74494f7847",
+    "url": "https://emisoras.hn:8081/diostevetv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Dios Te Ve Infantil",
+    "path_name": "c743196c3c93860e98936e5b9ccaada5",
+    "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Radio Télé 4VEH",
     "path_name": "ff1441b8417d2792fbaddd99e2c379b5",
     "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
@@ -462,15 +471,6 @@
     "name": "Bonum TV",
     "path_name": "ce6a1e671940d92d2b3ac09fe4661651",
     "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "I AM CHANNEL",
-    "path_name": "b4995072f6956bf8072bbccd17703e96",
-    "url": "http://iamchannel.org:1935/tes/1/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
