@@ -117,9 +117,9 @@
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -585,24 +585,6 @@
     }
   },
   {
-    "name": "Trans7",
-    "path_name": "5f8d7fe7e00f29f23a181f8eebc7618b",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Trans TV",
-    "path_name": "2b332593d6c5d88558ea2f13ef01e9ff",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVRI Nasional",
     "path_name": "23c698e86692b7a8efb908141f5e22fb",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8",
@@ -891,9 +873,18 @@
     }
   },
   {
-    "name": "Palestine Mubasher",
-    "path_name": "12152e495327e6cee3959eb9d4697170",
-    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
