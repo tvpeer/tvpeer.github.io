@@ -234,6 +234,15 @@
     }
   },
   {
+    "name": "TV Sol Comunidade",
+    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
+    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -1539,15 +1548,6 @@
     }
   },
   {
-    "name": "DMJ (Cuzco)",
-    "path_name": "8dac651380b06c3e429ebe055ca13085",
-    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1713,15 +1713,6 @@
     "name": "ClipsTV (Ica)",
     "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
     "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "CR Television (Moyobamba)",
-    "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
-    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2079,24 +2070,6 @@
     }
   },
   {
-    "name": "NBC-CT WVIT-TV News Hartford CT",
-    "path_name": "e5394544cdd87d57b0e87774e45384f9",
-    "url": "https://wvitlive-f.akamaihd.net/i/HARTFORD_STREAM1@22924/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC4 KNBC-TV News",
-    "path_name": "7c3187128fc5561b4aed3d0bb2f3f745",
-    "url": "https://knbclive-f.akamaihd.net/i/LA_STREAM1@13988/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
@@ -2190,15 +2163,6 @@
     "name": "Winthrop Community Access TV (WCAT 3)",
     "path_name": "49f3fda55f007cee85c58aa6e7393fa3",
     "url": "https://frontdoor.wcat-tv.org:8787/live/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC4 WNBC-TV New York News",
-    "path_name": "af49cc9de7961767cb247b31c0c3d33c",
-    "url": "https://wnbclive-f.akamaihd.net/i/NY_STREAM1@13992/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -3063,15 +3027,6 @@
     "name": "ABC 15 Phoenix AZ (KNXV-TV)",
     "path_name": "15b4327e38fbfe9e96da44840ca9a19e",
     "url": "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 5 News Chicago IL (WMAQ-TV)",
-    "path_name": "9ae43f862d53adbfae3e130c304f4b9a",
-    "url": "https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM1@22923/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
