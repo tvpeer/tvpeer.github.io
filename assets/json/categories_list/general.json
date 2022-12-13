@@ -81,9 +81,9 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "Bolivia TV",
-    "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
-    "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Bolivia TV 7.2",
     "path_name": "3cfe4928a1fa763c577aa512513f826d",
     "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
@@ -432,9 +423,9 @@
     }
   },
   {
-    "name": "TV Metropole",
-    "path_name": "92ca0fab71afbc1be6b251467a82df91",
-    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "name": "ISTV",
+    "path_name": "4eec9f69d87af30f39ca88b4db85b595",
+    "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -909,6 +900,33 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RTP Internacional",
+    "path_name": "2a7b2266b5e76ee16ea3b27a2546d9bc",
+    "url": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Qatar TV",
     "path_name": "69e5814ba16cd1c507a6ebfd68badc52",
     "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
@@ -954,27 +972,9 @@
     }
   },
   {
-    "name": "TVR 3",
-    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
-    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Târgu Mureș",
-    "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
-    "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1092,6 +1092,15 @@
     "name": "原住民電視",
     "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
     "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "AWE Encore",
+    "path_name": "62764de955f005dead03f1ece29f1f1a",
+    "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
