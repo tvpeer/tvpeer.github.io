@@ -261,15 +261,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -651,6 +642,15 @@
     "name": "BFM Grand Littoral",
     "path_name": "387d5ee3b2b962e3ede14e075f6d8a33",
     "url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Alsace 20",
+    "path_name": "4245fb6dfaf53cdcdeff74b19b82f6e7",
+    "url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
