@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Gospel Movie TV",
-    "path_name": "2f7fbb892b497478324177e88444148a",
-    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Rede Vida",
     "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
     "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
@@ -603,6 +594,15 @@
     }
   },
   {
+    "name": "Icnet TV",
+    "path_name": "03ca68e7572ea2a70f2360641309a18c",
+    "url": "http://51.210.199.7/hls/stream.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Kalemeh TV",
     "path_name": "2f4d70c9246b0dddefab5512b5d87dce",
     "url": "http://51.210.199.37/hls/stream.m3u8",
@@ -876,6 +876,24 @@
     "name": "Небеса ТВ7",
     "path_name": "c7f3368b1f0453e5d81e4eba75a5acc3",
     "url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah TV (Medina)",
+    "path_name": "9dc4485ea0b8054420191ed966fafded",
+    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Al Quran Al Kareem TV (Mecca)",
+    "path_name": "3747d19ea86f7d26b423d49f573ed243",
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
