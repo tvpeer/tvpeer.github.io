@@ -234,18 +234,9 @@
     }
   },
   {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "name": "Jess TV (Lethbridge)",
+    "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
+    "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -315,15 +306,6 @@
     }
   },
   {
-    "name": "Campus TV (Talca)",
-    "path_name": "3eb5077be8e10d7c129fc064c1f23960",
-    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 2 (San Antonio)",
     "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
     "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
@@ -363,6 +345,15 @@
     "name": "Click TV (Coronel)",
     "path_name": "9554e47a7857e21bdbb85989291956e6",
     "url": "http://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Elion Canal Digital (Chillan)",
+    "path_name": "1bc3940c65e017205cfe20a5794cedfa",
+    "url": "https://paneltv.online:1936/8154/8154/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1308,33 +1299,6 @@
     "name": "Gunma TV",
     "path_name": "0f9b31471b89292151393d2da4af789a",
     "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Capital 21",
-    "path_name": "215e6497f27da10873ae6bb2135643df",
-    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SET Televisión Canal 26.1",
-    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
-    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SET Televisión Canal 26.2",
-    "path_name": "6ac22eaa8921afc2fce942415159eae8",
-    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
