@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Canal 10 Rio Negro",
-    "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
-    "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Ciudad TV Resistencia (Chaco)",
     "path_name": "ae13211e238dbe907fa833cb506fa46e",
     "url": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8",
@@ -444,15 +435,6 @@
     "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
     "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
     "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1893,6 +1875,24 @@
     "name": "Телеканал 86 (Сургут)",
     "path_name": "902f3675cd784429cc4353b9291d5838",
     "url": "https://sitv.ru/hls/s86.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Univer TV",
+    "path_name": "366856882fb400d8ab5329c49d06509f",
+    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
