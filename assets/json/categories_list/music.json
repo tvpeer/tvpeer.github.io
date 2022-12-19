@@ -1,5 +1,32 @@
 [
   {
+    "name": "Armenia Ջան TV",
+    "path_name": "6660687c382317d3689a50a364087895",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "MusicTop",
+    "path_name": "7b4b794aebbdbec309be333eca3fcc22",
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
@@ -693,6 +720,15 @@
     }
   },
   {
+    "name": "Video Rola",
+    "path_name": "4c0a55b42c57a7ab3e68738691346f51",
+    "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Euro Indie Music Chart TV",
     "path_name": "4b81ead013194f349b6033c8e04c4582",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
@@ -846,15 +882,6 @@
     }
   },
   {
-    "name": "TV Duga Plus",
-    "path_name": "247c1ba0159fdcca4856256524b932e5",
-    "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Muzzik AMVA 2020",
     "path_name": "56eb3285711470314cc411865b5646e1",
     "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
@@ -983,7 +1010,43 @@
   {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1116,27 +1179,9 @@
     }
   },
   {
-    "name": "Vevo Hip Hop",
-    "path_name": "b8b481ce3ee75deda9327c0fb327e658",
-    "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Pop Europe",
-    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
-    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1197,6 +1242,15 @@
     }
   },
   {
+    "name": "Radio Ritmo",
+    "path_name": "7e5e8ac29053f4f2fa7970b6d8f85c05",
+    "url": "https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Latido Music",
     "path_name": "e5a12fa30d21036f9031410272bae8e9",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8",
@@ -1206,18 +1260,18 @@
     }
   },
   {
-    "name": "Latido Music",
-    "path_name": "e5a12fa30d21036f9031410272bae8e9",
-    "url": "https://vidaprimo-tcl.amagi.tv/playlist.m3u8",
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
     }
   },
   {
-    "name": "Latido Music",
-    "path_name": "e5a12fa30d21036f9031410272bae8e9",
-    "url": "https://vidaprimo-vizio.amagi.tv/playlist.m3u8",
+    "name": "La Mega Mundial",
+    "path_name": "2da93640d38072f339fa2acb950d7453",
+    "url": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
