@@ -146,6 +146,15 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
+    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera English",
+    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -621,15 +630,6 @@
     }
   },
   {
-    "name": "Беларусь 24",
-    "path_name": "a8b5756afc1c85e36a0c3ec7f9d9f7d9",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "AfricaNews English",
     "path_name": "16818ec45995bbaaa14e6250273d0a7f",
     "url": "https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8",
@@ -765,6 +765,15 @@
     }
   },
   {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -813,6 +822,15 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews Français",
+    "path_name": "89da5d2227cd4cbbf3a22495086c1447",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1406,15 +1424,6 @@
   {
     "name": "M24 TV",
     "path_name": "5b8239b824c3ec4f91aba55d9191788c",
-    "url": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "M24 TV",
-    "path_name": "5b8239b824c3ec4f91aba55d9191788c",
     "url": "https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -1611,6 +1620,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1674,9 +1692,9 @@
     }
   },
   {
-    "name": "BBC News HD",
-    "path_name": "809da825465ef017b485fcbb80e9ab28",
-    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
+    "name": "Sky News",
+    "path_name": "e8111c26a56c75630bb0c8f2817ca325",
+    "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2037,15 +2055,6 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
