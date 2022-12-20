@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Telenord Corrientes",
-    "path_name": "9d49de079f499fc31f02f55416f28f0a",
-    "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (Curitiba)",
     "path_name": "b4662f3ad289b560564ebaad0be82a2b",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
@@ -1692,6 +1683,15 @@
     }
   },
   {
+    "name": "ClipsTV (Ica)",
+    "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
+    "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "CR Television (Moyobamba)",
     "path_name": "4fc318b7b5c56496dda191c26c5d2bb7",
     "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
@@ -1857,15 +1857,6 @@
     "name": "MitosTV (Mitos de la Selva | Pucallpa)",
     "path_name": "a6c0333501d9711ef41184342257183a",
     "url": "https://inliveserver.com:1936/19018/19018/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Millenium 49 TV (Pucallpa)",
-    "path_name": "b38029251e5315b6d9234a159b407285",
-    "url": "https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2379,15 +2370,6 @@
     "name": "CBS 19 Tyler TX (KYTX)",
     "path_name": "fe93425a67e2b72267b432edcd1202bc",
     "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "FOX 13 Memphis TN (WHBQ-TV)",
-    "path_name": "616c6f9213dded3a01da13c322fb1fb5",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
