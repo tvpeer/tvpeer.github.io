@@ -648,15 +648,6 @@
     }
   },
   {
-    "name": "Alsace 20",
-    "path_name": "4245fb6dfaf53cdcdeff74b19b82f6e7",
-    "url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "viàMoselleTV",
     "path_name": "e8096997229835589d7cf35260083ce9",
     "url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
@@ -2061,6 +2052,15 @@
     }
   },
   {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "С1 (Сургут)",
     "path_name": "08be0f97930b257645b8c4618c0a6bd8",
     "url": "https://sitv.ru/hls/stv.m3u8",
@@ -2379,6 +2379,15 @@
     "name": "CBS 19 Tyler TX (KYTX)",
     "path_name": "fe93425a67e2b72267b432edcd1202bc",
     "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "FOX 13 Memphis TN (WHBQ-TV)",
+    "path_name": "616c6f9213dded3a01da13c322fb1fb5",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
