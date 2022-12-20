@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -828,15 +819,6 @@
     }
   },
   {
-    "name": "MBC",
-    "path_name": "d11fa117fb730e077192de81a07db08c",
-    "url": "http://41.216.229.205:8080/live/livestream/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVM Internacional",
     "path_name": "a459770071a2e559bb9cbb7a3605a2fb",
     "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
@@ -903,6 +885,24 @@
     "name": "Palestine Satellite Channel",
     "path_name": "381621adaa18f975b07838f53e87e37d",
     "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1011,6 +1011,15 @@
     "name": "360°",
     "path_name": "369e409dc4b843e9bc897cc3fca771de",
     "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
