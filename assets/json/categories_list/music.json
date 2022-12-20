@@ -441,15 +441,6 @@
     }
   },
   {
-    "name": "Šlágr TV",
-    "path_name": "851745bcc65cb7d3f77a90a3d03abe6b",
-    "url": "https://stream-6.mazana.tv/slagr.m3u",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Radio Weser TV Bremen",
     "path_name": "21d79f10ec18e3d631f3ec8c7a6ff419",
     "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8",
@@ -507,15 +498,6 @@
     "name": "Xalastra TV",
     "path_name": "576bd68a7acb4fd5c10c41a8e555a51b",
     "url": "https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Magic TV",
-    "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
-    "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1173,6 +1155,15 @@
     "name": "MCN6 Music Channel",
     "path_name": "146b4ab0a7117133a37e55f541b4b9d1",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Hip Hop",
+    "path_name": "b8b481ce3ee75deda9327c0fb327e658",
+    "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
