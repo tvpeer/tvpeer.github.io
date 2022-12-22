@@ -1341,6 +1341,24 @@
     }
   },
   {
+    "name": "SET Televisión Canal 26.1",
+    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
+    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.2",
+    "path_name": "6ac22eaa8921afc2fce942415159eae8",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -1521,6 +1539,15 @@
     }
   },
   {
+    "name": "DMJ (Cuzco)",
+    "path_name": "8dac651380b06c3e429ebe055ca13085",
+    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1650,15 +1677,6 @@
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2154,15 +2172,6 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 5 Cleveland OH (WEWS-TV)",
-    "path_name": "2983600de2fe081c50039189ad893e50",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
