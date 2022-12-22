@@ -1377,6 +1377,15 @@
     }
   },
   {
+    "name": "Vos Tv",
+    "path_name": "47412687ba865fc6f4c10586407c82d3",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -2001,6 +2010,15 @@
     "name": "МТВ (Волгоград)",
     "path_name": "5743f86434a62aeb45f219a0dad24567",
     "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ветта 24 (Пермь)",
+    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
