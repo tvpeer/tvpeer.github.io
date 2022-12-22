@@ -153,15 +153,6 @@
     }
   },
   {
-    "name": "Rede Gospel",
-    "path_name": "69ebd4f367bc24a3b2c586c456b30651",
-    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Gospel Movie TV",
     "path_name": "2f7fbb892b497478324177e88444148a",
     "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
@@ -774,6 +765,15 @@
     }
   },
   {
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
@@ -1173,6 +1173,24 @@
     "name": "The Now Network",
     "path_name": "bed0f66b5ff7dd552fc3e157634e0413",
     "url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mission TV",
+    "path_name": "30ed2526a48a5c7b4e03c781969dffcb",
+    "url": "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Mission TV",
+    "path_name": "30ed2526a48a5c7b4e03c781969dffcb",
+    "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
