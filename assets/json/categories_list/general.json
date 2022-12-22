@@ -900,6 +900,15 @@
     }
   },
   {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
@@ -945,6 +954,15 @@
     }
   },
   {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
@@ -966,6 +984,24 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Craiova",
+    "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
+    "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
