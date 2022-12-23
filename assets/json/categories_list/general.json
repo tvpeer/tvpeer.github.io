@@ -99,15 +99,6 @@
     }
   },
   {
-    "name": "Կենտրոն",
-    "path_name": "bca399713828321b33802124adcb3d89",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
@@ -129,15 +120,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -909,6 +891,15 @@
     }
   },
   {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
@@ -948,15 +939,6 @@
     "name": "Al Rayyan",
     "path_name": "2a1fbe76aab852808351018dc4d2317a",
     "url": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR 1",
-    "path_name": "efe15e2f5675b809f259c5eea7a62625",
-    "url": "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
