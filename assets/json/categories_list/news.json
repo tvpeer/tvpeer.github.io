@@ -792,15 +792,6 @@
     }
   },
   {
-    "name": "DW Español",
-    "path_name": "cacfacaa8978706c54f407b70a59a249",
-    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "France 24 Español",
     "path_name": "e5d20bb74d29e20c93803cd0c0fc980a",
     "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
@@ -993,6 +984,15 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Asianet News Bangla",
+    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
+    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1449,15 +1449,6 @@
     }
   },
   {
-    "name": "Publika TV",
-    "path_name": "11f04fac75d3cbc8e831420c74482c7a",
-    "url": "https://livebeta.publika.md/LIVE/P/1500.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "AMX Noticias",
     "path_name": "5f08d5d71749978c720fe9ea5d5c0ce0",
     "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
@@ -1596,6 +1587,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "https://sc.id-tv.kz/Mir24.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
