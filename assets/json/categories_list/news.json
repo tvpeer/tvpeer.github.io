@@ -774,6 +774,15 @@
     }
   },
   {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -993,15 +1002,6 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Asianet News Bangla",
-    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
-    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1611,18 +1611,9 @@
     }
   },
   {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Известия",
-    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
-    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
