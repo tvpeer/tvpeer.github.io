@@ -387,6 +387,15 @@
     }
   },
   {
+    "name": "Puncón TV",
+    "path_name": "b0ac099bd9e8c861dc7309b5392f45f2",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Santa María Televisión",
     "path_name": "3367c1feb878d42504c153dd4d570aa3",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
@@ -1299,6 +1308,24 @@
     "name": "Gunma TV",
     "path_name": "0f9b31471b89292151393d2da4af789a",
     "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.1",
+    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
+    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SET Televisión Canal 26.2",
+    "path_name": "6ac22eaa8921afc2fce942415159eae8",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
