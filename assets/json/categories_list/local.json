@@ -90,15 +90,6 @@
     }
   },
   {
-    "name": "AVC HD (Monte Caseros | Corrientes)",
-    "path_name": "8c7725a7842c0eb81227e0feecd828c8",
-    "url": "https://tna5.bozztv.com/AVCHD/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Rio Negro",
     "path_name": "c41ce043b94af110fb0eb0de27fc1abe",
     "url": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
@@ -1332,33 +1323,6 @@
     }
   },
   {
-    "name": "Capital 21",
-    "path_name": "215e6497f27da10873ae6bb2135643df",
-    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SET Televisión Canal 26.1",
-    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
-    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SET Televisión Canal 26.2",
-    "path_name": "6ac22eaa8921afc2fce942415159eae8",
-    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -1650,6 +1614,15 @@
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Antares Televisión",
+    "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
