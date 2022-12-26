@@ -117,6 +117,15 @@
     }
   },
   {
+    "name": "KCV Movies",
+    "path_name": "e07988886cb4b443a36608478cc2b406",
+    "url": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Persian Film",
     "path_name": "01cd721bf7d3268f21fd19d96840df93",
     "url": "http://51.210.227.135/hls/stream.m3u8",
@@ -279,15 +288,6 @@
     }
   },
   {
-    "name": "Amedia Hit",
-    "path_name": "8295ae2c9964eede50012d4d1de2fb42",
-    "url": "https://sc.id-tv.kz/amedia_hit_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Дорама",
     "path_name": "e2ac9b464d4e275c8c3141ca1b1cdee4",
     "url": "http://ott-cdn.ucom.am/s95/index.m3u8",
@@ -318,15 +318,6 @@
     "name": "Дом Кино Премиум",
     "path_name": "bf19707fc93faa1cb67007287c34a5a9",
     "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Cinema",
-    "path_name": "2b2f7611b0c84877cba300eb4e72b1bb",
-    "url": "https://sc.id-tv.kz/Cinema.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -561,6 +552,15 @@
     "name": "Asylum (XUMO)",
     "path_name": "1132a69f89250323ad830dde36e1328e",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Samuel Goldwyn Channel",
+    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
+    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
