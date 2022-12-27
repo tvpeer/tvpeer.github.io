@@ -1629,15 +1629,6 @@
     }
   },
   {
-    "name": "Tele2000 (Ayacucho)",
-    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
-    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Unitel (Huancayo)",
     "path_name": "44d359a28d507bc7f14ae6ce442bc6f9",
     "url": "https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8",
@@ -1740,15 +1731,6 @@
     "name": "Top FM TV (Atalaya)",
     "path_name": "f7c8508f25c18c80c20d88a25943e219",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Tropical TV (Puerto Maldonado)",
-    "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
-    "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1893,15 +1875,6 @@
     "name": "Телеканал 86 (Сургут)",
     "path_name": "902f3675cd784429cc4353b9291d5838",
     "url": "https://sitv.ru/hls/s86.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Сургут 24",
-    "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
-    "url": "https://video1.in-news.ru/c24/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2334,6 +2307,15 @@
     "name": "NBC 207 Bangor Portland ME (WLBZ)",
     "path_name": "22519b4a51c3f9748ec1dc25bee40617",
     "url": "https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NBC 13 Indianapolis IN (WTHR)",
+    "path_name": "7201944e5ec65500476f27bb4c30cc3d",
+    "url": "https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
