@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "Toronto 360 TV",
-    "path_name": "6edd1f4693aaef8e7e242cb0fc437f58",
-    "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV 16 Toronto",
     "path_name": "0378bd20817e872afa934240cff62cf2",
     "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
@@ -1665,9 +1656,27 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 8 (Catacaos)",
+    "path_name": "351a3f45c591efc880c2f0ee87d0d083",
+    "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1740,15 +1749,6 @@
     "name": "Tropical TV (Puerto Maldonado)",
     "path_name": "79cfeae594e6ba8bdaede6da0fe1d8e7",
     "url": "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR)",
-    "path_name": "03831aac3bdcf4dfc425104ada0d7c3b",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
