@@ -1629,15 +1629,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Tele2000 (Ayacucho)",
     "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
     "url": "https://servilive.com:3126/live/tele2000live.m3u8",
@@ -1902,6 +1893,15 @@
     "name": "Телеканал 86 (Сургут)",
     "path_name": "902f3675cd784429cc4353b9291d5838",
     "url": "https://sitv.ru/hls/s86.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Сургут 24",
+    "path_name": "ad227963a2404b8837cbd1ca0d0a05f6",
+    "url": "https://video1.in-news.ru/c24/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2334,15 +2334,6 @@
     "name": "NBC 207 Bangor Portland ME (WLBZ)",
     "path_name": "22519b4a51c3f9748ec1dc25bee40617",
     "url": "https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "NBC 13 Indianapolis IN (WTHR)",
-    "path_name": "7201944e5ec65500476f27bb4c30cc3d",
-    "url": "https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
