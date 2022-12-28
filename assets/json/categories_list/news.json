@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -165,15 +156,6 @@
     "name": "BBC World News",
     "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
     "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "BBC World News",
-    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
-    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -426,15 +408,6 @@
     "name": "ATN News",
     "path_name": "c374e701683b6246460601756174b864",
     "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "ABC News",
-    "path_name": "e0d3405a10a79e5ad08c7dd2f55832a8",
-    "url": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -948,6 +921,15 @@
     "name": "Kanak News",
     "path_name": "6883abf486ff64267998970ad0e7f212",
     "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Pratidin Time",
+    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
+    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1683,15 +1665,6 @@
     }
   },
   {
-    "name": "Sky News",
-    "path_name": "e8111c26a56c75630bb0c8f2817ca325",
-    "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "BBC News HD",
     "path_name": "809da825465ef017b485fcbb80e9ab28",
     "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
@@ -1929,6 +1902,15 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://bnc-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
