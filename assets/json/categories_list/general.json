@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Հ2",
-    "path_name": "af222a7ffa444e751ecba3858213655a",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "ATV",
     "path_name": "92e09bed19a92f7d3a11740c53594986",
     "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
@@ -237,6 +228,15 @@
     "name": "Azad TV -4 (ATV)",
     "path_name": "032024fb5767d88d4909cea1db9700bc",
     "url": "http://85.132.81.184:8080/atv-4/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Kəpəz TV",
+    "path_name": "20082913f71c516ee3ddc764203aca00",
+    "url": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -399,6 +399,15 @@
     "name": "Catve FM",
     "path_name": "9de2d86f074dc9f7e28b7b0577b7d8f1",
     "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ISTV",
+    "path_name": "4eec9f69d87af30f39ca88b4db85b595",
+    "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -777,6 +786,15 @@
     "name": "Arrabiaa",
     "path_name": "b85a34fa7a16e0dfbe9928433ebccdcb",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
