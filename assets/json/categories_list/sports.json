@@ -234,15 +234,6 @@
     }
   },
   {
-    "name": "Real Madrid TV US Version",
-    "path_name": "8d70a20cd519de3a6c68bdb65e1c23b9",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "TVRI Sport HD",
     "path_name": "285e7eb931528c79ada2370d1cc8676c",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
@@ -300,6 +291,15 @@
     "name": "TDM Sports Macau",
     "path_name": "27ddd5345fbcdf03453feaeb6d9bc876",
     "url": "http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Canal Motor",
+    "path_name": "8382fe418bc4618fbac3bd2755b19f6a",
+    "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
@@ -426,6 +426,15 @@
     "name": "EDGEsport",
     "path_name": "bbe87030c661b5fc5af9829235bfb1b2",
     "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "World Poker Tour",
+    "path_name": "4410fd784b09915966c94029fbff9e59",
+    "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
