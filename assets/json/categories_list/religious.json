@@ -54,15 +54,6 @@
     }
   },
   {
-    "name": "Rede Brasil de Comunicação",
-    "path_name": "a937bf0deb22ce10f2134ff3d9721214",
-    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "PUC TV Goiás",
     "path_name": "8ae99f414cd91710a8c48c16450cd820",
     "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
@@ -1596,6 +1587,15 @@
     "name": "Christian Youth Channel (CYC)",
     "path_name": "6a32b1fc5a566c22c643d810877267f3",
     "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TBN Asia",
+    "path_name": "a80cbe0640e879f6ce9c0550953c61c4",
+    "url": "http://210.210.155.35/qwr9ew/s/s39/02.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
