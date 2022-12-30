@@ -450,6 +450,15 @@
     }
   },
   {
+    "name": "Hits 360 TV",
+    "path_name": "680a6c20b71cf7ecb2234901c6fb7bee",
+    "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "101 Tele Antequera",
     "path_name": "7bc0dba9ebff499918e13e8a3fa07aca",
     "url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8",
@@ -489,6 +498,15 @@
     "name": "Xalastra TV",
     "path_name": "576bd68a7acb4fd5c10c41a8e555a51b",
     "url": "https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Magic TV",
+    "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
+    "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -999,27 +1017,9 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "name": "Жар Птица",
+    "path_name": "a0c17caccd03d1f09dcb856d48175e47",
+    "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1029,15 +1029,6 @@
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1101,6 +1092,15 @@
     "name": "Qello Concerts by Stingray",
     "path_name": "bc31d54a9f6701af9c5f60a963b04127",
     "url": "https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Qello Concerts by Stingray",
+    "path_name": "bc31d54a9f6701af9c5f60a963b04127",
+    "url": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
