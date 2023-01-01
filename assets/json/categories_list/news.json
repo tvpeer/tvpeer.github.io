@@ -162,6 +162,15 @@
     }
   },
   {
+    "name": "BBC World News",
+    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
+    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "DW English",
     "path_name": "211d871ac3b856120f9d466edd57964e",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -300,6 +309,15 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera Arabic",
+    "path_name": "594bc5910c2e2c619ae6a022987a146d",
+    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -765,27 +783,9 @@
     }
   },
   {
-    "name": "324",
-    "path_name": "3f571ab24d54baf70b44bb4ce6c88214",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "101TV Malaga",
     "path_name": "930cee95729458c790dd69049205a25a",
     "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "3/24",
-    "path_name": "0f23455d660a8d02046e813e49f83565",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -993,6 +993,15 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Asianet News Bangla",
+    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
+    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1602,6 +1611,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1614,6 +1632,15 @@
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
