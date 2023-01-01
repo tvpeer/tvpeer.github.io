@@ -1037,7 +1037,34 @@
   {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1191,15 +1218,6 @@
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Loop 80s East",
-    "path_name": "047bd024519159c8b7a012c70ef76dcd",
-    "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
