@@ -117,6 +117,24 @@
     }
   },
   {
+    "name": "Հ2",
+    "path_name": "af222a7ffa444e751ecba3858213655a",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -873,15 +891,6 @@
     }
   },
   {
-    "name": "Palestine Satellite Channel",
-    "path_name": "381621adaa18f975b07838f53e87e37d",
-    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
@@ -1065,6 +1074,15 @@
     "name": "Lana TV",
     "path_name": "0b42070a3c98500eaa91dce9eecef2b9",
     "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "大立電視",
+    "path_name": "75c19b357c2c0f514208035d5a5fb390",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1293,6 +1311,24 @@
     "categories": {
       "name": "General",
       "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
     }
   }
 ]
