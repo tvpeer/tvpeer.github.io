@@ -657,6 +657,15 @@
     }
   },
   {
+    "name": "AfricaNews English",
+    "path_name": "16818ec45995bbaaa14e6250273d0a7f",
+    "url": "https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "AfricaNews Français",
     "path_name": "4ddffc5c70219c4c9074ca2650ed2623",
     "url": "https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8",
@@ -918,6 +927,15 @@
     }
   },
   {
+    "name": "Pratidin Time",
+    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
+    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NDTV 24X7",
     "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
@@ -1092,6 +1110,15 @@
     "name": "Mathrubhumi News",
     "path_name": "fbe61930d9ee1a396bcce2dba0b651c1",
     "url": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Malabar News",
+    "path_name": "7f30cbd06c44fef808e328537d581b55",
+    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1656,6 +1683,24 @@
     }
   },
   {
+    "name": "BBC News HD",
+    "path_name": "809da825465ef017b485fcbb80e9ab28",
+    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "KFSN News",
+    "path_name": "86c2da84a007c60cca7db2dd9e970b74",
+    "url": "https://api.abcotvs.com/v3/kfsn/m3u8/url?id=432725&key=yuemix",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "KTRK TV News",
     "path_name": "2068cea65bce3546acd6bd7ab23f9b5a",
     "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
@@ -1991,15 +2036,6 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2118,6 +2154,24 @@
     "name": "CNN USA",
     "path_name": "29758505bed158a4d0e5fc6eea879fc7",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
