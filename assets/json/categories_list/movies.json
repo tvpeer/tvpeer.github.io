@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Armenia Հայ Կինո",
     "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
     "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
@@ -243,6 +234,15 @@
     }
   },
   {
+    "name": "Ел Арна",
+    "path_name": "3c1b059253e31184839de05c281eee5e",
+    "url": "https://sc.id-tv.kz/ElArna.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Moovimex",
     "path_name": "70bbd9d49ed9df1534981efbe8e53165",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8",
@@ -255,6 +255,24 @@
     "name": "Golden Latinoamérica",
     "path_name": "c29ecc388b6a129e067a1c6641ef59cb",
     "url": "https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Кинопремьера",
+    "path_name": "e7fa2e3f24148e7402066ec8b804d269",
+    "url": "https://sc.id-tv.kz/Kinopremiera_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Киносемья",
+    "path_name": "9217b90acf945da0f58d61b03ce8aeb3",
+    "url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -435,15 +453,6 @@
     "name": "Hallmark Movies & More",
     "path_name": "1b4731d7c002aa92e066c07882aaa53d",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Horrify",
-    "path_name": "7d1e299f1ae65aad8277a0a03e6afc6f",
-    "url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
