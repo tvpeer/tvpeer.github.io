@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -315,6 +306,24 @@
     }
   },
   {
+    "name": "88 Stereo",
+    "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
+    "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Video Tour Channel",
+    "path_name": "ebc4cfe2abccb62e5e1bd5b5f09af6da",
+    "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/chunks.m3u8",
@@ -327,6 +336,15 @@
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "VM Latino",
+    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -723,15 +741,6 @@
     "name": "Radio Piter Pan TV",
     "path_name": "921810c9e13ccf1c449a7d481073ade6",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Video Rola",
-    "path_name": "4c0a55b42c57a7ab3e68738691346f51",
-    "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
