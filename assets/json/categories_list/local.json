@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -1656,6 +1647,15 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1902,6 +1902,15 @@
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Белгород 24",
+    "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
+    "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
