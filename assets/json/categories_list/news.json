@@ -729,15 +729,6 @@
     }
   },
   {
-    "name": "CGTN",
-    "path_name": "c860ff939f1cf588a65d3e6fe5918479",
-    "url": "http://live.cgtn.com/500/prog_index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "CGTN Español",
     "path_name": "cc3a31331df890da59b864c170d70708",
     "url": "http://livees.cgtn.com/500e/prog_index.m3u8",
@@ -1605,6 +1596,15 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "https://sc.id-tv.kz/Mir24.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"

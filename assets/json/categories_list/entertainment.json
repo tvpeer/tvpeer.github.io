@@ -126,15 +126,6 @@
     }
   },
   {
-    "name": "One TV",
-    "path_name": "a353656426bd22f03a23dcd5edc6fad4",
-    "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Amrita TV",
     "path_name": "7f9e62eeb0cd20f1263b54dd8443ef47",
     "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
@@ -648,6 +639,15 @@
     }
   },
   {
+    "name": "VENN",
+    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
+    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "CONtv",
     "path_name": "184e7a7590e9c6d3fbeacd71b083a122",
     "url": "https://contv-stirr.amagi.tv/playlist.m3u8",
@@ -840,6 +840,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
