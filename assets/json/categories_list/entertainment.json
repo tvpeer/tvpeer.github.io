@@ -1,14 +1,5 @@
 [
   {
-    "name": "Crossing TV (Crossing Contenidos)",
-    "path_name": "886a83a0c22256aa5378935b504c05eb",
-    "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Time Line Australia",
     "path_name": "327af22f0f5bcb8d5e4fabd5d920e6a6",
     "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
@@ -84,6 +75,15 @@
     "name": "DD Malayalam",
     "path_name": "642a8a29e0d686fb066835267488daa1",
     "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "KCV",
+    "path_name": "c6cda3130df97582258d7b4ed9403ae9",
+    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -291,6 +291,24 @@
     "name": "WTV Canal 20",
     "path_name": "557b0a556010accc1193995fef6e0745",
     "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Tvfaces Online",
+    "path_name": "13054fb789543e8289a881a4fcddf2a5",
+    "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"

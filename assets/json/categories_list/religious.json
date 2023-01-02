@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -207,6 +198,15 @@
     }
   },
   {
+    "name": "IIPC TV",
+    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -273,6 +273,15 @@
     "name": "Avivamiento TV",
     "path_name": "579719b729534d28ebb981d339953907",
     "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TVGracia",
+    "path_name": "66771f4c21990c7dd2a8bf3a313b46ab",
+    "url": "https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -804,6 +813,15 @@
     "name": "Alfa Omega TV",
     "path_name": "a067e7f94c0bad2f8ffa5492be614c32",
     "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Каббала ТВ",
+    "path_name": "26f40e88bf3a7de131d32cd4023ed696",
+    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1551,15 +1569,6 @@
     "name": "CTN",
     "path_name": "9615982e9a8056106f05c7feb6871ff9",
     "url": "https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Christian Youth Channel (CYC)",
-    "path_name": "6a32b1fc5a566c22c643d810877267f3",
-    "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
