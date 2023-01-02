@@ -72,18 +72,18 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "name": "Կենտրոն",
+    "path_name": "bca399713828321b33802124adcb3d89",
+    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -111,15 +111,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -255,6 +246,24 @@
     "name": "RTV",
     "path_name": "6d395e86fe3b96ed85ed357c216d1961",
     "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bolivia TV",
+    "path_name": "e39f98584cad6a2ca18f9edae7c0d8ee",
+    "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Bolivia TV 7.2",
+    "path_name": "3cfe4928a1fa763c577aa512513f826d",
+    "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -666,15 +675,6 @@
     }
   },
   {
-    "name": "12 TV Parma",
-    "path_name": "a27b633029a3c15320b108b78fa27a43",
-    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Al Mamlaka TV",
     "path_name": "bf1597c75db3d09466590adf67aa1208",
     "url": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8",
@@ -894,6 +894,15 @@
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
