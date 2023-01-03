@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "TV Sol Comunidade",
-    "path_name": "15d51beac02d1ff1ebf4d579a607137c",
-    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Santa Cruz",
     "path_name": "3d661a77bc5f0edbaa021eac3d102263",
     "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
@@ -417,6 +408,15 @@
     "name": "Santa María Televisión",
     "path_name": "3367c1feb878d42504c153dd4d570aa3",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "TV Quellón",
+    "path_name": "ba7f3bdb4511d40dde3cd9854ed4adac",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1341,24 +1341,6 @@
     }
   },
   {
-    "name": "SET Televisión Canal 26.1",
-    "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
-    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "SET Televisión Canal 26.2",
-    "path_name": "6ac22eaa8921afc2fce942415159eae8",
-    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 10 Cancún",
     "path_name": "5558425d1ea3a92a3701bc80b37d1186",
     "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
@@ -1641,15 +1623,6 @@
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2469,15 +2442,6 @@
     "name": "Nothing Scripted",
     "path_name": "ff75f2bcc3c6a8db7475636f7a5760af",
     "url": "https://30a-tv.com/NothingScripted.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 13 Las Vegas NV (KTNV)",
-    "path_name": "b1007be8c3cd8576af70f7b8af11de4b",
-    "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
