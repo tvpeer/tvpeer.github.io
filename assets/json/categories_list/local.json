@@ -1557,15 +1557,6 @@
     }
   },
   {
-    "name": "Master TV (Tarapoto)",
-    "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
-    "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "AsiriTV (Lima)",
     "path_name": "2f106380faf53eca147780035513a4e0",
     "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
@@ -1704,6 +1695,15 @@
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "ClipsTV (Ica)",
+    "path_name": "8b7a857ab31a48400aa029d9a0bb13d5",
+    "url": "https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
