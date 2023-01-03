@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "ATV Հայ TV",
+    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
+    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -315,9 +324,9 @@
     }
   },
   {
-    "name": "88 Stereo",
-    "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
-    "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "name": "Video Tour Channel",
+    "path_name": "ebc4cfe2abccb62e5e1bd5b5f09af6da",
+    "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -336,6 +345,15 @@
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "VM Latino",
+    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -774,6 +792,24 @@
     }
   },
   {
+    "name": "Conecta TV",
+    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
+    "url": "http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Conecta TV",
+    "path_name": "ce240606cfc4d7801046424b4bf6dd37",
+    "url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Qmusic",
     "path_name": "6bf9eeb2260d9df0c9712e17cf128f4e",
     "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
@@ -1001,43 +1037,7 @@
   {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1173,15 +1173,6 @@
     "name": "MCN6 Music Channel",
     "path_name": "146b4ab0a7117133a37e55f541b4b9d1",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Vevo Hip Hop",
-    "path_name": "b8b481ce3ee75deda9327c0fb327e658",
-    "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
