@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -354,15 +345,6 @@
     "name": "Canal 57 Melipilla",
     "path_name": "4ad8f7c5ca5ce4d2a3bf4bd8cf15dd5b",
     "url": "https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Canal SCÑ (San Carlos Ñuble)",
-    "path_name": "4b321b8a22ac6584aab4fd76f39166f0",
-    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -516,6 +498,15 @@
     "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
     "path_name": "1eba2d69dcc77f6786a11543260ae375",
     "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "NicoyaTV",
+    "path_name": "cd98ef212cd017453e3770de9005ca6c",
+    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1809,6 +1800,15 @@
     }
   },
   {
+    "name": "Tumpis TV (Tumbes)",
+    "path_name": "90261500ac89e2137455a9ac188763e7",
+    "url": "https://servilive.com:3531/live/tumpistvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
@@ -2028,15 +2028,6 @@
     "name": "МТВ (Волгоград)",
     "path_name": "5743f86434a62aeb45f219a0dad24567",
     "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ветта 24 (Пермь)",
-    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
