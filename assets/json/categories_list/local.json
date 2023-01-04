@@ -1305,6 +1305,24 @@
     }
   },
   {
+    "name": "Tokyo MX1",
+    "path_name": "d218ccde6df363bf08d8e1d93ce5a028",
+    "url": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Tokyo MX2",
+    "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
+    "url": "https://movie.mcas.jp/mcas/mx2_2/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Tokyo MX2",
     "path_name": "ebd22e53397b3ebde5fe468a0dcaba0e",
     "url": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8",
@@ -1629,15 +1647,6 @@
     }
   },
   {
-    "name": "TVenLinea (Cuzco)",
-    "path_name": "f464611bba68e17fb5edcf2adb41ce0f",
-    "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
@@ -1704,15 +1713,6 @@
     "name": "Imperial Televisión (Huancayo)",
     "path_name": "006da3caac02d5d08fa0e5b092855ab0",
     "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Top FM TV (Atalaya)",
-    "path_name": "f7c8508f25c18c80c20d88a25943e219",
-    "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
