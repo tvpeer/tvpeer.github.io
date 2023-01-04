@@ -135,6 +135,15 @@
     }
   },
   {
+    "name": "ATV",
+    "path_name": "92e09bed19a92f7d3a11740c53594986",
+    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -201,6 +210,15 @@
     "name": "Muğan TV",
     "path_name": "f9b74f18048b2cbb70f49cd45485775e",
     "url": "http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Azad TV (ATV)",
+    "path_name": "009d50bde648f4b467c3e0c708be25cd",
+    "url": "http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -471,15 +489,6 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TDI Colombia",
-    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
-    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -774,15 +783,6 @@
     }
   },
   {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -954,15 +954,6 @@
     }
   },
   {
-    "name": "TVR Timișoara",
-    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
-    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TVR Craiova",
     "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
     "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
@@ -1020,6 +1011,15 @@
     "name": "360°",
     "path_name": "369e409dc4b843e9bc897cc3fca771de",
     "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Первый канал",
+    "path_name": "94d77ac98f96897f461be1073ad99778",
+    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
