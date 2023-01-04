@@ -306,6 +306,15 @@
     }
   },
   {
+    "name": "Al Jazeera Arabic",
+    "path_name": "594bc5910c2e2c619ae6a022987a146d",
+    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -738,6 +747,15 @@
     }
   },
   {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -894,6 +912,15 @@
     "name": "Kanak News",
     "path_name": "6883abf486ff64267998970ad0e7f212",
     "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Pratidin Time",
+    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
+    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1557,6 +1584,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1980,15 +2016,6 @@
     }
   },
   {
-    "name": "FOX News Now",
-    "path_name": "058a8391e954f0ff519d112d1fa1138e",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "America's Voice",
     "path_name": "3c5347f9cd27cca3a557f9aa26003783",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
@@ -2118,15 +2145,6 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Estrella News",
-    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
-    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
