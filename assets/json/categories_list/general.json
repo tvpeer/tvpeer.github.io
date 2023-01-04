@@ -81,24 +81,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Արմենիա TV",
-    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Կենտրոն",
     "path_name": "bca399713828321b33802124adcb3d89",
     "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
@@ -297,6 +279,15 @@
     }
   },
   {
+    "name": "MKK Web TV",
+    "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
+    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -396,15 +387,6 @@
     }
   },
   {
-    "name": "TV Metropole",
-    "path_name": "92ca0fab71afbc1be6b251467a82df91",
-    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Rede TV! Pampa",
     "path_name": "21614a336eb167262bb566d12fdf7130",
     "url": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8",
@@ -471,15 +453,6 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TDI Colombia",
-    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
-    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -999,15 +972,6 @@
     }
   },
   {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Звезда",
     "path_name": "3ed2c4d3ec0cc8a2481116249ff5d282",
     "url": "http://ott-cdn.ucom.am/s85/index.m3u8",
@@ -1302,6 +1266,24 @@
     "categories": {
       "name": "General",
       "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "The CW Los Angeles CA (KTLA-DT1)",
+    "path_name": "79858b4708bf31e034d38a414f16568e",
+    "url": "http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
     }
   }
 ]
