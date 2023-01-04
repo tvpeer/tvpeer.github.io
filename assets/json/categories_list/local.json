@@ -126,6 +126,15 @@
     }
   },
   {
+    "name": "Rede CNT (Curitiba)",
+    "path_name": "b4662f3ad289b560564ebaad0be82a2b",
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Rede CNT (São Paulo)",
     "path_name": "98d8e66351ab55fdb893e09404b32a62",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
@@ -1665,15 +1674,6 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Canal 8 (Catacaos)",
     "path_name": "351a3f45c591efc880c2f0ee87d0d083",
     "url": "https://tvdatta.com:3838/live/canalcatacaoslive.m3u8",
@@ -1776,6 +1776,24 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SurTV (Ilo)",
+    "path_name": "d8fde09dec98236e24c6ef1d29871185",
+    "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
