@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "Rede Mão Amiga",
+    "path_name": "4e97951a79db436abdc85bcb72535cbc",
+    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -192,15 +201,6 @@
     "name": "TV Terceiro Anjo",
     "path_name": "2a0cda1f1175b2d0eda11dbe5a35fae0",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -720,15 +720,6 @@
     }
   },
   {
-    "name": "JBN",
-    "path_name": "135dfda1304897290c6d9c0fff8f61f8",
-    "url": "https://inliveserver.com:1936/17510/17510/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Hope Channel Norge",
     "path_name": "f511aefaf1acc0e531e5202d9dec07ad",
     "url": "http://media1.adventist.no:1935/live/hope1/playlist.m3u8",
@@ -885,24 +876,6 @@
     "name": "Небеса ТВ7",
     "path_name": "c7f3368b1f0453e5d81e4eba75a5acc3",
     "url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Al Sunnah Al Nabawiyah TV (Medina)",
-    "path_name": "9dc4485ea0b8054420191ed966fafded",
-    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Al Quran Al Kareem TV (Mecca)",
-    "path_name": "3747d19ea86f7d26b423d49f573ed243",
-    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
