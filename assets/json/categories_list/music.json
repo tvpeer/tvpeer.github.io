@@ -297,6 +297,15 @@
     }
   },
   {
+    "name": "Play TV",
+    "path_name": "ed36c49bf1ab387ff23d99c424bcd051",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "88 Stereo",
     "path_name": "6eb548ca919d0d89d267b5cad0871b6f",
     "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
@@ -1209,6 +1218,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop Europe",
+    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
+    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
