@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -30,6 +21,15 @@
     "name": "Canal RCN Novelas",
     "path_name": "002cd85d17f3848b8825c7809555a74b",
     "url": "http://45.179.140.242:8000/play/a0jf",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "UNO PLAY",
+    "path_name": "59c4f4c6efa2399574540a59532ceb4c",
+    "url": "https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -378,6 +378,15 @@
     }
   },
   {
+    "name": "MST3K",
+    "path_name": "28e3d917d8b96352dd274c7cb3267851",
+    "url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
     "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
@@ -615,15 +624,6 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
