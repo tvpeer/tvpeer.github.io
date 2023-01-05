@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Alaraby TV",
     "path_name": "b1768bc7097a02fc67277d8528501dd6",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
@@ -756,15 +747,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -774,9 +756,27 @@
     }
   },
   {
+    "name": "324",
+    "path_name": "3f571ab24d54baf70b44bb4ce6c88214",
+    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "101TV Malaga",
     "path_name": "930cee95729458c790dd69049205a25a",
     "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "3/24",
+    "path_name": "0f23455d660a8d02046e813e49f83565",
+    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -927,6 +927,15 @@
     }
   },
   {
+    "name": "Pratidin Time",
+    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
+    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NDTV 24X7",
     "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
@@ -966,15 +975,6 @@
     "name": "Asianet News Kannada",
     "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
     "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Asianet News Bangla",
-    "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
-    "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1575,15 +1575,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1632,15 +1623,6 @@
     "name": "Arise News",
     "path_name": "66bdd8a58a3fcfb36aec614f92fc1bf3",
     "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Sky News",
-    "path_name": "e8111c26a56c75630bb0c8f2817ca325",
-    "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2106,15 +2088,6 @@
     }
   },
   {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2154,6 +2127,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
