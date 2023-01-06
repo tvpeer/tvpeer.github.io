@@ -126,15 +126,6 @@
     }
   },
   {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Amga TV",
     "path_name": "d3c679da47a59eefe2a5a8184cd7697c",
     "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
@@ -255,6 +246,15 @@
     "name": "Az Star TV",
     "path_name": "4641579d4c09a3e1044ffae1651ca977",
     "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "RTV",
+    "path_name": "6d395e86fe3b96ed85ed357c216d1961",
+    "url": "https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -462,6 +462,15 @@
     "name": "Белсат ТВ",
     "path_name": "a1716543d40122a8ae92ff06467e2b4b",
     "url": "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ОНТ",
+    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
+    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -678,15 +687,6 @@
     "name": "Kurdistan TV",
     "path_name": "71f595212ec4b869b27c4371e0f96add",
     "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "12 TV Parma",
-    "path_name": "a27b633029a3c15320b108b78fa27a43",
-    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1098,6 +1098,15 @@
     }
   },
   {
+    "name": "大立電視",
+    "path_name": "75c19b357c2c0f514208035d5a5fb390",
+    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "原住民電視",
     "path_name": "c4070b1e02b27aa68d30a2fa35a5e390",
     "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
@@ -1308,6 +1317,15 @@
     "name": "Digi TV (WFTY-DT6)",
     "path_name": "30c83e5e99d494ee1033e846c38db6dc",
     "url": "https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "PromarTV (Yaracuy)",
+    "path_name": "7a4d69951bb33167cd657a9b390e6664",
+    "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
