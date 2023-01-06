@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -300,15 +291,6 @@
     "name": "Alternativa TV (Huasco)",
     "path_name": "ca2b3acfba4b20973fea5b363a8431b4",
     "url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Antofagasta TV (ATV)",
-    "path_name": "9c925b5c60cc962cd9b8f9eadfc43fff",
-    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -390,6 +372,15 @@
     "name": "Exprezión TV (EXTV | Los Álamos)",
     "path_name": "ad8198cdd8d62a1915443d9f4f96b6c1",
     "url": "https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Holvoet TV (Copiapó)",
+    "path_name": "5983420057643dcf9f3bb25bdddddcc2",
+    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
