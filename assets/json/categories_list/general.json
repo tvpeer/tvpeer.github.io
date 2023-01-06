@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "Cultura PR Catve",
-    "path_name": "bfe5a46aeff10142c356489b7af9da33",
-    "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "SBT Rede Massa",
     "path_name": "1b66afe2a94a5000abbc12e2604434a7",
     "url": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
@@ -525,6 +516,15 @@
     "name": "Canal Institucional TV",
     "path_name": "05be842c8d7ec88fe8a4e27cd303d209",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TDI Colombia",
+    "path_name": "76ca085348aa9fb36e2cc19016e404b8",
+    "url": "https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -900,9 +900,9 @@
     }
   },
   {
-    "name": "MusawaChannel",
-    "path_name": "bc4117ab37fea656f2e4503eba13d501",
-    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1020,15 +1020,6 @@
     "name": "360°",
     "path_name": "369e409dc4b843e9bc897cc3fca771de",
     "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
