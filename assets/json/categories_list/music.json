@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -381,6 +372,15 @@
     "name": "Óčko Gold",
     "path_name": "421217be063b8f4f5e6a5a8a4ec17696",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Óčko Gold",
+    "path_name": "421217be063b8f4f5e6a5a8a4ec17696",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1038,6 +1038,15 @@
     "name": "Жар Птица",
     "path_name": "a0c17caccd03d1f09dcb856d48175e47",
     "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Bridge TV",
+    "path_name": "99f656c51fe45a22994c30be7c610b8e",
+    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
