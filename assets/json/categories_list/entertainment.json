@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -189,6 +198,15 @@
     }
   },
   {
+    "name": "Velicham",
+    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
+    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "EET TV",
     "path_name": "2349d9cce14c13565255b420f18a6658",
     "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
@@ -282,6 +300,15 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "ТНТ International",
+    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -477,18 +504,18 @@
     }
   },
   {
-    "name": "Showtime at the Apollo",
-    "path_name": "1562ccc498170564aa5e31d516cd2a6a",
-    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
     }
   },
   {
-    "name": "Fido TV",
-    "path_name": "b9be0031886d2075db656af4297007f1",
-    "url": "http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8",
+    "name": "Showtime at the Apollo",
+    "path_name": "1562ccc498170564aa5e31d516cd2a6a",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -588,15 +615,6 @@
     "name": "VENN",
     "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
     "url": "https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "VENN",
-    "path_name": "b5100d5c5b87cd3dab6d53dba93dfdf6",
-    "url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
