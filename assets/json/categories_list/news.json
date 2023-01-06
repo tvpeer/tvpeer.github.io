@@ -576,6 +576,15 @@
     }
   },
   {
+    "name": "CBC",
+    "path_name": "5f4e683b5abd532cbe37217a5ba3089c",
+    "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "N1 BIH",
     "path_name": "ab68d92182e39860a9a4b0179d805b4f",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1341,33 +1350,6 @@
     }
   },
   {
-    "name": "Caspian News",
-    "path_name": "e75f41b421bf5b2ad6fc08872611774a",
-    "url": "https://sc.id-tv.kz/CaspianNews.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Manar",
-    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
-    "url": "https://manar.live/iptv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Manar",
-    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
-    "url": "https://manar.live/x.smil/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Nabaa TV",
     "path_name": "45ae9364b6b8566a074f7bab0ede0d92",
     "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
@@ -1578,15 +1560,6 @@
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
     "url": "https://sc.id-tv.kz/Mir24.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
