@@ -387,6 +387,15 @@
     }
   },
   {
+    "name": "Slagr TV",
+    "path_name": "89acf7cb009aeb9e8aa541611432f7d9",
+    "url": "http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Óčko Expres",
     "path_name": "a83820a7baed73340508edbb5eb5906e",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
@@ -594,6 +603,15 @@
     }
   },
   {
+    "name": "Real TV",
+    "path_name": "6c092badba12db1580c14080f0bbf6b0",
+    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "7S Music",
     "path_name": "a4400ba9f62834e84b272ff92a43da68",
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
@@ -723,15 +741,6 @@
     "name": "PMC Royale",
     "path_name": "6fab4622ab2df165f933044473cd2f95",
     "url": "http://51.210.199.29/hls/stream.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Company TV",
-    "path_name": "2661ef89e8bbd346ed6beaae79944801",
-    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1037,43 +1046,7 @@
   {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
