@@ -567,6 +567,15 @@
     }
   },
   {
+    "name": "Azerbaijan News TV",
+    "path_name": "990373b2f83a5e76925e11ba63b35a3a",
+    "url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "CBC",
     "path_name": "5f4e683b5abd532cbe37217a5ba3089c",
     "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
@@ -1179,15 +1188,6 @@
     }
   },
   {
-    "name": "Press TV French",
-    "path_name": "1197b73f0e21acaabccc11ad488f61b9",
-    "url": "https://live1.presstv.ir/live/presstvfr/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "BBC Persian",
     "path_name": "9db33a31fdeb1b5a243818b6c45e05c1",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
@@ -1575,15 +1575,6 @@
     }
   },
   {
-    "name": "Россия 24",
-    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
-    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1650,6 +1641,15 @@
     "name": "Sky News",
     "path_name": "e8111c26a56c75630bb0c8f2817ca325",
     "url": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "BBC News HD",
+    "path_name": "809da825465ef017b485fcbb80e9ab28",
+    "url": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2100,15 +2100,6 @@
     "name": "USA Today",
     "path_name": "ada97b8dd91fe6de8bb9a3dfdfc453be",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "CNN USA",
-    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
