@@ -243,6 +243,15 @@
     }
   },
   {
+    "name": "TV Santa Cruz",
+    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
+    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -489,6 +498,15 @@
     "name": "Cali TV (Santiago de Cali | Valle del Cauca)",
     "path_name": "043d28d19d441647b261182ec39f08df",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Telepacífico (Santiago de Cali | Valle del Cauca)",
+    "path_name": "1eba2d69dcc77f6786a11543260ae375",
+    "url": "https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1503,6 +1521,15 @@
     }
   },
   {
+    "name": "DMJ (Cuzco)",
+    "path_name": "8dac651380b06c3e429ebe055ca13085",
+    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1800,15 +1827,6 @@
     }
   },
   {
-    "name": "Andes Televisión (Sicusani)",
-    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
-    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "BeXtreme TV (Lima)",
     "path_name": "d21d6af0492a4e2d4abe26278943d2ca",
     "url": "https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8",
@@ -2064,15 +2082,6 @@
     "name": "White Plains Community Media",
     "path_name": "730bcae121076fdb763d6ce97a512610",
     "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "BUTV10 (Boston University)",
-    "path_name": "de3b37f41f9d9d6fa221071bf22107d1",
-    "url": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
