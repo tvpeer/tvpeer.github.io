@@ -513,15 +513,6 @@
     }
   },
   {
-    "name": "NicoyaTV",
-    "path_name": "cd98ef212cd017453e3770de9005ca6c",
-    "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Girona",
     "path_name": "080367b5b1350504c030597028e7450b",
     "url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
@@ -1839,6 +1830,24 @@
     "name": "Vía Altomayo",
     "path_name": "2160ff5d81b7ec791a00952eadc029f1",
     "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "RadioTV Oriente (Yurimaguas)",
+    "path_name": "dfc31299044edc2b74806c71c30fc1cb",
+    "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
