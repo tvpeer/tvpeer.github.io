@@ -585,15 +585,6 @@
     }
   },
   {
-    "name": "Public Music",
-    "path_name": "844c60da5656272f414cb50ec450925c",
-    "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Real TV",
     "path_name": "6c092badba12db1580c14080f0bbf6b0",
     "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
@@ -1155,6 +1146,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Street Music 4U",
+    "path_name": "d94fca9d20fdc10b7d6959a6e048a191",
+    "url": "https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
