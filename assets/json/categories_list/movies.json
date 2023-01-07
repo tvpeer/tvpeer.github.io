@@ -9,9 +9,9 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "name": "Armenia Հայ Կինո",
+    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
+    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -126,6 +126,15 @@
     }
   },
   {
+    "name": "iFILM English",
+    "path_name": "d94795cf23cbb5f27a0c8f0dba23c071",
+    "url": "https://live1.presstv.ir/live/ifilmen.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Parsiland",
     "path_name": "97044d9aed009d0b553fc62e50642f97",
     "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
@@ -201,6 +210,15 @@
     "name": "Sepanj TV",
     "path_name": "0f79b982aa1890484e691416653909b5",
     "url": "http://51.210.199.30/hls/stream.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "iFILM Persian 2",
+    "path_name": "8dfcb973f30f3d36947034a58165ef9c",
+    "url": "https://live1.presstv.ir/live/ifilm2.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -432,15 +450,6 @@
     }
   },
   {
-    "name": "American Horrors",
-    "path_name": "bc99f26aab314310109016e0576020c6",
-    "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Hallmark Movies & More",
     "path_name": "1b4731d7c002aa92e066c07882aaa53d",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8",
@@ -585,15 +594,6 @@
     }
   },
   {
-    "name": "Samuel Goldwyn Channel",
-    "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
-    "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "TVS Film Noir Network",
     "path_name": "1a9bbdf73f728a903a1a1164c327a041",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
@@ -624,15 +624,6 @@
     "name": "Charge!",
     "path_name": "7fd4d69051ead53157aadea4c7a91d84",
     "url": "https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Movee 4U",
-    "path_name": "fa9a87429545355a2e3ffd5f232ca0f4",
-    "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -705,6 +696,15 @@
     "name": "MyTime movie network",
     "path_name": "4c6fcb46a6b0d7909054e989238b017a",
     "url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "MyTime movie network",
+    "path_name": "4c6fcb46a6b0d7909054e989238b017a",
+    "url": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
