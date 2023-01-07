@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Armenia Սինեմաքս",
     "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
     "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
@@ -336,6 +327,15 @@
     "name": "Дом Кино Премиум",
     "path_name": "bf19707fc93faa1cb67007287c34a5a9",
     "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Cinema",
+    "path_name": "2b2f7611b0c84877cba300eb4e72b1bb",
+    "url": "https://sc.id-tv.kz/Cinema.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -696,15 +696,6 @@
     "name": "MyTime movie network",
     "path_name": "4c6fcb46a6b0d7909054e989238b017a",
     "url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "MyTime movie network",
-    "path_name": "4c6fcb46a6b0d7909054e989238b017a",
-    "url": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
