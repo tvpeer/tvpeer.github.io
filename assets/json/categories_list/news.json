@@ -765,15 +765,6 @@
     }
   },
   {
-    "name": "DW",
-    "path_name": "e436dbba71d976b0111c531939f54e66",
-    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -936,18 +927,18 @@
     }
   },
   {
-    "name": "Pratidin Time",
-    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
-    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
+    "name": "NDTV 24X7",
+    "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
+    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
     }
   },
   {
-    "name": "NDTV 24X7",
-    "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "name": "FASTWAY NEWS",
+    "path_name": "f075257efea0c72aba476522b1cd03f7",
+    "url": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1559,6 +1550,15 @@
   {
     "name": "Мир 24",
     "path_name": "452bee50208f913d86875339ab680773",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Мир 24",
+    "path_name": "452bee50208f913d86875339ab680773",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -1578,6 +1578,33 @@
     "name": "Россия 24",
     "path_name": "7e82a790298367534dc95fc2cd61f9c8",
     "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Известия",
+    "path_name": "a571527f33ca5f050a39e7f7f0013a29",
+    "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews по-русски",
+    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
+    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1865,7 +1892,7 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1874,7 +1901,7 @@
   {
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://bnc-roku-us.amagi.tv/playlist.m3u8",
+    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
