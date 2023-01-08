@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -75,15 +66,6 @@
     "name": "Q-Music",
     "path_name": "857c9279b7b6e84f9e69c2c156f8a6c4",
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Alegria TV",
-    "path_name": "bc0279ce6b32621bb7182b06655b9a61",
-    "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -507,6 +489,15 @@
     "name": "Xalastra TV",
     "path_name": "576bd68a7acb4fd5c10c41a8e555a51b",
     "url": "https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Magic TV",
+    "path_name": "3ab6b603f0e2257d33f6976117b9ab6b",
+    "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1017,15 +1008,6 @@
     }
   },
   {
-    "name": "Bridge TV",
-    "path_name": "99f656c51fe45a22994c30be7c610b8e",
-    "url": "http://ott-cdn.ucom.am/s78/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
@@ -1173,6 +1155,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop Europe",
+    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
+    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
