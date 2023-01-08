@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -126,6 +117,15 @@
     }
   },
   {
+    "name": "One TV",
+    "path_name": "a353656426bd22f03a23dcd5edc6fad4",
+    "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Amrita TV",
     "path_name": "7f9e62eeb0cd20f1263b54dd8443ef47",
     "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
@@ -183,15 +183,6 @@
     "name": "3 Tamil TV",
     "path_name": "9322658e06935132e91b394ae26a5ba3",
     "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Velicham",
-    "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
-    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -291,15 +282,6 @@
     "name": "Tvfaces Online",
     "path_name": "13054fb789543e8289a881a4fcddf2a5",
     "url": "https://tvdatta.com:3211/stream/play.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "ТНТ International",
-    "path_name": "a291c3cbecd4de938d62b0bcfef41885",
-    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -498,6 +480,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -776,6 +767,15 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -831,6 +831,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
