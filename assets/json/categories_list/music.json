@@ -1,14 +1,5 @@
 [
   {
-    "name": "Armenia Ջան TV",
-    "path_name": "6660687c382317d3689a50a364087895",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -216,15 +207,6 @@
     }
   },
   {
-    "name": "Azstar TV",
-    "path_name": "1bf0d4a9349a3be9397875e32ba2c32b",
-    "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Afrobeats",
     "path_name": "dcfbddf483737c922e95705a0e05bb3d",
     "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
@@ -327,6 +309,15 @@
     "name": "Canal 38",
     "path_name": "b1ca9119472e77fe038726240c956abe",
     "url": "https://rtmp.info/canal38/envivo/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "VM Latino",
+    "path_name": "c4ee5c5ff301fea566fd9c277385b156",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -992,7 +983,43 @@
   {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
     "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Шансон ТВ",
+    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
