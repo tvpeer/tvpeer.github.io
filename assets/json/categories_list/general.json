@@ -63,15 +63,6 @@
     }
   },
   {
-    "name": "Նոր Հայաստան",
-    "path_name": "bc7a615c82558a146ae038313eb9ac09",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Երկիր Մեդիա",
     "path_name": "08208269959978d58f0551afa238588b",
     "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
@@ -426,6 +417,15 @@
     "name": "Белсат ТВ",
     "path_name": "a1716543d40122a8ae92ff06467e2b4b",
     "url": "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ОНТ",
+    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
+    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -858,6 +858,15 @@
     "name": "Palestine Satellite Channel",
     "path_name": "381621adaa18f975b07838f53e87e37d",
     "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
