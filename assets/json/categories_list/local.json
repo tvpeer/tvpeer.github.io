@@ -531,6 +531,15 @@
     }
   },
   {
+    "name": "TVG Evento 1",
+    "path_name": "3de97eb0c2c97c812d25c106232d4192",
+    "url": "https://events1-crtvg.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVG Infantil",
     "path_name": "bdb09faed7b2cf3e76640c67f54861d4",
     "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
@@ -1341,15 +1350,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -1920,6 +1920,15 @@
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Белгород 24",
+    "path_name": "b38aa8b17378f0e4460605ca5f9fce36",
+    "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
