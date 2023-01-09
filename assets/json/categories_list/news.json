@@ -747,27 +747,9 @@
     }
   },
   {
-    "name": "324",
-    "path_name": "3f571ab24d54baf70b44bb4ce6c88214",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "101TV Malaga",
     "path_name": "930cee95729458c790dd69049205a25a",
     "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "3/24",
-    "path_name": "0f23455d660a8d02046e813e49f83565",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -804,6 +786,15 @@
     "name": "France 24 Français",
     "path_name": "c8ee0b4ae23ba444bcde9069bcce60d2",
     "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Euronews Français",
+    "path_name": "89da5d2227cd4cbbf3a22495086c1447",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1530,6 +1521,15 @@
     }
   },
   {
+    "name": "Россия 24",
+    "path_name": "7e82a790298367534dc95fc2cd61f9c8",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Известия",
     "path_name": "a571527f33ca5f050a39e7f7f0013a29",
     "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
@@ -1650,6 +1650,15 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1911,15 +1920,6 @@
     "name": "Newsy Top Stories",
     "path_name": "a753f139c32d159c5d362d329a0efcd0",
     "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "IGN",
-    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
-    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
