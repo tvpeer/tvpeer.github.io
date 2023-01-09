@@ -81,9 +81,18 @@
     }
   },
   {
-    "name": "TVS Comedy Network",
-    "path_name": "691d7e433206660502a56a76dffc852c",
-    "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
+    "name": "AFV",
+    "path_name": "b06807a6da8184eb7dc91de7931308a1",
+    "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  },
+  {
+    "name": "AFV",
+    "path_name": "b06807a6da8184eb7dc91de7931308a1",
+    "url": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8",
     "categories": {
       "name": "Comedy",
       "slug": "comedy"
@@ -156,6 +165,24 @@
     "name": "Comedy Dynamics",
     "path_name": "7a543c52d96abc7e9d356bc267fd1d04",
     "url": "https://comedydynamics-wurl.cinedigm.com/playlist.m3u8",
+    "categories": {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  },
+  {
+    "name": "AFV en Español",
+    "path_name": "2a352968557ffb959110089b861fab04",
+    "url": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+    "categories": {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  },
+  {
+    "name": "AFV en Español",
+    "path_name": "2a352968557ffb959110089b861fab04",
+    "url": "https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8",
     "categories": {
       "name": "Comedy",
       "slug": "comedy"
