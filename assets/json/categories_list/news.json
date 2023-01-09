@@ -146,15 +146,6 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
-    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera English",
-    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -954,6 +945,15 @@
     }
   },
   {
+    "name": "Asianet News Kannada",
+    "path_name": "a80e76e2c329a3b7fdaf27a265d6b82a",
+    "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Asianet News Bangla",
     "path_name": "7d65c53c75c65ef51d98f1d3caec5c23",
     "url": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
@@ -975,15 +975,6 @@
     "name": "Asianet News",
     "path_name": "3f8b98b8efdb9ee5014d8c0abcd63620",
     "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Real News Kerala",
-    "path_name": "7f8fdf9901074c82bcc2afcd4acf1828",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1683,6 +1674,15 @@
     }
   },
   {
+    "name": "The First",
+    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Cheddar News",
     "path_name": "68d91c91d9a2e90a31db568d829d395c",
     "url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
@@ -1839,15 +1839,6 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2106,15 +2097,6 @@
     }
   },
   {
-    "name": "HLN",
-    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "TAG TV",
     "path_name": "b493510675d358963bc9d4c3c859ab81",
     "url": "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8",
@@ -2145,6 +2127,15 @@
     "name": "Estrella News",
     "path_name": "8c8144ee979ed416ac86bb3d291d5773",
     "url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Estrella News",
+    "path_name": "8c8144ee979ed416ac86bb3d291d5773",
+    "url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
