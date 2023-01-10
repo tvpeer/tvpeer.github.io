@@ -117,15 +117,6 @@
     }
   },
   {
-    "name": "Rede CNT (Curitiba)",
-    "path_name": "b4662f3ad289b560564ebaad0be82a2b",
-    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Rede CNT (São Paulo)",
     "path_name": "98d8e66351ab55fdb893e09404b32a62",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
@@ -552,6 +543,15 @@
     "name": "M95 Televisión Marbella",
     "path_name": "bc8fce9dbbab9def6d50aff0c68e3f03",
     "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 25 TV (Barbastro)",
+    "path_name": "4b75cee7c1659979426795ad31a572cb",
+    "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1476,6 +1476,15 @@
     }
   },
   {
+    "name": "DMJ (Cuzco)",
+    "path_name": "8dac651380b06c3e429ebe055ca13085",
+    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1605,15 +1614,6 @@
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
