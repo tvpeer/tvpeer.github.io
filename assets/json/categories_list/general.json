@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -414,6 +405,15 @@
     }
   },
   {
+    "name": "ОНТ",
+    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
+    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "СТВ",
     "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
     "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
@@ -677,6 +677,15 @@
   {
     "name": "OTV",
     "path_name": "7579f7533faf9cfc179f5a0705e4e160",
+    "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "OTV",
+    "path_name": "7579f7533faf9cfc179f5a0705e4e160",
     "url": "http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8",
     "categories": {
       "name": "General",
@@ -837,6 +846,15 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Palestine Mubasher",
     "path_name": "12152e495327e6cee3959eb9d4697170",
     "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
@@ -900,6 +918,15 @@
     }
   },
   {
+    "name": "TVR Craiova",
+    "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
+    "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR Târgu Mureș",
     "path_name": "df83182dbbeffb3f51000545f0ad4f7a",
     "url": "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8",
@@ -939,15 +966,6 @@
     "name": "360°",
     "path_name": "369e409dc4b843e9bc897cc3fca771de",
     "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "Первый канал",
-    "path_name": "94d77ac98f96897f461be1073ad99778",
-    "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
