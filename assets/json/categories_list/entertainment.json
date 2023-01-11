@@ -144,15 +144,6 @@
     }
   },
   {
-    "name": "Sana TV",
-    "path_name": "14f8f74c80407ee4d5353f4d99b94fe4",
-    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Aathavan TV",
     "path_name": "fdf397c632ba5689ba1a3d73d6fb455f",
     "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
@@ -174,15 +165,6 @@
     "name": "MK TV",
     "path_name": "730e8fbc130a3d2f00bd5628d850f71c",
     "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "3 Tamil TV",
-    "path_name": "9322658e06935132e91b394ae26a5ba3",
-    "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -309,6 +291,15 @@
     "name": "Домашний",
     "path_name": "bb14f2aa5b3ceccdd5aabab3876548ce",
     "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Magna Vision",
+    "path_name": "260b7f345202936f6b31e08a925b1d20",
+    "url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -531,15 +522,6 @@
     }
   },
   {
-    "name": "Popstar! TV",
-    "path_name": "f5bcbf4000315aab897a740f34057e44",
-    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "People are Awesome",
     "path_name": "917eaa52ca2893f120e8f8b0915515b6",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
@@ -561,24 +543,6 @@
     "name": "Adult Swim Channel 5",
     "path_name": "d35ee97df84612e5ce8f6f76d28d4f27",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Hi-YAH!",
-    "path_name": "b956227b325f9fc84e6ad08bbe096075",
-    "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -785,15 +749,6 @@
   {
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
-    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "Circle",
-    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
@@ -849,6 +804,15 @@
     "name": "Estrella TV East",
     "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
     "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "path_name": "8bb3ce9b53ed7dadbfcd14305c25a0d4",
+    "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
