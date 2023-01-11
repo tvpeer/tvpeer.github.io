@@ -72,15 +72,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -315,15 +306,6 @@
     }
   },
   {
-    "name": "MKK Web TV",
-    "path_name": "e04e805ef0a06ea4f4145ddcba6fb8af",
-    "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "TV Birigui",
     "path_name": "b0f0293263304321adf4fc28dafd9d87",
     "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -405,6 +387,15 @@
     }
   },
   {
+    "name": "TV Thathi",
+    "path_name": "cad818bb7d44cc73723bc19637d99456",
+    "url": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "ISTV",
     "path_name": "4eec9f69d87af30f39ca88b4db85b595",
     "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
@@ -426,6 +417,15 @@
     "name": "Белсат ТВ",
     "path_name": "a1716543d40122a8ae92ff06467e2b4b",
     "url": "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ОНТ",
+    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
+    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -873,6 +873,15 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Palestine Mubasher",
     "path_name": "12152e495327e6cee3959eb9d4697170",
     "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
@@ -909,18 +918,18 @@
     }
   },
   {
-    "name": "TVR Cluj",
-    "path_name": "32880509a5851fbc22000e7fe19041f8",
-    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "name": "TVR International",
+    "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
+    "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
     }
   },
   {
-    "name": "TVR International",
-    "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
-    "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
+    "name": "TVR 2",
+    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
+    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -939,6 +948,24 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Timișoara",
+    "path_name": "ac9cd2bfb893e3e7343ba48e4c507f70",
+    "url": "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR Craiova",
+    "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
+    "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
