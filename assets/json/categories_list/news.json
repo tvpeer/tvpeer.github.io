@@ -434,15 +434,6 @@
   {
     "name": "Canal 26",
     "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
-    "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Canal 26",
-    "path_name": "32681bef35bd19cb4355c6fa98dfbe37",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -756,27 +747,9 @@
     }
   },
   {
-    "name": "324",
-    "path_name": "3f571ab24d54baf70b44bb4ce6c88214",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "101TV Malaga",
     "path_name": "930cee95729458c790dd69049205a25a",
     "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "3/24",
-    "path_name": "0f23455d660a8d02046e813e49f83565",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1701,15 +1674,6 @@
     }
   },
   {
-    "name": "WMTW-TV News Portland ME",
-    "path_name": "40c043c952edad7a3772b40e1be08e81",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "WPVI-TV News",
     "path_name": "3eb9a92e83f87154c8d325ceb33dd8a5",
     "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
@@ -1854,15 +1818,6 @@
     }
   },
   {
-    "name": "ABC 9 Kansas City MO (KMBC-TV)",
-    "path_name": "80f9f374ccabc690000c4d20b8154836",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8",
@@ -1902,15 +1857,6 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2018,6 +1964,15 @@
   {
     "name": "IGN",
     "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
     "url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
@@ -2028,6 +1983,15 @@
     "name": "FOX News Now",
     "path_name": "058a8391e954f0ff519d112d1fa1138e",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "FOX News Now",
+    "path_name": "058a8391e954f0ff519d112d1fa1138e",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
