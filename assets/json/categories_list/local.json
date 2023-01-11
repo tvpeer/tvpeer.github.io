@@ -261,6 +261,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -426,15 +435,6 @@
     "name": "Visión Plus TV (Melipilla)",
     "path_name": "99578787b40e46b93204a7af20607d90",
     "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ziza TV (Chiguayante)",
-    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
-    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1569,6 +1569,15 @@
     "name": "Oriental TV 21 (Pucallpa)",
     "path_name": "9c4db63137480c1eb82e05dcf20073af",
     "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "QT Televisión (Cuzco)",
+    "path_name": "b5816595f3baa79a58dcb58854f37021",
+    "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
