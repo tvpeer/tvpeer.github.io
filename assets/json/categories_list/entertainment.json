@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Prime Canada TV",
-    "path_name": "0174b660c77642fde8a645a8c147f202",
-    "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "DD National",
     "path_name": "9fab29c2f78445330d527b317254e33e",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
@@ -183,15 +174,6 @@
     "name": "Velicham",
     "path_name": "0b93e906ccfdb0ce8e86f44f2763483a",
     "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
-    "name": "EET TV",
-    "path_name": "2349d9cce14c13565255b420f18a6658",
-    "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -759,6 +741,15 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
