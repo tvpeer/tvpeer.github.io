@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Շողակաթ",
-    "path_name": "7d7b6c3ed8165567a5d9f8a3b0d4a66d",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Nuevo Tiempo",
     "path_name": "c72f62983a559939f5b92e41476e10c5",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
@@ -264,6 +255,15 @@
     "name": "Canal ISB (Iglesia San Bernardo)",
     "path_name": "00790056464ac6bae6f28d620093979c",
     "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TNE",
+    "path_name": "d1f63de2ce5f7c87c38d4ddb927c7d16",
+    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -876,6 +876,15 @@
     "name": "SAT-7 TÜRK",
     "path_name": "59fb954daae39e38bb2f4475cc3c87d5",
     "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "The Islamic Network",
+    "path_name": "9075cf0f23e3a0b96056b755a9f1f73f",
+    "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1551,15 +1560,6 @@
     "name": "Christian Youth Channel (CYC)",
     "path_name": "6a32b1fc5a566c22c643d810877267f3",
     "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Catholic TV",
-    "path_name": "0f556f7b3c10f511b502007b2c1af3f9",
-    "url": "http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
