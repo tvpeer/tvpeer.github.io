@@ -1,14 +1,5 @@
 [
   {
-    "name": "21TV",
-    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
-    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -378,6 +369,15 @@
     }
   },
   {
+    "name": "MST3K",
+    "path_name": "28e3d917d8b96352dd274c7cb3267851",
+    "url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Youtoo America",
     "path_name": "a0b444613e182b1c83eeac6da1c387fa",
     "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
@@ -489,6 +489,15 @@
     "name": "Young Hollywood",
     "path_name": "2d071c592394806c832d2a782b9be364",
     "url": "https://younghollywood-rakuten.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "path_name": "2d071c592394806c832d2a782b9be364",
+    "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
