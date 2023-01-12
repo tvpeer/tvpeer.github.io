@@ -90,6 +90,15 @@
     }
   },
   {
+    "name": "Rede Mão Amiga",
+    "path_name": "4e97951a79db436abdc85bcb72535cbc",
+    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Novo Tempo",
     "path_name": "6c494bb71b7f84b7caa95924daa28759",
     "url": "http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8",
@@ -261,6 +270,15 @@
     }
   },
   {
+    "name": "TNE",
+    "path_name": "d1f63de2ce5f7c87c38d4ddb927c7d16",
+    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "Gracia TV",
     "path_name": "3b3f8f2ecd0dbf879402a7228aadbdc1",
     "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
@@ -408,6 +426,15 @@
     "name": "Taevas TV7",
     "path_name": "97ea1bcbb5608bbaa3270a5e62eb8805",
     "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Iglesia Del Camino",
+    "path_name": "be7cf0ddec33dfd49ae19374f65f16a3",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -678,15 +705,6 @@
     "name": "CharityTV",
     "path_name": "55468c0cb2049dc0b13e653eda9e42f5",
     "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "María Visión Mexico",
-    "path_name": "230a3059e7c8c39c12ad0d21f8141a28",
-    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
