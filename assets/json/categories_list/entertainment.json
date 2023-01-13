@@ -1,5 +1,14 @@
 [
   {
+    "name": "21TV",
+    "path_name": "793b2b22b8ccb337c29fbf9af12a41d2",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
     "name": "Crossing TV (Crossing Contenidos)",
     "path_name": "886a83a0c22256aa5378935b504c05eb",
     "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
@@ -189,15 +198,6 @@
     }
   },
   {
-    "name": "EET TV",
-    "path_name": "2349d9cce14c13565255b420f18a6658",
-    "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
-    "categories": {
-      "name": "Entertainment",
-      "slug": "entertainment"
-    }
-  },
-  {
     "name": "AFN TV",
     "path_name": "08f85bac1a51a38b23d4f56a99d82330",
     "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
@@ -363,6 +363,15 @@
     "name": "Pop TV",
     "path_name": "a9ca93a7b1c62cbd40efa41e123f8831",
     "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "MST3K",
+    "path_name": "28e3d917d8b96352dd274c7cb3267851",
+    "url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
@@ -750,6 +759,15 @@
     "name": "Circle",
     "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
     "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  },
+  {
+    "name": "Circle",
+    "path_name": "4347e07a7e65ba8b2203de8cf50a3655",
+    "url": "https://circle-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Entertainment",
       "slug": "entertainment"
