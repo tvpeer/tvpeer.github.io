@@ -243,15 +243,6 @@
     }
   },
   {
-    "name": "RCK TV",
-    "path_name": "32a686f6014ac3f1284fc725617d6a68",
-    "url": "https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Portalfoxmix",
     "path_name": "16d32f809a2de992ad72747e533febb8",
     "url": "http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8",
@@ -693,6 +684,15 @@
     }
   },
   {
+    "name": "Persiana Nostalgia",
+    "path_name": "46891c7fe8ce09333f209b775a412e9b",
+    "url": "http://51.210.199.20/hls/stream.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "PMC",
     "path_name": "8c905be64cbd70bf4961637b7dfd5933",
     "url": "https://hls.pmchd.live/hls/stream.m3u8",
@@ -1001,34 +1001,7 @@
   {
     "name": "Шансон ТВ",
     "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
-    "name": "Шансон ТВ",
-    "path_name": "e165ec9832dd48fae18d6082bdda99c6",
-    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -1155,6 +1128,15 @@
     "name": "Pluto TV MTV Biggest Pop",
     "path_name": "5c92b576cb74ae92b7c0fee59320a08e",
     "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Latino",
+    "path_name": "d0884e195e1dcf37895bb84395e9719a",
+    "url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
