@@ -432,15 +432,6 @@
     }
   },
   {
-    "name": "Visión Plus TV (Melipilla)",
-    "path_name": "99578787b40e46b93204a7af20607d90",
-    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Senado",
     "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
@@ -1539,6 +1530,15 @@
     }
   },
   {
+    "name": "AsiriTV (Lima)",
+    "path_name": "2f106380faf53eca147780035513a4e0",
+    "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Auténtica Televisión",
     "path_name": "b2622f7f888244e29ed0a25d941bcf5c",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
@@ -1632,6 +1632,15 @@
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
