@@ -234,24 +234,6 @@
     }
   },
   {
-    "name": "Esport3",
-    "path_name": "58a7b83fbc85fc1d3eb617a153cce5ee",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Esport3",
-    "path_name": "58a7b83fbc85fc1d3eb617a153cce5ee",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "TVRI Sport HD",
     "path_name": "285e7eb931528c79ada2370d1cc8676c",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
@@ -560,6 +542,15 @@
   {
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
@@ -669,6 +660,15 @@
     "name": "TVS Sports",
     "path_name": "f07a2e8da0727610df05d4933f84f017",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "KBP Sports",
+    "path_name": "40ae8c9b534e06ebb320c3295d19b083",
+    "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
