@@ -270,15 +270,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -1506,6 +1497,15 @@
     "name": "Kachorro (Super TV | Amazonas)",
     "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
     "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "SelvaMía TV (Aguaytía)",
+    "path_name": "0a777990fbb707ff7433f6529a1085e5",
+    "url": "https://inliveserver.com:1936/18022/18022/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
