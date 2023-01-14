@@ -252,15 +252,6 @@
     }
   },
   {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Jess TV (Lethbridge)",
     "path_name": "05d5d87d0c725e6e09a9e96046cfabdc",
     "url": "https://tna5.bozztv.com/jesstv/index.m3u8",
@@ -444,6 +435,15 @@
     "name": "Tendencias 31 Prime (T31 | Ñuñoa)",
     "path_name": "ecfe9a929d5eff8f99542fa2eb26179f",
     "url": "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Visión Plus TV (Melipilla)",
+    "path_name": "99578787b40e46b93204a7af20607d90",
+    "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1656,6 +1656,15 @@
     }
   },
   {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1713,6 +1722,15 @@
     "name": "Planeta TV Bagua",
     "path_name": "5d2014049aeed4db4fdcd6c4449d2228",
     "url": "https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Imperial Televisión (Huancayo)",
+    "path_name": "006da3caac02d5d08fa0e5b092855ab0",
+    "url": "https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
