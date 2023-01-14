@@ -675,15 +675,6 @@
     }
   },
   {
-    "name": "Caltex TV",
-    "path_name": "bcbea87778b5aa1242d958bf644cd7e3",
-    "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "Diyar TV",
     "path_name": "050b9574112eabd36f769194a1a7b6b8",
     "url": "http://51.210.199.28/hls/stream.m3u8",
@@ -1227,6 +1218,15 @@
     "name": "30A Music",
     "path_name": "8c052738370a2cf5822d919bddcb72da",
     "url": "https://30a-tv.com/music.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Loop 80s East",
+    "path_name": "047bd024519159c8b7a012c70ef76dcd",
+    "url": "https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
