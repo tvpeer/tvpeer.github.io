@@ -146,6 +146,15 @@
   {
     "name": "Al Jazeera English",
     "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
+    "url": "http://ott-cdn.ucom.am/s23/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Jazeera English",
+    "path_name": "f0dbd031fff27553af07f67d9ac1aaed",
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "categories": {
       "name": "News",
@@ -747,6 +756,15 @@
     }
   },
   {
+    "name": "DW",
+    "path_name": "e436dbba71d976b0111c531939f54e66",
+    "url": "http://ott-cdn.ucom.am/s26/index.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "Mekameleen TV",
     "path_name": "30e34d96a8af10d4abe4cb902d5e5e1e",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
@@ -900,15 +918,6 @@
     }
   },
   {
-    "name": "Pratidin Time",
-    "path_name": "cdeb2ccbfcc173b9ea9d75e7a15fd082",
-    "url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "NDTV 24X7",
     "path_name": "4763d75d22d1dfb0c9528fb88f37b7a2",
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
@@ -957,15 +966,6 @@
     "name": "TV9 Kannada",
     "path_name": "c82749589c740e60cab7ea83e34fd59c",
     "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Dighvijay",
-    "path_name": "5a8edd978ec1634bef7e7dc29bceea25",
-    "url": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1602,15 +1602,6 @@
     }
   },
   {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1722,15 +1713,6 @@
     "name": "The First",
     "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
     "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "The First",
-    "path_name": "8788ec7fe42aaecdfdff4a92ef7fd2c7",
-    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1893,6 +1875,15 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Black News Channel",
+    "path_name": "1621a5f52467cf50245e95a353d30aa6",
+    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
