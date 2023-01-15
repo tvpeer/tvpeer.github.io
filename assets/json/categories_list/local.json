@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -327,6 +318,15 @@
     "name": "Buin Somos Todos",
     "path_name": "1d60a03e6d94b9b6da1deba700e4edf9",
     "url": "https://bst.buin.cl/0.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Canal 2 (San Antonio)",
+    "path_name": "e5daff634c73d440fbd03ac5f03d40ea",
+    "url": "https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
