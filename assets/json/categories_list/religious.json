@@ -783,6 +783,24 @@
     }
   },
   {
+    "name": "Bethel TV",
+    "path_name": "7de2cde51509deb82293144673943d8a",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "La Luz TV",
+    "path_name": "04eb06a3ccc02901e33fba64ea93acf8",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
@@ -1659,6 +1677,33 @@
     "name": "LifevisionTV",
     "path_name": "5cef2033bc16e425d6024144f308b858",
     "url": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "JBS",
+    "path_name": "ad0bcf303d5f32f2c3afb91253d228d8",
+    "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
