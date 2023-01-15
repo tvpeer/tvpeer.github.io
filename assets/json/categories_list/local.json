@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -1290,6 +1281,15 @@
     "name": "Gunma TV",
     "path_name": "0f9b31471b89292151393d2da4af789a",
     "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Capital 21",
+    "path_name": "215e6497f27da10873ae6bb2135643df",
+    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
