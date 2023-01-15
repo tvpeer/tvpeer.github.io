@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TV 16 Toronto",
-    "path_name": "0378bd20817e872afa934240cff62cf2",
-    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -1893,6 +1884,15 @@
     "name": "Между.Net (Междуреченск)",
     "path_name": "51961435c21d8ba400bf66b4d626187b",
     "url": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Мордовия 24",
+    "path_name": "bf84c8faa2e08bbf6e8141be8c5951fc",
+    "url": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
