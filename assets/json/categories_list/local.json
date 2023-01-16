@@ -270,6 +270,15 @@
     }
   },
   {
+    "name": "TV 16 Toronto",
+    "path_name": "0378bd20817e872afa934240cff62cf2",
+    "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Uvagut TV",
     "path_name": "3d2e11cb155abacb1a28bf5186093d20",
     "url": "http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
@@ -1566,15 +1575,6 @@
     }
   },
   {
-    "name": "Oriental TV 21 (Pucallpa)",
-    "path_name": "9c4db63137480c1eb82e05dcf20073af",
-    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Solar Televisión (Abancay)",
     "path_name": "52a5cca86c1d0e4e8345ae632b94beeb",
     "url": "https://tna5.bozztv.com/televisionsolar/index.m3u8",
@@ -1881,24 +1881,6 @@
     }
   },
   {
-    "name": "Univer TV",
-    "path_name": "366856882fb400d8ab5329c49d06509f",
-    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Univer TV",
-    "path_name": "366856882fb400d8ab5329c49d06509f",
-    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Астрахань 24",
     "path_name": "e705ff4b0119d43e684738aa2722d104",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
@@ -2118,6 +2100,15 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Winthrop Community Access TV (WCAT 15)",
+    "path_name": "98b95044d5d11eeb7d0bd622475d27fa",
+    "url": "https://edu-wcat.azureedge.net/live/live.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
