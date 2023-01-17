@@ -225,24 +225,6 @@
     }
   },
   {
-    "name": "Esport3",
-    "path_name": "58a7b83fbc85fc1d3eb617a153cce5ee",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
-    "name": "Esport3",
-    "path_name": "58a7b83fbc85fc1d3eb617a153cce5ee",
-    "url": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "TVRI Sport HD",
     "path_name": "285e7eb931528c79ada2370d1cc8676c",
     "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
@@ -498,6 +480,15 @@
     "name": "Players TV",
     "path_name": "d34ec5d5a4a4b4670b2dd0b8663ab236",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "Pac 12 Insider",
+    "path_name": "ef09de2acec2ca4754e4758f875b872f",
+    "url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
