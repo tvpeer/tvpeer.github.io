@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Սինեմաքս",
-    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "name": "Armenia Premium",
+    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Armenia Հայ Կինո",
+    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
+    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -288,6 +297,15 @@
     }
   },
   {
+    "name": "Киносемья",
+    "path_name": "9217b90acf945da0f58d61b03ce8aeb3",
+    "url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Киномикс",
     "path_name": "73aa5c973e897d17615b1a0ec5e533b8",
     "url": "https://sc.id-tv.kz/Kinomix_hd.m3u8",
@@ -300,24 +318,6 @@
     "name": "Кинохит",
     "path_name": "fee11b1661b09bfe44475e7063584f7e",
     "url": "https://sc.id-tv.kz/Kinohit_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Киносвидание",
-    "path_name": "a346ea9f8059edeb0ab71e1305afa04f",
-    "url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "Amedia Hit",
-    "path_name": "8295ae2c9964eede50012d4d1de2fb42",
-    "url": "https://sc.id-tv.kz/amedia_hit_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -354,6 +354,15 @@
     "name": "Дом Кино Премиум",
     "path_name": "bf19707fc93faa1cb67007287c34a5a9",
     "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Cinema",
+    "path_name": "2b2f7611b0c84877cba300eb4e72b1bb",
+    "url": "https://sc.id-tv.kz/Cinema.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
