@@ -72,9 +72,18 @@
     }
   },
   {
-    "name": "Երկիր Մեդիա",
-    "path_name": "08208269959978d58f0551afa238588b",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Արմենիա TV",
+    "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -111,15 +120,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -273,6 +273,15 @@
     "name": "Bolivia TV 7.2",
     "path_name": "3cfe4928a1fa763c577aa512513f826d",
     "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Cultura PR Catve",
+    "path_name": "bfe5a46aeff10142c356489b7af9da33",
+    "url": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -444,6 +453,15 @@
     "name": "Белсат ТВ",
     "path_name": "a1716543d40122a8ae92ff06467e2b4b",
     "url": "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "ОНТ",
+    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
+    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -801,15 +819,6 @@
     }
   },
   {
-    "name": "TVR Moldova",
-    "path_name": "dde76eca4c83ac8503b5edece56dada8",
-    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -900,6 +909,24 @@
     }
   },
   {
+    "name": "MusawaChannel",
+    "path_name": "bc4117ab37fea656f2e4503eba13d501",
+    "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Qatar TV",
     "path_name": "69e5814ba16cd1c507a6ebfd68badc52",
     "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
@@ -936,15 +963,6 @@
     }
   },
   {
-    "name": "TVR 2",
-    "path_name": "b82f3e895a946b516940bd789b6bd8c5",
-    "url": "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Prima TV",
     "path_name": "f8e5bc3256e278275712a1d1ba5ce31a",
     "url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=",
@@ -957,24 +975,6 @@
     "name": "AgroTV",
     "path_name": "017a7efbaa11b4d9a2444e102b59b2a8",
     "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Craiova",
-    "path_name": "a201c2f5c89989e3c6f476f285ed1d50",
-    "url": "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVR Iași",
-    "path_name": "fe6b94fec34eaf5d9253fc7fc5aeb8c0",
-    "url": "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
