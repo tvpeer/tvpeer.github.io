@@ -1359,15 +1359,6 @@
     }
   },
   {
-    "name": "Vos Tv",
-    "path_name": "47412687ba865fc6f4c10586407c82d3",
-    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Telenica Canal 8 (tn8)",
     "path_name": "28a663ef039bdaa359abebfec661ab5d",
     "url": "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8",
@@ -1524,15 +1515,6 @@
     "name": "RTV Connect TV",
     "path_name": "b40de220a63657099f317faadbab70da",
     "url": "https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Kachorro (Super TV | Amazonas)",
-    "path_name": "06b409432bc064dbb41e8dee0d83fd6c",
-    "url": "https://tvdatta.com:3517/live/kachorrotvlive.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1812,6 +1794,15 @@
     "name": "Sumac TV (Lima)",
     "path_name": "d7b85ca0acd1e81516a72d0ecf007b74",
     "url": "https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Super Canal (Yurimaguas)",
+    "path_name": "e845ad43e8738ef46e209babf94a5dee",
+    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
