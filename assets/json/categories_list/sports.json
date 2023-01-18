@@ -279,15 +279,6 @@
     }
   },
   {
-    "name": "TDM Sports Macau",
-    "path_name": "27ddd5345fbcdf03453feaeb6d9bc876",
-    "url": "http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8",
-    "categories": {
-      "name": "Sports",
-      "slug": "sports"
-    }
-  },
-  {
     "name": "Canal Motor",
     "path_name": "8382fe418bc4618fbac3bd2755b19f6a",
     "url": "http://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
@@ -525,6 +516,15 @@
     "name": "SportsGrid",
     "path_name": "1708b983071f562ec17fc839c69e87f7",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
+    "categories": {
+      "name": "Sports",
+      "slug": "sports"
+    }
+  },
+  {
+    "name": "SportsGrid",
+    "path_name": "1708b983071f562ec17fc839c69e87f7",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "Sports",
       "slug": "sports"
