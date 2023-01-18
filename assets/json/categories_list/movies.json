@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "MBC Action",
-    "path_name": "9276e4b8d2b77e5cc2f02d2fea272d09",
-    "url": "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Armenia Premium",
     "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
     "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
@@ -30,6 +21,15 @@
     "name": "Armenia Հայ Կինո",
     "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
     "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -495,6 +495,15 @@
     }
   },
   {
+    "name": "TVS Drive In Movie",
+    "path_name": "8d64d964fd745cbf3641aae28f61d8b1",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Xumo Free Movies",
     "path_name": "01f6a641f18e10a2a2c1f81c4e60b904",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
@@ -606,6 +615,15 @@
     "name": "Samuel Goldwyn Channel",
     "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
     "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "TVS Film Noir Network",
+    "path_name": "1a9bbdf73f728a903a1a1164c327a041",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"

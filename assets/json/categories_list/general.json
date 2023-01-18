@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "ATV Թավա TV",
-    "path_name": "f0619257bd6513df0df6b140a55a4b82",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -111,6 +102,15 @@
     "name": "5-րդ ալիք",
     "path_name": "c200ff245361563b6b97cc36940ec4ef",
     "url": "http://ott-cdn.ucom.am/s6/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Առաջին ալիք",
+    "path_name": "d2b0538b39ba6da24f4fdf4ac564b74e",
+    "url": "https://amtv1.livestreamingcdn.com/am2abr/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1137,6 +1137,33 @@
     "name": "PBS America",
     "path_name": "df5b2980c9f9130ff2cafe2b1440326a",
     "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Sent TV Global Network",
+    "path_name": "fff73616ef604b8ec51fbb0f11f5f7ce",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Select Network",
+    "path_name": "9bd6a8d1b5ca544164c2ea69046a97d0",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVS Television Network",
+    "path_name": "104e65b16979ce9e724aca20314edaf5",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
