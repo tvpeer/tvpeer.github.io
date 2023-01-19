@@ -153,6 +153,15 @@
     }
   },
   {
+    "name": "Canal 25 Jundiaí",
+    "path_name": "63d12f4a270b9fe9a947a90f2347a451",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TVN Brasil",
     "path_name": "9791af523744668d5f9125bf345e1295",
     "url": "http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
@@ -237,15 +246,6 @@
     "name": "TV Sol Comunidade",
     "path_name": "15d51beac02d1ff1ebf4d579a607137c",
     "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Santa Cruz",
-    "path_name": "3d661a77bc5f0edbaa021eac3d102263",
-    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1332,6 +1332,15 @@
     }
   },
   {
+    "name": "Capital 21",
+    "path_name": "215e6497f27da10873ae6bb2135643df",
+    "url": "https://video.cdmx.gob.mx/livestream/stream.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "SET Televisión Canal 26.1",
     "path_name": "49649ed32f7d0c0ca9d56b4bab3c32c7",
     "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
@@ -1602,15 +1611,6 @@
     }
   },
   {
-    "name": "Oriental TV 21 (Pucallpa)",
-    "path_name": "9c4db63137480c1eb82e05dcf20073af",
-    "url": "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "QT Televisión (Cuzco)",
     "path_name": "b5816595f3baa79a58dcb58854f37021",
     "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
@@ -1674,15 +1674,6 @@
     }
   },
   {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Antares Televisión",
     "path_name": "bea4a2e440286ec1f8fe1558d117e1cc",
     "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
@@ -1722,6 +1713,15 @@
     "name": "Genios TV (Moyobamba)",
     "path_name": "eb4b5e191abd4dcfc96bcaa812863503",
     "url": "https://live.obslivestream.com/geniostvmux/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Ribereña TV (Bellavista)",
+    "path_name": "2c1e2dcb1f771aa6a3e3503cbf8c80b9",
+    "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1809,15 +1809,6 @@
     }
   },
   {
-    "name": "Super Canal (Yurimaguas)",
-    "path_name": "e845ad43e8738ef46e209babf94a5dee",
-    "url": "https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "SurTV (Ilo)",
     "path_name": "d8fde09dec98236e24c6ef1d29871185",
     "url": "https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8",
@@ -1848,6 +1839,15 @@
     "name": "RadioTV Oriente (Yurimaguas)",
     "path_name": "dfc31299044edc2b74806c71c30fc1cb",
     "url": "https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Andes Televisión (Sicusani)",
+    "path_name": "1c1dd28079febe6fb6f488ba7699296a",
+    "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
