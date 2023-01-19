@@ -207,15 +207,6 @@
     }
   },
   {
-    "name": "IIPC TV",
-    "path_name": "c2b8aada3445e81014b4ee8ec6376bca",
-    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "QVTV",
     "path_name": "4557201ad47a40c133bab8c8b786e5a7",
     "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
@@ -318,6 +309,15 @@
     "name": "CNA (Chaîne Nord Africaine)",
     "path_name": "72c895cae19a5af663cc723622b5d198",
     "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TBN Baltia",
+    "path_name": "fcfd729696486e590a7a53883470fee1",
+    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -567,15 +567,6 @@
     }
   },
   {
-    "name": "Icnet TV",
-    "path_name": "03ca68e7572ea2a70f2360641309a18c",
-    "url": "http://51.210.199.7/hls/stream.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "Kalemeh TV",
     "path_name": "2f4d70c9246b0dddefab5512b5d87dce",
     "url": "http://51.210.199.37/hls/stream.m3u8",
@@ -777,6 +768,15 @@
     "name": "CTNi (Christian Television Network International)",
     "path_name": "e78146a0922fda31a76682b29a0eb8d6",
     "url": "https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "Sobrenatural TV",
+    "path_name": "8f7a4a71cbe757a3b97e3a40108270da",
+    "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
