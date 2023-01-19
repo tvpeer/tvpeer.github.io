@@ -18,9 +18,9 @@
     }
   },
   {
-    "name": "Armenia Հայ Կինո",
-    "path_name": "66909b7ad0dd61ba9427b927ccfc5614",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "name": "ATV Ֆիլմզոն",
+    "path_name": "daa60ca759b05ec4bb74a650d4705527",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -306,15 +306,6 @@
     }
   },
   {
-    "name": "Киносвидание",
-    "path_name": "a346ea9f8059edeb0ab71e1305afa04f",
-    "url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
     "name": "Amedia Hit",
     "path_name": "8295ae2c9964eede50012d4d1de2fb42",
     "url": "https://sc.id-tv.kz/amedia_hit_hd.m3u8",
@@ -486,6 +477,15 @@
     }
   },
   {
+    "name": "TVS Drive In Movie",
+    "path_name": "8d64d964fd745cbf3641aae28f61d8b1",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
     "name": "Xumo Free Movies",
     "path_name": "01f6a641f18e10a2a2c1f81c4e60b904",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
@@ -597,6 +597,15 @@
     "name": "Samuel Goldwyn Channel",
     "path_name": "824aa818b42bdd5aaa6d1896b36e9a3a",
     "url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "TVS Film Noir Network",
+    "path_name": "1a9bbdf73f728a903a1a1164c327a041",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
