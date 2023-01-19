@@ -198,15 +198,6 @@
     }
   },
   {
-    "name": "TV Cidade de Petrópolis",
-    "path_name": "97f192a17020f1875979df3ec60fe210",
-    "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "TV Cidade Canal 9",
     "path_name": "635f211a99a5c1410c36ba58189bd6d0",
     "url": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
@@ -219,15 +210,6 @@
     "name": "Rede RC",
     "path_name": "35a07d3c322b19fc85e988e66dde301c",
     "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "TV Galega Blumenau",
-    "path_name": "188f8070bfdb2e0b7c6e02111917abd9",
-    "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1647,9 +1629,27 @@
     }
   },
   {
+    "name": "Tele2000 (Ayacucho)",
+    "path_name": "3e0dd6f4ddc7fa22a871baedaf95d748",
+    "url": "https://servilive.com:3126/live/tele2000live.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "MaticesTV (Cañete)",
+    "path_name": "4f92fc1064173135e23bf5674307f43e",
+    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1884,6 +1884,15 @@
     "name": "Univer TV",
     "path_name": "366856882fb400d8ab5329c49d06509f",
     "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Астрахань 24",
+    "path_name": "e705ff4b0119d43e684738aa2722d104",
+    "url": "http://83.234.104.142/astrakhan24hd/playlist.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
