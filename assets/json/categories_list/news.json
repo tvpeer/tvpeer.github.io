@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "BBC World News",
-    "path_name": "58a260181a41c3c7ed59b741b2d2bb07",
-    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "DW English",
     "path_name": "211d871ac3b856120f9d466edd57964e",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -309,15 +300,6 @@
     "name": "DW Arabic",
     "path_name": "27357d0c2d2e4ca0f5df7bfc89819c76",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Al Jazeera Arabic",
-    "path_name": "594bc5910c2e2c619ae6a022987a146d",
-    "url": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1296,15 +1278,6 @@
     }
   },
   {
-    "name": "Fresh News",
-    "path_name": "9f058e23e957f3276a58ebed05b541c4",
-    "url": "http://167.99.65.12:1935/live/myStream/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "Bayon TV",
     "path_name": "9d3437e9e63527fad6de1ccbe032805b",
     "url": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8",
@@ -1344,6 +1317,24 @@
     "name": "Caspian News",
     "path_name": "e75f41b421bf5b2ad6fc08872611774a",
     "url": "https://sc.id-tv.kz/CaspianNews.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Manar",
+    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
+    "url": "https://manar.live/iptv/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "Al Manar",
+    "path_name": "f56f5a6afceabeb0981f6f3f6a8f5a74",
+    "url": "https://manar.live/x.smil/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1593,15 +1584,6 @@
     }
   },
   {
-    "name": "Euronews по-русски",
-    "path_name": "e6bf8bbe1a5532c17c763da78a03547c",
-    "url": "http://ott-cdn.ucom.am/s89/index.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "N1 SLOVENSKA",
     "path_name": "d07e385ee766c93d1d69e97af07e5cf8",
     "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
@@ -1827,15 +1809,6 @@
     }
   },
   {
-    "name": "ABC 9 Kansas City MO (KMBC-TV)",
-    "path_name": "80f9f374ccabc690000c4d20b8154836",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
     "name": "OAN",
     "path_name": "e2d0c78ae4cab42b51a210d5a40a6ae6",
     "url": "http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8",
@@ -1875,15 +1848,6 @@
     "name": "Black News Channel",
     "path_name": "1621a5f52467cf50245e95a353d30aa6",
     "url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
-    "categories": {
-      "name": "News",
-      "slug": "news"
-    }
-  },
-  {
-    "name": "Black News Channel",
-    "path_name": "1621a5f52467cf50245e95a353d30aa6",
-    "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -1983,6 +1947,15 @@
     "name": "Newsy Top Stories",
     "path_name": "a753f139c32d159c5d362d329a0efcd0",
     "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "IGN",
+    "path_name": "79acce4b0c73e376fb1b81e6839266c2",
+    "url": "https://ign-plex.amagi.tv/playlist.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
@@ -2106,6 +2079,15 @@
     }
   },
   {
+    "name": "CNN USA",
+    "path_name": "29758505bed158a4d0e5fc6eea879fc7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
     "name": "NBC News Now",
     "path_name": "e3efbcc0dadc4a2098518106d6625de4",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
@@ -2127,6 +2109,15 @@
     "name": "NewsNet",
     "path_name": "7a253089b326b7b740e22d81ed8f596c",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
+    "categories": {
+      "name": "News",
+      "slug": "news"
+    }
+  },
+  {
+    "name": "HLN",
+    "path_name": "6f4a865ba3e1f90ad00ce34791a48db7",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
     "categories": {
       "name": "News",
       "slug": "news"
