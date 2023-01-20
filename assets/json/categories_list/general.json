@@ -81,6 +81,15 @@
     }
   },
   {
+    "name": "ATV Թավա TV",
+    "path_name": "f0619257bd6513df0df6b140a55a4b82",
+    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Արմենիա TV",
     "path_name": "aa2d09bcbc343673c5345bbf24e753cf",
     "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
@@ -120,15 +129,6 @@
     "name": "Հ2",
     "path_name": "af222a7ffa444e751ecba3858213655a",
     "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "ATV",
-    "path_name": "92e09bed19a92f7d3a11740c53594986",
-    "url": "http://ott-cdn.ucom.am/s8/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -459,15 +459,6 @@
     }
   },
   {
-    "name": "ОНТ",
-    "path_name": "b26367b985cd3b39e76bd0c2ce8c543c",
-    "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "СТВ",
     "path_name": "2caeacceb91c57af7eec4f2aac1e45fc",
     "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
@@ -684,15 +675,6 @@
     }
   },
   {
-    "name": "12 TV Parma",
-    "path_name": "a27b633029a3c15320b108b78fa27a43",
-    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "Al Mamlaka TV",
     "path_name": "bf1597c75db3d09466590adf67aa1208",
     "url": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8",
@@ -819,6 +801,15 @@
     }
   },
   {
+    "name": "TVR Moldova",
+    "path_name": "dde76eca4c83ac8503b5edece56dada8",
+    "url": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "Canal Macau",
     "path_name": "c57914246cdd95ba7871e5e0e45c1e57",
     "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
@@ -900,9 +891,27 @@
     }
   },
   {
+    "name": "Palestine Satellite Channel",
+    "path_name": "381621adaa18f975b07838f53e87e37d",
+    "url": "http://htvpalsat.mada.ps:8888/PBC/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "MusawaChannel",
     "path_name": "bc4117ab37fea656f2e4503eba13d501",
     "url": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "Palestine Mubasher",
+    "path_name": "12152e495327e6cee3959eb9d4697170",
+    "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -936,9 +945,27 @@
     }
   },
   {
+    "name": "TVR Cluj",
+    "path_name": "32880509a5851fbc22000e7fe19041f8",
+    "url": "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
     "name": "TVR International",
     "path_name": "1f2b1f1adec56be2ad259b3ddd7bdb11",
     "url": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8",
+    "categories": {
+      "name": "General",
+      "slug": "general"
+    }
+  },
+  {
+    "name": "TVR 3",
+    "path_name": "0dc9bf699e2ca98b2f78295b939b9ebf",
+    "url": "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
@@ -1080,15 +1107,6 @@
     }
   },
   {
-    "name": "Today All Day",
-    "path_name": "9c2c08849b508d1023c2774a2f9981d7",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
     "name": "AWE Encore",
     "path_name": "62764de955f005dead03f1ece29f1f1a",
     "url": "https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8",
@@ -1164,24 +1182,6 @@
     "name": "Sent TV Global Network",
     "path_name": "fff73616ef604b8ec51fbb0f11f5f7ce",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVS Select Network",
-    "path_name": "9bd6a8d1b5ca544164c2ea69046a97d0",
-    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
-    "categories": {
-      "name": "General",
-      "slug": "general"
-    }
-  },
-  {
-    "name": "TVS Television Network",
-    "path_name": "104e65b16979ce9e724aca20314edaf5",
-    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
     "categories": {
       "name": "General",
       "slug": "general"
