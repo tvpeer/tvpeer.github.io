@@ -9,15 +9,6 @@
     }
   },
   {
-    "name": "ATV Հայ TV",
-    "path_name": "0254297d00d98e0c0eac8b915bc6b6b8",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "categories": {
-      "name": "Music",
-      "slug": "music"
-    }
-  },
-  {
     "name": "MusicTop",
     "path_name": "7b4b794aebbdbec309be333eca3fcc22",
     "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
@@ -30,6 +21,15 @@
     "name": "Kronehit",
     "path_name": "d04a45d20f5c90839bcd921226b0a944",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Antenne Vorarlberg",
+    "path_name": "3bbe0385b5ef77fe20e6609b2db2d8a3",
+    "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
@@ -738,6 +738,15 @@
     }
   },
   {
+    "name": "Company TV",
+    "path_name": "2661ef89e8bbd346ed6beaae79944801",
+    "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
     "name": "Euro Indie Music Chart TV",
     "path_name": "4b81ead013194f349b6033c8e04c4582",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
@@ -1146,6 +1155,15 @@
     "name": "Vevo Pop",
     "path_name": "8a64fa9a7efb3af957418a41d06f6540",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "categories": {
+      "name": "Music",
+      "slug": "music"
+    }
+  },
+  {
+    "name": "Vevo Pop Europe",
+    "path_name": "b3d5c6cb9d3c7e6c0209479a16d923b1",
+    "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
     "categories": {
       "name": "Music",
       "slug": "music"
