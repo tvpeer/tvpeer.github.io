@@ -126,6 +126,15 @@
     }
   },
   {
+    "name": "Rede CNT (Curitiba)",
+    "path_name": "b4662f3ad289b560564ebaad0be82a2b",
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "Rede CNT (São Paulo)",
     "path_name": "98d8e66351ab55fdb893e09404b32a62",
     "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
@@ -435,15 +444,6 @@
     "name": "Visión Plus TV (Melipilla)",
     "path_name": "99578787b40e46b93204a7af20607d90",
     "url": "http://v2.tustreaming.cl/visionplustv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "Ziza TV (Chiguayante)",
-    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
-    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1971,15 +1971,6 @@
     }
   },
   {
-    "name": "Ветта 24 (Пермь)",
-    "path_name": "9220cc23abbe3009691a3fe253ebc5dc",
-    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "С1 (Сургут)",
     "path_name": "08be0f97930b257645b8c4618c0a6bd8",
     "url": "https://sitv.ru/hls/stv.m3u8",
@@ -2091,15 +2082,6 @@
     "name": "News 12 New York",
     "path_name": "d0dc5c2494787ff8661d41c0752319e8",
     "url": "https://lnc-news12.tubi.video/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "ABC 5 Cleveland OH (WEWS-TV)",
-    "path_name": "2983600de2fe081c50039189ad893e50",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -2223,15 +2205,6 @@
     }
   },
   {
-    "name": "ABC 7 Detroit MI (WXYZ-TV)",
-    "path_name": "227784b3d2b80cf763abd788bec550dd",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "ABC 4 Seattle WA (KOMO-TV)",
     "path_name": "0a8642e16dbd237b80c040f1757c5c04",
     "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
@@ -2307,15 +2280,6 @@
     "name": "CBS 19 Tyler TX (KYTX)",
     "path_name": "fe93425a67e2b72267b432edcd1202bc",
     "url": "https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "FOX 13 Memphis TN (WHBQ-TV)",
-    "path_name": "616c6f9213dded3a01da13c322fb1fb5",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
