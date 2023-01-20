@@ -450,6 +450,15 @@
     }
   },
   {
+    "name": "Ziza TV (Chiguayante)",
+    "path_name": "e8f46ac9cf25d06c1afc31943b9f1f60",
+    "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
     "name": "TV Senado",
     "path_name": "b4446a99cd2a4dc6df9f2267ff4f3373",
     "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
@@ -606,6 +615,24 @@
     "name": "Canal Málaga RTV",
     "path_name": "d5658cea510cdbf7eeeff8886906ecf5",
     "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Popular TV Melilla",
+    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
+    "url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8",
+    "categories": {
+      "name": "Local",
+      "slug": "local"
+    }
+  },
+  {
+    "name": "Popular TV Melilla",
+    "path_name": "bc7602f31b1a6420ba65142e0a8550e3",
+    "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
@@ -1503,15 +1530,6 @@
     }
   },
   {
-    "name": "DMJ (Cuzco)",
-    "path_name": "8dac651380b06c3e429ebe055ca13085",
-    "url": "https://v4.tustreaming.cl/s1tv/playlist.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
     "name": "Master TV (Tarapoto)",
     "path_name": "41abd8eec437f54d02a4a251b6a6e99a",
     "url": "https://tv.oyotunstream.com:1936/master/master/playlist.m3u8",
@@ -1614,15 +1632,6 @@
     "name": "Impacto Televisión (Cajamarca)",
     "path_name": "53358bc41ed5708de5414514158936df",
     "url": "https://eu1.servers10.com:8081/impactotv/index.m3u8",
-    "categories": {
-      "name": "Local",
-      "slug": "local"
-    }
-  },
-  {
-    "name": "MaticesTV (Cañete)",
-    "path_name": "4f92fc1064173135e23bf5674307f43e",
-    "url": "http://v4.tustreaming.cl/matices/index.m3u8",
     "categories": {
       "name": "Local",
       "slug": "local"
