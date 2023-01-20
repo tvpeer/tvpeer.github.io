@@ -9,9 +9,18 @@
     }
   },
   {
-    "name": "Armenia Premium",
-    "path_name": "9e92bebd5f2885292b3912fcbaf4ddd6",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "name": "Armenia Սինեմաքս",
+    "path_name": "35e9335a7b6144ac7007ce264c1b8ad7",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "ATV Ֆիլմզոն",
+    "path_name": "daa60ca759b05ec4bb74a650d4705527",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -252,18 +261,27 @@
     }
   },
   {
-    "name": "Киносвидание",
-    "path_name": "a346ea9f8059edeb0ab71e1305afa04f",
-    "url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
+    "name": "Киномикс",
+    "path_name": "73aa5c973e897d17615b1a0ec5e533b8",
+    "url": "https://sc.id-tv.kz/Kinomix_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
     }
   },
   {
-    "name": "Amedia Hit",
-    "path_name": "8295ae2c9964eede50012d4d1de2fb42",
-    "url": "https://sc.id-tv.kz/amedia_hit_hd.m3u8",
+    "name": "Кинохит",
+    "path_name": "fee11b1661b09bfe44475e7063584f7e",
+    "url": "https://sc.id-tv.kz/Kinohit_hd.m3u8",
+    "categories": {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  },
+  {
+    "name": "Киносвидание",
+    "path_name": "a346ea9f8059edeb0ab71e1305afa04f",
+    "url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
@@ -561,15 +579,6 @@
     "name": "TVS Film Noir Network",
     "path_name": "1a9bbdf73f728a903a1a1164c327a041",
     "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
-    "categories": {
-      "name": "Movies",
-      "slug": "movies"
-    }
-  },
-  {
-    "name": "FrightFlix",
-    "path_name": "0031f2690b5784eb10ef80ed96630c83",
-    "url": "https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8",
     "categories": {
       "name": "Movies",
       "slug": "movies"
