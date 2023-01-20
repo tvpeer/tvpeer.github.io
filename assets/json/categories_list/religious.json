@@ -162,15 +162,6 @@
     }
   },
   {
-    "name": "Rede Vida",
-    "path_name": "68f5764d7e85f96c1d7fdc3e26c50bb0",
-    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "TV Aparecida",
     "path_name": "9047eab27b4d5ece1d6b2cb3205ee79f",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
@@ -318,6 +309,15 @@
     "name": "CNA (Chaîne Nord Africaine)",
     "path_name": "72c895cae19a5af663cc723622b5d198",
     "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+    "categories": {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  },
+  {
+    "name": "TBN Baltia",
+    "path_name": "fcfd729696486e590a7a53883470fee1",
+    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -750,15 +750,6 @@
     "name": "JN19",
     "path_name": "d07b98672885662fca7f87527b81953c",
     "url": "https://servilive.com:3149/live/jn19tvlive.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Nazarenas TV",
-    "path_name": "1d4509993bcf493f8541094425387827",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1368,36 +1359,9 @@
     }
   },
   {
-    "name": "Alkerazatv",
-    "path_name": "90495f55b9397abdf13a03d19d81ab26",
-    "url": "https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
     "name": "El Maqar",
     "path_name": "cbde484025c8e228be54c6af2f6ed7eb",
     "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Al Horreya TV",
-    "path_name": "ea78dbe690084ade9d6258623e8803a9",
-    "url": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Al Horreya TV",
-    "path_name": "ea78dbe690084ade9d6258623e8803a9",
-    "url": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
@@ -1488,15 +1452,6 @@
     "name": "Logos TV Mubasher",
     "path_name": "4b7de805413d46701a9224055f38f50f",
     "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
-    "categories": {
-      "name": "Religious",
-      "slug": "religious"
-    }
-  },
-  {
-    "name": "Almagd TV Middle East",
-    "path_name": "a0193e7a1dac22db4284bcfc470ece13",
-    "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
     "categories": {
       "name": "Religious",
       "slug": "religious"
